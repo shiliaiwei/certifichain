@@ -1,0 +1,297 @@
+{
+  "name": "294_Worskhop_simple_grey_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/09-04-2024-12:02:31_294_Worskhop_simple_grey_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.886395759717317%",
+        "left": "29.403374999999997%",
+        "color": "#3c2a1c",
+        "width": "39.65625%",
+        "height": "9.80565371024735%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.16378091872791%",
+        "left": "27.167%",
+        "color": "#3c2a1c",
+        "width": "22.002%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.809187279151942%",
+        "left": "12.8105%",
+        "color": "#3c2a1c",
+        "width": "73.42775%",
+        "height": "10.070671378091872%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF PARTICIPATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.82685512367491%",
+        "left": "36.247125%",
+        "color": "#3c2a1c",
+        "width": "26.552749999999996%",
+        "height": "7.950530035335689%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The certificate presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.69611307420495%",
+        "left": "21.685%",
+        "color": "#3c2a1c",
+        "width": "56.427749999999996%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successful completion of 12 hours of business training on\u2028'Scaling Business with Marketplaces'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.04452296819788%",
+        "left": "68.912125%",
+        "color": "#3c2a1c",
+        "width": "11.43945%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Harry Brown",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.76143109540636%",
+        "left": "43.53325%",
+        "color": "#3c2a1c",
+        "width": "16.42775%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.766254416961125%",
+        "left": "52.42487500000001%",
+        "color": "#3c2a1c",
+        "width": "20.875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.04452296819788%",
+        "left": "17.839875%",
+        "color": "#3c2a1c",
+        "width": "11.43945%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Cory Butler",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.10600706713781%",
+        "left": "14.402875000000002%",
+        "color": "#3c2a1c",
+        "width": "18.3125%",
+        "height": "10.424028268551238%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Marketing Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.37102473498233%",
+        "left": "63.72512499999999%",
+        "color": "#3c2a1c",
+        "width": "21.8125%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Business training organizer",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.540583038869257%",
+        "left": "40.25%",
+        "width": "2.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-04-2024-11:55:40_tPYyoNPL9TbQGOTkBen-V-Group 18934.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.1321554770318%",
+        "left": "42.285625%",
+        "width": "15.053750000000003%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-04-2024-11:58:04_eMeqW4K9fHvEJrbWCUr8U-Group 18935.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.72579505300354%",
+        "left": "46.53125%",
+        "color": "#3c2a1c",
+        "width": "6.5625%",
+        "height": "5.565371024734982%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "12h",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.14840989399293%",
+        "left": "45.96875%",
+        "color": "#3c2a1c",
+        "width": "7.6875%",
+        "height": "4.770318021201414%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "completed \nprogram",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.03533568904594%",
+        "left": "68.36375%",
+        "width": "12.535124999999999%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-04-2024-11:59:09_zp8hpZzSDrwAa7SeikeJu-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.56537102473497%",
+        "left": "17.005375%",
+        "width": "13.107375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-04-2024-11:59:27_jdk2K4Qwhr5ojQa78Sz0R-Vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hv1558zt5bdq7fsz2xbaer86-1712657179652.png",
+  "isDefault": true,
+  "createdAt": "2024-04-09T10:06:19.644Z",
+  "updatedAt": "2025-09-10T14:56:30.380Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "webinar"
+  },
+  "id": "01hv1558zt5bdq7fsz2xbaer86",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2380,
+  "categoryOrder": 10
+}

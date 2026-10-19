@@ -1,0 +1,264 @@
+{
+  "name": "68_CPD_professional_beige_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/13-10-2023-01:15:40_68_CPD_professional_beige_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "32.15547703180212%",
+        "left": "20.544%",
+        "color": "#27241f",
+        "width": "60.40825000000001%",
+        "height": "17.491166077738516%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.4446996466431%",
+        "left": "17.932625%",
+        "color": "#27241f",
+        "width": "19.631875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.34929328621908%",
+        "left": "17.285125%",
+        "color": "#27241f",
+        "width": "20.92875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.590106007067135%",
+        "left": "21.4765%",
+        "color": "#95928f",
+        "width": "56.28325000000001%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Above named has participated in the 4 hours CPD Seminar",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.03303886925795%",
+        "left": "31.031749999999995%",
+        "color": "#27241f",
+        "width": "37.432625%",
+        "height": "10.954063604240282%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CPD Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "79.94840989399293%",
+        "left": "21.0625%",
+        "width": "13.625000000000002%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#aeaca9"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.8904593639576%",
+        "left": "20.162125%",
+        "color": "#27241f",
+        "width": "60.557625%",
+        "height": "4.770318021201414%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "\u201cHR Analytics and Data-Driven Decision Making\u201d",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "45.583038869257955%",
+        "left": "27.431421446384043%",
+        "width": "44.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#aeaca9"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.495865724381625%",
+        "left": "46.096625%",
+        "color": "#27241f",
+        "width": "14.057624999999998%",
+        "height": "3.180212014134275%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "HRZone Institute",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "79.94840989399293%",
+        "left": "65.6875%",
+        "width": "13.625000000000002%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#aeaca9"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.34929328621908%",
+        "left": "64.653375%",
+        "color": "#27241f",
+        "width": "15.443375000000001%",
+        "height": "10.60070671378092%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Emily Delores",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.4446996466431%",
+        "left": "67.903375%",
+        "color": "#95928f",
+        "width": "8.9433625%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Provider",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.57667844522967%",
+        "left": "66.369625%",
+        "width": "10.997075%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-10-2023-01:12:57_UmqeQh-iX3F9ePzQNXHNT-Vector 649.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "12.188745583038868%",
+        "left": "42.28325%",
+        "width": "3.33105%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-10-2023-01:13:28_9JpTdXvXdPV6wWGwIOXBm-Group 18792.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.07014134275619%",
+        "left": "42.140125%",
+        "width": "15.213874999999998%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-08:04:42_mCv9yjtTFjZSEE8csNWsV-Group 18791.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.12137809187278%",
+        "left": "46.03175%",
+        "color": "#27241f",
+        "width": "7.4296875%",
+        "height": "5.6537102473498235%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "3",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hcmc3ctsymn99wdtgrqb5hs0-1697479515846.png",
+  "isDefault": true,
+  "createdAt": "2023-10-13T11:17:44.923Z",
+  "updatedAt": "2025-03-19T10:59:51.198Z",
+  "metadata": {
+    "lang": "en",
+    "color": "yellow",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hcmc3ctsymn99wdtgrqb5hs0",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2803,
+  "categoryOrder": 59
+}

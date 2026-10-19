@@ -1,0 +1,234 @@
+{
+  "name": "452_Medical_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/03-11-2024-09:53:00_Background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "41.19579646017699%",
+        "left": "23.5%",
+        "color": "#0a1722",
+        "width": "67%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.20353982300885%",
+        "left": "7.234375%",
+        "color": "#0a1722",
+        "width": "83.25%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that                                \n(Patient\u2019s ID Number: 987654321) has been under Sunnydale Medical Clinic care for the following medical condition: Acute Viral Infection. Diagnosis Date: August 10, 2024. \nTreatment Period: August 10, 2024 to August 24, 2024.\n\nThe patient is fit to return to work as of August 25, 2024. Medical Recommendations: The patient should continue to monitor their health and follow up with their primary care physician if symptoms persist.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.486725663716815%",
+        "left": "7.249999999999999%",
+        "color": "#0e4980",
+        "width": "86.5%",
+        "height": "auto",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MEDICAL CERTIFICATE FOR SICK LEAVE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.557522123893806%",
+        "left": "13.625000000000002%",
+        "color": "#737678",
+        "width": "18.375%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "SUNNYDALE \nMEDICAL CLINIC",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.91150442477876%",
+        "left": "60.375%",
+        "color": "#737678",
+        "width": "37%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Phone: (555) 123-4567  \nEmail: contact@sunnydalemedical.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.37278761061947%",
+        "left": "7.249999999999999%",
+        "color": "#0a1722",
+        "width": "14.875%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Dr. James Parker",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.8141592920354%",
+        "left": "7.262499999999999%",
+        "color": "#0a1722",
+        "width": "20.375%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sunnydale Medical Clinic",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.27544247787611%",
+        "left": "7.249999999999999%",
+        "color": "#0a1722",
+        "width": "30.875000000000004%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "123 Health Street, Sunnydale, CA 90210",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.82964601769912%",
+        "left": "48.375%",
+        "color": "#0a1722",
+        "width": "18.625%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.28318584070797%",
+        "left": "48.375%",
+        "color": "#0a1722",
+        "width": "13.625000000000002%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.550884955752212%",
+        "left": "7.249999999999999%",
+        "width": "5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-11-2024-09:48:35_Group 19634.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.94690265486726%",
+        "left": "85.25%",
+        "width": "7.124999999999999%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-11-2024-09:50:54_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.27433628318583%",
+        "left": "7.237500000000001%",
+        "width": "16.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-11-2024-09:52:05_Vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jbqe3e7w180710fw79ce1s6d-1730667201933.png",
+  "isDefault": true,
+  "createdAt": "2024-11-02T21:57:03.358Z",
+  "updatedAt": "2025-03-19T11:00:30.055Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jbqe3e7w180710fw79ce1s6d",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2051,
+  "categoryOrder": 650
+}

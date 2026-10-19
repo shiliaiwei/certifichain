@@ -1,0 +1,270 @@
+{
+  "name": "515_Christmas_simple_red_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/28-11-2024-03:44:43_515_christmas_simple_red_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "41.301627033792236%",
+        "left": "9.112831858407082%",
+        "color": "#312a2a",
+        "width": "81.76991150442477%",
+        "height": "auto",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.36545682102629%",
+        "left": "67.43362831858407%",
+        "color": "#312a2a",
+        "width": "20.884955752212388%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.49061326658324%",
+        "left": "7.079646017699115%",
+        "color": "#312a2a",
+        "width": "29.02654867256637%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.81476846057572%",
+        "left": "18.225663716814157%",
+        "color": "#312a2a",
+        "width": "63.53982300884956%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "As a token of our appreciation, this certificate entitles you to a premium holiday experience. Thank you for your valued contributions and partnership. Wishing you joy, warmth, and success this holiday season!",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.89862327909887%",
+        "left": "7.035398230088495%",
+        "color": "#312a2a",
+        "width": "85.85732165206508%",
+        "height": "auto",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CHRISTMAS GIFT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.69461827284104%",
+        "left": "75.17256637168141%",
+        "color": "#ffffff",
+        "width": "15.929203539823009%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Nathan Brown",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.04630788485607%",
+        "left": "27.902654867256636%",
+        "color": "#333333",
+        "width": "44.24778761061947%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.71964956195244%",
+        "left": "11.849557522123897%",
+        "color": "#ffffff",
+        "width": "13.628318584070797%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Derek Baker",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.08510638297872%",
+        "left": "11.858407079646017%",
+        "color": "#ffffff",
+        "width": "13.428125%",
+        "height": "6.890459363957597%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Vice President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.04755944931165%",
+        "left": "76.44026548672566%",
+        "color": "#ffffff",
+        "width": "13.428125%",
+        "height": "6.890459363957597%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HR Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.71464330413016%",
+        "left": "7.261061946902654%",
+        "width": "21.946902654867255%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-01-2024-08:05:53_cw08pzpfvlZ1mEPoBal0P-Group 502.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.58948685857321%",
+        "left": "73.98230088495575%",
+        "width": "18.230088495575224%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-01-2024-08:05:57_xSMCeKWvtzmWeAVL9mxDc-napis maly.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.265331664580724%",
+        "left": "33.1216814159292%",
+        "color": "#333333",
+        "width": "33.62831858407079%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HORIZONBRIDGE PARTNERS",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.758448060075094%",
+        "left": "47.18805309734513%",
+        "width": "5.486725663716814%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/28-11-2024-03:29:46_group_20015.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.848560700876096%",
+        "left": "7.08849557522124%",
+        "color": "#312a2a",
+        "width": "85.85732165206508%",
+        "height": "auto",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jdr9stpkggm0y0xwwzxa0hey-1732761893237.png",
+  "isDefault": true,
+  "createdAt": "2024-11-28T02:32:32.213Z",
+  "updatedAt": "2025-03-19T11:00:32.942Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01jdr9stpkggm0y0xwwzxa0hey",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1994,
+  "categoryOrder": 561
+}

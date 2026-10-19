@@ -1,0 +1,324 @@
+{
+  "name": "510_Christmas_simple_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-11-2024-11:04:26_510_christmas_simple_green_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.83291614518148%",
+        "left": "5.84070796460177%",
+        "color": "#3f3a36",
+        "width": "88.14159292035399%",
+        "height": "auto",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.827284105131413%",
+        "left": "75.23893805309734%",
+        "color": "#3f3a36",
+        "width": "16.991150442477874%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.827284105131413%",
+        "left": "9.20353982300885%",
+        "color": "#3f3a36",
+        "width": "22.123893805309734%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.54818523153942%",
+        "left": "39.11504424778761%",
+        "color": "#94755b",
+        "width": "21.753125%",
+        "height": "3.180212014134275%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.148936170212767%",
+        "left": "13.765486725663717%",
+        "color": "#3f3a36",
+        "width": "72.56637168141593%",
+        "height": "auto",
+        "fontSize": "78em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CHRISTMAS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.6066958698373%",
+        "left": "9.026548672566372%",
+        "color": "#3f3a36",
+        "width": "14.15929203539823%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lily Johnston",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.81727158948686%",
+        "left": "17.269911504424776%",
+        "color": "#94755b",
+        "width": "65.66371681415929%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Congratulations on your exceptional creativity and for winning the Holiday Sweater Contest. Your festive spirit has brought joy to \nour community, and we are thrilled to award you $50 gift card.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.386733416770964%",
+        "left": "9.20353982300885%",
+        "color": "#3f3a36",
+        "width": "16.10619469026549%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issuing Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.785982478097623%",
+        "left": "22.13495575221239%",
+        "color": "#3f3a36",
+        "width": "55.75221238938053%",
+        "height": "auto",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CHEER AWARD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.10575719649562%",
+        "left": "71.84513274336284%",
+        "color": "#3f3a36",
+        "width": "15.752212389380531%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Madlyn Horton",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.48060075093868%",
+        "left": "77.69911504424779%",
+        "color": "#94755b",
+        "width": "4.070796460176991%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.97997496871089%",
+        "left": "9.825221238938052%",
+        "color": "#94755b",
+        "width": "11.68141592920354%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HR Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.386733416770964%",
+        "left": "75.22123893805309%",
+        "color": "#3f3a36",
+        "width": "15.929203539823009%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate NO:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.97246558197747%",
+        "left": "76.63716814159291%",
+        "width": "14.513274336283185%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-07:39:07_XOOxzIImymll3h5ytiecD-Vector 652.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.97246558197747%",
+        "left": "9.026548672566372%",
+        "width": "13.274336283185843%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-07:39:09_k0hWOtVqskk7NKOIXRL5J-Vector 497.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.702127659574465%",
+        "left": "15.004424778761063%",
+        "color": "#94755b",
+        "width": "70.33792240300374%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Merry Christmas and Happy New Year!",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.513141426783479%",
+        "left": "37.35176991150443%",
+        "color": "#306f09",
+        "width": "25.13274336283186%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "LUMAWAVE STUDIOS",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.34167709637046%",
+        "left": "37.969026548672566%",
+        "width": "24.424778761061948%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2024-03:44:37_group_19967.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jdq1dh92t7fpn6mpaqjqx8p7-1732745076355.png",
+  "isDefault": true,
+  "createdAt": "2024-11-27T14:46:46.308Z",
+  "updatedAt": "2025-03-19T11:00:32.447Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01jdq1dh92t7fpn6mpaqjqx8p7",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2004,
+  "categoryOrder": 571
+}

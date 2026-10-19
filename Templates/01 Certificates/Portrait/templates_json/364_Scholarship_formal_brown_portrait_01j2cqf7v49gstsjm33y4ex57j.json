@@ -1,0 +1,327 @@
+{
+  "name": "364_Scholarship_formal_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/09-07-2024-11:47:12_364_Scholarship_formal_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "29.78325%",
+        "left": "24.03798586572438%",
+        "color": "#3d3d3d",
+        "width": "69.54787985865724%",
+        "height": "5.7080125%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.528375%",
+        "left": "26.334805653710248%",
+        "color": "#fffbfb",
+        "width": "52.430742049469956%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.6435%",
+        "left": "26.334805653710248%",
+        "color": "#ffffff",
+        "width": "34.69929328621908%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.017625%",
+        "left": "24.391342756183747%",
+        "color": "#3d3d3d",
+        "width": "69.48710247349824%",
+        "height": "7.166012500000001%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of their exceptional contributions to research \nand innovation in Law field of study. This scholarship \nincludes tuition coverage and research funding",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.664%",
+        "left": "24.391342756183747%",
+        "color": "#3d3d3d",
+        "width": "44.841872791519435%",
+        "height": "2.2568375%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.835%",
+        "left": "24.391342756183747%",
+        "color": "#3d3d3d",
+        "width": "18.759717314487634%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Joshua Anderson",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "37.34175%",
+        "left": "24.295774647887324%",
+        "width": "68.11236749116608%",
+        "height": "0.5300353356890459%",
+        "backgroundColor": "#e2c190"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.232375%",
+        "left": "24.391342756183747%",
+        "color": "#3d3d3d",
+        "width": "38.3055%",
+        "height": "3.7102473498233217%",
+        "fontSize": "51em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.88965%",
+        "left": "24.391342756183747%",
+        "color": "#434343",
+        "width": "71.32844522968198%",
+        "height": "6.770512499999999%",
+        "fontSize": "51em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "STUDENT SCHOLARSHIP",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.215875%",
+        "left": "24.391342756183747%",
+        "color": "#3d3d3d",
+        "width": "58.12720848056537%",
+        "height": "3.9824249999999997%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Research Innovation Scholarship",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "71.61425%",
+        "left": "24.295774647887324%",
+        "width": "22.44911660777385%",
+        "height": "0.5300353356890459%",
+        "backgroundColor": "#e2c190"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.599625%",
+        "left": "70.98339222614841%",
+        "color": "#3d3d3d",
+        "width": "16.817375%",
+        "height": "6.890459363957597%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jessica Brown",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.807625%",
+        "left": "24.391342756183747%",
+        "color": "#3d3d3d",
+        "width": "29.6791519434629%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Principal of Alabama University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.517625%",
+        "left": "70.98339222614841%",
+        "color": "#3d3d3d",
+        "width": "16.40763250883392%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Vice Chancellor",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "71.61425%",
+        "left": "70.77464788732394%",
+        "width": "22.9791519434629%",
+        "height": "0.5300353356890459%",
+        "backgroundColor": "#e2c190"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.370125%",
+        "left": "2.2429858657243815%",
+        "width": "21.04964664310954%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-11:32:00_ndDiCTy8jX0UzMtSCXmDs-OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.162125%",
+        "left": "5.003586572438162%",
+        "color": "#313d4f",
+        "width": "15.180547703180212%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024\nAWARDED",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "2.51465%",
+        "left": "7.311448763250884%",
+        "width": "10.567579505300353%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-11:33:57_mhWiDcaSuPRuUzkf9wZO3-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.71%",
+        "left": "70.8053003533569%",
+        "width": "15.103250883392224%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-11:34:16_3AoXpGKkSCsV1wwcZUKHo-Group 18973.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.4185%",
+        "left": "24.391342756183747%",
+        "width": "21.18480565371025%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-11:34:40_rhKMbp5Vy-45hahA2DJv1-Vector 68.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2cqf7v49gstsjm33y4ex57j-1720561672053.png",
+  "isDefault": true,
+  "createdAt": "2024-07-09T21:47:52.038Z",
+  "updatedAt": "2025-03-19T11:00:20.682Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2cqf7v49gstsjm33y4ex57j",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2238,
+  "categoryOrder": 165
+}

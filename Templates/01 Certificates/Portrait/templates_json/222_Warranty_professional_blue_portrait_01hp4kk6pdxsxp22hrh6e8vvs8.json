@@ -1,0 +1,369 @@
+{
+  "name": "222_Warranty_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-02-2024-03:57:34_222_Warranty_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "15.481448763250881%",
+        "left": "96.997125%",
+        "color": "#fff9f7",
+        "width": "1.25%",
+        "height": "14.840989399293287%",
+        "fontSize": "8em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.809625%",
+        "left": "4.216819787985866%",
+        "color": "#f6f6f6",
+        "width": "20.646466431095405%",
+        "height": "1.5918%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.794%",
+        "left": "36.42897526501766%",
+        "color": "#424554",
+        "width": "46.868021201413434%",
+        "height": "8.2285125%",
+        "fontSize": "31em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "On construction plastic, sheet polypropylene",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.017575%",
+        "left": "9.471625441696114%",
+        "color": "#f6f6f6",
+        "width": "17.7452296819788%",
+        "height": "1.9902375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your supplier logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.419925%",
+        "left": "36.43021201413427%",
+        "color": "#424554",
+        "width": "49.0625%",
+        "height": "25.4416961130742%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.8145%",
+        "left": "36.42897526501766%",
+        "color": "#424554",
+        "width": "55.79169611307421%",
+        "height": "11.6836%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The Supplier warrants that the Goods comply with applicable safety requirements. The warranty covers all defects caused\u2028              by the manufacturer of the Goods.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.65525%",
+        "left": "72.75017667844523%",
+        "color": "#424554",
+        "width": "11.972720848056538%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Cheryl Gill",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.168%",
+        "left": "72.75017667844523%",
+        "color": "#424554",
+        "width": "11.972720848056538%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Customer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.44525%",
+        "left": "4.216819787985866%",
+        "color": "#f6f6f6",
+        "width": "16.475265017667844%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Warranty Period:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.559625%",
+        "left": "4.216819787985866%",
+        "color": "#f6f6f6",
+        "width": "21.54929328621908%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "52.72749999999999%",
+        "left": "36.53586572438163%",
+        "width": "16.84932862190813%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-02:59:49_sMX_IbvKTYP4kMmp25cxa-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.140625%",
+        "left": "38.1886925795053%",
+        "color": "#00274c",
+        "width": "13.546875%",
+        "height": "14.310954063604239%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "QUALITY ASSURANCE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.269525%",
+        "left": "36.42897526501766%",
+        "color": "#424554",
+        "width": "54.1851590106007%",
+        "height": "7.300775%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF WARRANTY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.9355375%",
+        "left": "9.471625441696114%",
+        "color": "#f6f6f6",
+        "width": "13.504858657243815%",
+        "height": "1.5918%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.65625%",
+        "left": "36.5351590106007%",
+        "color": "#424554",
+        "width": "17.009434628975264%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Justine Barnes",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.169875%",
+        "left": "36.517314487632504%",
+        "color": "#424554",
+        "width": "15.096342756183745%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sales Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.6065%",
+        "left": "36.51855123674911%",
+        "color": "#424554",
+        "width": "63.12809187279152%",
+        "height": "7.166012500000001%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "* For more information on warranty claims, please visit www.yourcompany.com\nOr call the phone number +1 (564) 574 - 4759",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.59575%",
+        "left": "4.216819787985866%",
+        "color": "#f6f6f6",
+        "width": "14.002%",
+        "height": "3.7102473498233217%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ID number:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.026375%",
+        "left": "36.517314487632504%",
+        "width": "14.159116607773854%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-03:46:58_QS2wP8W3nhh1cGuHCtP88-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.026375%",
+        "left": "72.92685512367491%",
+        "width": "14.926572438162545%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-03:47:42_BMAo5mCZNQVzwMJ-fFnt8-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.35645%",
+        "left": "3.6646996466431094%",
+        "width": "4.285830388692579%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-03:49:26_aXV4_yOQtnNbDeuFgVd_3-Group 484.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hp4kk6pdxsxp22hrh6e8vvs8-1707404270337.png",
+  "isDefault": true,
+  "createdAt": "2024-02-08T14:57:50.287Z",
+  "updatedAt": "2025-03-19T11:00:06.062Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hp4kk6pdxsxp22hrh6e8vvs8",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2525,
+  "categoryOrder": 809
+}

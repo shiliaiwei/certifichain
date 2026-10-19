@@ -1,0 +1,452 @@
+{
+  "name": "491_Employment_formal_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-12-2024-03:27:11_491_employment_formal_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.94524405506884%",
+        "left": "38.05309734513274%",
+        "color": "#434343",
+        "width": "46.902654867256636%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "82.75344180225282%",
+        "left": "8.849557522123893%",
+        "width": "21.238938053097346%",
+        "height": "0.1251564455569462%",
+        "backgroundColor": "#434343"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "82.8520025031289%",
+        "left": "46.017699115044245%",
+        "width": "22.300884955752213%",
+        "height": "0.1251564455569462%",
+        "backgroundColor": "#434343"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.790675844806008%",
+        "left": "57.16814159292035%",
+        "color": "#3e3e3e",
+        "width": "17.699115044247787%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.1476846057572%",
+        "left": "9.199115044247787%",
+        "color": "#1c72cd",
+        "width": "85.13274336283186%",
+        "height": "auto",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Employment",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.51063829787234%",
+        "left": "9.20353982300885%",
+        "width": "4.778761061946903%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-12-2024-02:56:37_vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.925219023779725%",
+        "left": "16.991150442477874%",
+        "color": "#434343",
+        "width": "31.68141592920354%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOUR COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.47183979974969%",
+        "left": "9.20353982300885%",
+        "width": "16.460176991150444%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-12-2024-02:59:37_group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.84480600750939%",
+        "left": "46.1858407079646%",
+        "width": "15.575221238938052%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-12-2024-02:59:52_group_19822.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.99436795994994%",
+        "left": "9.199115044247787%",
+        "color": "#434343",
+        "width": "33.27433628318584%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[City], [Year, Month, Day]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.9386733416771%",
+        "left": "9.20353982300885%",
+        "color": "#434343",
+        "width": "33.27433628318584%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[Address]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.186795994993744%",
+        "left": "9.20353982300885%",
+        "color": "#434343",
+        "width": "33.27433628318584%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[Postal Code]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.43961201501878%",
+        "left": "9.20353982300885%",
+        "color": "#434343",
+        "width": "33.27433628318584%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[Certificate ID]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.92490613266583%",
+        "left": "9.20353982300885%",
+        "color": "#434343",
+        "width": "75.71964956195244%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This letter certifies that \nis working for [Company Name]. [Employee Name] has been employed by this organization since [Start Date] as [Job Title].",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50%",
+        "left": "9.20353982300885%",
+        "color": "#434343",
+        "width": "20.17699115044248%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Position:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.21057571964957%",
+        "left": "9.20353982300885%",
+        "color": "#434343",
+        "width": "20.17699115044248%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Department:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.33823529411765%",
+        "left": "9.20353982300885%",
+        "color": "#434343",
+        "width": "20.17699115044248%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Hiring Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.57071339173968%",
+        "left": "9.212389380530974%",
+        "color": "#434343",
+        "width": "20.17699115044248%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Position Type:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.82352941176471%",
+        "left": "9.221238938053098%",
+        "color": "#434343",
+        "width": "20.17699115044248%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Annual Salary:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.07634543178973%",
+        "left": "9.221238938053096%",
+        "color": "#434343",
+        "width": "42.30088495575221%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Average Number of Work Hours:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.45682102628285%",
+        "left": "9.20353982300885%",
+        "color": "#434343",
+        "width": "22.528160200250312%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certified by:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.781289111389237%",
+        "left": "73.98230088495575%",
+        "color": "#000",
+        "width": "20.353982300884958%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.23028785982478%",
+        "left": "8.849557522123893%",
+        "color": "#434343",
+        "width": "19.115044247787612%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Samira Hadid",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.23028785982478%",
+        "left": "46.06194690265487%",
+        "color": "#434343",
+        "width": "19.646017699115045%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Laura Montego",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.15894868585733%",
+        "left": "8.814159292035399%",
+        "color": "#434343",
+        "width": "14.893617021276595%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HR Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.17146433041302%",
+        "left": "46.07079646017699%",
+        "color": "#434343",
+        "width": "13.628318584070797%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jeq5n5nr4j9b0yaa94ezb0k9-1733797639205.png",
+  "isDefault": true,
+  "createdAt": "2024-12-10T02:16:32.699Z",
+  "updatedAt": "2025-03-19T11:00:34.935Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "participation"
+  },
+  "id": "01jeq5n5nr4j9b0yaa94ezb0k9",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1952,
+  "categoryOrder": 156
+}

@@ -1,0 +1,307 @@
+{
+  "name": "247_Anger management_formal_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-03-2024-10:56:27_247_Anger management_formal_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.745583038869256%",
+        "left": "7.032225%",
+        "color": "#121e35",
+        "width": "50.28225%",
+        "height": "15.901060070671377%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.91060070671378%",
+        "left": "37.596125%",
+        "color": "#121e35",
+        "width": "22.87975%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.02367491166078%",
+        "left": "37.59675%",
+        "color": "#121e35",
+        "width": "18.801625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.7439929328622%",
+        "left": "7.03125%",
+        "color": "#121e35",
+        "width": "56.00200000000001%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed the Anger Management course as part\u2028\nof the Business Psychologist specialization training of 148 hours.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.8435335689045935%",
+        "left": "7.033200000000001%",
+        "color": "#121e35",
+        "width": "47.1875%",
+        "height": "9.80565371024735%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of completion",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.27685512367491%",
+        "left": "7.06055%",
+        "color": "#121e35",
+        "width": "20.878125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.919505300353357%",
+        "left": "79.32425%",
+        "color": "#121e35",
+        "width": "15.627000000000002%",
+        "height": "4.770318021201414%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.39363957597173%",
+        "left": "7.094725%",
+        "color": "#121e35",
+        "width": "12.878125%",
+        "height": "3.8869257950530036%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Logan Carey",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.28056537102474%",
+        "left": "7.03125%",
+        "color": "#121e35",
+        "width": "19.378125%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Program Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.894770318021202%",
+        "left": "79.32425%",
+        "color": "#121e35",
+        "width": "10.878125%",
+        "height": "5.30035335689046%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "20.900530035335688%",
+        "left": "7.356608478802992%",
+        "width": "34.75%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#25373e"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.36749116607774%",
+        "left": "7.06055%",
+        "color": "#121e35",
+        "width": "36.5625%",
+        "height": "9.540636042402827%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Anger management",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.84257950530035%",
+        "left": "7.09375%",
+        "width": "12.2265625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-03-2024-10:53:23_hW3wMhGqzI0_cskqMutKK-Group 494.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "32.12720848056537%",
+        "left": "74.542%",
+        "width": "16.663125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-03-2024-10:54:00_svsbEkwN53WbRbaOdAJXM-OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.78233215547703%",
+        "left": "77.373%",
+        "color": "#121e35",
+        "width": "11.00195%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.40636042402827%",
+        "left": "80.6855%",
+        "color": "#121e35",
+        "width": "4.378125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.02367491166078%",
+        "left": "74.297875%",
+        "width": "19.15425%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-03-2024-10:54:49_LT6rold2KK28eh9HOdXws-Group 18861.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.540636042402827%",
+        "left": "74.07225%",
+        "width": "4.4267625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-03-2024-10:55:35_wF0af7dxsDCri8VDPPO6E-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hs3bnfn51jh92me93fxqx3bj-1710583627444.png",
+  "isDefault": true,
+  "createdAt": "2024-03-16T10:07:07.431Z",
+  "updatedAt": "2025-03-19T11:00:10.243Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "completion"
+  },
+  "id": "01hs3bnfn51jh92me93fxqx3bj",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2443,
+  "categoryOrder": 789
+}

@@ -1,0 +1,345 @@
+{
+  "name": "48_participation_simple_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/04-09-2023-11:02:11_48_participation_simple_green_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.3945%",
+        "left": "13.55593639575972%",
+        "color": "#19948c",
+        "width": "72.92685512367491%",
+        "height": "9.0263625%",
+        "fontSize": "68em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.05475%",
+        "left": "26.446643109540634%",
+        "color": "#767676",
+        "width": "7.781250000000001%",
+        "height": "3.7102473498233217%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CCO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.66312500000001%",
+        "left": "22.427208480565373%",
+        "color": "#767676",
+        "width": "23.16978798586572%",
+        "height": "1.9902375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.66312500000001%",
+        "left": "51.4243816254417%",
+        "color": "#767676",
+        "width": "25.937279151943464%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.96975%",
+        "left": "20.886749116607774%",
+        "color": "#3e3e3e",
+        "width": "18.28763250883392%",
+        "height": "5.1767625%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Birthstone, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Ann Cooper",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.959%",
+        "left": "31.09328621908127%",
+        "color": "#3e3e3e",
+        "width": "37.43657243816254%",
+        "height": "3.8496125%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF PARTICIPATION",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.777375%",
+        "left": "18.601590106007066%",
+        "width": "23.21113074204947%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#1e9089"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.5078125%",
+        "left": "40.68356890459364%",
+        "color": "#3e3e3e",
+        "width": "23.463780918727917%",
+        "height": "1.4599625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ORGANIZATION NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.9707%",
+        "left": "20.88798586572438%",
+        "color": "#19948c",
+        "width": "60.193462897526494%",
+        "height": "8.4961%",
+        "fontSize": "64em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.344750000000005%",
+        "left": "31.092579505300357%",
+        "color": "#3e3e3e",
+        "width": "36.881625441696116%",
+        "height": "2.7871125%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "IS PRODLY PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "45.94925%",
+        "left": "12.323943661971832%",
+        "width": "75.42243816254417%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#1e9089"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.36525%",
+        "left": "22.780565371024732%",
+        "color": "#3e3e3e",
+        "width": "56.40459363957597%",
+        "height": "6.105475%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "FOR SUCCESSFULLY COMPLETING 45 HOURS OF DIGITAL MARKETING COURSE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.026375%",
+        "left": "56.91183745583038%",
+        "color": "#3e3e3e",
+        "width": "23.4113074204947%",
+        "height": "5.1767625%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Birthstone, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Roland Selford",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.735375%",
+        "left": "57.30459363957598%",
+        "color": "#767676",
+        "width": "22.62455830388693%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PROJECT MANAGER",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.5078125%",
+        "left": "36.57526501766784%",
+        "width": "3.9324734982332155%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-12:12:08_-rzcqFuHsE54eqzAmShdn-Group 384.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.586%",
+        "left": "26.931095406360427%",
+        "width": "9.432968197879859%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-12:12:49_MHnu1gAxrYW9AnTKpKz3w-Vector 214.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.711875%",
+        "left": "60.94717314487633%",
+        "width": "21.218021201413425%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-12:13:04_qLi3r1by3lHmsb6x9AgzP-Vector 215.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.836875%",
+        "left": "39.92031802120142%",
+        "width": "19.62932862190813%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-12:13:59_nazN72K19y0UqOnzwTZrS-Group 386.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.8965%",
+        "left": "43.46572438162544%",
+        "color": "#ffffff",
+        "width": "13.10733215547703%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.881875%",
+        "left": "47.219434628975264%",
+        "color": "#ffffff",
+        "width": "5.03125%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.777375%",
+        "left": "57.46466431095406%",
+        "width": "23.21113074204947%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#1e9089"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h95javwaywsvr6p9q6cr9pyy-1693818137863.png",
+  "isDefault": true,
+  "createdAt": "2023-08-31T10:30:59.216Z",
+  "updatedAt": "2025-09-10T14:56:26.891Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "participation"
+  },
+  "id": "01h95javwaywsvr6p9q6cr9pyy",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2870,
+  "categoryOrder": 35
+}

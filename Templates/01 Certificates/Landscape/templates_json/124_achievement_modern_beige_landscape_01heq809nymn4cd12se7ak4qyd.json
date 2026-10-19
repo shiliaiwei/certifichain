@@ -1,0 +1,255 @@
+{
+  "name": "124_achievement_modern_beige_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-11-2023-11:33:12_124_achievement_modern_beige_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "42.314487632508836%",
+        "left": "24.55175%",
+        "color": "#027fa5",
+        "width": "50.15825%",
+        "height": "13.250883392226148%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.240636042402826%",
+        "left": "17.580125%",
+        "color": "#343435",
+        "width": "25.631874999999997%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.19187279151944%",
+        "left": "66.96925%",
+        "color": "#343435",
+        "width": "17.67875%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.591342756183746%",
+        "left": "60.30275%",
+        "color": "#343435",
+        "width": "22.413125%",
+        "height": "7.950530035335689%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "www.yourcompany.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.73250883392227%",
+        "left": "24.794875%",
+        "color": "#343435",
+        "width": "50.03325000000001%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For winning the rugby competition, which was part of the School Sports Olympiad.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.867491166077738%",
+        "left": "17.830125%",
+        "color": "#027fa5",
+        "width": "67.557625%",
+        "height": "18.021201413427562%",
+        "fontSize": "33em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.04593639575972%",
+        "left": "31.814874999999997%",
+        "color": "#343435",
+        "width": "35.631875%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is present to",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "56.09540636042403%",
+        "left": "22.31920199501247%",
+        "width": "54.87499999999999%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#343435"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.81378091872791%",
+        "left": "17.955112219451372%",
+        "width": "12.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#373a51"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.5190812720848%",
+        "left": "69.899375%",
+        "color": "#343435",
+        "width": "11.8183625%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified on",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.09187279151944%",
+        "left": "42.535125%",
+        "color": "#343435",
+        "width": "14.555625%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "School company",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.46113074204946%",
+        "left": "69.496125%",
+        "width": "12.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#373a51"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.09187279151944%",
+        "left": "18.358375%",
+        "color": "#343435",
+        "width": "11.8183625%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "School director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.33886925795052%",
+        "left": "48.8985%",
+        "width": "2.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-11:31:41_z4OEluHiOdpDoQRVjmndL-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.80795053003534%",
+        "left": "20.481875%",
+        "width": "7.5693375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-11:32:16_kIfcYfJdZOex7ensEnPR7-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01heq809nymn4cd12se7ak4qyd-1699439716060.png",
+  "isDefault": true,
+  "createdAt": "2023-11-08T10:35:16.033Z",
+  "updatedAt": "2025-03-19T10:59:55.334Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "modern",
+    "category": "achievement"
+  },
+  "id": "01heq809nymn4cd12se7ak4qyd",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2752,
+  "categoryOrder": 285
+}

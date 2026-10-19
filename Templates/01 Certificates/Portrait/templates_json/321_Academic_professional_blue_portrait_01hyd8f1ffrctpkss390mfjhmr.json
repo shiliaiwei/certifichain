@@ -1,0 +1,279 @@
+{
+  "name": "321_Academic_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-05-2024-11:41:48_321_Academic_professional_blue_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.306125%",
+        "left": "8.778710247349823%",
+        "color": "#233d40",
+        "width": "44.65725%",
+        "height": "11.925795053003533%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.236375%",
+        "left": "8.778710247349823%",
+        "color": "#233d40",
+        "width": "37.709893992932855%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.65825%",
+        "left": "70.34293286219082%",
+        "color": "#fbfbfb",
+        "width": "28.171875%",
+        "height": "11.130742049469964%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Department of Marketing\u2028\nand Logistics",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.3418%",
+        "left": "8.778710247349823%",
+        "color": "#233d40",
+        "width": "58.6875%",
+        "height": "13.250883392226148%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.872125%",
+        "left": "8.778710247349823%",
+        "color": "#233d40",
+        "width": "52.502%",
+        "height": "14.840989399293287%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For outstanding academic performance in the Advertising major.\u2028The student \nhas shown a unique pursuit \nof knowledge, demonstrating \na high level of academic awareness\n\u2028and excellence in learning.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.611375%",
+        "left": "8.778710247349823%",
+        "color": "#233d40",
+        "width": "17.475989399293287%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brian Malone",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.214875%",
+        "left": "8.778710247349823%",
+        "color": "#233d40",
+        "width": "21.71625441696113%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "University Rector",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.002925%",
+        "left": "8.778710247349823%",
+        "color": "#233d40",
+        "width": "56.6875%",
+        "height": "16.96113074204947%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF ACADEMIC EXCELLENCE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.934625%",
+        "left": "8.778710247349823%",
+        "color": "#233d40",
+        "width": "53.63286219081272%",
+        "height": "5.3086%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "A certificate is awarded on the basis of outstanding academic achievement:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.19825%",
+        "left": "8.778710247349823%",
+        "color": "#233d40",
+        "width": "34.52137809187279%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.736375%",
+        "left": "39.402120141342756%",
+        "color": "#233d40",
+        "width": "20.479505300353356%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Matthew Torres",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.214875%",
+        "left": "39.403356890459364%",
+        "color": "#233d40",
+        "width": "18.536042402826855%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculty",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.524375%",
+        "left": "39.402120141342756%",
+        "width": "17.62505300353357%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-05-2024-11:33:25_Ou9jqQe7ai6eMcP_3H4uG-Group 494.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.650375%",
+        "left": "8.377720848056537%",
+        "width": "9.050636042402827%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-05-2024-11:33:52_dfypXEJN3hQk_mMFeUNob-Vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.0996%",
+        "left": "70.34416961130742%",
+        "color": "#fbfbfb",
+        "width": "28.171875%",
+        "height": "11.130742049469964%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "New Jersey Economic University",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hyd8f1ffrctpkss390mfjhmr-1716284524024.png",
+  "isDefault": true,
+  "createdAt": "2024-05-21T09:42:04.018Z",
+  "updatedAt": "2025-03-19T11:00:16.331Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hyd8f1ffrctpkss390mfjhmr",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2324,
+  "categoryOrder": 219
+}

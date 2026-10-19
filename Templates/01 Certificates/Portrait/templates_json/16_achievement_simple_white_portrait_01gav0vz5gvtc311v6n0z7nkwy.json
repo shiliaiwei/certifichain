@@ -1,0 +1,317 @@
+{
+  "name": "16_achievement_simple_white_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-08-22-2:22:01_Achievement Simple  Vertical background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "49%",
+        "left": "18.81148409893993%",
+        "color": "#000000",
+        "width": "62.19081272084806%",
+        "height": "5.8418%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "in recognition of your outstanding performance in achieving a high, academic standing in the field of robotics, we hereby grant you this certificate of academic achievement. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.585%",
+        "left": "11.526166077738516%",
+        "color": "#111842",
+        "width": "76.76272084805653%",
+        "height": "8.62305%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.601625000000006%",
+        "left": "30.116784452296823%",
+        "color": "#000000",
+        "width": "39.57190812720848%",
+        "height": "1.9472625000000001%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.247125%",
+        "left": "19.69611307420495%",
+        "color": "#111842",
+        "width": "60.41996466431095%",
+        "height": "3.875%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.53125%",
+        "left": "27.643992932862194%",
+        "color": "#000000",
+        "width": "44.522968197879855%",
+        "height": "5.56055%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "We hereby award this\nCertificate of Achievement to ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.391625000000005%",
+        "left": "38.16254416961131%",
+        "color": "#000000",
+        "width": "23.14487632508834%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE NO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.6875%",
+        "left": "10.60070671378092%",
+        "color": "#000000",
+        "width": "14.664310954063604%",
+        "height": "2%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Caleb Griffiths",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.1475%",
+        "left": "10.159010600706713%",
+        "color": "#000000",
+        "width": "16.07773851590106%",
+        "height": "1.667975%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "School Principal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.1475%",
+        "left": "74.02968197879858%",
+        "color": "#000000",
+        "width": "17.311731448763247%",
+        "height": "4.125%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "School Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.819375%",
+        "left": "6.5371024734982335%",
+        "color": "#000000",
+        "width": "22.791519434628977%",
+        "height": "13.875000000000002%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lobster, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Griffiths",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84%",
+        "left": "9.628975265017669%",
+        "width": "16.96113074204947%",
+        "height": "0.125%",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84%",
+        "left": "75.08763250883392%",
+        "width": "15.547703180212014%",
+        "height": "0.125%",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.819375%",
+        "left": "72.96819787985865%",
+        "color": "#000000",
+        "width": "19.434628975265017%",
+        "height": "6%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lobster, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Duncan",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.6875%",
+        "left": "74.73568904593641%",
+        "color": "#000000",
+        "width": "15.899681978798586%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Sam Duncan",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.90425%",
+        "left": "36.21837455830389%",
+        "color": "#000000",
+        "width": "27.03180212014134%",
+        "height": "1.9472625000000001%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.694375%",
+        "left": "40.016961130742054%",
+        "color": "#000000",
+        "width": "19.434628975265017%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ISSUING DATE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.6245125%",
+        "left": "39.55742049469965%",
+        "width": "20.70035335689046%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-08-22-2:21:20_Group 18487.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.30075%",
+        "left": "38.33922261484099%",
+        "width": "23.651413427561835%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-08-22-2:21:44_Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12850-1660911748064.png",
+  "isDefault": true,
+  "createdAt": "2022-08-19T12:22:26.224Z",
+  "updatedAt": "2025-03-19T10:59:43.111Z",
+  "metadata": {
+    "lang": "en",
+    "color": "black",
+    "style": "simple",
+    "category": "achievement"
+  },
+  "id": "01gav0vz5gvtc311v6n0z7nkwy",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2956,
+  "categoryOrder": 306
+}

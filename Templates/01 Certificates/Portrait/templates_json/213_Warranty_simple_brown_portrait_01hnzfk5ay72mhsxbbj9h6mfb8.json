@@ -1,0 +1,405 @@
+{
+  "name": "213_Warranty_simple_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-02-2024-04:11:15_213_Warranty_simple_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "44.57325%",
+        "left": "30.245229681978795%",
+        "color": "#542e0b",
+        "width": "21.28833922261484%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.382375%",
+        "left": "49.315371024734986%",
+        "color": "#542e0b",
+        "width": "25.237455830388694%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.313500000000005%",
+        "left": "12.279151943462898%",
+        "color": "#542e0b",
+        "width": "74.48798586572438%",
+        "height": "13.2715%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "If during the warranty period a defect of manufacturing origin is detected in the product, the seller or authorized service center undertakes to repair the fault free of charge, provided that the product has been used in accordance with the accompanying instructions",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.57025%",
+        "left": "16.479399293286217%",
+        "color": "#542e0b",
+        "width": "16.540141342756183%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Connon Hailey",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.070312500000001%",
+        "left": "18.464310954063603%",
+        "color": "#542e0b",
+        "width": "62.74293286219081%",
+        "height": "5.044925%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "QUALITY GUARANTEED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.984875%",
+        "left": "35.508303886925795%",
+        "color": "#542e0b",
+        "width": "13.554558303886926%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ID number:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.459%",
+        "left": "23.96537102473498%",
+        "color": "#542e0b",
+        "width": "51.688162544169614%",
+        "height": "3.451175%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Warranty terms and conditions",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.789%",
+        "left": "15.726448763250882%",
+        "color": "#542e0b",
+        "width": "18.043286219081274%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sales-consultant",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.40825%",
+        "left": "67.03144876325089%",
+        "color": "#542e0b",
+        "width": "20.792932862190813%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "+ 1 (956) 295 - 1973",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.15825%",
+        "left": "26.4065371024735%",
+        "color": "#542e0b",
+        "width": "19.75%",
+        "height": "3.7102473498233217%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.57325%",
+        "left": "56.827031802120146%",
+        "color": "#542e0b",
+        "width": "8.515070671378092%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Model:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.57325%",
+        "left": "19.081272084805654%",
+        "color": "#542e0b",
+        "width": "10.98856890459364%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Product:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.57325%",
+        "left": "65.67809187279153%",
+        "color": "#542e0b",
+        "width": "16.06256183745583%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Pure Chrome",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.569375%",
+        "left": "63.43180212014134%",
+        "color": "#542e0b",
+        "width": "17.776855123674913%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Emily Martinez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.788125%",
+        "left": "65.50618374558303%",
+        "color": "#542e0b",
+        "width": "13.627%",
+        "height": "3.4452296819787986%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Customer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.40825%",
+        "left": "57.37226148409894%",
+        "color": "#542e0b",
+        "width": "10.244593639575971%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Contact:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.53325%",
+        "left": "12.604911660777384%",
+        "color": "#542e0b",
+        "width": "13.626325088339222%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Valid until:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "14.335%",
+        "left": "38.32685512367491%",
+        "width": "3.0808303886925796%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-02-2024-03:52:58_T-qbrmuk31vLTykbsf3Tz-Group 18931.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.097624999999999%",
+        "left": "41.584275618374555%",
+        "color": "#542e0b",
+        "width": "20.262897526501767%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "58.99225%",
+        "left": "38.74770318021202%",
+        "width": "21.974381625441698%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-02-2024-03:53:55_WQXLiLMg9jTATGVM1hurR-Group 398.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.456%",
+        "left": "42.1964664310954%",
+        "color": "#9c7942",
+        "width": "14.653268551236748%",
+        "height": "3.980475%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "QUALITY ASSURANCE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.999%",
+        "left": "65.05971731448763%",
+        "width": "14.516625441696112%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-02-2024-03:55:34_5v1I2nYaQIAQ4T5RKhTal-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.015625%",
+        "left": "15.185371024734984%",
+        "width": "17.38349823321555%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-02-2024-03:56:14_7kAp9aZiZh5QRZRuWddpM-Vector 245.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hnzfk5ay72mhsxbbj9h6mfb8-1707232320680.png",
+  "isDefault": true,
+  "createdAt": "2024-02-06T15:11:42.432Z",
+  "updatedAt": "2025-03-19T11:00:05.172Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01hnzfk5ay72mhsxbbj9h6mfb8",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2547,
+  "categoryOrder": 827
+}

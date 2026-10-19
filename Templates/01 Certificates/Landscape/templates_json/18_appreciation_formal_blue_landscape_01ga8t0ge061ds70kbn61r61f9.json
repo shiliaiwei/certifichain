@@ -1,0 +1,234 @@
+{
+  "name": "18_appreciation_formal_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/12-08-22-12:28:59_Appreciation Formal Horizontal background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.27720848056537%",
+        "left": "25.937500000000004%",
+        "color": "#1e3794",
+        "width": "47.75%",
+        "height": "17.213727915194347%",
+        "fontSize": "54em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Satisfy, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.901060070671377%",
+        "left": "39.1875%",
+        "color": "#1e3794",
+        "width": "21.25%",
+        "height": "9.717314487632509%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.5547703180212%",
+        "left": "67.72075%",
+        "color": "#1e3794",
+        "width": "13.5%",
+        "height": "7.773851590106007%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Hawkins",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.46413427561838%",
+        "left": "33.375%",
+        "color": "#9f8042",
+        "width": "32.875%",
+        "height": "3.8869257950530036%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "this certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.97809187279151%",
+        "left": "24.9375%",
+        "color": "#1e3794",
+        "width": "15.625%",
+        "height": "3.05321554770318%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.51749116607773%",
+        "left": "24.9375%",
+        "color": "#1e3794",
+        "width": "12.75%",
+        "height": "3.05321554770318%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE NO:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.30318021201414%",
+        "left": "24.9375%",
+        "color": "#1e3794",
+        "width": "11%",
+        "height": "3.3306713780918726%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ISSUING DATE:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.70353356890459%",
+        "left": "26.03025%",
+        "color": "#9f8042",
+        "width": "47.5645%",
+        "height": "9.159681978798586%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "for her continued efforts in art and winning our finger painting art competition. Her excellent use of colors and shapes created a very beautiful piece of artwork which will be displayed in our upcoming art festival.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.7482332155477%",
+        "left": "68.25%",
+        "color": "#1e3794",
+        "width": "11%",
+        "height": "2.4734982332155475%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Casey Hawkins",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.19116607773852%",
+        "left": "24.9375%",
+        "color": "#1e3794",
+        "width": "19.5%",
+        "height": "2.498339222614841%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.204946996466433%",
+        "left": "38.625%",
+        "color": "#9f8042",
+        "width": "22.375%",
+        "height": "4.946996466431095%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF APPRECIATION",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "87.45300353356889%",
+        "left": "42.71975%",
+        "width": "14.186500000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/12-08-22-12:33:08_Group 18552.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12588-1660300576669.png",
+  "isDefault": true,
+  "createdAt": "2022-08-12T10:36:15.168Z",
+  "updatedAt": "2025-03-19T10:59:40.221Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "appreciation"
+  },
+  "id": "01ga8t0ge061ds70kbn61r61f9",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3004,
+  "categoryOrder": 141
+}

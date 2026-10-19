@@ -1,0 +1,351 @@
+{
+  "name": "212_Warranty_simple_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-02-2024-03:25:04_212_Warranty_simple_brown_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "23.42650176678445%",
+        "left": "28.496125%",
+        "color": "#2d2d2d",
+        "width": "18.65725%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.62367491166078%",
+        "left": "28.496125%",
+        "color": "#2d2d2d",
+        "width": "31.752874999999996%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.681978798586574%",
+        "left": "28.496125%",
+        "color": "#2d2d2d",
+        "width": "22.17475%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.4613074204947%",
+        "left": "6.640625%",
+        "color": "#2d2d2d",
+        "width": "82.377%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The warranty is valid only in the presence of this certificate, as well as: original purchase document (receipt, invoice), correctly and completely filled out warranty card.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.86572438162544%",
+        "left": "28.496125%",
+        "color": "#2d2d2d",
+        "width": "34%",
+        "height": "9.010600706713781%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Accident and sickness insurance",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.26625441696113%",
+        "left": "6.640625%",
+        "color": "#2d2d2d",
+        "width": "15.127000000000002%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Lucas Bradshaw",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.42650176678445%",
+        "left": "6.6416%",
+        "color": "#2d2d2d",
+        "width": "19.002%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Customer name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.36042402826855%",
+        "left": "6.640625%",
+        "color": "#2d2d2d",
+        "width": "54.3125%",
+        "height": "14.045936395759718%",
+        "fontSize": "53em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Warranty Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.681978798586574%",
+        "left": "6.640625%",
+        "color": "#2d2d2d",
+        "width": "19.002%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date of purchase:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.86572438162544%",
+        "left": "6.640625%",
+        "color": "#2d2d2d",
+        "width": "9.62695%",
+        "height": "4.593639575971731%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Service:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.226148409893995%",
+        "left": "6.640625%",
+        "color": "#2d2d2d",
+        "width": "13%",
+        "height": "9.010600706713781%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ID number:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.23321554770318%",
+        "left": "6.640625%",
+        "color": "#2d2d2d",
+        "width": "19.125%",
+        "height": "9.010600706713781%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Warranty Period:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.26625441696113%",
+        "left": "66.57125%",
+        "color": "#2d2d2d",
+        "width": "17.877%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.88816254416962%",
+        "left": "6.640625%",
+        "color": "#2d2d2d",
+        "width": "18.752%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Insurer's representative",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.88816254416962%",
+        "left": "66.57225%",
+        "color": "#2d2d2d",
+        "width": "28.376999999999995%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Phone number: + 1 (555) 586 - 7594",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "22.848056537102472%",
+        "left": "72.5415%",
+        "width": "20.913125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-02-2024-03:19:28_QsYdVm0hN0mm8cl67QV1u-Group 18741.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.09893992932862%",
+        "left": "73.497125%",
+        "color": "#dccbc2",
+        "width": "19.002%",
+        "height": "4.5053003533568905%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "QUALITY ASSURANCE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "61.660777385159015%",
+        "left": "6.640625%",
+        "width": "9.076175%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-02-2024-03:21:40_-yvB8Dp4Wg5e1MzNA8hpv-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.23321554770318%",
+        "left": "28.496125%",
+        "color": "#2d2d2d",
+        "width": "24.875%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hnzd2ew5zraqqv49mdpetsjc-1707229658035.png",
+  "isDefault": true,
+  "createdAt": "2024-02-06T14:27:37.991Z",
+  "updatedAt": "2025-03-19T11:00:05.012Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01hnzd2ew5zraqqv49mdpetsjc",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2550,
+  "categoryOrder": 830
+}

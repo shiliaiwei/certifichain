@@ -1,0 +1,316 @@
+{
+  "name": "425_Authenticity_professional_grey_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-09-2024-01:24:36_425_Authenticity_professional_grey_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.137700000000002%",
+        "left": "8.657950530035334%",
+        "color": "#4d4c49",
+        "width": "82.68551236749117%",
+        "height": "auto",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.4708%",
+        "left": "57.59717314487632%",
+        "color": "#ffffff",
+        "width": "34.62897526501767%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.44785%",
+        "left": "55.03533568904594%",
+        "color": "#ffffff",
+        "width": "39.75265017667844%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.125%",
+        "left": "9.946996466431097%",
+        "color": "#645f5b",
+        "width": "78.79858657243817%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate attests to the authenticity of the luxury jewelry piece described below and confirms that it is an original design crafted by the specified jeweler.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.6625%",
+        "left": "24.91166077738516%",
+        "color": "#645f5b",
+        "width": "65.19434628975264%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "18k Rose Gold, 3.8 Carats of Brilliant-Cut Diamonds",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.42285%",
+        "left": "10.424028268551238%",
+        "color": "#ffffff",
+        "width": "27.208480565371023%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "SAMANTHA WRIGHT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.075%",
+        "left": "7.06713780918728%",
+        "color": "#fafafa",
+        "width": "33.92226148409894%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Authentication Specialist",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.625%",
+        "left": "8.8339222614841%",
+        "color": "#4d4c49",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AUTHENCITY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.61035%",
+        "left": "11.484098939929329%",
+        "color": "#4d4c49",
+        "width": "15.01766784452297%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MATERIAL:",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "39.375%",
+        "left": "8.8339222614841%",
+        "width": "81.09540636042402%",
+        "height": "0.125%",
+        "backgroundColor": "#555a3e"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.660349999999994%",
+        "left": "31.272084805653712%",
+        "color": "#4d4c49",
+        "width": "20.318021201413426%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JEWELER NAME:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.8082%",
+        "left": "34.275618374558306%",
+        "color": "#4d4c49",
+        "width": "10.954063604240282%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OWNER:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.625%",
+        "left": "51.590106007067135%",
+        "color": "#645f5b",
+        "width": "20.318021201413426%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Verona Bijoux",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.7832%",
+        "left": "45.22968197879859%",
+        "color": "#645f5b",
+        "width": "22.261484098939928%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Elizabeth Monroe",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.75%",
+        "left": "44.46996466431095%",
+        "width": "10.954063604240288%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-12:47:00_Group 19518.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.25%",
+        "left": "9.89399293286219%",
+        "width": "38.515901060070675%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-12:47:23_Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.201175%",
+        "left": "70.82321554770317%",
+        "width": "7.950530035335689%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-12:47:47_qr-code.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.125%",
+        "left": "8.84593639575972%",
+        "color": "#4d4c49",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j8cse5de3swc9nnsmegtv28s-1727007886004.png",
+  "isDefault": true,
+  "createdAt": "2024-09-22T11:56:24.880Z",
+  "updatedAt": "2025-03-19T11:00:26.894Z",
+  "metadata": {
+    "lang": "en",
+    "color": "grey",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j8cse5de3swc9nnsmegtv28s",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2114,
+  "categoryOrder": 611
+}

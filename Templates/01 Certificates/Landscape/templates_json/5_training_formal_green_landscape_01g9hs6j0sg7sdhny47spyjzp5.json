@@ -1,0 +1,272 @@
+{
+  "name": "5_training_formal_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/03-08-22-1:58:18_Formal landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.6425574204947%",
+        "left": "14.224609375%",
+        "width": "13.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.985865724381625%",
+        "left": "15.0625%",
+        "color": "#f0d59f",
+        "width": "70%",
+        "height": "18.727915194346288%",
+        "fontSize": "68em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.501766784452297%",
+        "left": "31.125000000000004%",
+        "color": "#fbfff1",
+        "width": "37.375%",
+        "height": "6.36042402826855%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.12720848056537%",
+        "left": "30.375000000000004%",
+        "color": "#fbfff1",
+        "width": "38.875%",
+        "height": "12.7208480565371%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus tellus platea bibendum mattis odio mi odio amet. Cras vel tortor viverra ut. Ac condimentum.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.28699204946997%",
+        "left": "14.724609375%",
+        "color": "#fbfff1",
+        "width": "12%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Damian Lee",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.56183745583039%",
+        "left": "72.3125%",
+        "color": "#e1e4ee",
+        "width": "13.5%",
+        "height": "5.30035335689046%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Manager Your Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.28692579505301%",
+        "left": "36.625%",
+        "color": "#fbfff1",
+        "width": "26.375%",
+        "height": "3.8869257950530036%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded on:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.74275618374558%",
+        "left": "42.751875%",
+        "color": "#e1e4ee",
+        "width": "14.124999999999998%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.07173144876326%",
+        "left": "39.4375%",
+        "color": "#fbfff1",
+        "width": "20.75%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.526148409894%",
+        "left": "35.75%",
+        "color": "#e1e4ee",
+        "width": "28.125%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.28699204946997%",
+        "left": "71.75%",
+        "color": "#ffffff",
+        "width": "14.625%",
+        "height": "3.8869257950530036%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Allan C.K.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.56183745583039%",
+        "left": "13.787109375%",
+        "color": "#e1e4ee",
+        "width": "13.875000000000002%",
+        "height": "6.007067137809187%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director Your Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.03886925795053%",
+        "left": "34.4375%",
+        "color": "#fbfff1",
+        "width": "30.75%",
+        "height": "4.593639575971731%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.6425574204947%",
+        "left": "72.5625%",
+        "width": "13.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.8339222614841%",
+        "left": "42.74805450439453%",
+        "width": "14.12890625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/28-07-22-4:35:03_Group 199.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12276-1659538705890.png",
+  "isDefault": true,
+  "createdAt": "2022-08-03T11:59:32.889Z",
+  "updatedAt": "2025-03-19T10:59:36.430Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "training"
+  },
+  "id": "01g9hs6j0sg7sdhny47spyjzp5",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3077,
+  "categoryOrder": 436
+}

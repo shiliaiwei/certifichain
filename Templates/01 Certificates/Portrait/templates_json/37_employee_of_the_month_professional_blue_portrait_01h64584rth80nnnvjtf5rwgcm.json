@@ -1,0 +1,306 @@
+{
+  "name": "37_employee_of_the_month_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-07-2023-04:36:51_37_employee_of_the_month_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.044%",
+        "left": "8.939505300353357%",
+        "color": "#212f5e",
+        "width": "82.44399293286219%",
+        "height": "9.6914%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lobster, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.1065%",
+        "left": "10.254257950530036%",
+        "color": "#212f5e",
+        "width": "78.60265017667845%",
+        "height": "6.372074999999999%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your exemplary performance during the past month has not gone unnoticed. We've observed not only your unwavering dedication but also your remarkable achievement in recording the Top Sales Numbers.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.0825%",
+        "left": "27.936572438162543%",
+        "color": "#160e46",
+        "width": "17.56432862190813%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Becky Rodriguez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.95025%",
+        "left": "48.48445229681979%",
+        "color": "#212f5e",
+        "width": "35.03621908127209%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.418%",
+        "left": "48.48445229681979%",
+        "color": "#212f5e",
+        "width": "23.652826855123674%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.122125%",
+        "left": "25.424381625441693%",
+        "color": "#212f5e",
+        "width": "49.28922261484098%",
+        "height": "7.9638625%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.59475%",
+        "left": "35.89876325088339%",
+        "color": "#212f5e",
+        "width": "28.33763250883392%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "is hereby awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.94925%",
+        "left": "27.239575971731444%",
+        "color": "#212f5e",
+        "width": "45.65759717314488%",
+        "height": "5.4433625%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF THE MONTH",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.418%",
+        "left": "29.08992932862191%",
+        "color": "#212f5e",
+        "width": "16.25441696113074%",
+        "height": "3.75%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "underline"
+      },
+      "value": "ISSUING DATE:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.95025%",
+        "left": "27.238869257950533%",
+        "color": "#212f5e",
+        "width": "18.106713780918724%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "underline"
+      },
+      "value": "CERTIFICATE NO: ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.15825%",
+        "left": "57.51713780918728%",
+        "color": "#160e46",
+        "width": "13.618038869257951%",
+        "height": "2.919925%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Northern Branch\nSales Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.082%",
+        "left": "55.54328621908127%",
+        "color": "#160e46",
+        "width": "17.56432862190813%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Matthew Wallace",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.796875%",
+        "left": "30.539222614840988%",
+        "width": "12.360583038869256%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-04:20:02_BE8GkqIWTu80t1tGPcj2y-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.09675%",
+        "left": "61.42879858657244%",
+        "width": "6.324540636042403%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-04:20:21_XqM5qZT0ijql88-98te90-W..png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.15825%",
+        "left": "29.20441696113074%",
+        "color": "#160e46",
+        "width": "15.028710247349824%",
+        "height": "3.1836%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Acting\nManaging Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.923875%",
+        "left": "37.50406360424029%",
+        "color": "#212f5e",
+        "width": "24.10565371024735%",
+        "height": "2.7871125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "12.1650375%",
+        "left": "47.55618374558304%",
+        "width": "5.212014134275619%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-04:22:05_VN9IJCqyzVE6F_4GJOMSi-Subtraction 1.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h64584rth80nnnvjtf5rwgcm-1690364045482.png",
+  "isDefault": true,
+  "createdAt": "2023-07-24T14:35:58.621Z",
+  "updatedAt": "2025-09-10T14:56:26.291Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "employee_of_the_month"
+  },
+  "id": "01h64584rth80nnnvjtf5rwgcm",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2882,
+  "categoryOrder": 33
+}

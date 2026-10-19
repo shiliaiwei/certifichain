@@ -1,0 +1,240 @@
+{
+  "name": "126_achievement_simple_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-11-2023-01:22:09_126_achievement_simple_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "52.20441696113074%",
+        "left": "23.547375%",
+        "color": "#ffffff",
+        "width": "52.7715%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.31035335689046%",
+        "left": "19.57175%",
+        "color": "#ffffff",
+        "width": "60.724624999999996%",
+        "fontSize": "68em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.38938053097345%",
+        "left": "20.8125%",
+        "color": "#ffffff",
+        "width": "58.25%",
+        "fontSize": "31em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.74734982332156%",
+        "left": "31.078625%",
+        "color": "#ffffff",
+        "width": "37.71%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.21238938053098%",
+        "left": "13.625000000000002%",
+        "color": "#ffffff",
+        "width": "72.625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successes in extracurricular activities.\nFor winning the literary contest 'Poetry of the East'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.973451327433628%",
+        "left": "34.75%",
+        "color": "#ffffff",
+        "width": "30.5%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your Company Name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.65954063604241%",
+        "left": "40.312%",
+        "color": "#ffffff",
+        "width": "19%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.03763250883392%",
+        "left": "39.374%",
+        "color": "#ffffff",
+        "width": "20.875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.07964601769912%",
+        "left": "13.2625%",
+        "color": "#ffffff",
+        "width": "19.5%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Anthony Bell",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.1952389380531%",
+        "left": "67.1875%",
+        "color": "#ffffff",
+        "width": "22.875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Peter Taylor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.61946902654867%",
+        "left": "10.7625%",
+        "color": "#ffffff",
+        "width": "24.5%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Contest organizer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.4424778761062%",
+        "left": "67.5625%",
+        "color": "#ffffff",
+        "width": "22.25%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Literary critic",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.348003533568904%",
+        "left": "47.86575%",
+        "width": "3.8945250000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-01:18:51_3cGWXBk9EO7A5EkjJWIs2-Group 18747.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01heqeca67gnwce8jkx38t68tj-1755432283091.png",
+  "isDefault": true,
+  "createdAt": "2023-11-08T12:26:41.236Z",
+  "updatedAt": "2025-08-17T12:04:46.461Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "achievement"
+  },
+  "id": "01heqeca67gnwce8jkx38t68tj",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2748,
+  "categoryOrder": 281
+}

@@ -1,0 +1,253 @@
+{
+  "name": "86_recognition_formal_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/25-09-2023-11:53:53_86_recognition_formal_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.30475%",
+        "left": "12.377137809187278%",
+        "color": "#362d1f",
+        "width": "75.23886925795053%",
+        "height": "7.4336%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.194375%",
+        "left": "36.84028268551236%",
+        "color": "#303440",
+        "width": "26.421731448763254%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.461%",
+        "left": "67.75%",
+        "color": "#362d1f",
+        "width": "23.62791519434629%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.461%",
+        "left": "16.72786219081272%",
+        "color": "#362d1f",
+        "width": "17.093639575971732%",
+        "height": "2.6543%",
+        "fontSize": "19em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Franklin Paul",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.875%",
+        "left": "15.351678445229682%",
+        "color": "#362d1f",
+        "width": "69.28975265017668%",
+        "height": "7.166012500000001%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For active participation in discussions, activities,\nand any collaborative projects undertaken during\n'Foundations of Gestalt Therapy' conference",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.830125%",
+        "left": "10.885017667844524%",
+        "color": "#362d1f",
+        "width": "28.779328621908125%",
+        "height": "1.9902375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculty of Psychology",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.340875%",
+        "left": "36.84151943462897%",
+        "color": "#362d1f",
+        "width": "25.78409893992933%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.084%",
+        "left": "20.516784452296818%",
+        "color": "#303440",
+        "width": "58.959540636042405%",
+        "height": "3.3193374999999996%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.578124999999999%",
+        "left": "18.715371024734985%",
+        "color": "#362d1f",
+        "width": "62.039045936395766%",
+        "height": "9.6914%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "47.57525%",
+        "left": "13.204225352112676%",
+        "width": "75.23056537102474%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#bfad9b"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.830125%",
+        "left": "73.5803886925795%",
+        "color": "#362d1f",
+        "width": "11.96720848056537%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded on",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.715375%",
+        "left": "40.601590106007066%",
+        "color": "#303440",
+        "width": "24.812367491166075%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Psychological Community",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.631875%",
+        "left": "42.79081272084805%",
+        "width": "14.408957597173144%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/25-09-2023-11:37:18_V24Xa-UTWUolkAHaTjCpV-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.6455%",
+        "left": "36.836219081272084%",
+        "width": "2.8268551236749118%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/25-09-2023-11:37:40_7--lidEbHsbj43ipfVIkR-Group 452.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hb5w12m880dvrvtz32kes6jg-1695804681148.png",
+  "isDefault": true,
+  "createdAt": "2023-09-25T09:51:47.850Z",
+  "updatedAt": "2025-03-19T10:59:50.128Z",
+  "metadata": {
+    "lang": "en",
+    "color": "black",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01hb5w12m880dvrvtz32kes6jg",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2824,
+  "categoryOrder": 689
+}

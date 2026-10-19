@@ -1,0 +1,281 @@
+{
+  "name": "80_recognition_simple_pink_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-09-2023-02:17:20_80_recognition_simple_pink_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.503533568904594%",
+        "left": "15%",
+        "color": "#212121",
+        "width": "66.40825%",
+        "height": "14.045936395759718%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Birthstone, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.74169611307421%",
+        "left": "46.263625%",
+        "color": "#212121",
+        "width": "20.506875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.57773851590106%",
+        "left": "71.689%",
+        "color": "#212121",
+        "width": "20.80375%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Birthstone, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.25265017667844%",
+        "left": "11.32715%",
+        "color": "#212121",
+        "width": "11.6171875%",
+        "height": "5.830388692579505%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Birthstone, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Katrina Carter",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.581219081272085%",
+        "left": "44.6485%",
+        "color": "#c67f8b",
+        "width": "15.413124999999999%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company Logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.52614840989399%",
+        "left": "25.580125%",
+        "color": "#212121",
+        "width": "47.336%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "for mastering the curriculum of the Comprehensive Beauty Mastery Course and demonstrating a commitment to professional growth",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.64487632508834%",
+        "left": "31.246499999999997%",
+        "color": "#212121",
+        "width": "37.131875%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS CERTIFICATE IS GRANTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.47667844522968%",
+        "left": "37.256875%",
+        "color": "#212121",
+        "width": "8.8818375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Serial No:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.575918727915194%",
+        "left": "4.980475%",
+        "color": "#ffffff",
+        "width": "92.3135%",
+        "height": "42.40282685512368%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.79116607773851%",
+        "left": "76.086%",
+        "color": "#212121",
+        "width": "12.0068375%",
+        "height": "3.180212014134275%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issuing Date",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "82.55441696113074%",
+        "left": "8.0107375%",
+        "width": "18.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#fbe5e9"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "82.55441696113074%",
+        "left": "72.965875%",
+        "width": "18.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#fbe5e9"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.79116607773851%",
+        "left": "11.13135%",
+        "color": "#212121",
+        "width": "12.0068375%",
+        "height": "3.180212014134275%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Beauty Academy",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.581219081272085%",
+        "left": "40.125%",
+        "width": "3.8701124999999994%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2023-02:15:13_FMhdP6kWnVPzh6_tc7kZ3-Frame.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.14628975265018%",
+        "left": "45.0425%",
+        "width": "10.0390625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2023-02:16:18_M-df5bO20sdk5XweccRS0-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.31272084805654%",
+        "left": "46.793%",
+        "color": "#ffffff",
+        "width": "6.538087499999999%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hayd96r838t66gx2tkqqb6s5-1695804264112.png",
+  "isDefault": true,
+  "createdAt": "2023-09-22T12:19:24.554Z",
+  "updatedAt": "2025-03-19T10:59:49.445Z",
+  "metadata": {
+    "lang": "en",
+    "color": "pink",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01hayd96r838t66gx2tkqqb6s5",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2837,
+  "categoryOrder": 702
+}

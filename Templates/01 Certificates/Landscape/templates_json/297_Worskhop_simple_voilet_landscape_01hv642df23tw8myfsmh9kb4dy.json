@@ -1,0 +1,252 @@
+{
+  "name": "297_Worskhop_simple_voilet_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/11-04-2024-10:22:11_297_Worskhop_simple_voilet_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.69540636042403%",
+        "left": "10.9609375%",
+        "color": "#32144a",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.3826855123675%",
+        "left": "34.49275%",
+        "color": "#32144a",
+        "width": "30.631875000000004%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.23074204946997%",
+        "left": "39.76325%",
+        "color": "#32144a",
+        "width": "18.67875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.09823321554771%",
+        "left": "10.2041%",
+        "color": "#32144a",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Timothy Rowe",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.133922261484095%",
+        "left": "43.776375%",
+        "color": "#32144a",
+        "width": "17.413125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.57526501766784%",
+        "left": "35.28075%",
+        "color": "#32144a",
+        "width": "29.063500000000005%",
+        "height": "4.770318021201414%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.22720848056538%",
+        "left": "19.641125%",
+        "color": "#32144a",
+        "width": "60.336%",
+        "height": "9.010600706713781%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successful completion of 12 hours of business training\u2028on the topic 'Building a strong team'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.49779151943463%",
+        "left": "9.6586875%",
+        "color": "#32144a",
+        "width": "80.307625%",
+        "height": "26.501766784452297%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "WORKSHOP CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.09823321554771%",
+        "left": "73.315375%",
+        "color": "#32144a",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Andrew Jackson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.98515901060071%",
+        "left": "10.203125%",
+        "color": "#32144a",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.98515901060071%",
+        "left": "73.3145%",
+        "color": "#32144a",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course instructor",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.91572438162545%",
+        "left": "11.418%",
+        "width": "12.937499999999998%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-04-2024-10:19:17_xPy8ZaH3w1ozSi_7arROe-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.90812720848056%",
+        "left": "72.26325%",
+        "width": "17.46975%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-04-2024-10:20:00_Qcjp81eERlHYcJZd36-fY-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "23.133922261484095%",
+        "left": "39.38775%",
+        "width": "3.36035%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-04-2024-10:20:15_5blSL4wPGYufu2wkv6sjb-Group 18792.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hv642df23tw8myfsmh9kb4dy-1712823809517.png",
+  "isDefault": true,
+  "createdAt": "2024-04-11T08:23:29.508Z",
+  "updatedAt": "2025-09-10T14:56:30.671Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "webinar"
+  },
+  "id": "01hv642df23tw8myfsmh9kb4dy",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2373,
+  "categoryOrder": 20
+}

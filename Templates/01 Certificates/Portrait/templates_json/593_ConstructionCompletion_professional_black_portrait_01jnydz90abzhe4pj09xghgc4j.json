@@ -1,0 +1,711 @@
+{
+  "name": "593_ConstructionCompletion_professional_black_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/09-03-2025-11:46:18_593_constructioncompletion_professional_black_portrait2x-2.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "32.125%",
+        "left": "21.73144876325088%",
+        "color": "#23222a",
+        "width": "28.26855123674912%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.125%",
+        "left": "81.44876325088339%",
+        "width": "11.837455830388691%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-03-2025-11:17:35_group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.75%",
+        "left": "6.5371024734982335%",
+        "width": "9.187279151943462%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-03-2025-11:17:39_qr.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4%",
+        "left": "6.18374558303887%",
+        "color": "#23222a",
+        "width": "72.79151943462897%",
+        "height": "auto",
+        "fontSize": "46em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Completion",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.5%",
+        "left": "6.5371024734982335%",
+        "color": "#23222a",
+        "width": "26.501766784452297%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issued by: Builders Square",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.625%",
+        "left": "6.5371024734982335%",
+        "color": "#23222a",
+        "width": "13.604240282685511%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Contract No.:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.625%",
+        "left": "49.46996466431096%",
+        "color": "#23222a",
+        "width": "17.314487632508836%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date of Issuance:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.125%",
+        "left": "6.713780918727916%",
+        "color": "#23222a",
+        "width": "14.840989399293287%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Project scope:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.625%",
+        "left": "6.5371024734982335%",
+        "color": "#23222a",
+        "width": "13.250883392226148%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Owner Name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.125%",
+        "left": "6.5371024734982335%",
+        "color": "#23222a",
+        "width": "16.07773851590106%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Project Name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.75%",
+        "left": "6.36042402826855%",
+        "color": "#23222a",
+        "width": "89.39929328621908%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "I (We) hereby confirm that the construction of the following project has been completed and put into \nservice in full compliance with the approved plans, specifications, and all relevant supporting \ndocumentation.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.75%",
+        "left": "6.713780918727916%",
+        "color": "#23222a",
+        "width": "23.674911660777383%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Total Contract Amount:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.5%",
+        "left": "6.713780918727916%",
+        "color": "#23222a",
+        "width": "15.371024734982333%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Final Amount:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.125%",
+        "left": "6.713780918727916%",
+        "color": "#23222a",
+        "width": "23.674911660777383%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Final Completion Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.75%",
+        "left": "6.713780918727916%",
+        "color": "#23222a",
+        "width": "30.565371024734983%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Substantial Completion Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.375%",
+        "left": "6.713780918727916%",
+        "color": "#23222a",
+        "width": "25.265017667844525%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Begin Construction Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.875%",
+        "left": "6.5371024734982335%",
+        "color": "#23222a",
+        "width": "23.674911660777383%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Authorized Signature:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.375%",
+        "left": "6.5371024734982335%",
+        "color": "#23222a",
+        "width": "21.20141342756184%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Contact Information:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.5%",
+        "left": "6.713780918727916%",
+        "color": "#23222a",
+        "width": "37.455830388692576%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Compliance Statement/Certifications:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.25%",
+        "left": "6.713780918727916%",
+        "color": "#23222a",
+        "width": "9.010600706713781%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Balance:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.875%",
+        "left": "48.409893992932865%",
+        "color": "#23222a",
+        "width": "5.30035335689046%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.5%",
+        "left": "48.409893992932865%",
+        "color": "#23222a",
+        "width": "38.869257950530034%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Signature of Engineer & Embossed Seal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.25%",
+        "left": "48.409893992932865%",
+        "color": "#23222a",
+        "width": "38.869257950530034%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Name of Engineer/ Licence Number",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89%",
+        "left": "16.784452296819786%",
+        "color": "#23222a",
+        "width": "25.08833922261484%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Attached QR-code for direct access to \ndetailed project documentation and\n verification",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.875%",
+        "left": "21.73144876325088%",
+        "color": "#000",
+        "width": "13.780918727915195%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "$68,750,000",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.125%",
+        "left": "37.63250883392226%",
+        "color": "#000",
+        "width": "20.848056537102476%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "November 30, 2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.75%",
+        "left": "32.86219081272085%",
+        "color": "#000",
+        "width": "16.607773851590103%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "March 1, 2023",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.5%",
+        "left": "22.614840989399294%",
+        "color": "#000",
+        "width": "74.02826855123675%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Construction of a modern residential complex featuring 150 luxury apartments",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.625%",
+        "left": "22.43816254416961%",
+        "color": "#000",
+        "width": "33.39222614840989%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Parkside Residences Development",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16%",
+        "left": "21.37809187279152%",
+        "color": "#000",
+        "width": "17.6678445229682%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "ULC-PR-2023-501",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.125%",
+        "left": "6.5371024734982335%",
+        "color": "#000",
+        "width": "89.92932862190813%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Development has been completed in full compliance with New York City building codes, safety regulations,",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.12500000000001%",
+        "left": "45.936395759717314%",
+        "color": "#000",
+        "width": "49.11660777385159%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This certificate verifies that the Parkside Residences",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.75%",
+        "left": "16.607773851590103%",
+        "color": "#000",
+        "width": "13.780918727915195%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "$3,750,000",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.125%",
+        "left": "31.62544169611308%",
+        "color": "#000",
+        "width": "16.431095406360424%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "$65,000,000",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73%",
+        "left": "27.915194346289752%",
+        "color": "#000",
+        "width": "50.35335689045937%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Phone: (718) 555-2345 / Email: info@urbanlivingco.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.625%",
+        "left": "6.713780918727916%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "obtained from local authorities",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.875%",
+        "left": "6.713780918727916%",
+        "color": "#000",
+        "width": "89.39929328621908%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "and contractual obligations. All required inspections and occupancy permits have been successfully",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.25%",
+        "left": "66.78445229681978%",
+        "color": "#000",
+        "width": "21.37809187279152%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.75%",
+        "left": "31.272084805653712%",
+        "color": "#000",
+        "width": "21.20141342756184%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jnydz90abzhe4pj09xghgc4j-1741556809052.png",
+  "isDefault": true,
+  "createdAt": "2025-03-09T21:46:26.190Z",
+  "updatedAt": "2025-03-19T11:00:43.981Z",
+  "metadata": {
+    "lang": "en",
+    "color": "black",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jnydz90abzhe4pj09xghgc4j",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1748,
+  "categoryOrder": 515
+}

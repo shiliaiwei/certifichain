@@ -1,0 +1,262 @@
+{
+  "name": "291_Worskhop_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-04-2024-06:33:39_291_Worskhop_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.285512367491165%",
+        "left": "10.7128875%",
+        "color": "#2d2d2d",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.06113074204947%",
+        "left": "11.2934375%",
+        "color": "#828282",
+        "width": "18.690375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.09823321554771%",
+        "left": "40.6215%",
+        "color": "#2d2d2d",
+        "width": "18.381875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.8809187279152%",
+        "left": "40.47025%",
+        "color": "#2d2d2d",
+        "width": "18.67875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.8809187279152%",
+        "left": "12.954125%",
+        "color": "#2d2d2d",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MARTIN WAGNER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.35291519434629%",
+        "left": "43.776375%",
+        "color": "#2d2d2d",
+        "width": "13.913125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.101766784452295%",
+        "left": "35.277375%",
+        "color": "#2d2d2d",
+        "width": "29.063500000000005%",
+        "height": "4.770318021201414%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.97402826855124%",
+        "left": "11.7660875%",
+        "color": "#2d2d2d",
+        "width": "76.086%",
+        "height": "7.420494699646643%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed 12 hours of internal business training on\u2028'Implementing Artificial Intelligence in Marketing'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.74160777385159%",
+        "left": "12.783625%",
+        "color": "#2d2d2d",
+        "width": "74.057625%",
+        "height": "27.56183745583039%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Workshop Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "54.04558303886926%",
+        "left": "19.23625%",
+        "width": "61.3985%",
+        "height": "0.125%",
+        "backgroundColor": "#828282"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.8809187279152%",
+        "left": "72.63775%",
+        "color": "#2d2d2d",
+        "width": "16.24225%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TONYA SIMPSON",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.06113074204947%",
+        "left": "71.287125%",
+        "color": "#828282",
+        "width": "18.318375%",
+        "height": "5.830388692579505%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief marketing officer",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.43674911660779%",
+        "left": "16.50975%",
+        "width": "8.2597625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-03-2024-11:56:06_ekvpYEKIHBjC_sfSrdtNE-Vector 221.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.7886925795053%",
+        "left": "76.235375%",
+        "width": "8.79785%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-03-2024-11:56:21_iK_lL5-SC984i4FtWX8B2-Vector 222.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.662102473498233%",
+        "left": "40.776375%",
+        "width": "2.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-06:33:17_eZAgr_wAexkgPZmUeca2s-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01htz91j1knk6xc0kzvg6p2sce-1712594143327.png",
+  "isDefault": true,
+  "createdAt": "2024-04-08T16:35:43.285Z",
+  "updatedAt": "2025-09-10T14:56:30.079Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "webinar"
+  },
+  "id": "01htz91j1knk6xc0kzvg6p2sce",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2386,
+  "categoryOrder": 6
+}

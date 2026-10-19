@@ -1,0 +1,379 @@
+{
+  "name": "163_nonprofit_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/13-12-2023-12:17:08_163_nonprofit_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "32.746819787985864%",
+        "left": "21.8055%",
+        "color": "#302985",
+        "width": "57.03125%",
+        "height": "37.63250883392226%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.514911660777386%",
+        "left": "86.02%",
+        "color": "#0b073b",
+        "width": "10.2864625%",
+        "height": "6.36042402826855%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Echo Innovations",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.92897526501767%",
+        "left": "48.99125%",
+        "color": "#302985",
+        "width": "16.210125%",
+        "height": "4.593639575971731%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Eleanor Turner",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.400971731448764%",
+        "left": "21.914875%",
+        "color": "#0b073b",
+        "width": "45.053875%",
+        "height": "24.381625441696116%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Fundraising Essentials",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.18621908127208%",
+        "left": "21.89925%",
+        "color": "#0b073b",
+        "width": "17.13025%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.08197879858657%",
+        "left": "21.789875%",
+        "color": "#0b073b",
+        "width": "25.928875%",
+        "height": "4.593639575971731%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "who has successfully completed the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.81696113074206%",
+        "left": "48.975625%",
+        "color": "#424343",
+        "width": "3.835075%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.16590106007067%",
+        "left": "32.151%",
+        "color": "#0b073b",
+        "width": "15.552125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.43091872791518%",
+        "left": "53.350624999999994%",
+        "color": "#0b073b",
+        "width": "25.38025%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.838639575971733%",
+        "left": "44.803875%",
+        "color": "#302985",
+        "width": "21.678875%",
+        "height": "9.540636042402827%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "17.128003533568904%",
+        "left": "21.820448877805486%",
+        "width": "21.75%",
+        "height": "0.5300353356890459%",
+        "backgroundColor": "#302985"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.91855123674912%",
+        "left": "21.77425%",
+        "color": "#302985",
+        "width": "42.678875%",
+        "height": "19.081272084805654%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Fundraising Essentials Course",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.94858657243817%",
+        "left": "21.758625%",
+        "color": "#0b073b",
+        "width": "12.178825%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "This certificate was awarded by:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.92897526501767%",
+        "left": "75.36625%",
+        "color": "#302985",
+        "width": "18.210125%",
+        "height": "9.540636042402827%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Hannah Mitchell",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.16554770318021%",
+        "left": "75.350625%",
+        "color": "#424343",
+        "width": "12.835125%",
+        "height": "13.780918727915195%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.18798586572437%",
+        "left": "21.743%",
+        "color": "#0b073b",
+        "width": "9.1770875%",
+        "height": "6.456130742049469%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "19.042049469964663%",
+        "left": "86.342875%",
+        "width": "9.6111125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-12:13:08_LpqRprywe7TTUFlrgbcMt-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.24929328621909%",
+        "left": "39.645875%",
+        "width": "8.059025%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-12:13:13_a-BKwFpewnrC1K0bbMnaK-Vector 747.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.95371024734983%",
+        "left": "68.47225%",
+        "width": "8.203125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-12:13:18_vO1nPuNit-C1maxS2FuGl-Vector 748.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.629505300353355%",
+        "left": "88.6215%",
+        "color": "#ffffff",
+        "width": "5.053825%",
+        "height": "2.1201413427561837%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Completed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.90671378091873%",
+        "left": "89.73175%",
+        "color": "#ffffff",
+        "width": "2.803825%",
+        "height": "2.1201413427561837%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.32469964664311%",
+        "left": "83.03475%",
+        "width": "2.3941%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-12:16:29_a1SAz8Uu-g_ijGJDglgsm-Vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhg54cbeah62wxnxr1d8j4v5-1702423759678.png",
+  "isDefault": true,
+  "createdAt": "2023-12-12T23:17:28.561Z",
+  "updatedAt": "2025-03-19T10:59:59.124Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hhg54cbeah62wxnxr1d8j4v5",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2644,
+  "categoryOrder": 238
+}

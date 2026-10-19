@@ -1,0 +1,388 @@
+{
+  "name": "62_CPD_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/11-10-2023-02:18:42_62_CPD_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.014134275618375%",
+        "left": "22.086%",
+        "color": "#0a2774",
+        "width": "54.658249999999995%",
+        "height": "13.250883392226148%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.233604240282684%",
+        "left": "70.079125%",
+        "color": "#0a2774",
+        "width": "25.631874999999997%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.90812720848056%",
+        "left": "3.6567125%",
+        "color": "#0a2774",
+        "width": "12.553749999999999%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.555159010600706%",
+        "left": "10.517575%",
+        "color": "#0a2774",
+        "width": "10.7880875%",
+        "height": "7.950530035335689%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CPD \u2028                      PROVIDER LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.07879858657244%",
+        "left": "26.650875000000003%",
+        "color": "#0a2774",
+        "width": "45.28325%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "HAS SUCCESFULLY COMPLETED THE REQUIREMENTS\nOF THE OPTHALMOLOGY+COURSE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.495088339222614%",
+        "left": "34.19875%",
+        "color": "#0a2774",
+        "width": "30.432625%",
+        "height": "10.60070671378092%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.03886925795054%",
+        "left": "5.169925%",
+        "color": "#0a2774",
+        "width": "9.0683625%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "16 HOURS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.742049469964666%",
+        "left": "42.3525%",
+        "color": "#495983",
+        "width": "13.881875000000003%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED TO",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.75724381625442%",
+        "left": "72.31920199501248%",
+        "width": "9.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#7c93b1"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.2720848056537%",
+        "left": "68.721625%",
+        "color": "#0a2774",
+        "width": "16.443375%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DR FREDERICA BLAIR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.11625441696113%",
+        "left": "68.085%",
+        "color": "#495667",
+        "width": "17.443375%",
+        "height": "5.830388692579505%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "on behalf of CPD Provider",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.84452296819788%",
+        "left": "5.71875%",
+        "color": "#495983",
+        "width": "8.4306625%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CPD Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.900530035335688%",
+        "left": "38.09575%",
+        "color": "#0a2774",
+        "width": "23.432625%",
+        "height": "5.565371024734982%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.84452296819788%",
+        "left": "21.17575%",
+        "color": "#495983",
+        "width": "9.6826125%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CPD credits",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.75724381625442%",
+        "left": "5.71875%",
+        "color": "#495983",
+        "width": "8.4306625%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CPD hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.75724381625442%",
+        "left": "18.73825%",
+        "color": "#495983",
+        "width": "14.555625%",
+        "height": "5.30035335689046%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CPD reference number",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.773851590106%",
+        "left": "21.17475%",
+        "color": "#0a2774",
+        "width": "9.0683625%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "C-6765765",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.90812720848056%",
+        "left": "20.965875%",
+        "color": "#0a2774",
+        "width": "9.0683625%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "4 CREDITS",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.01766784452296%",
+        "left": "68.72075%",
+        "width": "18.11425%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-10-2023-02:16:26_aYyvTj7x1vHSj_d4X8AVE-Vector 455.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.58021201413428%",
+        "left": "42.3555%",
+        "width": "14.915000000000001%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-06:26:05_3gM5ZlLZxaeMh3V_i4gzU-\u0420\u0435\u0441\u0443\u0440\u0441 1 2.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.6713780918728%",
+        "left": "42.8715%",
+        "color": "#0a2774",
+        "width": "13.881875000000003%",
+        "height": "3.7102473498233217%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "3",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "12.366113074204947%",
+        "left": "4.515625%",
+        "width": "4.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-06:33:21_vrS0afbpGjibmUvLwYEm3-Group 18690.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hce1tqphvk8pkgrtrh9gdfab-1697474228974.png",
+  "isDefault": true,
+  "createdAt": "2023-10-11T00:22:48.787Z",
+  "updatedAt": "2025-03-19T10:59:50.641Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hce1tqphvk8pkgrtrh9gdfab",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2813,
+  "categoryOrder": 69
+}

@@ -1,0 +1,281 @@
+{
+  "name": "83_recognition_simple_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/23-09-2023-06:40:26_83_recognition_simple_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "47.33886925795053%",
+        "left": "16.294875%",
+        "color": "#232f54",
+        "width": "66.40825%",
+        "height": "14.045936395759718%",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.319787985865723%",
+        "left": "71.70025%",
+        "color": "#232f54",
+        "width": "22.381875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.676678445229683%",
+        "left": "79.153375%",
+        "color": "#232f54",
+        "width": "14.92875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.16925795053004%",
+        "left": "20.38775%",
+        "color": "#232f54",
+        "width": "18.24225%",
+        "height": "12.7208480565371%",
+        "fontSize": "19em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Grace Anthony",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.319787985865723%",
+        "left": "10.1328125%",
+        "color": "#232f54",
+        "width": "10.5380875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.3%",
+        "left": "10.955075%",
+        "color": "#495667",
+        "width": "78.961%",
+        "height": "11.130742049469964%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For active participation in the webinar\n'Conducting a Productive Brainstorm' which was held on September 22, 2023",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.12544169611307%",
+        "left": "40.6215%",
+        "color": "#232f54",
+        "width": "18.381875%",
+        "height": "4.063604240282685%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.356890459363957%",
+        "left": "18.84275%",
+        "color": "#232f54",
+        "width": "61.9385%",
+        "height": "7.6855123674911665%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.573851590106%",
+        "left": "62.686%",
+        "color": "#495667",
+        "width": "17.006875%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Marketing Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "85.38127208480564%",
+        "left": "19.766625%",
+        "width": "18.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#679bea"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "85.38127208480564%",
+        "left": "62.0645%",
+        "width": "18.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#679bea"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.52826855123675%",
+        "left": "10.1328125%",
+        "color": "#232f54",
+        "width": "13.038125%",
+        "height": "3.180212014134275%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.16925795053004%",
+        "left": "62.433499999999995%",
+        "color": "#232f54",
+        "width": "18.24225%",
+        "height": "12.7208480565371%",
+        "fontSize": "19em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "David Houston",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.35300353356891%",
+        "left": "20.388125%",
+        "color": "#495667",
+        "width": "17.006875%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.89399293286219%",
+        "left": "44.775375%",
+        "width": "10.074225%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-09-2023-06:37:07_HxBTlBMX5KcDJGDNr5MdX-Mask group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.319787985865723%",
+        "left": "6.953125%",
+        "width": "2.4375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-09-2023-06:37:21_TmvIiLYFbAYUpZtLlvHLp-Group 483.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hb1en3atz1rts8gptyq3c80w-1695487387012.png",
+  "isDefault": true,
+  "createdAt": "2023-09-23T16:41:06.140Z",
+  "updatedAt": "2025-03-19T10:59:49.757Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01hb1en3atz1rts8gptyq3c80w",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2831,
+  "categoryOrder": 696
+}

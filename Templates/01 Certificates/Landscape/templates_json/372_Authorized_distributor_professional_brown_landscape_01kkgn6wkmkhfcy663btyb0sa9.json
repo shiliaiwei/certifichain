@@ -1,0 +1,299 @@
+{
+  "name": "372_Authorized_distributor_professional_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-07-2024-02:43:50_372_Scholarship_professional_brown_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "32.38938053097345%",
+        "left": "34.625%",
+        "color": "#3d3d3d",
+        "width": "54.53224999999999%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.125%",
+        "left": "2.3857931034482758%",
+        "color": "#ffffff",
+        "width": "23.50525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.94140625%",
+        "left": "2.3862068965517236%",
+        "color": "#ffffff",
+        "width": "21.052125%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.716814159292035%",
+        "left": "34.625%",
+        "color": "#3d3d3d",
+        "width": "57.03225%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has been appointed as an Authorized Distributor for the following products under [Brand Name]:\n\n\n[Product Name 1];\n[Product Name 2];\n[Product Name 3].",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.640625%",
+        "left": "34.758620689655174%",
+        "color": "#3d3d3d",
+        "width": "54.67875%",
+        "fontSize": "37em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Of \nDealership",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.933922261484096%",
+        "left": "34.660125%",
+        "color": "#3d3d3d",
+        "width": "38.3055%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.14214159292035%",
+        "left": "34.5%",
+        "color": "#3d3d3d",
+        "width": "19.875%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Distribution region:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.0078125%",
+        "left": "2.5103448275862075%",
+        "color": "#ffffff",
+        "width": "21.125%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[YOUR \nCOMPANY \nNAME]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.16052734375%",
+        "left": "75.17241379310344%",
+        "color": "#3d3d3d",
+        "width": "18.125%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Your Name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.86725663716814%",
+        "left": "34.5%",
+        "color": "#3d3d3d",
+        "width": "21.192375%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Teritory]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.8671875%",
+        "left": "73.63855172413794%",
+        "color": "#3d3d3d",
+        "width": "21.192375%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Your Position]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.77876106194691%",
+        "left": "3.875%",
+        "color": "#ffffff",
+        "width": "21.192375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "www.yoursite.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.4609375%",
+        "left": "34.44137931034483%",
+        "color": "#3d3d3d",
+        "width": "57.03225%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate applies only to the above-listed products and does not extend to any other products under the [Brand Name] portfolio.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.382626953125%",
+        "left": "2.4827586206896552%",
+        "color": "#ffffff",
+        "width": "13.241379310344827%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate NO:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.21521484375%",
+        "left": "2.4827586206896552%",
+        "color": "#ffffff",
+        "width": "13.241379310344827%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issued on:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.5703125%",
+        "left": "2.4827586206896552%",
+        "color": "#ffffff",
+        "width": "15.03448275862069%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Expires on:[Expiration Date]",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01kkgn6wkmkhfcy663btyb0sa9-1773306887042.png",
+  "isDefault": true,
+  "createdAt": "2026-03-12T09:14:28.343Z",
+  "updatedAt": "2026-03-18T10:38:20.404Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01kkgn6wkmkhfcy663btyb0sa9",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 32,
+  "categoryOrder": 4
+}

@@ -1,0 +1,288 @@
+{
+  "name": "408_Accreditation_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-08-2024-02:20:10_408_Accreditation_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.11504424778761%",
+        "left": "18.971375%",
+        "color": "#08274b",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.46017699115045%",
+        "left": "62%",
+        "color": "#08274b",
+        "width": "24.877875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.575221238938056%",
+        "left": "13.451125%",
+        "color": "#08274b",
+        "width": "24.548875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.45132743362832%",
+        "left": "35.875%",
+        "color": "#08274b",
+        "width": "28.252%",
+        "height": "9.010600706713781%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Herebly attests that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.061946902654867%",
+        "left": "8.749000000000002%",
+        "color": "#08274b",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Accreditation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.58407079646018%",
+        "left": "15.25%",
+        "color": "#08274b",
+        "width": "15%",
+        "height": "3.7168141592920354%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brittany Walker",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.41592920353983%",
+        "left": "12.5%",
+        "color": "#08274b",
+        "width": "20.625%",
+        "height": "3.7168141592920354%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Senior Certification Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.76991150442477%",
+        "left": "65.375%",
+        "color": "#08274b",
+        "width": "23.875%",
+        "height": "3.7168141592920354%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Senior Certification Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.93805309734513%",
+        "left": "65.625%",
+        "color": "#08274b",
+        "width": "23.627%",
+        "height": "8.480565371024735%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Henry Thompson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.008849557522122%",
+        "left": "30.25%",
+        "color": "#658bae",
+        "width": "39.62500000000001%",
+        "height": "5.575221238938053%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The EcoCert Accreditation Board",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.38053097345133%",
+        "left": "38%",
+        "color": "#08274b",
+        "width": "24%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.97345132743362%",
+        "left": "72.25%",
+        "width": "9.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-2024-02:18:03_Group 19367.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.21238938053098%",
+        "left": "17%",
+        "width": "11.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-2024-02:18:29_Group 19368.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.31858407079646%",
+        "left": "42.625%",
+        "width": "14.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-2024-02:18:51_OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.53982300884957%",
+        "left": "44.125%",
+        "color": "#08274b",
+        "width": "11.875%",
+        "height": "6.371681415929204%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFIED\nSTANDARDS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.78761061946904%",
+        "left": "47.125%",
+        "color": "#08274b",
+        "width": "5.875%",
+        "height": "2.920353982300885%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j5dj8nqbf1hpqrce7qvw6xxc-1723811399016.png",
+  "isDefault": true,
+  "createdAt": "2024-08-16T12:23:13.901Z",
+  "updatedAt": "2025-03-19T11:00:25.171Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j5dj8nqbf1hpqrce7qvw6xxc",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2149,
+  "categoryOrder": 646
+}

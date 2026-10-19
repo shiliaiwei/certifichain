@@ -1,0 +1,243 @@
+{
+  "name": "284_Doula_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-03-2024-11:40:47_284_Doula_professional_blue_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.6435%",
+        "left": "11.76565371024735%",
+        "color": "#323232",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.375%",
+        "left": "19.31325088339223%",
+        "color": "#323232",
+        "width": "21.786572438162544%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.5195%",
+        "left": "35.152120141342756%",
+        "color": "#2d2d2d",
+        "width": "29.508127208480563%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.370125%",
+        "left": "37.56342756183746%",
+        "color": "#323232",
+        "width": "24.685335689045935%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.6475%",
+        "left": "19.960600706713784%",
+        "color": "#323232",
+        "width": "20.490636042402826%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Michelle Bowen",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.55375%",
+        "left": "33.343816254416964%",
+        "color": "#323232",
+        "width": "32.7821554770318%",
+        "height": "3.5839875%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.941375%",
+        "left": "11.76429328621908%",
+        "color": "#323232",
+        "width": "76.086%",
+        "height": "15.901060070671377%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully trained in: breathing techniques, relaxation and pain management; preparation for labor, including birth plan\u2028and i\nntervention issues.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.054687499999999%",
+        "left": "12.782314487632506%",
+        "color": "#323232",
+        "width": "74.057625%",
+        "height": "27.56183745583039%",
+        "fontSize": "81em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "BIRTH DOULA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.755875%",
+        "left": "60.15901060070671%",
+        "color": "#323232",
+        "width": "20.313957597173147%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.375%",
+        "left": "60.748409893992935%",
+        "color": "#323232",
+        "width": "19.136395759717313%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.98825%",
+        "left": "66.70583038869258%",
+        "width": "7.221731448763251%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-03-2024-11:32:44_VgsWnmVgWUplj44gp6VaM-Group 18690.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.496125%",
+        "left": "18.964664310954063%",
+        "width": "22.48233215547703%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-03-2024-11:33:03_ch2VuxVx7GzgmWvLeNSmZ-XMLID_1_.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.000000000000002%",
+        "left": "12.782314487632506%",
+        "color": "#323232",
+        "width": "74.057625%",
+        "height": "27.56183745583039%",
+        "fontSize": "81em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hshjtzpjzc7wtfdsjwrd95kf-1711060909793.png",
+  "isDefault": true,
+  "createdAt": "2024-03-21T22:41:49.782Z",
+  "updatedAt": "2025-03-19T11:00:12.543Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hshjtzpjzc7wtfdsjwrd95kf",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2399,
+  "categoryOrder": 745
+}

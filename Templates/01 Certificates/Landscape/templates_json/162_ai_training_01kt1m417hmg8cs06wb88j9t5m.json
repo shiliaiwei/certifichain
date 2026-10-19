@@ -1,0 +1,236 @@
+{
+  "name": "162_ai_training",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1123 794\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><g clip-path=\"url(#clip0_6187_3)\"><rect width=\"1123\" height=\"794\" fill=\"white\"/><mask id=\"mask0_6187_3\" style=\"mask-type:luminance\" maskUnits=\"userSpaceOnUse\" x=\"-1\" y=\"0\" width=\"1125\" height=\"794\"><path d=\"M1123.59 0.784727L-0.445312 0L-0.999081 793.215L1123.04 794L1123.59 0.784727Z\" fill=\"white\"/></mask><g mask=\"url(#mask0_6187_3)\"><path d=\"M1134.96 -10.5368L-11.793 -11.3374L-12.3626 804.55L1134.39 805.351L1134.96 -10.5368Z\" fill=\"#F9F9F9\"/><g opacity=\"0.3\"><mask id=\"mask1_6187_3\" style=\"mask-type:luminance\" maskUnits=\"userSpaceOnUse\" x=\"-13\" y=\"-11\" width=\"1149\" height=\"818\"><path d=\"M1135.18 -9.85616L-11.5664 -10.6567L-12.136 805.231L1134.61 806.031L1135.18 -9.85616Z\" fill=\"white\"/></mask><g mask=\"url(#mask1_6187_3)\"><path d=\"M561.359 487.985L471.031 397.684L561.533 307.517L651.86 397.818L561.359 487.985Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M561.319 528.132L430.805 397.657L561.56 267.37L692.088 397.858L561.319 528.132Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M561.293 568.279L390.578 397.617L561.601 227.222L732.316 397.884L561.293 568.279Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M561.254 608.426L350.352 397.59L561.641 187.075L772.531 397.911L561.254 608.426Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M561.215 648.573L310.125 397.563L561.682 146.928L812.758 397.951L561.215 648.573Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M561.174 688.72L269.91 397.524L561.708 106.781L852.985 397.978L561.174 688.72Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M561.134 728.867L229.684 397.497L561.749 66.634L893.213 398.004L561.134 728.867Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M561.104 769.015L189.453 397.47L561.786 26.4872L933.437 398.045L561.104 769.015Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M561.065 809.162L149.227 397.43L561.826 -13.6599L973.665 398.071L561.065 809.162Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M561.025 849.309L109 397.403L561.854 -53.8072L1013.88 398.098L561.025 849.309Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.986 889.456L68.7734 397.377L561.895 -93.9409L1054.11 398.138L560.986 889.456Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.958 929.603L28.5586 397.336L561.934 -134.088L1094.33 398.165L560.958 929.603Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.919 969.736L-11.668 397.31L561.974 -174.235L1134.56 398.191L560.919 969.736Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.88 1009.88L-51.8945 397.283L562.002 -214.382L1174.79 398.232L560.88 1009.88Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.84 1050.03L-92.1211 397.243L562.043 -254.53L1215 398.258L560.84 1050.03Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.814 1090.18L-132.348 397.216L562.083 -294.676L1255.23 398.285L560.814 1090.18Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.771 1130.32L-172.578 397.189L562.12 -334.824L1295.46 398.325L560.771 1130.32Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.734 1170.47L-212.789 397.149L562.163 -374.971L1335.69 398.352L560.734 1170.47Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.694 1210.62L-253.016 397.123L562.191 -415.117L1375.91 398.379L560.694 1210.62Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.664 1250.77L-293.246 397.096L562.228 -455.265L1416.14 398.405L560.664 1250.77Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.625 1290.91L-333.473 397.056L562.268 -495.412L1456.35 398.445L560.625 1290.91Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/><path d=\"M560.586 1331.06L-373.699 397.029L562.309 -535.559L1496.58 398.472L560.586 1331.06Z\" stroke=\"#84ABF6\" stroke-width=\"0.668005\" stroke-miterlimit=\"10\"/></g></g></g><rect x=\"42\" y=\"42\" width=\"1039\" height=\"709\" stroke=\"#405EC8\" stroke-width=\"10\"/><rect x=\"52\" y=\"52.0981\" width=\"1019\" height=\"688.803\" stroke=\"#92B1ED\" stroke-width=\"10\"/></g><defs><clipPath id=\"clip0_6187_3\"><rect width=\"1123\" height=\"794\" fill=\"white\"/></clipPath></defs></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.7023%",
+        "left": "7.97665%",
+        "color": "#212223",
+        "width": "83.89513108614233%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "44.3966%",
+        "left": "14.2903%",
+        "width": "71.4107365792759%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#212223"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.623%",
+        "left": "14.3486%",
+        "width": "17.72784019975031%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#212223"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.8825%",
+        "left": "68.0002%",
+        "width": "17.72784019975031%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#212223"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.2961%",
+        "left": "12.7054%",
+        "color": "#212223",
+        "width": "74.53183520599251%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.268%",
+        "left": "39.191%",
+        "color": "#212223",
+        "width": "21.473158551810236%",
+        "fontSize": "14em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.4864%",
+        "left": "24.3432%",
+        "color": "#212223",
+        "width": "51.186017478152316%",
+        "fontSize": "21em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed a Course on UX/UI Design.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.9106%",
+        "left": "21.6393%",
+        "color": "#212223",
+        "width": "56.67915106117354%",
+        "fontSize": "14em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your attention to detail, analytical approach to tasks, and ability to translate your ideas into a user-friendly UI were key components to the successful and effective completion of this course.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.4156%",
+        "left": "17.508%",
+        "color": "#212223",
+        "width": "11.235955056179774%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issue date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.6549%",
+        "left": "70.9274%",
+        "color": "#212223",
+        "width": "11.860174781523096%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jack Smith",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.6428%",
+        "left": "13.5388%",
+        "color": "#212223",
+        "width": "19.350811485642947%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.9719%",
+        "left": "70.612%",
+        "color": "#212223",
+        "width": "12.484394506866417%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Smith",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.12106194690264%",
+        "left": "43.3625468164794%",
+        "width": "13.108614232209737%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-06-2026-02:48:39_group_21266.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.68743362831859%",
+        "left": "46.23395755305867%",
+        "color": "#313131",
+        "width": "7.240948813982522%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2026",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01kt1m417hmg8cs06wb88j9t5m-1780318945087.png",
+  "isDefault": true,
+  "createdAt": "2026-06-01T12:56:42.484Z",
+  "updatedAt": "2026-06-03T10:35:10.053Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01kt1m417hmg8cs06wb88j9t5m",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 71,
+  "categoryOrder": 20
+}

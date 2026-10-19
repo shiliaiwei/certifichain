@@ -1,0 +1,291 @@
+{
+  "name": "101_training_formal_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/18-10-2023-12:54:04_101_training_formal_green_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "44.151375%",
+        "left": "21.022614840989398%",
+        "color": "#637b5e",
+        "width": "57.60812720848057%",
+        "height": "7.9638625%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.36725%",
+        "left": "12.831272084805653%",
+        "color": "#637b5e",
+        "width": "22.11095406360424%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.163125%",
+        "left": "59.63038869257951%",
+        "color": "#637b5e",
+        "width": "31.871201413427556%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.752%",
+        "left": "70.84257950530035%",
+        "color": "#637b5e",
+        "width": "17.868021201413427%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.423875%",
+        "left": "21.13922261484099%",
+        "color": "#637b5e",
+        "width": "57.489575971731455%",
+        "height": "6.3711%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "For successful completion of the Corporate Seminar on Microsoft Excel.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.334%",
+        "left": "33.92508833922261%",
+        "color": "#637b5e",
+        "width": "32.298939929328625%",
+        "height": "6.638674999999999%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "We hereby present this certificate to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.828125%",
+        "left": "10.419893992932861%",
+        "color": "#637b5e",
+        "width": "78.8135%",
+        "height": "11.395759717314489%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.163125%",
+        "left": "15.848604240282688%",
+        "color": "#637b5e",
+        "width": "16.914204946996467%",
+        "height": "2.9209%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Georgia Day",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "52.8565%",
+        "left": "14.438621908127208%",
+        "width": "71.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#d2d9bb"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.419875%",
+        "left": "13.49381625441696%",
+        "color": "#637b5e",
+        "width": "21.621024734982335%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Sales Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.298875%",
+        "left": "66.87632508833921%",
+        "color": "#637b5e",
+        "width": "17.381875%",
+        "height": "6.890459363957597%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded on",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "70.473625%",
+        "left": "12.808480565371024%",
+        "width": "23.345053003533568%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#d2d9bb"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "70.749%",
+        "left": "64.33657243816255%",
+        "width": "22.815017667844526%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#d2d9bb"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.577625%",
+        "left": "42.08462897526502%",
+        "width": "15.978356890459363%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-12:43:20_CYCLm3iYPq7pxi8eypjgX-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.954125%",
+        "left": "45.05512367491166%",
+        "color": "#6b6455",
+        "width": "10.0389222614841%",
+        "height": "3.9824249999999997%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.94725%",
+        "left": "66.57738515901059%",
+        "width": "2.6846819787985865%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-12:44:31_MBYcxxS7lgSqvfEgAO6kB-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.875%",
+        "left": "10.214893992932863%",
+        "color": "#637b5e",
+        "width": "78.8135%",
+        "height": "11.395759717314489%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hd16pytbdrp487hp2xeajh3w-1697626450215.png",
+  "isDefault": true,
+  "createdAt": "2023-10-18T10:53:42.094Z",
+  "updatedAt": "2025-03-19T10:59:52.960Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "training"
+  },
+  "id": "01hd16pytbdrp487hp2xeajh3w",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2767,
+  "categoryOrder": 385
+}

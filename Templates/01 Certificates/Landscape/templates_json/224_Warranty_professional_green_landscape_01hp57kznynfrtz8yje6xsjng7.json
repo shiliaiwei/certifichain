@@ -1,0 +1,308 @@
+{
+  "name": "224_Warranty_professional_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-02-2024-09:40:46_224_Warranty_professional_green_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "23.012367491166078%",
+        "left": "5.542975%",
+        "color": "#ffffff",
+        "width": "1.25%",
+        "height": "16.96113074204947%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.45053003533569%",
+        "left": "23.683625%",
+        "color": "#839882",
+        "width": "25.501999999999995%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.593639575971732%",
+        "left": "8.963825%",
+        "color": "#2f2f2f",
+        "width": "81.127%",
+        "height": "18.021201413427562%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Guarantees the integrity of the coating and the quality of work performed excluding the appearance of pockets of penetrating corrosion on the areas of the body specified in the scheme of car treatment during the entire warranty period.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.420494699646643%",
+        "left": "9.903325%",
+        "color": "#2f2f2f",
+        "width": "80.1875%",
+        "height": "22.261484098939928%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF WARRANTY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.674911660777383%",
+        "left": "30.747125000000004%",
+        "color": "#839882",
+        "width": "34.375%",
+        "height": "9.010600706713781%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Warranty conditions",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.92226148409894%",
+        "left": "30.451125%",
+        "color": "#dde9dd",
+        "width": "16.377%",
+        "height": "4.063604240282685%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "+1 (294) 046 - 8394",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.053003533568905%",
+        "left": "54.5625%",
+        "color": "#839882",
+        "width": "19.75%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.82102473498233%",
+        "left": "66.997125%",
+        "color": "#2f2f2f",
+        "width": "18.877%",
+        "height": "9.540636042402827%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jekson Arthurs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.50300353356891%",
+        "left": "69.622125%",
+        "color": "#839882",
+        "width": "13.627%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Customer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.92226148409894%",
+        "left": "49.372125%",
+        "color": "#dde9dd",
+        "width": "21.125%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "www.yourwebsite.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.90106007067138%",
+        "left": "15.8105%",
+        "color": "#2f2f2f",
+        "width": "18.877%",
+        "height": "9.540636042402827%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Robert Edwards",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.45883392226149%",
+        "left": "18.434625%",
+        "color": "#839882",
+        "width": "13.627%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Repairman",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "58.212720848056534%",
+        "left": "43.232875%",
+        "width": "13.160125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-09:38:05_rRLr9_bOU9ExoZB146Gub-Capa 1.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.51183745583039%",
+        "left": "45.312%",
+        "color": "#100032",
+        "width": "9%",
+        "height": "4.770318021201414%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "QUALITY ASSURANCE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "57.329328621908125%",
+        "left": "20.67825%",
+        "width": "9.13965%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-09:39:17_uTzcq8pNtrvqZI9OX8oiC-Vector 459.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.33162544169611%",
+        "left": "71.806625%",
+        "width": "9.2587875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-09:39:30_kkLkn52T6bMqqtiS1vt1e-Vector 497.png"
+    },
+    {
+      "type": "vertical-line",
+      "style": {
+        "top": "83.09964664310954%",
+        "left": "48.872125%",
+        "width": "0.25%",
+        "height": "4.593639575971731%",
+        "backgroundColor": "#dde9dd"
+      }
+    },
+    {
+      "type": "vertical-line",
+      "style": {
+        "top": "45.40636042402827%",
+        "left": "50.059625%",
+        "width": "0.25%",
+        "height": "4.593639575971731%",
+        "backgroundColor": "#839882"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hp57kznynfrtz8yje6xsjng7-1707425849952.png",
+  "isDefault": true,
+  "createdAt": "2024-02-08T20:47:47.392Z",
+  "updatedAt": "2025-03-19T11:00:06.200Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hp57kznynfrtz8yje6xsjng7",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2522,
+  "categoryOrder": 806
+}

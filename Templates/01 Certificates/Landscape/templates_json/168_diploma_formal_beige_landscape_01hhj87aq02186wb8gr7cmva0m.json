@@ -1,0 +1,261 @@
+{
+  "name": "168_diploma_formal_beige_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/13-12-2023-07:49:43_168_diploma_formal_beige_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.92879858657244%",
+        "left": "25.2585%",
+        "color": "#493732",
+        "width": "49.157875%",
+        "height": "11.66077738515901%",
+        "fontSize": "51em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.31978798586573%",
+        "left": "34.4375%",
+        "color": "#493732",
+        "width": "31.00525%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.46996466431096%",
+        "left": "65.61175%",
+        "color": "#493732",
+        "width": "23.677125%",
+        "height": "4.240282685512367%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.72402826855124%",
+        "left": "36.1485%",
+        "color": "#493732",
+        "width": "27.378125000000004%",
+        "height": "7.420494699646643%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.4818904593639575%",
+        "left": "10.49375%",
+        "color": "#493732",
+        "width": "78.6875%",
+        "height": "24.91166077738516%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF COMPLETION ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.95759717314488%",
+        "left": "12.69225%",
+        "color": "#493732",
+        "width": "18.284375%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.911660777385165%",
+        "left": "17.18525%",
+        "color": "#493732",
+        "width": "65.253125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Continuing Education  'Information Technologies in Education'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.96201413427562%",
+        "left": "43.4625%",
+        "color": "#493732",
+        "width": "13.005250000000002%",
+        "height": "3.180212014134275%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "19.09893992932862%",
+        "left": "47.95%",
+        "width": "4.0796875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-07:44:07_nYUgyLFQ7JsFIyovduW8B-Group 18747.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.94699646643109%",
+        "left": "44.164875%",
+        "width": "11.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-07:44:10_NQRMp87dxVf0K-um9gDt1-Group 398.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.92226148409894%",
+        "left": "68.332875%",
+        "color": "#493732",
+        "width": "18.284375%",
+        "height": "6.978798586572438%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate issue date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.50530035335689%",
+        "left": "15.10475%",
+        "color": "#493732",
+        "width": "13.409375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lewis Goodman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.90583038869258%",
+        "left": "46.339125%",
+        "color": "#493732",
+        "width": "7.253124999999999%",
+        "height": "2.1201413427561837%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPLETED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.43250883392227%",
+        "left": "47.651625%",
+        "color": "#493732",
+        "width": "4.6265625%",
+        "height": "2.385159010600707%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhj87aq02186wb8gr7cmva0m-1702493399798.png",
+  "isDefault": true,
+  "createdAt": "2023-12-13T18:49:59.778Z",
+  "updatedAt": "2025-03-19T10:59:59.593Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "formal",
+    "category": "completion"
+  },
+  "id": "01hhj87aq02186wb8gr7cmva0m",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2634,
+  "categoryOrder": 888
+}

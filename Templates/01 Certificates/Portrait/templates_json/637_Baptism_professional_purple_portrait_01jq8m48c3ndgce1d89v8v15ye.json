@@ -1,0 +1,198 @@
+{
+  "name": "637_Baptism_professional_purple_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-03-2025-08:10:02_637_baptism_professional_purple_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.36015625%",
+        "left": "7.06713780918728%",
+        "color": "#452275",
+        "width": "65.7243816254417%",
+        "height": "auto",
+        "fontSize": "44em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.375%",
+        "left": "7.06713780918728%",
+        "width": "25.97173144876325%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-03-2025-07:44:07_johnathan_michaels.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.3953125%",
+        "left": "7.06713780918728%",
+        "width": "19.257950530035338%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-03-2025-07:44:20_grace_williams.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.875%",
+        "left": "7.06713780918728%",
+        "width": "22.084805653710244%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-03-2025-07:44:31_logo.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.000000000000002%",
+        "left": "7.06713780918728%",
+        "color": "#452275",
+        "width": "86.57243816254417%",
+        "height": "auto",
+        "fontSize": "52em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "BAPTISMAL CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.004687500000003%",
+        "left": "7.06713780918728%",
+        "color": "#252525",
+        "width": "17.314487632508836%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.5234375%",
+        "left": "7.06713780918728%",
+        "color": "#252525",
+        "width": "50.17667844522968%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Along with fellow believers, received the sacrament of Holy Baptism on the 06 of September, 2024, at Holy Trinity Cathedral, New York, NY,\u2028as part of \na sacred gathering of faith, renewal, and commitment to Christ.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.879687499999996%",
+        "left": "7.06713780918728%",
+        "color": "#252525",
+        "width": "13.604240282685511%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.879687499999996%",
+        "left": "20.671378091872793%",
+        "color": "#252525",
+        "width": "20.671378091872793%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.5%",
+        "left": "7.06713780918728%",
+        "color": "#252525",
+        "width": "20.49469964664311%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Officiating Minister",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.375%",
+        "left": "7.06713780918728%",
+        "color": "#252525",
+        "width": "21.908127208480565%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Church Representative",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jq8m48c3ndgce1d89v8v15ye-1742973009127.png",
+  "isDefault": true,
+  "createdAt": "2025-03-26T07:02:06.981Z",
+  "updatedAt": "2025-04-01T13:44:34.742Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jq8m48c3ndgce1d89v8v15ye",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1690,
+  "categoryOrder": 487
+}

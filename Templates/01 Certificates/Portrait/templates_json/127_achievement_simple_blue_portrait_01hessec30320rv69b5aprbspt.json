@@ -1,0 +1,315 @@
+{
+  "name": "127_achievement_simple_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/09-11-2023-11:18:18_127_achievement_simple_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.870125%",
+        "left": "20.679681978798587%",
+        "color": "#232f54",
+        "width": "61.46484098939929%",
+        "height": "6.636725%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.0752%",
+        "left": "62.70989399293286%",
+        "color": "#232f54",
+        "width": "24.707420494699644%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.0752%",
+        "left": "63.7512367491166%",
+        "color": "#232f54",
+        "width": "22.62455830388693%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.74805%",
+        "left": "18.85070671378092%",
+        "color": "#232f54",
+        "width": "15.427614840989401%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.32325%",
+        "left": "18.025971731448763%",
+        "color": "#232f54",
+        "width": "62.53321554770318%",
+        "height": "8.7627%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For special achievements in the area of\nEnvironmental Protection and Control of Emissions into the Atmospheric Air.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.05475%",
+        "left": "24.65618374558304%",
+        "color": "#232f54",
+        "width": "50.158657243816265%",
+        "height": "7.567387500000001%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.292%",
+        "left": "33.88780918727915%",
+        "color": "#232f54",
+        "width": "30.809717314487635%",
+        "height": "3.0527375%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.918%",
+        "left": "14.433798586572438%",
+        "color": "#232f54",
+        "width": "21.0660777385159%",
+        "height": "2.2568375%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Thomasine Mosley",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.6611375%",
+        "left": "18.849469964664312%",
+        "color": "#232f54",
+        "width": "15.60429328621908%",
+        "height": "1.9902375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.63775%",
+        "left": "36.760070671378095%",
+        "color": "#232f54",
+        "width": "25.949646643109542%",
+        "height": "1.7255875%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "www.yourcompany.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.918%",
+        "left": "67.33374558303886%",
+        "color": "#232f54",
+        "width": "15.943374999999998%",
+        "height": "3.0035335689045937%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Willa Payne",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.13675%",
+        "left": "16.993604240282686%",
+        "color": "#232f54",
+        "width": "15.943374999999998%",
+        "height": "3.0035335689045937%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Ecologist",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.13675%",
+        "left": "65.65459363957598%",
+        "color": "#232f54",
+        "width": "19.29805653710247%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company Director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.6108375%",
+        "left": "12.243957597173145%",
+        "width": "5.619204946996467%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-02:36:06_wkYf-GLJmHlxZZmR8lENu-Group 18750.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.002875%",
+        "left": "43.47809187279152%",
+        "width": "12.511042402826856%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-02:36:24_390nq-wEy58tXTpP3j6g5-Group 391.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.72075%",
+        "left": "66.19151943462897%",
+        "width": "17.743816254416963%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-02:36:50_18-JonQs7uUANNgZsDRhz-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.131875%",
+        "left": "15.562844522968197%",
+        "width": "18.1482332155477%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-02:37:17_F1KJAszTY6cOPASxPr2yk-Vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.625%",
+        "left": "9.01756183745583%",
+        "color": "#232f54",
+        "width": "81.432625%",
+        "height": "10.86572438162544%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hessec30320rv69b5aprbspt-1699525111919.png",
+  "isDefault": true,
+  "createdAt": "2023-11-09T10:18:31.906Z",
+  "updatedAt": "2025-03-19T10:59:55.699Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "achievement"
+  },
+  "id": "01hessec30320rv69b5aprbspt",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2745,
+  "categoryOrder": 279
+}

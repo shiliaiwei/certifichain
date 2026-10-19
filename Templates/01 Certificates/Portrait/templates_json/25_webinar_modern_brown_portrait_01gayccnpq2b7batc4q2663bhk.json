@@ -1,0 +1,327 @@
+{
+  "name": "25_webinar_modern_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-08-22-9:41:13_Modern portrait background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24.65625%",
+        "left": "14.444151943462899%",
+        "color": "#cb9b46",
+        "width": "70.75565371024734%",
+        "height": "8.7607375%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.372125%",
+        "left": "12.721537102473498%",
+        "color": "#3e3e3e",
+        "width": "74.20088339222615%",
+        "height": "13.072249999999999%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate for completion of Your Webinar name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.74225%",
+        "left": "25.262190812720846%",
+        "color": "#717171",
+        "width": "19.257950530035338%",
+        "height": "3.6152375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO & Director of Your Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.72075%",
+        "left": "18.109540636042404%",
+        "color": "#3e3e3e",
+        "width": "63.25088339222616%",
+        "height": "5.0058625%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Elementum auctor eget montes, interdum porttitor.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.125%",
+        "left": "25.176678445229683%",
+        "color": "#3e3e3e",
+        "width": "49.11660777385159%",
+        "height": "3.6249999999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "IS PROUDLY PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.630875%",
+        "left": "36.84434628975265%",
+        "color": "#3e3e3e",
+        "width": "18.370494699646645%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.412125%",
+        "left": "55.39275618374558%",
+        "color": "#3e3e3e",
+        "width": "21.374028268551235%",
+        "height": "2.2246125%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.840875%",
+        "left": "60.94717314487633%",
+        "color": "#3e3e3e",
+        "width": "24.907597173144875%",
+        "height": "2.502925%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.875%",
+        "left": "23.32155477031802%",
+        "color": "#3e3e3e",
+        "width": "23.32155477031802%",
+        "height": "5.125%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ROBIN ROBBINS",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.25%",
+        "left": "23.674911660777383%",
+        "width": "22.968197879858657%",
+        "height": "0.125%",
+        "backgroundColor": "#717171"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.25%",
+        "left": "55.830388692579504%",
+        "width": "22.968197879858657%",
+        "height": "0.125%",
+        "backgroundColor": "#717171"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.25%",
+        "left": "38.87473498233216%",
+        "width": "21.89840989399293%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-08-22-5:12:40_Group 240.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77%",
+        "left": "55.12367491166078%",
+        "color": "#3e3e3e",
+        "width": "23.32155477031802%",
+        "height": "5.125%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CAMILA GREENE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.875%",
+        "left": "57.50883392226148%",
+        "color": "#717171",
+        "width": "19.257950530035338%",
+        "height": "3.6152375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager of Your Company name ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.875%",
+        "left": "22.968197879858657%",
+        "color": "#3e3e3e",
+        "width": "23.32155477031802%",
+        "height": "5.125%",
+        "fontSize": "33em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Robbins",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.840875%",
+        "left": "36.57791519434629%",
+        "color": "#3e3e3e",
+        "width": "24.554240282685512%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ISSUED ON:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "88.807625%",
+        "left": "26.124911660777382%",
+        "width": "9.566855123674912%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-08-22-5:36:54_Group.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "34.5%",
+        "left": "24.99858657243816%",
+        "width": "50%",
+        "height": "0.125%",
+        "backgroundColor": "#cb9b46"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.839875%",
+        "left": "55.47703180212014%",
+        "color": "#3e3e3e",
+        "width": "23.32155477031802%",
+        "height": "5.125%",
+        "fontSize": "33em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Greene",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12929-1661024492726.png",
+  "isDefault": true,
+  "createdAt": "2022-08-20T19:41:31.223Z",
+  "updatedAt": "2025-03-19T10:59:44.742Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "modern",
+    "category": "webinar"
+  },
+  "id": "01gayccnpq2b7batc4q2663bhk",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2923,
+  "categoryOrder": 41
+}

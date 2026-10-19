@@ -1,0 +1,300 @@
+{
+  "name": "392_Donation_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/03-08-2024-09:36:29_392_Donation_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.5773851590106%",
+        "left": "18.50775%",
+        "color": "#23345d",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.220247349823322%",
+        "left": "71.872125%",
+        "color": "#f8db8f",
+        "width": "24.877875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.0035335689045937%",
+        "left": "3.011725%",
+        "color": "#f8db8f",
+        "width": "24.548875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.239752650176676%",
+        "left": "16.4365%",
+        "color": "#23345d",
+        "width": "66.752%",
+        "height": "9.540636042402827%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has donated $2,500 to the Global Health Outreach on medical aid to underserved communities on the 1st of December, 2024.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.3404593639576%",
+        "left": "35.835%",
+        "color": "#23345d",
+        "width": "28.252%",
+        "height": "9.010600706713781%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "2.6487985865724384%",
+        "left": "8.5615%",
+        "color": "#f8db8f",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.8899293286219%",
+        "left": "6.059575%",
+        "color": "#23345d",
+        "width": "23.627%",
+        "height": "8.480565371024735%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Julia Gamuz",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.04187279151942%",
+        "left": "10.497075%",
+        "color": "#23345d",
+        "width": "14.752%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Executive Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.838233215547703%",
+        "left": "31.811625%",
+        "color": "#f8db8f",
+        "width": "37.502%",
+        "height": "9.89399293286219%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of Appreciation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.04187279151942%",
+        "left": "70.122125%",
+        "color": "#23345d",
+        "width": "19.377%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Head of Donor Relations",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.8899293286219%",
+        "left": "67.997125%",
+        "color": "#23345d",
+        "width": "23.627%",
+        "height": "8.480565371024735%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Catlin Cotler",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "51.85512367491166%",
+        "left": "38.77805486284289%",
+        "width": "21.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#c3af67"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "82.86148409893993%",
+        "left": "71.872125%",
+        "width": "16%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#c3af67"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.21484098939929%",
+        "left": "9.998075%",
+        "width": "16%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#c3af67"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.87985865724382%",
+        "left": "10.31445%",
+        "width": "15.683624999999997%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-2024-09:34:55_3FFXTT0w9BcM5GT-wUEB5-Group 19201.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.87985865724382%",
+        "left": "73.6875%",
+        "width": "12.2461%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-2024-09:35:09_9E2GY9Qjlh3_njzcXqZAR-Group 19200.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.05865724381626%",
+        "left": "43.293375%",
+        "width": "13.038125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-2024-09:35:26_ERkGIHvrd2grA_W7iNUfm-OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.56537102473497%",
+        "left": "44.3735%",
+        "color": "#23345d",
+        "width": "10.87695%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED\nDONOR",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j4cw08ewmhphgktepw780sn4-1722713907697.png",
+  "isDefault": true,
+  "createdAt": "2024-08-03T19:38:27.678Z",
+  "updatedAt": "2025-03-19T11:00:23.347Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j4cw08ewmhphgktepw780sn4",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2183,
+  "categoryOrder": 678
+}

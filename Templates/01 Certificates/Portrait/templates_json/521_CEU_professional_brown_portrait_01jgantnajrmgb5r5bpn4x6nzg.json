@@ -1,0 +1,254 @@
+{
+  "name": "521_CEU_professional_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/30-12-2024-03:36:31_521_ceu_professional_brown_portrait2x.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.6828125%",
+        "left": "9.621289752650178%",
+        "color": "#9e622f",
+        "width": "81.125%",
+        "height": "auto",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "39.25%",
+        "left": "16.973233215547705%",
+        "width": "66.07773851590106%",
+        "height": "0.125%",
+        "backgroundColor": "#cb8245"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.709375%",
+        "left": "69.26678445229683%",
+        "width": "15.724381625441698%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/30-12-2024-03:02:51_image_6.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "70.5%",
+        "left": "39.75265017667844%",
+        "width": "20.318021201413426%",
+        "height": "0.125%",
+        "backgroundColor": "#cb8245"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.125%",
+        "left": "37.80918727915194%",
+        "width": "24.204946996466433%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/30-12-2024-03:05:06_group_19782.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.25%",
+        "left": "15.19434628975265%",
+        "width": "34.62897526501767%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/30-12-2024-03:05:29_group_18797.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.25%",
+        "left": "12.819081272084809%",
+        "color": "#9e622f",
+        "width": "74.38162544169612%",
+        "height": "auto",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Completion",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.125%",
+        "left": "16.96113074204947%",
+        "color": "#c58f5f",
+        "width": "66.125%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has successfully completed the following 3-Hour Course:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.5%",
+        "left": "41.69611307420495%",
+        "color": "#9e622f",
+        "width": "16.607773851590103%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "NFPA 70E",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.738275%",
+        "left": "47.52539752650176%",
+        "color": "#9e622f",
+        "width": "5.30035335689046%",
+        "height": "auto",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "on",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.275000000000006%",
+        "left": "34.70733215547703%",
+        "color": "#9e622f",
+        "width": "30.742049469964673%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.99999999999999%",
+        "left": "39.399293286219084%",
+        "color": "#9e622f",
+        "width": "21.378091872791526%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "13 April 2023",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.375%",
+        "left": "17.314487632508836%",
+        "color": "#c58f5f",
+        "width": "66.125%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "And is hereby awarded 3.0 Continuing Education Unit(s)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.75%",
+        "left": "15.01766784452297%",
+        "color": "#cb824d",
+        "width": "34.80565371024735%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "123 Seaside Avenue, Miami, FL 33139",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.25%",
+        "left": "38.33922261484099%",
+        "color": "#cb824d",
+        "width": "23.674911660777383%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Administrator",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jgantnajrmgb5r5bpn4x6nzg-1735526258102.png",
+  "isDefault": true,
+  "createdAt": "2024-12-30T02:20:25.812Z",
+  "updatedAt": "2025-03-19T11:00:36.407Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jgantnajrmgb5r5bpn4x6nzg",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1922,
+  "categoryOrder": 611
+}

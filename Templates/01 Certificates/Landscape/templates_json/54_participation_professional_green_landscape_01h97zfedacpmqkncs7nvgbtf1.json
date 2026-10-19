@@ -1,0 +1,381 @@
+{
+  "name": "54_participation_professional_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/01-09-2023-10:54:53_54_participation_professional_green_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.67667844522968%",
+        "left": "15.818374999999998%",
+        "color": "#1d502b",
+        "width": "66.40825%",
+        "height": "14.045936395759718%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.47667844522968%",
+        "left": "28.763749999999998%",
+        "color": "#1d502b",
+        "width": "20.506875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.3%",
+        "left": "65.815375%",
+        "color": "#1d502b",
+        "width": "20.80375%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.98763250883393%",
+        "left": "12.4530625%",
+        "color": "#1d502b",
+        "width": "18.74225%",
+        "height": "5.830388692579505%",
+        "fontSize": "22em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "William Adams",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.464611307420495%",
+        "left": "44.632875%",
+        "color": "#1d502b",
+        "width": "14.288125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company Logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.522614840989405%",
+        "left": "12.3320625%",
+        "color": "#669f7d",
+        "width": "73.836%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For active participation in discussions, activities, and any collaborative projects undertaken during the \u201cUnveiling the Wonders of Science\u201d conference. We extend our heartfelt congratulations and appreciation for his valued participation.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.02438162544169%",
+        "left": "9.8515875%",
+        "color": "#669f7d",
+        "width": "23.943375%",
+        "height": "3.180212014134275%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "COO Company Name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.659399293286219%",
+        "left": "27.15825%",
+        "color": "#1d502b",
+        "width": "45.307625%",
+        "height": "10.60070671378092%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PARTICIPATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.52473498233216%",
+        "left": "33.933625%",
+        "color": "#669f7d",
+        "width": "31.756875%",
+        "height": "4.063604240282685%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is granted to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.3%",
+        "left": "15.007249999999999%",
+        "color": "#669f7d",
+        "width": "13.631875%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.113074204946997%",
+        "left": "35.09325%",
+        "color": "#1d502b",
+        "width": "29.4385%",
+        "height": "12.014134275618375%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "49.91166077738516%",
+        "left": "16.957605985037407%",
+        "width": "65.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#669f7d"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.98763250883393%",
+        "left": "68.972625%",
+        "color": "#1d502b",
+        "width": "18.74225%",
+        "height": "5.830388692579505%",
+        "fontSize": "22em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Isabella Colins",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.02438162544169%",
+        "left": "66.371125%",
+        "color": "#669f7d",
+        "width": "23.943375%",
+        "height": "3.180212014134275%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "CTO Company Name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.3%",
+        "left": "52.058625000000006%",
+        "color": "#669f7d",
+        "width": "13.631875%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Issuing Date:",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "94.83356890459365%",
+        "left": "29.892125000000004%",
+        "width": "18.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#669f7d"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "94.83427561837455%",
+        "left": "67.091375%",
+        "width": "18.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#669f7d"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.00671378091873%",
+        "left": "42.25%",
+        "width": "15.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-09-2023-10:45:47_2EaPzaCF-6M198D4KlOBx-Group 437.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.44169611307422%",
+        "left": "44.106%",
+        "color": "#ffffff",
+        "width": "11.4130875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Confirmed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.03533568904594%",
+        "left": "46.9185%",
+        "color": "#ffffff",
+        "width": "5.7880875%",
+        "height": "2.1201413427561837%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.30353356890458%",
+        "left": "72.647%",
+        "width": "10.8974625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-09-2023-10:47:00_UVSKV6RqhUy8sh5unt1zJ-Vector 246.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.90459363957598%",
+        "left": "14.049875%",
+        "width": "15.546874999999998%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-09-2023-10:47:19_2hpJcCo2BNUwhxXZft91e-Vector 245.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.023604240282685%",
+        "left": "40.98725%",
+        "width": "3.5205125000000006%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-09-2023-10:47:43_YLvMFuFLD7YoRtjB_E4gA-Star 28.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h97zfedacpmqkncs7nvgbtf1-1693818534463.png",
+  "isDefault": true,
+  "createdAt": "2023-09-01T08:59:09.614Z",
+  "updatedAt": "2025-09-10T14:56:27.419Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "participation"
+  },
+  "id": "01h97zfedacpmqkncs7nvgbtf1",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2859,
+  "categoryOrder": 172
+}

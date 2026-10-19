@@ -1,0 +1,306 @@
+{
+  "name": "413_Accreditation_professional_red_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-08-2024-04:44:50_413_Accreditation_professional_red_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.25%",
+        "left": "5.6537102473498235%",
+        "color": "#6a1515",
+        "width": "88.86925795053003%",
+        "height": "7.375%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.125%",
+        "left": "57.59717314487632%",
+        "color": "#6a1515",
+        "width": "38.16254416961131%",
+        "height": "1.4599625000000032%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.9292%",
+        "left": "5.30035335689046%",
+        "color": "#6a1515",
+        "width": "30.212014134275616%",
+        "height": "2%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.4582%",
+        "left": "13.757040636042401%",
+        "color": "#6a1515",
+        "width": "13.440625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Ricky Lee",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.375%",
+        "left": "10.68904593639576%",
+        "color": "#392424",
+        "width": "78.79858657243817%",
+        "height": "3.052737499999999%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "National Institute of Standards and Technology (NIST)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.375%",
+        "left": "3.180212014134275%",
+        "color": "#392424",
+        "width": "91.34275618374559%",
+        "height": "5.308599999999998%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has met the stringent requirements of the NIST Cybersecurity \nFramework for the implementation and management \nof cybersecurity controls.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.9125%",
+        "left": "66.34275618374559%",
+        "color": "#6a1515",
+        "width": "19.257950530035338%",
+        "height": "2.6543000000000063%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brithany Walker",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.5%",
+        "left": "4.770318021201414%",
+        "color": "#6a1515",
+        "width": "90.625%",
+        "height": "10.88495575221239%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.875%",
+        "left": "36.92579505300353%",
+        "color": "#392424",
+        "width": "26.148409893992934%",
+        "height": "2.654299999999999%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Hereby certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.75%",
+        "left": "62.544169611307424%",
+        "color": "#392424",
+        "width": "26.855123674911663%",
+        "height": "2.6543000000000063%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Quality Officer",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.06885%",
+        "left": "65.98939929328623%",
+        "width": "19.964664310954063%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-04:23:10_Group 19452.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.57305%",
+        "left": "9.6113074204947%",
+        "width": "21.73144876325088%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-04:23:31_Group 19451.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.75000000000001%",
+        "left": "37.27915194346289%",
+        "width": "24.73498233215548%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-04:23:54_Group 19449.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.400775%",
+        "left": "40.61837455830389%",
+        "color": "#6a1515",
+        "width": "18.727915194346288%",
+        "height": "6.636724999999998%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "NIST",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.125%",
+        "left": "42.56294169611308%",
+        "color": "#6a1515",
+        "width": "14.875%",
+        "height": "10.619469026548673%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.607625000000002%",
+        "left": "4.770318021201414%",
+        "color": "#6a1515",
+        "width": "90.625%",
+        "height": "10.88495575221239%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF ACCREDITATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.125%",
+        "left": "3.7809187279151955%",
+        "color": "#392424",
+        "width": "33.215547703180206%",
+        "height": "5.25%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Accreditation Manager",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j67jvsjt541pm7f0w7wh8grr-1724684050867.png",
+  "isDefault": true,
+  "createdAt": "2024-08-26T14:53:55.676Z",
+  "updatedAt": "2025-03-19T11:00:25.717Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j67jvsjt541pm7f0w7wh8grr",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2140,
+  "categoryOrder": 637
+}

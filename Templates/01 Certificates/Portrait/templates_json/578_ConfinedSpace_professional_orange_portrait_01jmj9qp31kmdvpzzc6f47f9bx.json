@@ -1,0 +1,594 @@
+{
+  "name": "578_ConfinedSpace_professional_orange_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-02-2025-08:44:03_578_confinedspace_professional_orange_portrait-2.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36%",
+        "left": "13.604240282685511%",
+        "color": "#151515",
+        "width": "54.946996466431095%",
+        "height": "auto",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.875%",
+        "left": "14.664310954063604%",
+        "width": "25.08833922261484%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-02-2025-08:26:57_group_20617.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.125%",
+        "left": "65.37102473498233%",
+        "width": "18.551236749116608%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-02-2025-08:27:19_group_20618-2.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.875%",
+        "left": "13.957597173144876%",
+        "width": "27.56183745583039%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-02-2025-08:27:23_group_19780.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.375%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "14.664310954063604%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Name and Title]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.875%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "22.791519434628977%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Authorized Body Signature]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.375%",
+        "left": "63.60424028268551%",
+        "color": "#000",
+        "width": "20.141342756183743%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "safety and compliance.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.875%",
+        "left": "48.409893992932865%",
+        "color": "#000",
+        "width": "35.3356890459364%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "ANSI best practices to enhance workplace",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.5%",
+        "left": "52.29681978798587%",
+        "color": "#000",
+        "width": "31.448763250883395%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This training follows OSHA, NFPA, and",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.5%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "13.074204946996467%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Expiration Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.75%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "16.784452296819786%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Number:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.375%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "20.848056537102476%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CPD/CEU Credits Earned:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "17.137809187279153%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Training Duration:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.125%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "16.607773851590103%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Completion Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.375%",
+        "left": "35.42402826855124%",
+        "color": "#000",
+        "width": "12.190812720848058%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "16 CPD Points",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69%",
+        "left": "29.681978798586574%",
+        "color": "#000",
+        "width": "7.950530035335689%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "16 Hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.75%",
+        "left": "30.918727915194346%",
+        "color": "#000",
+        "width": "14.840989399293287%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.125%",
+        "left": "28.975265017667844%",
+        "color": "#000",
+        "width": "17.314487632508836%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.5%",
+        "left": "27.385159010600706%",
+        "color": "#000",
+        "width": "18.727915194346288%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.1875%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "17.6678445229682%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Training Objectives:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.75%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "47.349823321554766%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Regulatory Compliance \u2013 OSHA 29 CFR 1910.146 standarts",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.12500000000001%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "45.40636042402827%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Entry & Exit Strategies \u2013 Safe access and exit procedures.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.5%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Gas Monitoring & Ventilation \u2013 Atmospheric safety protocols.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "38.16254416961131%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "PPE & Safety Gear \u2013 Proper selection and use.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.75%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "21.20141342756184%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.25%",
+        "left": "14.310954063604239%",
+        "color": "#000",
+        "width": "57.42049469964664%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "has successfully completed the Confined Space Entry &",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48%",
+        "left": "14.487632508833922%",
+        "color": "#000",
+        "width": "55.65371024734982%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Rescue Training, focusing on hazard recognition, safe",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.75%",
+        "left": "14.487632508833922%",
+        "color": "#000",
+        "width": "56.71378091872792%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "entry procedures, and emergency rescue operations.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.75%",
+        "left": "14.39929328621908%",
+        "color": "#e9521d",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.625%",
+        "left": "14.310954063604239%",
+        "color": "#e9521d",
+        "width": "67.84452296819788%",
+        "height": "auto",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11%",
+        "left": "54.77031802120141%",
+        "color": "#000",
+        "width": "28.975265017667844%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Address: 457 Safety Blvd Houston, TX, 02, USA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.75%",
+        "left": "56.71378091872792%",
+        "color": "#000",
+        "width": "27.03180212014134%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Email: info@advancedsafetytraining.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.875%",
+        "left": "56.71378091872792%",
+        "color": "#000",
+        "width": "27.03180212014134%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Website: www.advancedsafetytraining.com",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jmj9qp31kmdvpzzc6f47f9bx-1740077055982.png",
+  "isDefault": true,
+  "createdAt": "2025-02-20T18:25:48.131Z",
+  "updatedAt": "2025-03-19T11:00:42.359Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jmj9qp31kmdvpzzc6f47f9bx",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1808,
+  "categoryOrder": 545
+}

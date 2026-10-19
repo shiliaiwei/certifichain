@@ -1,0 +1,270 @@
+{
+  "name": "319_Academic_professional_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-05-2024-05:27:09_319_Academic_professional_brown_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.944375%",
+        "left": "16.787279151943462%",
+        "color": "#292929",
+        "width": "63.746466431095406%",
+        "height": "9.159175%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.851499999999998%",
+        "left": "16.78583038869258%",
+        "color": "#292929",
+        "width": "34.15141342756184%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.585%",
+        "left": "54.92897526501768%",
+        "color": "#292929",
+        "width": "27.194699646643112%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.3565%",
+        "left": "6.316978798586573%",
+        "color": "#292929",
+        "width": "86.835%",
+        "height": "12.7208480565371%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "On successful completion of the University of Informatics and Radioelectronics program in the specialty \"System Programmer\n Engineer\". In recognition of outstanding achievements and active participation in academic life.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.3965%",
+        "left": "36.541342756183745%",
+        "color": "#848484",
+        "width": "26.59293286219081%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.4423875%",
+        "left": "11.120424028268552%",
+        "color": "#292929",
+        "width": "77.4375%",
+        "height": "11.484098939929329%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACADEMIC",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.42475%",
+        "left": "14.040424028268554%",
+        "color": "#292929",
+        "width": "21.411%",
+        "height": "7.420494699646643%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Valerie Jones",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.028375%",
+        "left": "55.97385159010601%",
+        "color": "#848484",
+        "width": "29.183745583038874%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.028375%",
+        "left": "14.040424028268554%",
+        "color": "#848484",
+        "width": "21.411%",
+        "height": "7.420494699646643%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculty",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.423875%",
+        "left": "57.918727915194346%",
+        "color": "#292929",
+        "width": "25.296819787985868%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Vernon Anderson",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "61.652375000000006%",
+        "left": "39.13975265017668%",
+        "width": "21.394699646643108%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-05-2024-05:15:44_TV80PxT96RZRpQTp5btDG-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.9765%",
+        "left": "44.2178445229682%",
+        "color": "#7e521d",
+        "width": "11.03515%",
+        "height": "3.0035335689045937%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACADEMIC\nAWARD",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.294875%",
+        "left": "15.480795053003535%",
+        "width": "18.5291519434629%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-05-2024-05:16:59_vXP9_X3q8xk7GZA1uTOI8-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.163125%",
+        "left": "62.30954063604241%",
+        "width": "19.491166077738516%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-05-2024-05:17:24_H00RdmlX_cnkb4Md6R7_s-Group 497.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.807625%",
+        "left": "11.016872791519434%",
+        "color": "#292929",
+        "width": "77.4375%",
+        "height": "11.484098939929329%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hyb9tq7de9gc6bszz1k0cxfg-1716218846462.png",
+  "isDefault": true,
+  "createdAt": "2024-05-20T15:27:26.447Z",
+  "updatedAt": "2025-03-19T11:00:16.124Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hyb9tq7de9gc6bszz1k0cxfg",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2328,
+  "categoryOrder": 223
+}

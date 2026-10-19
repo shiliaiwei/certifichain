@@ -1,0 +1,495 @@
+{
+  "name": "530_Hazmat_professional_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-01-2025-11:19:08_530_hazmat_professional_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.375%",
+        "left": "26.501766784452297%",
+        "color": "#3d3d3d",
+        "width": "54.87499999999999%",
+        "height": "auto",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.375%",
+        "left": "30.212014134275616%",
+        "width": "24.381625441696116%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-01-2025-02:21:03_group_19844.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "89.875%",
+        "left": "5.123674911660777%",
+        "width": "45.053003533568905%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-01-2025-02:21:09_group_19810.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "2.5%",
+        "left": "74.73498233215548%",
+        "width": "18.374558303886925%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-01-2025-02:21:37_vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "2.5%",
+        "left": "7.420494699646643%",
+        "color": "#ffffff",
+        "width": "50.8833922261484%",
+        "height": "auto",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOUR COMPANY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.75%",
+        "left": "4.41696113074205%",
+        "color": "#3d3d3d",
+        "width": "58.8339222614841%",
+        "height": "auto",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.25%",
+        "left": "39.04593639575972%",
+        "color": "#3d3d3d",
+        "width": "56.53710247349824%",
+        "height": "auto",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[HAZMAT.TRAINING.PROGRAM]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.25%",
+        "left": "60.42402826855123%",
+        "color": "#3d3d3d",
+        "width": "33.745583038869256%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Address: [Adress]\u2028\nPhone: [Phone Number]\u2028\nEmail: contact@yourcompany.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.5078125%",
+        "left": "20.406360424028268%",
+        "color": "#3d3d3d",
+        "width": "15.724381625441698%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.375%",
+        "left": "4.41696113074205%",
+        "color": "#3d3d3d",
+        "width": "21.024734982332156%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42%",
+        "left": "4.41696113074205%",
+        "color": "#3d3d3d",
+        "width": "32.50883392226148%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has successfully completed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.875%",
+        "left": "4.41696113074205%",
+        "color": "#3d3d3d",
+        "width": "34.80565371024735%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Compliance with standarts of",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.5%",
+        "left": "21.73144876325088%",
+        "color": "#ffffff",
+        "width": "19.78798586572438%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING INSTITUTE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.125%",
+        "left": "7.06713780918728%",
+        "color": "#9e7c55",
+        "width": "25.618374558303884%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING DETAILS :",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.125%",
+        "left": "59.36395759717315%",
+        "color": "#9e7c55",
+        "width": "34.98233215547703%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "KEY COMPETENCIES ACQUIRED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.375%",
+        "left": "60.24734982332155%",
+        "color": "#3d3d3d",
+        "width": "25.124999999999996%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "1.  [Achievement 1]\n2. [Achievement 2]\n3. [Achievement 3]\n4. [Achievement 4]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.37109375000001%",
+        "left": "6.890459363957597%",
+        "color": "#3d3d3d",
+        "width": "13.074204946996467%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Study Hours:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.37109374999999%",
+        "left": "6.890459363957597%",
+        "color": "#3d3d3d",
+        "width": "19.081272084805654%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Accreditation Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.37109375%",
+        "left": "6.890459363957597%",
+        "color": "#3d3d3d",
+        "width": "23.32155477031802%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certification Valid Until:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.49609375%",
+        "left": "6.890459363957597%",
+        "color": "#3d3d3d",
+        "width": "13.427561837455832%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate \u2116:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.125%",
+        "left": "40.282685512367486%",
+        "color": "#3d3d3d",
+        "width": "39.04593639575972%",
+        "height": "auto",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[CERTIFICATION.ID]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.375%",
+        "left": "5.123674911660777%",
+        "color": "#3d3d3d",
+        "width": "17.6678445229682%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[Name, Title]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.25%",
+        "left": "19.6113074204947%",
+        "color": "#3d3d3d",
+        "width": "18.19787985865725%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Number of Hours]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.38281249999999%",
+        "left": "26.060070671378092%",
+        "color": "#3d3d3d",
+        "width": "6.5371024734982335%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.3625%",
+        "left": "30.212014134275616%",
+        "color": "#3d3d3d",
+        "width": "15.901060070671377%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Expiration Date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.625%",
+        "left": "4.946996466431095%",
+        "color": "#3d3d3d",
+        "width": "20.49469964664311%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Organization\u2019s Name]",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.259375%",
+        "left": "83.5821554770318%",
+        "width": "11.484098939929337%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-01-2025-10:49:44_group_19779.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.275%",
+        "left": "4.41696113074205%",
+        "color": "#3d3d3d",
+        "width": "58.8339222614841%",
+        "height": "auto",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF TRAINING",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jjmvn7e22jqf8mnapmgq7em9-1738016374898.png",
+  "isDefault": true,
+  "createdAt": "2025-01-27T21:46:07.172Z",
+  "updatedAt": "2025-03-19T11:00:37.568Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01jjmvn7e22jqf8mnapmgq7em9",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1904,
+  "categoryOrder": 339
+}

@@ -1,0 +1,299 @@
+{
+  "name": "307_Good standing_professional_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-06-2024-06:35:56_307_Good standing_professional_red_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "23.647349823321555%",
+        "left": "91.49225%",
+        "color": "#fbfbfb",
+        "width": "2.03125%",
+        "height": "2.8268551236749118%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.66007067137809%",
+        "left": "40.089375%",
+        "color": "#363d44",
+        "width": "26.084982332155477%",
+        "height": "1.7255875%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.930388692579502%",
+        "left": "6.254887500000001%",
+        "color": "#363d44",
+        "width": "30%",
+        "height": "12.7208480565371%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "LLC EcoInnovations",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.90989399293287%",
+        "left": "72.252875%",
+        "color": "#363d44",
+        "width": "21.03225%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Wisconsin: Department \nof Financial Institutions",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.74690812720848%",
+        "left": "6.06695%",
+        "color": "#363d44",
+        "width": "88.736375%",
+        "height": "16.25441696113074%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Good Standing",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.77208480565371%",
+        "left": "6.254887500000001%",
+        "color": "#363d44",
+        "width": "91.017625%",
+        "height": "12.014134275618375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "LLC EcoInnovations was registered on 05.09.2010  and is currently in a valid legal status. It possesses \nall necessary permits and licenses to carry out its activities, including  but not limited to waste management.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.17349823321555%",
+        "left": "6.318362500000001%",
+        "color": "#363d44",
+        "width": "17.127%",
+        "height": "4.240282685512367%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "William Welch",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.06042402826856%",
+        "left": "6.318362500000001%",
+        "color": "#363d44",
+        "width": "24.84681978798587%",
+        "height": "2.6543%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company registrar",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.725441696113073%",
+        "left": "40.088875%",
+        "color": "#363d44",
+        "width": "27.98975265017668%",
+        "height": "2.6543%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.92508833922261%",
+        "left": "6.254887500000001%",
+        "color": "#363d44",
+        "width": "26.850625%",
+        "height": "2.385159010600707%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Name of International Business Company",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.341872791519435%",
+        "left": "6.0664%",
+        "color": "#363d44",
+        "width": "85.47075%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "LLC EcoInnovations has no known restrictions, encumbrances or debts that could impede its ability to fulfill its obligations.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.17349823321555%",
+        "left": "38.749%",
+        "color": "#363d44",
+        "width": "24.900706713780917%",
+        "height": "2.6543%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Eduardo Anderson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.70848056537103%",
+        "left": "38.748%",
+        "color": "#363d44",
+        "width": "28.583215547703183%",
+        "height": "2.6543%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "32.70830388692579%",
+        "left": "40.02493765586035%",
+        "width": "23.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "32.35565371024735%",
+        "left": "6.254887500000001%",
+        "width": "27.506713780918723%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.12296819787986%",
+        "left": "6.318362500000001%",
+        "width": "14.29%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-04-2024-01:53:43_88bgUqNKDiCcrvQ8trKHI-Vector 655.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.01095406360425%",
+        "left": "38.747125%",
+        "width": "12.252925%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-04-2024-01:54:02_dm4YoOAig8miULt5Fz9HV-Vector 649.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0xtfsez1yf8c413hav5bdrp-1718987794697.png",
+  "isDefault": true,
+  "createdAt": "2024-06-21T16:36:17.505Z",
+  "updatedAt": "2025-03-19T11:00:14.898Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01j0xtfsez1yf8c413hav5bdrp",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2254,
+  "categoryOrder": 681
+}

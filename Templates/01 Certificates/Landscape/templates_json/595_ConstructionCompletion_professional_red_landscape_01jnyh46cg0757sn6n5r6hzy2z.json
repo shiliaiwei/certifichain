@@ -1,0 +1,603 @@
+{
+  "name": "595_ConstructionCompletion_professional_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-03-2025-01:11:02_595_constructioncompletion_professional_red_landscape2x-3.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "52.92035398230088%",
+        "left": "25.374999999999996%",
+        "color": "#000000",
+        "width": "15.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.079646017699115%",
+        "left": "90.5%",
+        "width": "5.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-03-2025-12:41:02_qr.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.256637168141593%",
+        "left": "4%",
+        "width": "12.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-03-2025-12:41:04_group_20722-2.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.52212389380531%",
+        "left": "4.625%",
+        "color": "#7e0e0e",
+        "width": "62.875%",
+        "height": "auto",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF FINAL COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.57522123893806%",
+        "left": "4.375%",
+        "color": "#7e0e0e",
+        "width": "16.875%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Financial Information:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.530973451327434%",
+        "left": "70.5%",
+        "color": "#7e0e0e",
+        "width": "9.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certified by:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.530973451327434%",
+        "left": "4.375%",
+        "color": "#000",
+        "width": "10.875%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Project Name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.079646017699115%",
+        "left": "4.75%",
+        "color": "#000",
+        "width": "59.375%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "I (We) hereby certify that [Project Name] has been successfully built and placed into service in accordance with the approved plans, specifications, and supporting documentation.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.66371681415929%",
+        "left": "4.5%",
+        "color": "#000",
+        "width": "12.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Project Timeline:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.41592920353982%",
+        "left": "4.375%",
+        "color": "#000",
+        "width": "16.125%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Final Completion Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.34513274336284%",
+        "left": "4.5%",
+        "color": "#000",
+        "width": "14.499999999999998%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Project Start Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.09734513274337%",
+        "left": "4.5%",
+        "color": "#000",
+        "width": "14.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Owner/Client Name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.849557522123895%",
+        "left": "4.375%",
+        "color": "#000",
+        "width": "14.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Contract Number:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.60176991150443%",
+        "left": "4.375%",
+        "color": "#000",
+        "width": "14.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Project Description:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.70796460176992%",
+        "left": "4.5%",
+        "color": "#000",
+        "width": "14.000000000000002%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Total Project Cost:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.530973451327434%",
+        "left": "25.374999999999996%",
+        "color": "#000",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Project Name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.02654867256638%",
+        "left": "4.375%",
+        "color": "#000",
+        "width": "12.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Balance:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.95575221238938%",
+        "left": "4.375%",
+        "color": "#000",
+        "width": "17.75%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Original Contract Value:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.60176991150443%",
+        "left": "25.374999999999996%",
+        "color": "#000",
+        "width": "34.375%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Brief description, including scope and key features]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.26548672566372%",
+        "left": "70.625%",
+        "color": "#000",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Engineer signature]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.433628318584071%",
+        "left": "57.125%",
+        "color": "#000",
+        "width": "32.375%",
+        "height": "auto",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Contact Information:\nAddress: [Company Address]\nPhone: [Company Phone], Email: [Company Email]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.20353982300885%",
+        "left": "25.374999999999996%",
+        "color": "#000",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Balance Due, if any]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.95575221238938%",
+        "left": "25.374999999999996%",
+        "color": "#000",
+        "width": "20.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Original Contract Amount]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.6725642477876%",
+        "left": "25.374999999999996%",
+        "color": "#000",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Total Final Cost]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.66371681415929%",
+        "left": "25.374999999999996%",
+        "color": "#000",
+        "width": "21.375%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Project Timeline]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.849557522123895%",
+        "left": "25.374999999999996%",
+        "color": "#000",
+        "width": "21.375%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Contract Number]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.23893805309735%",
+        "left": "25.374999999999996%",
+        "color": "#000",
+        "width": "15.5%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.327432566371684%",
+        "left": "25.374999999999996%",
+        "color": "#000",
+        "width": "16%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.1504424778761%",
+        "left": "70.625%",
+        "color": "#000",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.24778761061947%",
+        "left": "70.6875%",
+        "color": "#000",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Name and Surname]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.0796460176991%",
+        "left": "70.625%",
+        "color": "#000",
+        "width": "19.375%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Contractor signature]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.53982300884956%",
+        "left": "70.625%",
+        "color": "#000",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.99115044247788%",
+        "left": "70.625%",
+        "color": "#000",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Name and Surname]",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jnyh46cg0757sn6n5r6hzy2z-1741561866916.png",
+  "isDefault": true,
+  "createdAt": "2025-03-09T22:41:33.073Z",
+  "updatedAt": "2025-03-19T11:00:44.133Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jnyh46cg0757sn6n5r6hzy2z",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1745,
+  "categoryOrder": 512
+}

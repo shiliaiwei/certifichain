@@ -1,0 +1,272 @@
+{
+  "name": "128_achievement_simple_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/09-11-2023-12:09:27_128_achievement_simple_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.631875%",
+        "left": "16.60708480565371%",
+        "color": "#111948",
+        "width": "66.40825%",
+        "height": "14.045936395759718%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.097625%",
+        "left": "30.853886925795056%",
+        "color": "#111948",
+        "width": "38.87208480565371%",
+        "height": "1.7255875%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.211875%",
+        "left": "30.853886925795056%",
+        "color": "#111948",
+        "width": "33.571731448763245%",
+        "height": "2.6543%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.963875%",
+        "left": "13.979028268551238%",
+        "color": "#111948",
+        "width": "17.068798586572438%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Paul Parks",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.694375%",
+        "left": "8.828409893992934%",
+        "color": "#111948",
+        "width": "78.95600706713782%",
+        "height": "9.5566375%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Took 1st Place in School Talent Competition 2023.\nFor beautiful piano playing with the composition 'The Scientist'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.00975%",
+        "left": "11.971342756183747%",
+        "color": "#111948",
+        "width": "21.088162544169613%",
+        "height": "2.6543%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "School director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.832%",
+        "left": "34.616431095406355%",
+        "color": "#111948",
+        "width": "30.236925795053004%",
+        "height": "3.0527375%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.0625%",
+        "left": "26.503180212014136%",
+        "color": "#111948",
+        "width": "47.43268551236749%",
+        "height": "9.95605%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "75.734375%",
+        "left": "11.971830985915492%",
+        "width": "21.02614840989399%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#111948"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.962875%",
+        "left": "67.55742049469966%",
+        "color": "#111948",
+        "width": "18.128798586572437%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "David Bates",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "75.734375%",
+        "left": "66.19718309859155%",
+        "width": "21.202826855123675%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#111948"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.00975%",
+        "left": "65.45936395759718%",
+        "color": "#111948",
+        "width": "22.32491166077738%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Social educator",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.034125%",
+        "left": "40.48144876325088%",
+        "width": "18.76113074204947%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-11-2023-11:32:54_NaWTxv6mkBOCYA2V8XvME-logo.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.94625%",
+        "left": "45.028798586572435%",
+        "color": "#ffffff",
+        "width": "9.4130875%",
+        "height": "5.830388692579505%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "School\nname",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.126%",
+        "left": "13.164575971731448%",
+        "color": "#111948",
+        "width": "73.14204946996466%",
+        "height": "29.875%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of Achievement",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01het4agqkyfnjzzevrm832gf1-1699536519958.png",
+  "isDefault": true,
+  "createdAt": "2023-11-09T13:28:39.925Z",
+  "updatedAt": "2025-03-19T10:59:55.812Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "achievement"
+  },
+  "id": "01het4agqkyfnjzzevrm832gf1",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2743,
+  "categoryOrder": 277
+}

@@ -1,0 +1,279 @@
+{
+  "name": "371_Scholarship_formal_purple_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-07-2024-02:30:55_371_Scholarship_formal_purple_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.97075%",
+        "left": "10.896095406360425%",
+        "color": "#26134f",
+        "width": "61.163957597173145%",
+        "height": "5.5752%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.877%",
+        "left": "11.097614840989399%",
+        "color": "#34363e",
+        "width": "75.363074204947%",
+        "height": "10.6171875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of their outstanding contributions \nto the community through dedicated volunteer work. \nThis scholarship honors students who exemplify the spirit \nof service and commitment to improving the lives of others.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.4775%",
+        "left": "10.896095406360425%",
+        "color": "#34363e",
+        "width": "31.22932862190813%",
+        "height": "1.4599625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.6065%",
+        "left": "10.896095406360425%",
+        "color": "#34363e",
+        "width": "32.668904593639574%",
+        "height": "2.7871125%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.444375%",
+        "left": "10.896095406360425%",
+        "color": "#34363e",
+        "width": "32.33356890459364%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.0235%",
+        "left": "11.249452296819788%",
+        "color": "#34363e",
+        "width": "16.0645%",
+        "height": "3.7102473498233217%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Evan Hayes",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.245125%",
+        "left": "11.249452296819788%",
+        "color": "#26134f",
+        "width": "43.54434628975265%",
+        "height": "7.832025%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.409125%",
+        "left": "11.249452296819788%",
+        "color": "#34363e",
+        "width": "23.307773851590106%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Rector of the University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.747125000000002%",
+        "left": "10.693180212014134%",
+        "color": "#26134f",
+        "width": "78.67703180212014%",
+        "height": "8.230475%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Scholarship Award",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.670875%",
+        "left": "48.50106007067138%",
+        "color": "#34363e",
+        "width": "29.81731448763251%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Scholarship Committee Chair",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.0235%",
+        "left": "48.502296819787986%",
+        "color": "#34363e",
+        "width": "20.12756183745583%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Brittany Walker",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.850625%",
+        "left": "71.43250883392226%",
+        "width": "18.523674911660777%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:21:49_ioSawhYxQFTdDIp-Stib5-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.631875%",
+        "left": "74.0821554770318%",
+        "color": "#966d29",
+        "width": "13.224664310954065%",
+        "height": "4.75%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACADEMICAWARD",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "61.045875%",
+        "left": "10.691802120141343%",
+        "width": "23.015194346289753%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:22:28_dwUVjqZGs-zJyiqLqoU7T-Vector 73.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.349625%",
+        "left": "48.76325088339223%",
+        "width": "17.326908127208483%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:22:47_iyVecauaMk35Gph0LOOpw-Group 18987.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.64355%",
+        "left": "10.694558303886925%",
+        "width": "28.459010600706712%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:25:48_cqJkRFd2dNiqCMvnMWKkJ-Group 19014.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2d0t63fj79w17syhzzz90v4-1720571467903.png",
+  "isDefault": true,
+  "createdAt": "2024-07-10T00:31:07.889Z",
+  "updatedAt": "2025-03-19T11:00:21.349Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2d0t63fj79w17syhzzz90v4",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2224,
+  "categoryOrder": 151
+}

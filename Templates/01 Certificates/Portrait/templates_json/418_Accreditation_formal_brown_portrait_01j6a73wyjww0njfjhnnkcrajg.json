@@ -1,0 +1,290 @@
+{
+  "name": "418_Accreditation_formal_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-08-2024-05:26:04_418_Accreditation_formal_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "18.41122123893805%",
+        "left": "0%",
+        "color": "#e9e6e3",
+        "width": "2%",
+        "height": "8.495575221238937%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.87011875%",
+        "left": "8.8339222614841%",
+        "color": "#7d6247",
+        "width": "26.325088339222614%",
+        "height": "1.9902375000000063%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.125%",
+        "left": "8.8339222614841%",
+        "color": "#7d6247",
+        "width": "30.03533568904594%",
+        "height": "2.920900000000003%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.625%",
+        "left": "8.775265017667845%",
+        "color": "#7d6247",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Accredited Program",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.875%",
+        "left": "68.90459363957598%",
+        "color": "#7d6247",
+        "width": "18.19787985865724%",
+        "height": "2.6543000000000063%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Charles Adams",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.875%",
+        "left": "65.37102473498233%",
+        "color": "#8d8d8d",
+        "width": "25.08833922261484%",
+        "height": "2.125%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director of Accreditation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.625000000000002%",
+        "left": "13.427561837455832%",
+        "color": "#464340",
+        "width": "73.14487632508833%",
+        "height": "2.787112500000001%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "International Institute for Technical Education (IITE)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.125%",
+        "left": "13.250883392226148%",
+        "color": "#7d6247",
+        "width": "73.67491166077738%",
+        "height": "11.625%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The International Institute for Technical Education (IITE) certifies \nthat the Advanced Technical Training Program offered by TechSkills \nAcademy conforms to the established criteria for Technical \nTraining Excellence Certification.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.375%",
+        "left": "15.19434628975265%",
+        "color": "#8d8d8d",
+        "width": "69.6113074204947%",
+        "height": "4.248049999999999%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This accreditation emphasizes our dedication to excellence in technical education and our adherence to the highest training standards.",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.75%",
+        "left": "68.02120141342756%",
+        "width": "22.43816254416961%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-08-2024-05:09:15_Signature.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.875%",
+        "left": "45.724381625441694%",
+        "width": "8.657243816254411%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-08-2024-05:12:23_Group 19461.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.1875%",
+        "left": "39.57597173144876%",
+        "width": "20.848056537102476%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-08-2024-05:13:35_Group 19409.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.161325%",
+        "left": "42.84452296819788%",
+        "color": "#f6f6f6",
+        "width": "14.310954063604239%",
+        "height": "4.777349999999998%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDITED PROGRAM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.975%",
+        "left": "45.84805653710247%",
+        "color": "#f6f6f6",
+        "width": "8.303886925795052%",
+        "height": "2%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EST.2024",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "36.25%",
+        "left": "13.250883392226148%",
+        "width": "72.08480565371025%",
+        "height": "0.125%",
+        "backgroundColor": "#e9e6e3"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.5%",
+        "left": "67.31448763250883%",
+        "width": "23.851590106007066%",
+        "height": "0.125%",
+        "backgroundColor": "#e9e6e3"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.125%",
+        "left": "8.751943462897527%",
+        "color": "#7d6247",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j6a73wyjww0njfjhnnkcrajg-1724772381668.png",
+  "isDefault": true,
+  "createdAt": "2024-08-27T15:26:21.652Z",
+  "updatedAt": "2025-03-19T11:00:26.198Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j6a73wyjww0njfjhnnkcrajg",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2130,
+  "categoryOrder": 627
+}

@@ -1,0 +1,252 @@
+{
+  "name": "145_completion_formal_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/28-11-2023-02:28:20_145_completion_formal_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.84840989399294%",
+        "left": "31.984375%",
+        "color": "#2d313a",
+        "width": "35.533%",
+        "height": "11.395759717314489%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.7160777385159%",
+        "left": "11.68055%",
+        "color": "#2d313a",
+        "width": "24.50525%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.29646643109541%",
+        "left": "66.035625%",
+        "color": "#2d313a",
+        "width": "22.802125%",
+        "height": "4.240282685512367%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.20742049469965%",
+        "left": "16.8055%",
+        "color": "#1a1a1a",
+        "width": "14.286499999999998%",
+        "height": "8.480565371024735%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Michael Wilson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.0660777385159%",
+        "left": "13.881875000000003%",
+        "color": "#1a1a1a",
+        "width": "71.710125%",
+        "height": "9.540636042402827%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Graduated with honors from the Financial Manager course.\u2028    \nPerformed well with reporting, delved into planning and budgeting.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.22773851590106%",
+        "left": "39.120625%",
+        "color": "#1a1a1a",
+        "width": "21.38025%",
+        "height": "4.240282685512367%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.417738515901059%",
+        "left": "10.6076375%",
+        "color": "#2d313a",
+        "width": "78.4375%",
+        "height": "24.381625441696116%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.03303886925795%",
+        "left": "15.414875%",
+        "color": "#1a1a1a",
+        "width": "17.0365%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Investment Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.18533568904594%",
+        "left": "72.449625%",
+        "color": "#1a1a1a",
+        "width": "10.0364625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jack Bryan",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.03303886925795%",
+        "left": "70.059%",
+        "color": "#1a1a1a",
+        "width": "14.7865%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Business Analyst",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.94310954063604%",
+        "left": "40.808125%",
+        "color": "#2d313a",
+        "width": "18.0365%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your Company name",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.02756183745582%",
+        "left": "44.826375%",
+        "width": "10.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/28-11-2023-02:25:42_t0b0v94fLDQmT1CNgnciu-Group 18808.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.44452296819787%",
+        "left": "46.745625%",
+        "color": "#b7cbdf",
+        "width": "6.3802125%",
+        "height": "5.30035335689046%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded\n2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hgb1whksynt95a585n2mnttd-1701178132114.png",
+  "isDefault": true,
+  "createdAt": "2023-11-28T13:28:52.092Z",
+  "updatedAt": "2025-03-19T10:59:57.375Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "completion"
+  },
+  "id": "01hgb1whksynt95a585n2mnttd",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2680,
+  "categoryOrder": 904
+}

@@ -1,0 +1,262 @@
+{
+  "name": "476_Award_professional_white_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-12-2024-03:13:47_476_award_professional_white_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "42.30088495575221%",
+        "left": "15.372%",
+        "color": "#1c1c1c",
+        "width": "69.08127208480566%",
+        "height": "auto",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.203539823008848%",
+        "left": "20.625%",
+        "color": "#1c1c1c",
+        "width": "58.8339222614841%",
+        "height": "auto",
+        "fontSize": "54em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.04424778761062%",
+        "left": "20.5%",
+        "color": "#1c1c1c",
+        "width": "58.8339222614841%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS AWARD IS PROUDLY PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.90265486725663%",
+        "left": "9.6086875%",
+        "color": "#1c1c1c",
+        "width": "24.558303886925795%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HOLDEN CRUZ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.5929203539823%",
+        "left": "7.6153125%",
+        "color": "#1c1c1c",
+        "width": "28.4452296819788%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DEAN OF THE UNIVERSITY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.61061946902655%",
+        "left": "35.9125%",
+        "color": "#1c1c1c",
+        "width": "28.000000000000004%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.01769911504425%",
+        "left": "26.5875%",
+        "color": "#1c1c1c",
+        "width": "47%",
+        "height": "auto",
+        "fontSize": "33em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF EXCELLENCE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.39823008849557%",
+        "left": "15.212499999999999%",
+        "color": "#1c1c1c",
+        "width": "69.75%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "FOR YOUR EXCEPTIONAL ACADEMIC PERFORMANCE AS TOP STUDENT, YOUR DEDICATION TO LEARNING AND CONSISTENTLY HIGH ACHIEVEMENTS HAVE EARNED YOU THIS PRESTEGIOUS ACADEMIC AWARD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.371681415929204%",
+        "left": "25%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.23008849557522%",
+        "left": "68.25%",
+        "width": "18.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-02:54:44_group_19770.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "31.68141592920354%",
+        "left": "44.875%",
+        "width": "10.070671378091872%",
+        "height": "0.125%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.57522123893806%",
+        "left": "12.5%",
+        "width": "18.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-02:57:11_clip_path_group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.78761061946902%",
+        "left": "44.125%",
+        "width": "11.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-02:58:19_objects.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80%",
+        "left": "44.45%",
+        "color": "#1c1c1c",
+        "width": "11%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.26548672566372%",
+        "left": "45%",
+        "color": "#1c1c1c",
+        "width": "9.875%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jee8ghs6q5f8pvma739sygc4-1733498141517.png",
+  "isDefault": true,
+  "createdAt": "2024-12-06T15:13:17.095Z",
+  "updatedAt": "2025-03-19T11:00:33.445Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01jee8ghs6q5f8pvma739sygc4",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1979,
+  "categoryOrder": 549
+}

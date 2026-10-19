@@ -1,0 +1,300 @@
+{
+  "name": "356_Graduation_professional_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-06-2024-06:24:18_356_Graduation_professional_brown_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.28225%",
+        "left": "7.6855123674911665%",
+        "color": "#363636",
+        "width": "52.29964664310954%",
+        "height": "6.10645%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.659125000000003%",
+        "left": "46.30070671378092%",
+        "color": "#9b9992",
+        "width": "32.26872791519435%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.558625%",
+        "left": "7.6855123674911665%",
+        "color": "#363636",
+        "width": "30%",
+        "height": "12.7208480565371%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "University of Wisconsin",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.313475%",
+        "left": "7.6855123674911665%",
+        "color": "#8e3735",
+        "width": "55.93109540636042%",
+        "height": "8.894525%",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.192375%",
+        "left": "7.394275618374557%",
+        "color": "#363636",
+        "width": "17.127%",
+        "height": "4.240282685512367%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "William Welch",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.97075%",
+        "left": "7.394275618374557%",
+        "color": "#363636",
+        "width": "23.25671378091873%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.690375%",
+        "left": "46.557597173144885%",
+        "color": "#363636",
+        "width": "29.04982332155477%",
+        "height": "2.124025%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.461%",
+        "left": "7.6855123674911665%",
+        "color": "#9b9992",
+        "width": "30%",
+        "height": "12.7208480565371%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Name of the University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.006875%",
+        "left": "7.6855123674911665%",
+        "color": "#363636",
+        "width": "86.877%",
+        "height": "7.420494699646643%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of the successful completion of the Bachelor's degree program in Information Security. This program, designed to provide comprehensive knowledge and skills in the field of information security, has equipped with expertise in cybersecurity, data protection, and risk management.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.191375%",
+        "left": "56.10512367491166%",
+        "color": "#363636",
+        "width": "27.0208480565371%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Eduardo Anderson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.96975%",
+        "left": "56.10512367491166%",
+        "color": "#363636",
+        "width": "30.17332155477032%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "27.460999999999995%",
+        "left": "46.30281690140845%",
+        "width": "33.04858657243817%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#9b9992"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "27.461874999999996%",
+        "left": "7.6855123674911665%",
+        "width": "26.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#9b9992"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.542%",
+        "left": "7.394275618374557%",
+        "width": "28.37897526501767%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-04-2024-01:53:43_88bgUqNKDiCcrvQ8trKHI-Vector 655.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.542%",
+        "left": "56.10512367491166%",
+        "width": "22.18286219081272%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-04-2024-01:54:02_dm4YoOAig8miULt5Fz9HV-Vector 649.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "42.23825%",
+        "left": "7.394366197183098%",
+        "width": "71.29381625441697%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#9b9992"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "62.184625%",
+        "left": "7.394275618374557%",
+        "width": "19.83498233215548%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-06:12:31_Fj6o21naFCCMyOG4OqHXz-Frame.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.375%",
+        "left": "7.6855123674911665%",
+        "color": "#8e3735",
+        "width": "69.00265017667844%",
+        "height": "8.894525%",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF GRADUATION",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0xst652q9rjx123pexs7t0a-1718987082368.png",
+  "isDefault": true,
+  "createdAt": "2024-06-21T16:24:29.603Z",
+  "updatedAt": "2025-03-19T11:00:19.812Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0xst652q9rjx123pexs7t0a",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2255,
+  "categoryOrder": 181
+}

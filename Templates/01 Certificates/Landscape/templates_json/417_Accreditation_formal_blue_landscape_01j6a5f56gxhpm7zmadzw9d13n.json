@@ -1,0 +1,225 @@
+{
+  "name": "417_Accreditation_formal_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-08-2024-04:56:03_417_Accreditation_formal_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.88495575221239%",
+        "left": "10.75%",
+        "color": "#184d82",
+        "width": "70.125%",
+        "height": "8.230088495575222%",
+        "fontSize": "31em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.86725663716814%",
+        "left": "10.75%",
+        "color": "#0c2a48",
+        "width": "64.375%",
+        "height": "10.619469026548673%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Fulfills the requirements of ISO 9001:2015 standards for Quality Management Systems",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.0353982300885%",
+        "left": "10.75%",
+        "color": "#0c2a48",
+        "width": "43.125%",
+        "height": "2.920353982300885%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.57522123893806%",
+        "left": "40.25%",
+        "color": "#0c2a48",
+        "width": "28.249999999999996%",
+        "height": "3.4513274336283186%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.82300884955752%",
+        "left": "10.75%",
+        "color": "#0c2a48",
+        "width": "64.875%",
+        "height": "4.778761061946903%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "International Organization for Standardization (ISO)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.07964601769912%",
+        "left": "11.125%",
+        "color": "#184d82",
+        "width": "20.75%",
+        "height": "3.7168141592920354%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ALEKSANDRA FOSTER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.236867256637167%",
+        "left": "10.75%",
+        "color": "#184d82",
+        "width": "79.375%",
+        "height": "9.20353982300885%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDITATION CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.973451327433626%",
+        "left": "10.75%",
+        "color": "#0c2a48",
+        "width": "20.375%",
+        "height": "7.433628318584071%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "hereby attests that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.12458407079646%",
+        "left": "40.25%",
+        "color": "#184d82",
+        "width": "20.5%",
+        "height": "3.4513274336283186%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATION VALIDITY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.79646017699115%",
+        "left": "11.125%",
+        "color": "#0c2a48",
+        "width": "21.5%",
+        "height": "3.36283185840709%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDITATION MANAGER",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.70658407079645%",
+        "left": "78.25%",
+        "width": "12%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-08-2024-04:53:47_logo.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.63716814159291%",
+        "left": "11.125%",
+        "width": "26.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-08-2024-04:55:40_Group 19415.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j6a5f56gxhpm7zmadzw9d13n-1724770653399.png",
+  "isDefault": true,
+  "createdAt": "2024-08-27T14:57:33.393Z",
+  "updatedAt": "2025-03-19T11:00:26.062Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j6a5f56gxhpm7zmadzw9d13n",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2133,
+  "categoryOrder": 630
+}

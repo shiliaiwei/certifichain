@@ -1,0 +1,324 @@
+{
+  "name": "539_FireSafety_professional_black_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-02-2025-07:02:46_539_firesafety_professional_black_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.079646017699115%",
+        "left": "30.5%",
+        "color": "#000000",
+        "width": "51%",
+        "height": "9.717314487632509%",
+        "fontSize": "49em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.141592920353983%",
+        "left": "10.375%",
+        "color": "#000",
+        "width": "79.25%",
+        "height": "auto",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Completion",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.725663716814157%",
+        "left": "38%",
+        "color": "#000",
+        "width": "23.5%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.06194690265487%",
+        "left": "25%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "For successfully passing a",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.19469026548673%",
+        "left": "25%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "27em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[COURSE NAME]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.690265486725664%",
+        "left": "34.25%",
+        "color": "#000",
+        "width": "31.624999999999996%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "conducted by the [Accreditation Body]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.53982300884956%",
+        "left": "10.375%",
+        "color": "#000",
+        "width": "10.875%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "underline"
+      },
+      "value": "Issuing Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.53982300884956%",
+        "left": "19.625%",
+        "color": "#000",
+        "width": "16.25%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "underline"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.36283185840708%",
+        "left": "41.75%",
+        "color": "#000",
+        "width": "9.875%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "underline"
+      },
+      "value": "Certificate nr:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.36283185840708%",
+        "left": "50.625%",
+        "color": "#000",
+        "width": "11.25%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "underline"
+      },
+      "value": "[certificate.id]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.716814159292035%",
+        "left": "67.5%",
+        "color": "#000",
+        "width": "9.5%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "underline"
+      },
+      "value": "Valid until:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.716814159292035%",
+        "left": "75%",
+        "color": "#000",
+        "width": "17%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "underline"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.42477876106194%",
+        "left": "7.5%",
+        "color": "#000",
+        "width": "7.375%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Title]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80%",
+        "left": "5.875%",
+        "color": "#000",
+        "width": "25.5%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[NAME AND SURNAME]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.17699115044248%",
+        "left": "57.75%",
+        "color": "#000",
+        "width": "26%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "The certificate can be verified through the [Accredited Body] website or by scanning the following QR code",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.98921451327435%",
+        "left": "86.125%",
+        "width": "7.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2025-07:01:07_qr.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.48036495575221%",
+        "left": "45.375%",
+        "width": "9.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2025-07:01:11_group_20325.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.53097345132744%",
+        "left": "28.625%",
+        "width": "14.249999999999998%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2025-07:01:15_vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jkk6f2a8gr8epbfp1fa1njzj-1739036273512.png",
+  "isDefault": true,
+  "createdAt": "2025-02-08T16:32:12.618Z",
+  "updatedAt": "2025-03-19T11:00:39.860Z",
+  "metadata": {
+    "lang": "en",
+    "color": "black",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jkk6f2a8gr8epbfp1fa1njzj",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1887,
+  "categoryOrder": 598
+}

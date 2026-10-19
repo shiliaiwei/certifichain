@@ -1,0 +1,272 @@
+{
+  "name": "78_recognition_modern_white_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-09-2023-11:19:53_78_recognition_modern_white_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.621125%",
+        "left": "13.569734982332154%",
+        "color": "#2b4961",
+        "width": "73.29540636042402%",
+        "height": "7.4336%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.415%",
+        "left": "33.918904593639574%",
+        "color": "#eb622e",
+        "width": "31.631874999999997%",
+        "height": "3.180212014134275%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.752%",
+        "left": "64.82296819787986%",
+        "color": "#2b4961",
+        "width": "23.803356890459366%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.95025%",
+        "left": "10.922314487632509%",
+        "color": "#2b4961",
+        "width": "15.605671378091873%",
+        "height": "2.9209%",
+        "fontSize": "21em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Barrie Wells",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.7109375%",
+        "left": "44.41660777385159%",
+        "color": "#eb622e",
+        "width": "10.9130875%",
+        "height": "7.420494699646643%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "YOUR\nCOMPANY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.35062500000001%",
+        "left": "4.828939929328622%",
+        "color": "#2b4961",
+        "width": "90.08674911660778%",
+        "height": "8.361325%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "We are grateful for your diligence, participation, and contributions to our learning community. We are proud to congratulate you on your successful completion\u2028      of the 212 Pixels School of Graphic Design Course",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.958%",
+        "left": "10.920936395759718%",
+        "color": "#2b4961",
+        "width": "25.273321554770316%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Design Department",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.836%",
+        "left": "31.862897526501765%",
+        "color": "#eb622e",
+        "width": "38.266077738515904%",
+        "height": "3.5839875%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.3105%",
+        "left": "28.734275618374554%",
+        "color": "#2b4961",
+        "width": "42.00123674911661%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.8145%",
+        "left": "24.884098939929327%",
+        "color": "#2b4961",
+        "width": "53.5874558303887%",
+        "height": "8.3623%",
+        "fontSize": "66em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.957%",
+        "left": "69.90742049469965%",
+        "color": "#2b4961",
+        "width": "13.631875%",
+        "height": "6.890459363957597%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of issue",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.995125%",
+        "left": "11.619718309859154%",
+        "width": "22.737632508833922%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2b4961"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.327125%",
+        "left": "45.64858657243816%",
+        "width": "8.443303886925795%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2023-10:43:50_AC01psE1oajwQTHk8tfPc-Group 413.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.32715%",
+        "left": "47.823321554770324%",
+        "width": "4.099487632508834%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2023-10:44:46_ZRLLIxwjuwr5W_4u4lZ5K-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.95025%",
+        "left": "26.52526501766785%",
+        "width": "10.49856890459364%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2023-10:58:58_9C-p_Kac95s4AvqV4zsLu-Group.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.995125%",
+        "left": "65.53109540636044%",
+        "width": "22.737632508833922%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2b4961"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hay33e0w33vjnxycmq7fdtr0-1695804122830.png",
+  "isDefault": true,
+  "createdAt": "2023-09-22T09:21:29.631Z",
+  "updatedAt": "2025-03-19T10:59:49.302Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "modern",
+    "category": "recognition"
+  },
+  "id": "01hay33e0w33vjnxycmq7fdtr0",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2840,
+  "categoryOrder": 705
+}

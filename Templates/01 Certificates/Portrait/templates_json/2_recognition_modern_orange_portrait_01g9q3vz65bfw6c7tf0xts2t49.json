@@ -1,0 +1,380 @@
+{
+  "name": "2_recognition_modern_orange_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/05-08-22-3:41:28_Modern.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "17.0625%",
+        "left": "19.434628975265017%",
+        "color": "#f08700",
+        "width": "61.130742049469966%",
+        "height": "27.125%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "RECOGNITION\nCERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.50000000000001%",
+        "left": "32.5095406360424%",
+        "color": "#ffffff",
+        "width": "34.98233215547703%",
+        "height": "5%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Who has successfully completed the course in",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.9395%",
+        "left": "13.825088339222615%",
+        "color": "#000000",
+        "width": "72.34982332155478%",
+        "height": "7.092775%",
+        "fontSize": "51em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.933625%",
+        "left": "57.28515901060071%",
+        "color": "#ffffff",
+        "width": "16.872791519434628%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate id",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.5625%",
+        "left": "31.978798586572438%",
+        "color": "#000000",
+        "width": "36.042402826855124%",
+        "height": "5.25%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.75000000000001%",
+        "left": "17.6678445229682%",
+        "color": "#ffffff",
+        "width": "64.13427561837456%",
+        "height": "5.1455125%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "\u201cWORLD HISTORY\u201d",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.622125%",
+        "left": "22.654946996466432%",
+        "color": "#ffffff",
+        "width": "16.342756183745582%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Drew Gooden",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "80.82225%",
+        "left": "23.494169611307424%",
+        "width": "15.01766784452297%",
+        "height": "0.125%",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.5615%",
+        "left": "56.35971731448763%",
+        "color": "#ffffff",
+        "width": "18.727915194346288%",
+        "height": "1.8076125000000003%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.95386533665835%",
+        "left": "21.829505300353357%",
+        "color": "#ffffff",
+        "width": "17.6678445229682%",
+        "height": "5.5625%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ephesis, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Gooden",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.25%",
+        "left": "21.564487632508836%",
+        "color": "#ffffff",
+        "width": "18.19787985865724%",
+        "height": "6.25%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "CEO Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.934625%",
+        "left": "24.775088339222613%",
+        "color": "#ffffff",
+        "width": "12.102473498233216%",
+        "height": "2.3642625%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issue date   ",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.5%",
+        "left": "36.91484098939929%",
+        "width": "26.751590106007068%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-22-3:32:01_Group 182.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.5605%",
+        "left": "20.23939929328622%",
+        "color": "#ffffff",
+        "width": "20.848056537102476%",
+        "height": "1.8076125000000003%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68%",
+        "left": "22.654946996466432%",
+        "width": "26.068374558303887%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-22-5:18:26_Group 162.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.94675%",
+        "left": "24.02826855123675%",
+        "color": "#ffffff",
+        "width": "23.32155477031802%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "120 semester hours",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.1255%",
+        "left": "52.69293286219081%",
+        "width": "26.065547703180215%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-22-5:20:37_Group 162.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.94675%",
+        "left": "54.7696113074205%",
+        "color": "#ffffff",
+        "width": "21.908127208480565%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "90 ECTS credits",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.953125%",
+        "left": "58.0381625441696%",
+        "color": "#ffffff",
+        "width": "15.371024734982333%",
+        "height": "6.2578125%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ephesis, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Smith",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "80.82125%",
+        "left": "58.39081272084806%",
+        "width": "15.01766784452297%",
+        "height": "0.125%",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.622125%",
+        "left": "58.96643109540636%",
+        "color": "#ffffff",
+        "width": "13.51590106007067%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Alice Smith",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.25%",
+        "left": "56.18303886925795%",
+        "color": "#ffffff",
+        "width": "19.081272084805654%",
+        "height": "1.8076125000000003%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Director Company name",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12383-1659706934010.png",
+  "isDefault": true,
+  "createdAt": "2022-08-05T13:42:12.421Z",
+  "updatedAt": "2025-03-19T10:59:38.947Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "modern",
+    "category": "recognition"
+  },
+  "id": "01g9q3vz65bfw6c7tf0xts2t49",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3030,
+  "categoryOrder": 718
+}

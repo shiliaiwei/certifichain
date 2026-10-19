@@ -1,0 +1,236 @@
+{
+  "name": "206_ai_training",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1123 794\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><rect width=\"1123\" height=\"794\" fill=\"#32144A\"/><path d=\"M1054.21 24.5L1098 68.5195V353.994L1071.42 393.954L1069.39 397L1071.42 400.046L1098 440.005V725.479L1054.21 769.5H68.2871L24.5 725.479V440.005L51.0791 400.046L53.1055 397L51.0791 393.954L24.5 353.994V68.5195L68.2871 24.5H1054.21Z\" fill=\"white\" stroke=\"#32144A\" stroke-width=\"11\"/></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.7023%",
+        "left": "7.97665%",
+        "color": "#212223",
+        "width": "83.89513108614233%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "44.3966%",
+        "left": "14.2903%",
+        "width": "71.4107365792759%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#212223"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.623%",
+        "left": "14.3486%",
+        "width": "17.72784019975031%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#212223"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "76.8825%",
+        "left": "68.0002%",
+        "width": "17.72784019975031%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#212223"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.2961%",
+        "left": "12.7054%",
+        "color": "#212223",
+        "width": "74.53183520599251%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.268%",
+        "left": "39.191%",
+        "color": "#212223",
+        "width": "21.473158551810236%",
+        "fontSize": "14em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.4864%",
+        "left": "24.3432%",
+        "color": "#212223",
+        "width": "51.186017478152316%",
+        "fontSize": "21em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed a Course on UX/UI Design.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.9106%",
+        "left": "21.6393%",
+        "color": "#212223",
+        "width": "56.67915106117354%",
+        "fontSize": "14em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your attention to detail, analytical approach to tasks, and ability to translate your ideas into a user-friendly UI were key components to the successful and effective completion of this course.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.4156%",
+        "left": "17.508%",
+        "color": "#212223",
+        "width": "11.235955056179774%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issue date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.6549%",
+        "left": "70.9274%",
+        "color": "#212223",
+        "width": "11.860174781523096%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jack Smith",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.6428%",
+        "left": "13.5388%",
+        "color": "#212223",
+        "width": "19.350811485642947%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.9719%",
+        "left": "70.612%",
+        "color": "#212223",
+        "width": "12.484394506866417%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Smith",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.12106194690264%",
+        "left": "43.3625468164794%",
+        "width": "13.108614232209737%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-06-2026-02:48:39_group_21266.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.68743362831859%",
+        "left": "46.23395755305867%",
+        "color": "#313131",
+        "width": "7.240948813982522%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "PT Serif, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2026",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01kt1n29ka1x40c6vg06a5xvwy-1780319594167.png",
+  "isDefault": true,
+  "createdAt": "2026-06-01T13:13:14.094Z",
+  "updatedAt": "2026-06-03T10:35:08.991Z",
+  "metadata": {
+    "lang": "en",
+    "color": "violet",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01kt1n29ka1x40c6vg06a5xvwy",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 67,
+  "categoryOrder": 0
+}

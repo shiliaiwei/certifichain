@@ -1,0 +1,307 @@
+{
+  "name": "103_training_professional_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-10-2023-02:17:12_103_training_professional_green_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "42.392625%",
+        "left": "24.895759717314487%",
+        "color": "#2e5a53",
+        "width": "50.09805653710247%",
+        "height": "6.636725%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.724625%",
+        "left": "53.984982332155475%",
+        "color": "#ffffff",
+        "width": "26.54876325088339%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.725125000000006%",
+        "left": "23.028975265017667%",
+        "color": "#ffffff",
+        "width": "20.55375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.7735%",
+        "left": "44.11166077738516%",
+        "color": "#2e5a53",
+        "width": "18.131625441696116%",
+        "height": "2.388675%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.69825%",
+        "left": "23.78886925795053%",
+        "color": "#2e5a53",
+        "width": "52.0469964664311%",
+        "height": "7.124999999999999%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For participation in the conference\n'Innovative Technologies, Artificial Intelligence. \nWhat awaits us in 2024.'",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.9395%",
+        "left": "36.7256183745583%",
+        "color": "#2e5a53",
+        "width": "26.438339222614836%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.32325%",
+        "left": "19.100530035335687%",
+        "color": "#2e5a53",
+        "width": "61.688500000000005%",
+        "height": "9.275618374558304%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.4795%",
+        "left": "21.09929328621908%",
+        "color": "#2e5a53",
+        "width": "17.44424028268551%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Isabel Anthony",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "48.5225%",
+        "left": "21.654929577464788%",
+        "width": "56.60618374558304%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2e5a53"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.94625%",
+        "left": "19.982685512367492%",
+        "color": "#2e5a53",
+        "width": "19.67756183745583%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.767625%",
+        "left": "61.34752650176678%",
+        "color": "#2e5a53",
+        "width": "16.030812720848058%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Bryce Perkins",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "14.7735%",
+        "left": "37.31095406360424%",
+        "width": "5.8138162544169605%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-10-2023-01:42:21_Mo-rGdzfhFHxMKBFdqj54-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.67775%",
+        "left": "42.19982332155477%",
+        "width": "15.489734982332154%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-10-2023-01:43:13_VzwVlgN_wrfupAyiQSRdg-Group 18725.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.767625%",
+        "left": "45.87155477031802%",
+        "color": "#313d4f",
+        "width": "8.5068375%",
+        "height": "5.123674911660777%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.22025%",
+        "left": "44.77067137809187%",
+        "color": "#313d4f",
+        "width": "10.708374558303888%",
+        "height": "2.124025%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.25875%",
+        "left": "59.259010600706716%",
+        "color": "#2e5a53",
+        "width": "20.207597173144876%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.25%",
+        "left": "18.903886925795053%",
+        "color": "#2e5a53",
+        "width": "61.688500000000005%",
+        "height": "9.275618374558304%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF TRAINING",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hd3y4xadgxebt645exrmxn0j-1697718105450.png",
+  "isDefault": true,
+  "createdAt": "2023-10-19T12:21:45.424Z",
+  "updatedAt": "2025-03-19T10:59:53.157Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01hd3y4xadgxebt645exrmxn0j",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2763,
+  "categoryOrder": 381
+}

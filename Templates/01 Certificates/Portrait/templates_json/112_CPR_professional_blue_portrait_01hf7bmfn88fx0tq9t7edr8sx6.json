@@ -1,0 +1,299 @@
+{
+  "name": "112_CPR_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/14-11-2023-05:44:01_112_CPR_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.265625%",
+        "left": "3.418992932862191%",
+        "color": "#15508b",
+        "width": "94.14752650176679%",
+        "height": "11.81445%",
+        "fontSize": "83em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.32425%",
+        "left": "35.08992932862191%",
+        "color": "#222222",
+        "width": "29.273498233215545%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.42775%",
+        "left": "35.22791519434629%",
+        "color": "#222222",
+        "width": "29.234805653710243%",
+        "height": "2.5214875%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.099625%",
+        "left": "35.83939929328622%",
+        "color": "#15508b",
+        "width": "27.787125000000003%",
+        "height": "15.901060070671377%",
+        "fontSize": "33em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.349625%",
+        "left": "25.237455830388694%",
+        "color": "#15508b",
+        "width": "48.986925795053004%",
+        "height": "8.4961%",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Introduction to First Aid and Emergency Response",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.09375000000001%",
+        "left": "27.295406360424025%",
+        "color": "#222222",
+        "width": "44.880875%",
+        "height": "7.420494699646643%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "who has successfully completed ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.046875%",
+        "left": "15.453886925795052%",
+        "color": "#15508b",
+        "width": "68.5635%",
+        "height": "11.395759717314489%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "FIRST AID/CPR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.75%",
+        "left": "41.451766784452296%",
+        "color": "#222222",
+        "width": "16.881077738515902%",
+        "height": "2.7890625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.65625%",
+        "left": "42.397349823321555%",
+        "color": "#222222",
+        "width": "15.594628975265017%",
+        "height": "2.5214875%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Liam Foster",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.861375%",
+        "left": "10.035211267605634%",
+        "width": "80.67031802120141%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#15508b"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.171875%",
+        "left": "45.853533568904595%",
+        "color": "#222222",
+        "width": "7.749010600706714%",
+        "height": "2.2558625%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Nurse",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.599625%",
+        "left": "38.6%",
+        "width": "22.27243816254417%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-05:15:33_dC0AbJwOUagvhNAgQnkaR-Vector 677.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.0234375%",
+        "left": "49.98074204946997%",
+        "width": "4.016678445229682%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-05:17:28_VpDBvRn64T6U6ABHxSFzy-Vector877.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.410162499999999%",
+        "left": "45.9613074204947%",
+        "width": "3.8427561837455833%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-05:17:32_teC6kOvAQgw0b_yTDg95v-Vector3.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.1787125%",
+        "left": "48.13657243816254%",
+        "width": "3.425901060070671%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-05:17:36_h5H1T4tV2a3bR8RW0AMeh-Vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.8418%",
+        "left": "42.12950530035336%",
+        "color": "#151111",
+        "width": "15.210918727915196%",
+        "height": "1.857425%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CRITICAL CARE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.34375%",
+        "left": "45.14134275618375%",
+        "color": "#151111",
+        "width": "9.187279151943462%",
+        "height": "1.857425%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": " INSTITUTE",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "71.82425%",
+        "left": "35.4047703180212%",
+        "width": "29.328621908127207%",
+        "height": "0.125%",
+        "backgroundColor": "#15508b"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hf7bmfn88fx0tq9t7edr8sx6-1699992183807.png",
+  "isDefault": true,
+  "createdAt": "2023-11-14T16:46:34.154Z",
+  "updatedAt": "2025-03-19T10:59:54.056Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01hf7bmfn88fx0tq9t7edr8sx6",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2715,
+  "categoryOrder": 363
+}

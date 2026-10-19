@@ -1,0 +1,325 @@
+{
+  "name": "383_Course_simple_orange_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/18-07-2024-12:20:39_383_Course_simple_orange_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.80565371024735%",
+        "left": "29.5%",
+        "color": "#da5d05",
+        "width": "45.125%",
+        "height": "12.45583038869258%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.74240282685512%",
+        "left": "3.15235%",
+        "color": "#34363e",
+        "width": "20.375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.113250883392226%",
+        "left": "30.84575%",
+        "color": "#573b27",
+        "width": "68.125%",
+        "height": "9.010600706713781%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "IN RECOGNITION OF COMPLETING THE PUBLIC SPEAKING\nMASTERY COURSE AT THE COMMUNICATION SKILLS INSTITUTE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.80565371024735%",
+        "left": "3.15235%",
+        "color": "#34363e",
+        "width": "19.625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.282685512367491%",
+        "left": "30.220749999999995%",
+        "color": "#da5d05",
+        "width": "39.778375%",
+        "height": "9.363957597173144%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.272084805653712%",
+        "left": "31.25%",
+        "color": "#573b27",
+        "width": "30.5%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "IS PROUDLY PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "45.583038869257955%",
+        "left": "31.17206982543641%",
+        "width": "26.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#573b27"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.84982332155478%",
+        "left": "30.84575%",
+        "color": "#573b27",
+        "width": "23.375%",
+        "height": "7.950530035335689%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ROBERT WILSON",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.597173144876325%",
+        "left": "30.220749999999995%",
+        "color": "#da5d05",
+        "width": "54.528375%",
+        "height": "22.261484098939928%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING COURSE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.84982332155478%",
+        "left": "57.1875%",
+        "color": "#573b27",
+        "width": "23.375%",
+        "height": "7.950530035335689%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "LINDA HARRIS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.69257950530034%",
+        "left": "30.84575%",
+        "color": "#573b27",
+        "width": "23.375%",
+        "height": "7.950530035335689%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "LEAD INSTRUCTOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.69257950530034%",
+        "left": "57.1875%",
+        "color": "#573b27",
+        "width": "23.375%",
+        "height": "7.950530035335689%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "PROGRAM DIRECTOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.84098939929329%",
+        "left": "34.1875%",
+        "color": "#ffffff",
+        "width": "20.625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "TOTAL SCORE : 99/100",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.84098939929329%",
+        "left": "64.3125%",
+        "color": "#ffffff",
+        "width": "23.375%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "RANKING IN THE TOP 5 %",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.456360424028269%",
+        "left": "6.77685%",
+        "width": "12.37695%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:16:38_NoaNf2FiV4oIhpkrqzg9a-Group 19179.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.06007067137809%",
+        "left": "30.84575%",
+        "width": "9.207025%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:16:52_dm-AU2PfChNJh7LSI8Mrc-Vector 683.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.06007067137809%",
+        "left": "56.901375%",
+        "width": "11.9111375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:17:44_Qk0Wq-k7VQ69o378FK_C3-Vector 684.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.85865724381625%",
+        "left": "85.375%",
+        "width": "8%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:17:59_T8TWb9SSTxCVXDu8I9nrE-qr-code.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.69257950530034%",
+        "left": "1.65235%",
+        "color": "#34363e",
+        "width": "23.375%",
+        "height": "7.950530035335689%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "WWW.YOURCOURSE.COM",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j31chpszd9xzy6vw9f920neb-1721254890873.png",
+  "isDefault": true,
+  "createdAt": "2024-07-17T22:21:01.633Z",
+  "updatedAt": "2025-03-19T11:00:22.500Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "simple",
+    "category": "course"
+  },
+  "id": "01j31chpszd9xzy6vw9f920neb",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2201,
+  "categoryOrder": 4
+}

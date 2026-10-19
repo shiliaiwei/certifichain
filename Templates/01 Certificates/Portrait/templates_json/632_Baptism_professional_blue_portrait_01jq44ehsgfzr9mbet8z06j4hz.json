@@ -1,0 +1,360 @@
+{
+  "name": "632_Baptism_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-03-2025-02:17:55_632_baptism_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.4859375%",
+        "left": "5.477031802120141%",
+        "color": "#61adf4",
+        "width": "88.86925795053003%",
+        "height": "auto",
+        "fontSize": "76em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.5125%",
+        "left": "5.30035335689046%",
+        "width": "23.14487632508834%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-03-2025-01:13:30_logo.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "84.125%",
+        "left": "13.957597173144876%",
+        "width": "12.190812720848058%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-03-2025-01:14:00_group_20573.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "84.75%",
+        "left": "52.120141342756185%",
+        "width": "18.021201413427562%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-03-2025-01:14:06_group_20575.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.5%",
+        "left": "5.830388692579505%",
+        "color": "#3a3a3a",
+        "width": "57.243816254416956%",
+        "height": "auto",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.39140625%",
+        "left": "5.477031802120141%",
+        "color": "#61adf4",
+        "width": "17.491166077738516%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.4171875%",
+        "left": "22.968197879858657%",
+        "color": "#61adf4",
+        "width": "20.671378091872793%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.875%",
+        "left": "5.477031802120141%",
+        "color": "#61adf4",
+        "width": "84.09893992932862%",
+        "height": "auto",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "\"And I will give you shepherds after my own heart, who will feed you with knowledge and understanding.\" \u2014 Jeremiah 3:15",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.125%",
+        "left": "5.477031802120141%",
+        "color": "#3a3a3a",
+        "width": "88.69257950530034%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has been chosen as a Godparent to [Baptized Individual\u2019s Full Name],\u2028who received the sacrament of Holy Baptism.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.25%",
+        "left": "5.6537102473498235%",
+        "color": "#3a3a3a",
+        "width": "8.12720848056537%",
+        "height": "auto",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "on the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.12500000000001%",
+        "left": "13.957597173144876%",
+        "color": "#3a3a3a",
+        "width": "29.151943462897528%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "15 of December, 2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.12500000000001%",
+        "left": "48.0565371024735%",
+        "color": "#3a3a3a",
+        "width": "2.8268551236749118%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "at",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.12500000000001%",
+        "left": "51.060070671378085%",
+        "color": "#3a3a3a",
+        "width": "42.932862190812735%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "St. Andrew\u2019s Church, Chicago, IL",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.875%",
+        "left": "5.477031802120141%",
+        "color": "#3a3a3a",
+        "width": "16.784452296819786%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Officiated by:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63%",
+        "left": "22.43816254416961%",
+        "color": "#3a3a3a",
+        "width": "25.795053003533567%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Christopher Evans",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.875%",
+        "left": "7.243816254416961%",
+        "color": "#3a3a3a",
+        "width": "25.4416961130742%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Samuel Rodriguez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.875%",
+        "left": "46.996466431095406%",
+        "color": "#3a3a3a",
+        "width": "26.325088339222614%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Michael Anderson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92%",
+        "left": "5.6537102473498235%",
+        "color": "#3a3a3a",
+        "width": "28.79858657243816%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Church Representative",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92%",
+        "left": "46.113074204947%",
+        "color": "#3a3a3a",
+        "width": "27.915194346289752%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Officiating Minister",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.125%",
+        "left": "5.830388692579505%",
+        "color": "#3a3a3a",
+        "width": "57.243816254416956%",
+        "height": "auto",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF BAPTISM",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jq44ehsgfzr9mbet8z06j4hz-1742822281784.png",
+  "isDefault": true,
+  "createdAt": "2025-03-24T13:11:09.362Z",
+  "updatedAt": "2025-04-01T13:44:34.214Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jq44ehsgfzr9mbet8z06j4hz",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1700,
+  "categoryOrder": 497
+}

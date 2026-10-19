@@ -1,0 +1,189 @@
+{
+  "name": "419_Accreditation_formal_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-08-2024-05:36:38_419_Accreditation_formal_green_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.43362831858407%",
+        "left": "7.249999999999999%",
+        "color": "#237630",
+        "width": "51.5%",
+        "height": "10.08849557522124%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.89380530973451%",
+        "left": "7.249999999999999%",
+        "color": "#1e440c",
+        "width": "75%",
+        "height": "8.495575221238937%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HAS BEEN  ACCREITED AS A MEDICAL LABORATORY IN ACCOEDANCE WITH THE STANDARDS SET BY THE GLOBAL HEALTH ACCREDIATION COUNCIL (GHAC).",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.17699115044248%",
+        "left": "68.75%",
+        "color": "#1e440c",
+        "width": "24.125%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.77876106194691%",
+        "left": "7.249999999999999%",
+        "color": "#1e440c",
+        "width": "42.75%",
+        "height": "3.4513274336283186%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.601769911504427%",
+        "left": "7.249999999999999%",
+        "color": "#1e440c",
+        "width": "19.375%",
+        "height": "2.920353982300885%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "THIS IS TO ATTEST THAT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.61061946902655%",
+        "left": "27.250000000000004%",
+        "color": "#1e440c",
+        "width": "21.375%",
+        "height": "3.4513274336283186%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDIATION COM CHAIR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.83185840707965%",
+        "left": "27.250000000000004%",
+        "color": "#1e440c",
+        "width": "16.0645%",
+        "height": "3.7102473498233217%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CHARLES ADAMS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.575221238938053%",
+        "left": "7.625%",
+        "color": "#1e440c",
+        "width": "77.75%",
+        "height": "20.176991150442475%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDITATION CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.41592920353983%",
+        "left": "54.625%",
+        "width": "22.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-08-2024-05:34:37_Group 19379.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.29203539823008%",
+        "left": "7.5%",
+        "width": "17.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-08-2024-05:35:20_Group 19416.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j6a7t8vp3rqdtb66pnwx007s-1724773114838.png",
+  "isDefault": true,
+  "createdAt": "2024-08-27T15:38:34.743Z",
+  "updatedAt": "2025-03-19T11:00:26.248Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j6a7t8vp3rqdtb66pnwx007s",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2129,
+  "categoryOrder": 626
+}

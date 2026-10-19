@@ -1,0 +1,306 @@
+{
+  "name": "110_CPR_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/14-11-2023-03:17:49_110_CPR_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.627%",
+        "left": "13.253657243816253%",
+        "color": "#3760cc",
+        "width": "77.58392226148409%",
+        "height": "10.75195%",
+        "fontSize": "81em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.889625%",
+        "left": "55.81802120141342%",
+        "color": "#000000",
+        "width": "32.144522968197876%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.888625%",
+        "left": "19.391696113074204%",
+        "color": "#000000",
+        "width": "25.121554770318017%",
+        "height": "1.857425%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.578125%",
+        "left": "27.102120141342755%",
+        "color": "#3760cc",
+        "width": "49.892402826855125%",
+        "height": "12.480475%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.568375%",
+        "left": "22.126148409893993%",
+        "color": "#000000",
+        "width": "17.818375%",
+        "height": "10.60070671378092%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Lily Williams",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.86525%",
+        "left": "31.124381625441693%",
+        "color": "#000000",
+        "width": "41.84522968197879%",
+        "height": "2.7890625%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.527375%",
+        "left": "27.624028268551235%",
+        "color": "#000000",
+        "width": "6.8183625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Nurse",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.2265625%",
+        "left": "46.68586572438163%",
+        "color": "#000000",
+        "width": "19.641696113074207%",
+        "height": "2.2558625%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "First Aid Heroes ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.527375%",
+        "left": "67.0233215547703%",
+        "color": "#000000",
+        "width": "12.0683625%",
+        "height": "3.53356890459364%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.568375%",
+        "left": "66.50282685512367%",
+        "color": "#000000",
+        "width": "14.186731448763249%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Mia Davis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.140625%",
+        "left": "46.684452296819785%",
+        "color": "#000000",
+        "width": "10.73321554770318%",
+        "height": "2.2558625%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Academy",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.9648375%",
+        "left": "38.50494699646643%",
+        "width": "6.2665724381625445%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-01:40:36_mV5imh61KGwWIr-xY-dUC-6.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.902375%",
+        "left": "62.00318021201413%",
+        "width": "22.106890459363957%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-01:40:58_j3Fitpl--7I9V9JhD9w9Q-Vector 675.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.09575%",
+        "left": "12.605%",
+        "width": "32.16925795053003%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-01:41:21_AhyRqrLpgBvEUWy_W2q1x-Vector 674.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "89.0185%",
+        "left": "48.801943462897526%",
+        "width": "2.7274734982332154%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-01:41:48_syTYALcjep0D3sG7IdwI_-Vector3.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.1895%",
+        "left": "44.690106007067136%",
+        "width": "10.951307420494699%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-01:41:59_QSR-uDNZEV0_v8aM1LCMV-Vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.798875%",
+        "left": "14.702932862190812%",
+        "color": "#000000",
+        "width": "74.68533568904594%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "who has successfully completed Rescue Ready Course \u2028                                                                                                  \n     at First Aid Heroes Academy and is fully certified                                   ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.625%",
+        "left": "25.99240282685512%",
+        "color": "#3760cc",
+        "width": "49.892402826855125%",
+        "height": "12.480475%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "First AID/CPR ",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hf734md656cyn9nfwynhzxxw-1700086760906.png",
+  "isDefault": true,
+  "createdAt": "2023-11-14T14:18:06.120Z",
+  "updatedAt": "2025-03-19T10:59:53.862Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01hf734md656cyn9nfwynhzxxw",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2719,
+  "categoryOrder": 367
+}

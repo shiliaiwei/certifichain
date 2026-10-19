@@ -1,0 +1,342 @@
+{
+  "name": "422_Authenticity_professional_purple_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-09-2024-02:24:55_422_Authenticity_professional_purple_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.002443749999998%",
+        "left": "8.303886925795052%",
+        "color": "#ffffff",
+        "width": "83.56890459363959%",
+        "height": "auto",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.875%",
+        "left": "58.657243816254415%",
+        "color": "#ffffff",
+        "width": "33.215547703180206%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.87841875%",
+        "left": "13.250883392226148%",
+        "color": "#ffffff",
+        "width": "24.02826855123675%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9%",
+        "left": "8.251590106007068%",
+        "color": "#ffffff",
+        "width": "83.56890459363959%",
+        "height": "auto",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Authenticity Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.5%",
+        "left": "67.81816254416961%",
+        "color": "#c5c5c5",
+        "width": "15%",
+        "height": "3.7168141592920354%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Hanter Stor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.3875%",
+        "left": "60.95406360424028%",
+        "color": "#c5c5c5",
+        "width": "28.621908127208478%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Authentication Specialist",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.125%",
+        "left": "25.617402826855123%",
+        "color": "#c5c5c5",
+        "width": "48.625%",
+        "height": "4.2477876106194685%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate guarantees the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.375%",
+        "left": "6.625441696113074%",
+        "color": "#c5c5c5",
+        "width": "86.74911660777384%",
+        "height": "auto",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "authenticity of the luxury item described herein and confirms \nthat it is an original creation by the listed designer.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.125%",
+        "left": "31.007067137809187%",
+        "color": "#c5c5c5",
+        "width": "20.49469964664311%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Designer Name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.0625%",
+        "left": "31.04240282685512%",
+        "color": "#c5c5c5",
+        "width": "12.54416961130742%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Material:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.02295000000001%",
+        "left": "30.918727915194346%",
+        "color": "#c5c5c5",
+        "width": "10.247349823321555%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Owner:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.38320000000001%",
+        "left": "52.473498233215544%",
+        "color": "#c5c5c5",
+        "width": "20.671378091872793%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Catherine Dubois",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.16035%",
+        "left": "43.86925795053004%",
+        "color": "#c5c5c5",
+        "width": "44.87632508833922%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "18k White Gold, 5.2 Carats of Diamonds",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.2582%",
+        "left": "41.254416961130744%",
+        "color": "#c5c5c5",
+        "width": "18.021201413427562%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sophia Turner",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.5%",
+        "left": "13.162544169611307%",
+        "color": "#c5c5c5",
+        "width": "24.02826855123675%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Catherine Dubois",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.3875%",
+        "left": "11.130742049469964%",
+        "color": "#c5c5c5",
+        "width": "28.091872791519435%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Designer\u2019s signature",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "55.6830125%",
+        "left": "11.484098939929329%",
+        "width": "7.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-02:08:48_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.4003875%",
+        "left": "14.310954063604239%",
+        "width": "21.73144876325088%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-02:09:06_Group 19476.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.2246125%",
+        "left": "63.957597173144876%",
+        "width": "22.614840989399294%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-02:09:20_Group 19504.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j85772n470db1ry5g9bgrv2d-1726752323468.png",
+  "isDefault": true,
+  "createdAt": "2024-09-19T13:23:17.286Z",
+  "updatedAt": "2025-03-19T11:00:26.599Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j85772n470db1ry5g9bgrv2d",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2120,
+  "categoryOrder": 617
+}

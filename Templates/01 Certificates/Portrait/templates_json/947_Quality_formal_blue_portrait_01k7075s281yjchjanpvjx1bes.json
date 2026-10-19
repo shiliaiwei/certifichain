@@ -1,0 +1,713 @@
+{
+  "name": "947_Quality_formal_blue_portrait",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 794 1123\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><rect width=\"794\" height=\"1123\" transform=\"matrix(-1 0 0 -1 794 1123)\" fill=\"white\"/></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31%",
+        "left": "5.830388692579505%",
+        "color": "#0c2a48",
+        "width": "46.996466431095406%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "79.25%",
+        "left": "63.074205%",
+        "width": "10.777385159010601%",
+        "height": "6%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 82 64\"><path fill=\"black\" d=\"M57.9308 43.6835C60.345 41.8043 61.9161 39.3563 64.6247 38.164C64.9574 38.5917 65.2325 38.9454 65.5374 39.3374C66.0191 38.9878 66.4425 38.6517 66.8937 38.3585C68.2581 37.4719 69.6878 37.0814 71.3731 37.3203C74.1325 37.7115 76.9228 37.8808 79.6968 38.1727C80.4115 38.248 81.115 38.4311 81.8546 38.8469C81.5001 38.9422 81.1359 39.1458 80.7925 39.1157C77.9536 38.8658 75.0803 38.7694 72.2944 38.2297C70.107 37.8059 68.3613 38.2484 66.7078 39.5769C66.0615 40.0963 65.3962 40.5919 64.5336 41.257C64.4274 40.4465 64.3577 39.9134 64.2466 39.064C62.6476 40.5353 61.2391 41.8456 59.813 43.1368C59.2748 43.6239 58.73 44.1193 58.1205 44.504C57.8736 44.6598 57.3416 44.6608 57.1308 44.4923C56.9207 44.3247 56.7981 43.7963 56.903 43.531C57.2688 42.6046 57.7497 41.7238 57.9819 40.5617C57.1376 40.9666 56.2944 41.3734 55.449 41.7764C53.7635 42.5797 52.1816 43.6452 50.1768 43.5875C49.7723 43.5758 49.3598 44.0422 48.9414 44.2708C47.9888 44.7909 47.0742 45.426 46.0625 45.7804C44.9387 46.174 44.3682 45.5925 44.7262 44.4746C44.9798 43.6822 45.3998 42.9084 45.8941 42.2354C46.7183 41.1129 47.6943 40.1029 48.5406 38.9955C48.9746 38.4277 49.2942 37.7643 49.6027 37.1144C49.678 36.956 49.5658 36.5456 49.4351 36.4879C49.2028 36.3853 48.7977 36.3504 48.63 36.4883C48.2142 36.83 47.8849 37.2792 47.5325 37.6951C40.9875 45.4166 33.7978 52.4458 25.2512 57.9455C22.5075 59.711 19.5686 61.1906 16.641 62.6438C15.4154 63.2522 14.0041 63.5427 12.6437 63.7997C11.9037 63.9394 11.0626 63.8185 10.3216 63.6158C9.09733 63.2809 8.4605 62.4189 8.66097 61.1586C8.82767 60.111 9.13412 58.961 9.75211 58.1364C10.9426 56.5475 12.251 54.9823 13.7657 53.7116C23.3599 45.6625 34.0927 39.6552 46.1221 36.0538C46.9656 35.8013 47.6894 35.4843 48.2319 34.756C51.8554 29.8924 55.5693 25.0941 59.1009 20.1651C61.1161 17.3526 62.7219 14.2653 63.7838 10.9475C64.2064 9.62689 64.5625 8.25214 64.6937 6.87756C65.0492 3.15304 62.9714 0.725788 59.2431 0.71617C57.3337 0.711267 55.3817 1.09126 53.5219 1.57667C50.1002 2.46999 46.9518 4.07124 43.8828 5.80545C33.6367 11.5955 24.8612 19.2035 16.8528 27.7499C10.894 34.109 5.86993 41.1708 1.28792 48.5614C0.944136 49.1158 0.591494 49.6648 -9.15527e-05 50.0942C0.0809992 49.9045 0.144359 49.7046 0.245628 49.5264C10.3229 31.7894 23.7005 17.1664 41.0818 6.34215C44.7467 4.05992 48.5831 2.06737 52.7645 0.922479C54.7307 0.384074 56.8081 0.0276359 58.8405 0.000857045C63.1473 -0.0559065 65.67 2.71137 65.2084 6.99673C64.984 9.08001 64.5164 11.2299 63.671 13.1328C62.2485 16.3348 60.6381 19.4936 58.7417 22.4353C55.9182 26.8149 52.777 30.9898 49.6748 35.3881C51.0758 36.5526 50.3324 37.7986 49.4198 39.0097C48.5437 40.1725 47.6039 41.2881 46.7446 42.4628C46.2169 43.1842 45.7879 43.9777 45.2021 44.9199C46.5051 45.093 47.1832 44.3343 47.979 43.9074C48.8669 43.431 49.1677 42.7691 49.0994 41.6908C49.0115 40.3022 50.1649 39.0251 51.4375 38.835C51.8514 38.7732 52.426 38.9116 52.7123 39.1843C52.8995 39.3625 52.8228 40.0116 52.6501 40.3356C52.2663 41.0552 51.7477 41.7032 51.0946 42.6569C54.239 42.074 56.4036 39.722 59.437 39.4157C59.6033 41.1267 58.101 41.9819 57.9308 43.6835ZM46.2331 36.97C45.607 37.0771 45.3641 37.0837 45.1461 37.1608C35.374 40.6209 26.0698 44.9887 17.8557 51.4196C16.0446 52.8375 14.2736 54.3373 12.6733 55.9835C11.594 57.0935 10.6741 58.4416 9.99217 59.8347C9.00776 61.8456 9.92239 63.0738 12.166 62.7911C13.5888 62.612 15.0494 62.2339 16.3418 61.6244C18.6391 60.5413 20.8885 59.3214 23.0406 57.9715C31.6553 52.5682 38.9016 45.6071 45.5324 37.9638C45.7247 37.7418 45.8741 37.4823 46.2331 36.97ZM52.1035 39.9145C51.9966 39.8263 51.8897 39.7382 51.7826 39.6501C50.2781 40.1512 50.1157 40.3665 50.0457 42.3097C50.8593 41.3628 51.4814 40.6387 52.1035 39.9145Z\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "8.5%",
+        "left": "82.332155%",
+        "width": "10.60070671378092%",
+        "height": "8.5%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 83 94\"><path fill=\"#316EA6\" d=\"M6.90136 78.4468C6.55881 78.0857 6.22715 77.8451 5.90676 77.7246C5.58598 77.6041 5.26357 77.5441 4.93876 77.5441C4.45556 77.5441 4.01872 77.6279 3.62821 77.7955C3.2373 77.9632 2.9016 78.1953 2.62071 78.4919C2.33942 78.7885 2.1222 79.1347 1.96865 79.5304C1.81511 79.9262 1.73814 80.3518 1.73814 80.8076C1.73814 81.2976 1.81511 81.7489 1.96865 82.162C2.1222 82.5747 2.33942 82.9318 2.62071 83.2328C2.9016 83.5338 3.2373 83.7704 3.62821 83.9421C4.01872 84.1141 4.45556 84.2 4.93876 84.2C5.31596 84.2 5.68269 84.1117 6.03854 83.9356C6.39399 83.7595 6.72526 83.4778 7.03275 83.0905L8.40254 84.0452C7.981 84.6127 7.46717 85.0257 6.86146 85.2837C6.25576 85.5416 5.61016 85.6705 4.92546 85.6705C4.2053 85.6705 3.54479 85.5565 2.94351 85.3288C2.34183 85.1011 1.82397 84.7787 1.38954 84.3612C0.955107 83.9441 0.614577 83.4436 0.368748 82.8584C0.122918 82.2737 0 81.6244 0 80.9107C0 80.1801 0.122918 79.5155 0.368748 78.9179C0.614577 78.3202 0.954704 77.8109 1.38954 77.3893C1.82397 76.9682 2.34224 76.6433 2.94351 76.4152C3.54479 76.1876 4.20571 76.0735 4.92546 76.0735C5.55777 76.0735 6.14373 76.1831 6.68375 76.4024C7.22377 76.6216 7.7263 76.9935 8.19176 77.5183L6.90136 78.4468Z\"/><path fill=\"#316EA6\" d=\"M11.655 80.9111C11.655 80.1805 11.7779 79.5159 12.0237 78.9183C12.2695 78.3206 12.6097 77.8112 13.0445 77.3897C13.4789 76.9686 13.9972 76.6437 14.5985 76.4156C15.1998 76.1879 15.8607 76.0739 16.5804 76.0739C17.3091 76.0655 17.9764 76.1706 18.5825 76.3899C19.1882 76.6091 19.7105 76.9295 20.1498 77.351C20.5887 77.7726 20.9312 78.2799 21.177 78.8731C21.4229 79.4664 21.5458 80.1289 21.5458 80.8595C21.5458 81.5732 21.4229 82.2225 21.177 82.8072C20.9312 83.392 20.5887 83.8953 20.1498 84.3165C19.7105 84.738 19.1882 85.0668 18.5825 85.3034C17.9764 85.54 17.3091 85.6625 16.5804 85.6709C15.8603 85.6709 15.1998 85.5569 14.5985 85.3292C13.9968 85.1015 13.4789 84.7791 13.0445 84.3616C12.6097 83.9445 12.2695 83.444 12.0237 82.8588C11.7779 82.2741 11.655 81.6248 11.655 80.9111ZM13.3931 80.8079C13.3931 81.298 13.4701 81.7493 13.6236 82.1624C13.7772 82.5751 13.9944 82.9322 14.2757 83.2332C14.5566 83.5342 14.8923 83.7708 15.2832 83.9425C15.6737 84.1145 16.1105 84.2004 16.5937 84.2004C17.0765 84.2004 17.5158 84.1145 17.9107 83.9425C18.3057 83.7704 18.6438 83.5342 18.9247 83.2332C19.2056 82.9322 19.4228 82.5755 19.5767 82.1624C19.7303 81.7497 19.8072 81.298 19.8072 80.8079C19.8072 80.3522 19.7303 79.9266 19.5767 79.5308C19.4232 79.1355 19.2056 78.7889 18.9247 78.4923C18.6438 78.1957 18.3057 77.9636 17.9107 77.7959C17.5158 77.6283 17.0765 77.5445 16.5937 77.5445C16.1105 77.5445 15.6737 77.6283 15.2832 77.7959C14.8923 77.9636 14.5566 78.1957 14.2757 78.4923C13.9944 78.7889 13.7772 79.1351 13.6236 79.5308C13.4701 79.9266 13.3931 80.3522 13.3931 80.8079Z\"/><path fill=\"#316EA6\" d=\"M25.8014 76.3062H28.3302L30.8195 82.7042L33.3351 76.3062H35.8373V85.4385H34.2567V77.8541H34.2305L31.3991 85.4385H30.24L27.4081 77.8541H27.382V85.4385H25.8018V76.3062H25.8014Z\"/><path fill=\"#316EA6\" d=\"M40.5901 76.3062H43.7246C44.1723 76.3062 44.6048 76.3493 45.0219 76.4351C45.439 76.5214 45.8057 76.6652 46.1216 76.8671C46.4376 77.0694 46.6899 77.3403 46.8789 77.6796C47.0675 78.0193 47.1622 78.4428 47.1622 78.9502C47.1622 79.5265 47.061 79.9908 46.8591 80.3434C46.6568 80.696 46.3848 80.9689 46.0427 81.1627C45.7001 81.3561 45.3028 81.4875 44.8506 81.556C44.3984 81.6249 43.9265 81.6592 43.4349 81.6592H42.2496V85.4385H40.5901V76.3062ZM43.2503 80.266C43.4872 80.266 43.7331 80.2576 43.9878 80.2402C44.2421 80.2233 44.477 80.1717 44.6922 80.0855C44.9074 79.9996 45.0827 79.8707 45.2189 79.6986C45.3547 79.5265 45.4228 79.2859 45.4228 78.976C45.4228 78.6923 45.3612 78.4666 45.2383 78.299C45.1154 78.1313 44.9574 78.0024 44.7643 77.9121C44.5709 77.8218 44.3561 77.7638 44.1187 77.738C43.8818 77.7122 43.6533 77.6993 43.434 77.6993H42.2488V80.2664H43.2503V80.266Z\"/><path fill=\"#316EA6\" d=\"M53.3128 76.3062H54.7483L58.7654 85.4385H56.8689L55.9996 83.349H51.9563L51.1133 85.4385H49.2562L53.3128 76.3062ZM55.4201 81.9558L53.9846 78.241L52.5226 81.9558H55.4201Z\"/><path fill=\"#316EA6\" d=\"M62.4398 76.3062H64.6394L69.157 83.091H69.1832V76.3062H70.8428V85.4385H68.7355L64.126 78.4344H64.0998V85.4385H62.4402L62.4398 76.3062Z\"/><path fill=\"#316EA6\" d=\"M77.8374 81.5302L74.3341 76.3062H76.4152L78.707 79.9436L81.0251 76.3062H83.0006L79.4973 81.5302V85.4385H77.8378L77.8374 81.5302Z\"/><path fill=\"#A0C1DF\" d=\"M1.19512 89.4022H0.0131226V88.8303H3.03482V89.4022H1.85281V93.061H1.19512V89.4022Z\"/><path fill=\"#A0C1DF\" d=\"M9.50646 92.1147H7.86827L7.5366 93.0605H6.84344L8.41353 88.8302H8.9616L10.5317 93.0605H9.84135L9.50646 92.1147ZM9.31987 91.546L8.69482 89.6979H8.68314L8.05809 91.546H9.31987Z\"/><path fill=\"#A0C1DF\" d=\"M16.5335 90.7311H18.0681V91.5927C18.06 92.0163 17.9121 92.3713 17.6236 92.6575C17.3334 92.942 16.9679 93.0879 16.5274 93.0955C16.1877 93.0879 15.9044 93.0065 15.6771 92.8517C15.4462 92.7026 15.2781 92.5305 15.1734 92.3351C15.1419 92.2714 15.1129 92.2101 15.0875 92.1521C15.0637 92.0921 15.044 92.0167 15.0283 91.9256C14.9984 91.7556 14.9839 91.4283 14.9839 90.9451C14.9839 90.4539 14.9989 90.125 15.0283 89.9586C15.0597 89.7921 15.1081 89.6579 15.1734 89.5552C15.2781 89.3597 15.4458 89.1856 15.6771 89.0329C15.9044 88.8781 16.1877 88.7987 16.5274 88.7951C16.9441 88.7992 17.2839 88.9201 17.5466 89.1578C17.8094 89.3976 17.975 89.6946 18.0443 90.0484H17.3512C17.298 89.8784 17.2012 89.7333 17.061 89.6132C16.9147 89.4992 16.737 89.4403 16.5278 89.4363C16.3739 89.4403 16.2413 89.4702 16.1309 89.5262C16.0184 89.5842 15.9274 89.6567 15.8581 89.7438C15.773 89.8349 15.717 89.9517 15.6892 90.0948C15.6578 90.2455 15.642 90.5292 15.642 90.9451C15.642 91.361 15.6578 91.6423 15.6892 91.7894C15.717 91.9365 15.773 92.0554 15.8581 92.1461C15.9274 92.2331 16.018 92.3036 16.1309 92.358C16.2413 92.4217 16.3739 92.4535 16.5278 92.4535C16.7825 92.4535 16.9929 92.3685 17.1589 92.1985C17.325 92.036 17.4096 91.8225 17.4136 91.5573V91.3368H16.5339V90.7311H16.5335Z\"/><path fill=\"#A0C1DF\" d=\"M24.5092 88.8302H25.1641V92.4544H27.2677V93.0609H24.5096V88.8302H24.5092Z\"/><path fill=\"#A0C1DF\" d=\"M32.1298 88.8302H32.7847V93.0605H32.1298V88.8302Z\"/><path fill=\"#A0C1DF\" d=\"M37.9418 88.8302H38.558L40.5134 91.8362H40.5251V88.8302H41.1795V93.0605H40.5605L38.6084 90.0545H38.5967V93.0605H37.9418V88.8302Z\"/><path fill=\"#A0C1DF\" d=\"M46.3387 88.8302H49.0968V89.4367H46.9936V90.6437H48.7889V91.2123H46.9936V92.454H49.0968V93.0605H46.3387V88.8302Z\"/><path fill=\"#A0C1DF\" d=\"M57.5173 91.2123H55.8078V93.0605H55.1529V88.8302H55.8078V90.6437H57.5173V88.8302H58.1722V93.0605H57.5173V91.2123Z\"/><path fill=\"#A0C1DF\" d=\"M64.6179 88.8302H67.376V89.4367H65.2727V90.6437H67.0681V91.2123H65.2727V92.454H67.376V93.0605H64.6179V88.8302Z\"/><path fill=\"#A0C1DF\" d=\"M72.2397 88.8302H73.9254C74.2849 88.8302 74.5783 88.9233 74.8052 89.1087C75.0796 89.3194 75.2231 89.6205 75.2348 90.011C75.2267 90.5853 74.9482 90.9762 74.3994 91.1833L75.4008 93.0605H74.6218L73.73 91.2526H72.8946V93.0605H72.2397V88.8302ZM72.8946 90.6844H73.8839C74.129 90.6804 74.3127 90.6111 74.4348 90.4757C74.5553 90.3499 74.6158 90.1952 74.6158 90.0114C74.6117 89.791 74.5396 89.6314 74.3994 89.5326C74.2885 89.4456 74.129 89.4021 73.9194 89.4021H72.8946V90.6844Z\"/><path fill=\"#A0C1DF\" d=\"M80.1873 88.8302H82.9454V89.4367H80.8422V90.6437H82.6376V91.2123H80.8422V92.454H82.9454V93.0605H80.1873V88.8302Z\"/><path fill=\"#A0C1DF\" d=\"M41.5237 3.53079L11.5438 31.8701V28.3398L41.5237 0.000114441V3.53079Z\"/><path fill=\"#A0C1DF\" d=\"M41.5237 12.6336L11.5438 40.9729V37.4426L41.5237 9.10291V12.6336Z\"/><path fill=\"#A0C1DF\" d=\"M41.5237 21.7364L11.5438 50.0757V46.5454L41.5237 18.2057V21.7364Z\"/><path fill=\"#A0C1DF\" d=\"M41.5237 30.8395L11.5438 59.1788V55.6486L41.5237 27.3088V30.8395Z\"/><path fill=\"#A0C1DF\" d=\"M41.5237 39.9427L11.5438 68.282V64.7517L41.5237 36.412V39.9427Z\"/><path fill=\"#316EA6\" d=\"M41.4729 3.53074L71.4524 31.8701V28.3398L41.4729 6.86646e-05V3.53074Z\"/><path fill=\"#316EA6\" d=\"M41.4729 12.6335L71.4524 40.9729V37.4426L41.4729 9.10287V12.6335Z\"/><path fill=\"#316EA6\" d=\"M41.4729 21.7363L71.4524 50.0757V46.5454L41.4729 18.2057V21.7363Z\"/><path fill=\"#316EA6\" d=\"M41.4729 30.8395L71.4524 59.1788V55.6485L41.4729 27.3088V30.8395Z\"/><path fill=\"#316EA6\" d=\"M41.4729 39.9426L71.4524 68.2819V64.7516L41.4729 36.4119V39.9426Z\"/></svg>"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "20.125%",
+        "left": "6.18374558303887%",
+        "width": "87.63250883392226%",
+        "height": "0.25%",
+        "backgroundColor": "#316ea6"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "90.625%",
+        "left": "6.18374558303887%",
+        "width": "87.63250883392226%",
+        "height": "0.25%",
+        "backgroundColor": "#316ea6"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.25%",
+        "left": "6.360424%",
+        "color": "#000000",
+        "width": "69.78798586572438%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF \nQUALITY FOR EXPORT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41%",
+        "left": "6.360424%",
+        "color": "#000000",
+        "width": "75.61837455830388%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "HACCP principles and ISO 22000:2018 standards",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.5%",
+        "left": "6.360424%",
+        "color": "#000000",
+        "width": "84.45229681978799%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "safety requirements for export to the European Union",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.125%",
+        "left": "6.537102%",
+        "color": "#000000",
+        "width": "18.374558303886925%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39%",
+        "left": "6.537102%",
+        "color": "#000000",
+        "width": "48.76325088339223%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "have been produced, inspected, and tested in accordance with",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.5%",
+        "left": "6.537103%",
+        "color": "#000000",
+        "width": "29.50530035335689%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The lot has been evaluated and meets",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.625%",
+        "left": "6.537102%",
+        "color": "#000000",
+        "width": "11.837455830388691%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified By:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.625%",
+        "left": "50.883387%",
+        "color": "#000000",
+        "width": "13.074204946996467%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Authorized By:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.375%",
+        "left": "6.537103%",
+        "color": "#000000",
+        "width": "35.3356890459364%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Bureau Veritas Chile \u2013 Food Safety Division",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.375%",
+        "left": "50.706714%",
+        "color": "#000000",
+        "width": "18.021201413427562%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Mar\u00eda Fernanda Rojas,",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.375%",
+        "left": "68.727915%",
+        "color": "#000000",
+        "width": "20.318021201413426%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lead Food Safety Auditor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.25%",
+        "left": "17.667845%",
+        "color": "#000000",
+        "width": "20.318021201413426%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "BLB-FR-0925",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.375%",
+        "left": "21.996466%",
+        "color": "#000000",
+        "width": "5.6537102473498235%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chile",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.5%",
+        "left": "21.137808%",
+        "color": "#000000",
+        "width": "20.318021201413426%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "02 July 2025",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.625%",
+        "left": "15.194346%",
+        "color": "#000000",
+        "width": "20.318021201413426%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "25,000 kg (500 cartons)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.75%",
+        "left": "21.272086%",
+        "color": "#000000",
+        "width": "20.318021201413426%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Rotterdam, Netherlands",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.25%",
+        "left": "66.784447%",
+        "color": "#000000",
+        "width": "20.318021201413426%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Within EU MRL",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.375%",
+        "left": "70.989392%",
+        "color": "#000000",
+        "width": "20.318021201413426%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Negative for E. coli",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.5%",
+        "left": "66.254417%",
+        "color": "#000000",
+        "width": "20.318021201413426%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "12% (ISO 1026 Method)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.625%",
+        "left": "68.109541%",
+        "color": "#000000",
+        "width": "6.18374558303887%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Passed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.75%",
+        "left": "69.805655%",
+        "color": "#000000",
+        "width": "9.717314487632509%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AG-QC-254",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.25%",
+        "left": "6.36042402826855%",
+        "color": "#000000",
+        "width": "11.130742049469964%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Lot Number:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.375%",
+        "left": "6.360425%",
+        "color": "#000000",
+        "width": "14.487632508833922%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Country of Origin:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.5%",
+        "left": "6.537102%",
+        "color": "#000000",
+        "width": "13.780918727915195%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Production Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.625%",
+        "left": "6.360425%",
+        "color": "#000000",
+        "width": "9.187279151943462%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Quantity:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.75%",
+        "left": "6.4841%",
+        "color": "#000000",
+        "width": "13.780918727915195%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Destination Port:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.25%",
+        "left": "50.70671378091873%",
+        "color": "#000000",
+        "width": "16.784452296819786%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Pesticide Residue:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.375%",
+        "left": "50.706714%",
+        "color": "#000000",
+        "width": "19.257950530035338%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Microbiological Testing:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.5%",
+        "left": "50.84805636042403%",
+        "color": "#000000",
+        "width": "16.784452296819786%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Moisture Content:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.625%",
+        "left": "50.795053%",
+        "color": "#000000",
+        "width": "16.784452296819786%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Packaging Integrity:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.75%",
+        "left": "50.8833922261484%",
+        "color": "#000000",
+        "width": "18.19787985865724%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Inspection Report No.:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.375%",
+        "left": "6.5371024734982335%",
+        "color": "#316ea6",
+        "width": "12.36749116607774%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Nr:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.875%",
+        "left": "6.36042402826855%",
+        "color": "#316ea6",
+        "width": "13.957597173144876%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.875%",
+        "left": "61.130742049469966%",
+        "color": "#316ea6",
+        "width": "17.314487632508836%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.375%",
+        "left": "30.212014%",
+        "color": "#316ea6",
+        "width": "21.37809187279152%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Valid For: Lot BLB-FR-0925 \n(This shipment only)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.375%",
+        "left": "61.130742049469966%",
+        "color": "#316ea6",
+        "width": "13.427561837455832%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issued On:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.625%",
+        "left": "6.448763%",
+        "color": "#316ea6",
+        "width": "89.2226148409894%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified Manufacturer: Andes Agro Export S.A. Avenida Apoquindo 5400, Las Condes, Santiago, Chile Tel: +56 2 2356 4100 | Email: qa@andesagro.cl | Website: www.andesagro.cl",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01k7075s281yjchjanpvjx1bes-1760035318942.png",
+  "isDefault": true,
+  "createdAt": "2025-10-07T20:52:59.082Z",
+  "updatedAt": "2025-10-20T11:11:25.227Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01k7075s281yjchjanpvjx1bes",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 748,
+  "categoryOrder": 252
+}

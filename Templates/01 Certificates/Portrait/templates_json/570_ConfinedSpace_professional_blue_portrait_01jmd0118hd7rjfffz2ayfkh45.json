@@ -1,0 +1,378 @@
+{
+  "name": "570_ConfinedSpace_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/18-02-2025-07:13:38_570_confinedspace_professional_blue_portrait-2.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.5%",
+        "left": "30.565371024734983%",
+        "color": "#1a3548",
+        "width": "49.46996466431096%",
+        "height": "auto",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.75%",
+        "left": "2.2968197879858656%",
+        "color": "#ffffff",
+        "width": "10.247349823321555%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Nr:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83%",
+        "left": "1.0600706713780919%",
+        "color": "#ffffff",
+        "width": "12.014134275618375%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.5%",
+        "left": "57.06713780918727%",
+        "color": "#1a3548",
+        "width": "16.784452296819786%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.5%",
+        "left": "55.830388692579504%",
+        "color": "#000",
+        "width": "23.851590106007066%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.375%",
+        "left": "1.4134275618374559%",
+        "width": "11.66077738515901%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-02-2025-07:02:33_qr.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.25%",
+        "left": "19.257950530035338%",
+        "width": "19.78798586572438%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-02-2025-07:02:36_group_20512.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.7660155%",
+        "left": "74.55830388692578%",
+        "width": "15.547703180212014%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-02-2025-07:02:39_group_20486.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "88.875%",
+        "left": "48.76325088339223%",
+        "width": "14.840989399293287%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-02-2025-07:02:42_group_20482.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "2.5%",
+        "left": "7.773851590106007%",
+        "width": "7.420494699646643%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-02-2025-07:02:44_group_20476.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.75%",
+        "left": "30.565371024734983%",
+        "color": "#1a3548",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ENTRY TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.125%",
+        "left": "24.381625441696116%",
+        "color": "#1a3548",
+        "width": "31.448763250883395%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEU CREDITS EARNED: 18 CEU CREDITS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.125%",
+        "left": "60.42402826855123%",
+        "color": "#1a3548",
+        "width": "26.855123674911663%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING DURATION : 18 HOURS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.75%",
+        "left": "22.43816254416961%",
+        "color": "#1a3548",
+        "width": "66.25441696113074%",
+        "height": "auto",
+        "fontSize": "72em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CONFINED SPACE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.5%",
+        "left": "42.40282685512368%",
+        "color": "#1a3548",
+        "width": "14.487632508833922%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPLETION DATE:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.5%",
+        "left": "39.399293286219084%",
+        "color": "#000",
+        "width": "17.491166077738516%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Expiration Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.875%",
+        "left": "19.78798586572438%",
+        "color": "#000",
+        "width": "71.90812720848056%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Occupational Health & Safety Accreditation Council (OHSAC).",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.75%",
+        "left": "18.727915194346288%",
+        "color": "#000",
+        "width": "73.67491166077738%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "entry, ventilation, PPE use, and rescue procedures. Verified by",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.625%",
+        "left": "20.141342756183743%",
+        "color": "#000",
+        "width": "71.5547703180212%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "for the successful completion, including permit-required",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.125000000000004%",
+        "left": "45.40636042402827%",
+        "color": "#000",
+        "width": "20.318021201413426%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.5%",
+        "left": "31.272084805653712%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.375%",
+        "left": "4.946996466431095%",
+        "color": "#1a3548",
+        "width": "13.604240282685511%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY\nLOGO",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jmd0118hd7rjfffz2ayfkh45-1739898825334.png",
+  "isDefault": true,
+  "createdAt": "2025-02-18T16:59:56.562Z",
+  "updatedAt": "2025-03-19T11:00:41.456Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01jmd0118hd7rjfffz2ayfkh45",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1824,
+  "categoryOrder": 331
+}

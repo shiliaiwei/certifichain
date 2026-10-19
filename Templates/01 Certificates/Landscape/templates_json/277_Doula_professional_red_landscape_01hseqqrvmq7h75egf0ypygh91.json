@@ -1,0 +1,317 @@
+{
+  "name": "277_Doula_professional_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-03-2024-09:05:20_277_Doula_professional_red_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.30459363957597%",
+        "left": "24.5625%",
+        "color": "#303030",
+        "width": "50.5%",
+        "height": "10.60070671378092%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.29098939929328%",
+        "left": "37.370125%",
+        "color": "#303030",
+        "width": "25.251999999999995%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.604240282685511%",
+        "left": "15.403375%",
+        "color": "#303030",
+        "width": "68.8125%",
+        "height": "25.4416961130742%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Birth Doula Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.212014134275616%",
+        "left": "38.1855%",
+        "color": "#303030",
+        "width": "23.625%",
+        "height": "4.5053003533568905%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.789752650176679%",
+        "left": "43.80475%",
+        "color": "#303030",
+        "width": "16.25%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.86289752650177%",
+        "left": "12.374025%",
+        "color": "#303030",
+        "width": "14.127%",
+        "height": "3.9752650176678443%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Rose White",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.0565371024735%",
+        "left": "9.871075%",
+        "color": "#303030",
+        "width": "80.252%",
+        "height": "15.19434628975265%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed the Birth Doula training program. Key skills: psychological support and advice on parenting; help with daily tasks.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.12720848056537%",
+        "left": "39.0625%",
+        "color": "#303030",
+        "width": "21.5%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.27915194346289%",
+        "left": "10.311525%",
+        "color": "#303030",
+        "width": "18.752%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company director",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "87.27915194346289%",
+        "left": "12.562499999999998%",
+        "width": "14.000000000000002%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#303030"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "87.27915194346289%",
+        "left": "73.247125%",
+        "width": "14.000000000000002%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#303030"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.81802120141343%",
+        "left": "70.496125%",
+        "color": "#303030",
+        "width": "19.252%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Anita Rodriguez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.63180212014134%",
+        "left": "70.746125%",
+        "color": "#303030",
+        "width": "18.752%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course instructor",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.789752650176679%",
+        "left": "40.559625%",
+        "width": "2.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-03-2024-08:58:54_ZB-uJXw-ap_x3XaE8pO58-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.23674911660777%",
+        "left": "15.403375%",
+        "width": "11.58105%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-03-2024-08:59:40_JEeQN5p3xhAvj6qQRYn6m-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.47349823321554%",
+        "left": "74.558125%",
+        "width": "11.1289%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-03-2024-09:01:03_cayK58khO5CPTrVk5u6pS-g15.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "59.94787985865725%",
+        "left": "42.5405%",
+        "width": "14.913125000000003%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-03-2024-09:02:43_4R0saMqXGrJx_dqdKdYOx-Group 18725.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.37102473498233%",
+        "left": "45.903375%",
+        "color": "#303030",
+        "width": "8.1875%",
+        "height": "7.950530035335689%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "46H",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.22968197879858%",
+        "left": "45.903375%",
+        "color": "#303030",
+        "width": "8.1875%",
+        "height": "7.950530035335689%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING\nPROGRAM",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hseqqrvmq7h75egf0ypygh91-1710965384072.png",
+  "isDefault": true,
+  "createdAt": "2024-03-20T20:09:44.054Z",
+  "updatedAt": "2025-03-19T11:00:11.718Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hseqqrvmq7h75egf0ypygh91",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2414,
+  "categoryOrder": 760
+}

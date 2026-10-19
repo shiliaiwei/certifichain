@@ -1,0 +1,342 @@
+{
+  "name": "9_course_modern_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-08-22-2:39:32_1 certificate Album (color 2)background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24.487985865724383%",
+        "left": "18.085%",
+        "color": "#52702b",
+        "width": "62.875%",
+        "height": "12.493091872791519%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.483886925795053%",
+        "left": "39.755875%",
+        "color": "#314b0f",
+        "width": "19.53325%",
+        "height": "5.30035335689046%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your Company",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.855300353356895%",
+        "left": "32.0625%",
+        "color": "#343434",
+        "width": "34.5%",
+        "height": "5.551572438162545%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "a course offered by Oak University, an online learning partnership between Oak University and edS. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.27597173144878%",
+        "left": "50.01558603491272%",
+        "color": "#494949",
+        "width": "11.903325%",
+        "height": "4.946996466431095%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Valid certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.824911660777385%",
+        "left": "44.1875%",
+        "color": "#343434",
+        "width": "11.25%",
+        "height": "6.18374558303887%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "yourwebsite.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.95088339222615%",
+        "left": "50.014625%",
+        "color": "#909090",
+        "width": "15.625%",
+        "height": "3.53356890459364%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.95070671378092%",
+        "left": "26.21%",
+        "color": "#343434",
+        "width": "46.625%",
+        "height": "8.328727915194346%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For the successful completion of all courses and passing points for the American Certificate in",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.41996466431095%",
+        "left": "38%",
+        "color": "#343434",
+        "width": "9.375%",
+        "height": "2.4734982332155475%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Michel Koal ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.20477031802122%",
+        "left": "38%",
+        "color": "#322f20",
+        "width": "6.5%",
+        "height": "2.2968197879858656%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Professor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.95229681978799%",
+        "left": "34.25%",
+        "color": "#909090",
+        "width": "17.625%",
+        "height": "2.7757773851590106%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.699646643109542%",
+        "left": "40.630875%",
+        "color": "#343434",
+        "width": "17.78325%",
+        "height": "3.6081095406360424%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.879858657243815%",
+        "left": "29.312500000000004%",
+        "color": "#52702b",
+        "width": "40%",
+        "height": "6.18374558303887%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Communication Arts",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.27455830388692%",
+        "left": "34.25%",
+        "color": "#494949",
+        "width": "10.153325%",
+        "height": "2.498339222614841%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.41996466431095%",
+        "left": "58.3125%",
+        "color": "#343434",
+        "width": "10.375%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Anna Jelome",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.20477031802122%",
+        "left": "77.75%",
+        "color": "#322f20",
+        "width": "6.5%",
+        "height": "2.2968197879858656%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Professor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.72367491166078%",
+        "left": "77.75%",
+        "color": "#343434",
+        "width": "13.125%",
+        "height": "7.243816254416961%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Michael Corland",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.20477031802122%",
+        "left": "58.3125%",
+        "color": "#322f20",
+        "width": "9%",
+        "height": "5.477031802120141%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Ph.D. Professor",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "88.76643109540636%",
+        "left": "5.5088375%",
+        "width": "14.61525%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-08-22-2:40:34_Group 1.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01gav22tqazkj2zxykbn746707-1675266537618.png",
+  "isDefault": true,
+  "createdAt": "2022-08-19T12:43:39.626Z",
+  "updatedAt": "2025-03-19T10:59:43.364Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "modern",
+    "category": "course"
+  },
+  "id": "01gav22tqazkj2zxykbn746707",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2951,
+  "categoryOrder": 111
+}

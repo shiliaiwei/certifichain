@@ -1,0 +1,225 @@
+{
+  "name": "290_Worskhop_professional_grey_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-04-2024-06:01:31_290_Worskhop_professional_grey_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.69187279151944%",
+        "left": "11.7919625%",
+        "color": "#424554",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.74558303886926%",
+        "left": "50.585%",
+        "color": "#424554",
+        "width": "14.189499999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.65371024734982%",
+        "left": "17.791%",
+        "color": "#424554",
+        "width": "18.381875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.74558303886926%",
+        "left": "17.643%",
+        "color": "#424554",
+        "width": "18.67875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.25618374558304%",
+        "left": "49.996625%",
+        "color": "#424554",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Janet Evans",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.451590106007068%",
+        "left": "35.71675%",
+        "color": "#424554",
+        "width": "28.1885%",
+        "height": "9.010600706713781%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.9434628975265%",
+        "left": "15.453125%",
+        "color": "#424554",
+        "width": "68.961%",
+        "height": "15.901060070671377%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed the business training\u2028\n'Creative ways to attract customers' in the volume of 6 hours.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.628975265017669%",
+        "left": "12.783625%",
+        "color": "#424554",
+        "width": "74.057625%",
+        "height": "27.56183745583039%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PARTICIPATION CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.25618374558304%",
+        "left": "70.9395%",
+        "color": "#424554",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.74558303886926%",
+        "left": "71.528375%",
+        "color": "#424554",
+        "width": "14.189499999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.37809187279152%",
+        "left": "50.120125%",
+        "width": "15.750999999999998%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-05:54:56_NNZu5DxJzXr3h62ktZeUq-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.96272084805653%",
+        "left": "77.098625%",
+        "width": "3.0498%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-06:00:50_gPc8zJXqeEcMvavaR3yin-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01htz7b5tqqafdz90s7nf4wm00-1712592361366.png",
+  "isDefault": true,
+  "createdAt": "2024-04-08T16:06:01.305Z",
+  "updatedAt": "2025-09-10T14:56:29.981Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "webinar"
+  },
+  "id": "01htz7b5tqqafdz90s7nf4wm00",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2388,
+  "categoryOrder": 12
+}

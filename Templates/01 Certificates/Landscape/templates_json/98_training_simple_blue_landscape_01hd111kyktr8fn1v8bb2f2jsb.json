@@ -1,0 +1,262 @@
+{
+  "name": "98_training_simple_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/18-10-2023-11:11:37_98_training_simple_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.38833922261484%",
+        "left": "22.2305%",
+        "color": "#445895",
+        "width": "54.78325%",
+        "height": "13.250883392226148%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.0173144876325%",
+        "left": "38.296875%",
+        "color": "#252525",
+        "width": "22.881875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.50671378091873%",
+        "left": "39.535125%",
+        "color": "#252525",
+        "width": "20.55375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.742049469964666%",
+        "left": "43.015625%",
+        "color": "#3e3f43",
+        "width": "17.163125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.00706713780919%",
+        "left": "26.202625%",
+        "color": "#3e3f43",
+        "width": "46.836%",
+        "height": "7.950530035335689%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successful completion of an internal seminar on\u2028          'How to build a strong team'",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.44487632508834%",
+        "left": "31.930625000000003%",
+        "color": "#3e3f43",
+        "width": "35.381875%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.402773851590105%",
+        "left": "10.40575%",
+        "color": "#3e3f43",
+        "width": "78.8135%",
+        "height": "11.395759717314489%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.75229681978797%",
+        "left": "15.476999999999999%",
+        "color": "#3e3f43",
+        "width": "13.381875%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Egbert Heath",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "53.35689045936396%",
+        "left": "23.067331670822945%",
+        "width": "53.87499999999999%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#3e3f43"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.97667844522968%",
+        "left": "13.276374999999998%",
+        "color": "#3e3f43",
+        "width": "17.381875%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.75229681978797%",
+        "left": "71.558625%",
+        "color": "#3e3f43",
+        "width": "13.381875%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Steven Pierce",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.97667844522968%",
+        "left": "69.558625%",
+        "color": "#3e3f43",
+        "width": "17.381875%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "28.389399293286218%",
+        "left": "40.212875%",
+        "width": "2.6777375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-11:10:29_hkP6hPmH7cUId4eKuIYhE-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.1874558303887%",
+        "left": "72.183625%",
+        "width": "12.757750000000001%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-11:12:47_Eqtq231ySqQ_TYnO9KGIy-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.40282685512368%",
+        "left": "14.807125%",
+        "width": "14.720750000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-11:13:20_r8kdL_3BKUUUq_eJmgqhL-g15.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hd111kyktr8fn1v8bb2f2jsb-1697620576451.png",
+  "isDefault": true,
+  "createdAt": "2023-10-18T09:14:39.957Z",
+  "updatedAt": "2025-03-19T10:59:52.627Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "training"
+  },
+  "id": "01hd111kyktr8fn1v8bb2f2jsb",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2774,
+  "categoryOrder": 392
+}

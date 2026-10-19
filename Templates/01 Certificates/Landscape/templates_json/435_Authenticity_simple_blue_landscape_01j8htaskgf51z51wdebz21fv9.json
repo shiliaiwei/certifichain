@@ -1,0 +1,315 @@
+{
+  "name": "435_Authenticity_simple_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-09-2024-11:45:42_435_Authenticity_simple_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24.778761061946902%",
+        "left": "6.4875%",
+        "color": "#114c4c",
+        "width": "54.533%",
+        "height": "12.7208480565371%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.67256637168141%",
+        "left": "40.375%",
+        "color": "#464645",
+        "width": "25.624999999999996%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.79646017699115%",
+        "left": "40.375%",
+        "color": "#464645",
+        "width": "21.427125%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.371681415929204%",
+        "left": "6.487499999999997%",
+        "color": "#114c4c",
+        "width": "65.875%",
+        "height": "auto",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Authenticity",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.061946902654867%",
+        "left": "6.550000000000001%",
+        "color": "#464645",
+        "width": "20.803875%",
+        "height": "3.0035335689045937%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Title of Artwork",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.530973451327434%",
+        "left": "6.5%",
+        "color": "#464645",
+        "width": "58.875%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is issued by Harper Art Studios and guarantees that the artwork titled \"Sunset Reverie,\" an original oil painting on canvas, is an \noriginal and authentic work created by Emily W. Harper.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.16814159292035%",
+        "left": "5.625%",
+        "color": "#343434",
+        "width": "15.75%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EMILY W. HARPER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.48672566371681%",
+        "left": "5.625%",
+        "color": "#343434",
+        "width": "5.5%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Artist",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.23008849557522%",
+        "left": "6.5%",
+        "color": "#464645",
+        "width": "11.375%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ARTIST NAME:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.83185840707964%",
+        "left": "6.5%",
+        "color": "#464645",
+        "width": "8%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MEDIUM:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.56637168141593%",
+        "left": "6.375%",
+        "color": "#464645",
+        "width": "11.5%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DIMENSIONS:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.876106194690266%",
+        "left": "18%",
+        "color": "#464645",
+        "width": "13.125%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Emily W. Harper",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.58407079646018%",
+        "left": "14.625%",
+        "color": "#464645",
+        "width": "13.125%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Oil on Canvas",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.20353982300885%",
+        "left": "18%",
+        "color": "#464645",
+        "width": "13.125%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "24 x 36 inches",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.90353982300885%",
+        "left": "73.125%",
+        "width": "22.375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-11:43:37_image 68@2x.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.30088495575221%",
+        "left": "87.375%",
+        "width": "8%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-11:44:05_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.27240707964602%",
+        "left": "50%",
+        "width": "15.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-11:44:47_Group 19549.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.16814159292035%",
+        "left": "21.375%",
+        "width": "16.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-11:46:18_Group 19456.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j8htaskgf51z51wdebz21fv9-1727174895226.png",
+  "isDefault": true,
+  "createdAt": "2024-09-24T10:48:15.217Z",
+  "updatedAt": "2025-03-19T11:00:27.833Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01j8htaskgf51z51wdebz21fv9",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2095,
+  "categoryOrder": 592
+}

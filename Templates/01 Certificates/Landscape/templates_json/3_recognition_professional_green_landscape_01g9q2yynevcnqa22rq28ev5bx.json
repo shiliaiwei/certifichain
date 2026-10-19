@@ -1,0 +1,326 @@
+{
+  "name": "3_recognition_professional_green_landscape ",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/05-08-22-3:21:45_Professional certificate.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "72.6618374558304%",
+        "left": "8.5%",
+        "width": "9.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#1e1a1d"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.01461267605634%",
+        "left": "8.5%",
+        "color": "#04471c",
+        "width": "56.00000000000001%",
+        "height": "20.54575971731449%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Birthstone, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.10618374558304%",
+        "left": "8.5%",
+        "color": "#04471c",
+        "width": "31.125000000000004%",
+        "height": "11.307420494699647%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.46395759717314%",
+        "left": "78.80037406483791%",
+        "color": "#04471c",
+        "width": "8.75%",
+        "height": "7.216219081272085%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Verified\n2022",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.4196113074205%",
+        "left": "8.5%",
+        "color": "#04471c",
+        "width": "12.25%",
+        "height": "3.356890459363958%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Marry Jane",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.61978798586571%",
+        "left": "44.125%",
+        "color": "#1e1a1d",
+        "width": "13.625000000000002%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director of Operations",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.68904593639576%",
+        "left": "8.5%",
+        "color": "#04471c",
+        "width": "11.75%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.473851590106%",
+        "left": "44.125%",
+        "color": "#1e1a1d",
+        "width": "17.375%",
+        "height": "3.6081095406360424%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.473851590106%",
+        "left": "8.5%",
+        "color": "#1e1a1d",
+        "width": "18.625%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.52826855123674%",
+        "left": "44.125%",
+        "color": "#1e1a1d",
+        "width": "10%",
+        "height": "8.051289752650177%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Dancing Script, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "O'neal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.62049469964664%",
+        "left": "8.5%",
+        "color": "#1e1a1d",
+        "width": "13.875000000000002%",
+        "height": "6.007067137809187%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.11183745583039%",
+        "left": "8.5%",
+        "color": "#1e1a1d",
+        "width": "58.5%",
+        "height": "7.243816254416961%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam cursus tempus, quam viverra sit augue faucibus. Lobortis felis facilisis tortor mol.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.52968197879858%",
+        "left": "8.5%",
+        "color": "#1e1a1d",
+        "width": "6.875000000000001%",
+        "height": "8.12720848056537%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Dancing Script, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jane",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.4196113074205%",
+        "left": "44.125%",
+        "color": "#04471c",
+        "width": "12.875%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Candice O'neal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.68904593639576%",
+        "left": "44.125%",
+        "color": "#04471c",
+        "width": "9%",
+        "height": "3.356890459363958%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issue date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.886925795053003%",
+        "left": "8.5%",
+        "color": "#04471c",
+        "width": "25.25%",
+        "height": "6.107826855123675%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of Recognition",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "72.6618374558304%",
+        "left": "44.125%",
+        "width": "9.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#1e1a1d"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.540636042402827%",
+        "left": "8.5%",
+        "width": "19.59575%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-08-22-3:21:58_Group 76.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12380-1659705983165.png",
+  "isDefault": true,
+  "createdAt": "2022-08-05T13:26:21.614Z",
+  "updatedAt": "2025-03-19T10:59:38.804Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01g9q2yynevcnqa22rq28ev5bx",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3033,
+  "categoryOrder": 721
+}

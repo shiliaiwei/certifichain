@@ -1,0 +1,282 @@
+{
+  "name": "411_Accreditation_professional_grey_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-08-2024-02:13:07_411_Accreditation_professional_grey_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.84955752212389%",
+        "left": "7.5%",
+        "color": "#424b54",
+        "width": "62%",
+        "height": "11.415929203539823%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.4070796460177%",
+        "left": "58.497125%",
+        "color": "#728393",
+        "width": "30.878875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.4070796460177%",
+        "left": "7.5%",
+        "color": "#728393",
+        "width": "26%",
+        "height": "3.3628318584070795%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.00884955752212%",
+        "left": "7.75%",
+        "color": "#728393",
+        "width": "80.03225%",
+        "height": "10.60070671378092%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "as a premier institution.This accreditation confirms the university's commitment to outstanding academic standards and continuous improvement.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.371681415929204%",
+        "left": "7.5%",
+        "color": "#424b54",
+        "width": "85.125%",
+        "height": "13.274336283185843%",
+        "fontSize": "51em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Accreditation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.530973451327434%",
+        "left": "7.5%",
+        "color": "#728393",
+        "width": "65.375%",
+        "height": "4.778761061946903%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The Council for Academic Quality (CAQ) formally recognizes",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.71681415929203%",
+        "left": "7.75%",
+        "color": "#424b54",
+        "width": "15.192375%",
+        "height": "4.770318021201414%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Linda Martin",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.67256637168141%",
+        "left": "7.75%",
+        "color": "#424b54",
+        "width": "21.317375%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Standards Officer",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "40.530282123893805%",
+        "left": "7.5%",
+        "width": "81.875%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#e1cb67"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.89380530973452%",
+        "left": "71.875%",
+        "color": "#424b54",
+        "width": "15.192375%",
+        "height": "4.770318021201414%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Emily Roberts",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.84955752212389%",
+        "left": "71.625%",
+        "color": "#424b54",
+        "width": "21.317375%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Accreditation Director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.4424778761062%",
+        "left": "42.5%",
+        "width": "15%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-02:06:26_Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.05309734513274%",
+        "left": "45.8625%",
+        "color": "#47280d",
+        "width": "8.25%",
+        "height": "7.964601769911504%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDITED INSTITUTION \n2024",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.14090159292036%",
+        "left": "7.75%",
+        "width": "17%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#e1cb67"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.14159292035399%",
+        "left": "71.875%",
+        "width": "17%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#e1cb67"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.6692389380531%",
+        "left": "7.75%",
+        "width": "17%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-02:39:02_Group 19419.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.63716814159291%",
+        "left": "71.5875%",
+        "width": "16.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-02:39:18_Group 19417.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j679re20958htvj66n6xtq9h-1724675995849.png",
+  "isDefault": true,
+  "createdAt": "2024-08-26T12:14:48.386Z",
+  "updatedAt": "2025-03-19T11:00:25.480Z",
+  "metadata": {
+    "lang": "en",
+    "color": "grey",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j679re20958htvj66n6xtq9h",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2145,
+  "categoryOrder": 642
+}

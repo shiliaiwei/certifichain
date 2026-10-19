@@ -1,0 +1,270 @@
+{
+  "name": "132_achievement_formal_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-11-2023-05:14:56_132_achievement_formal_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.4395%",
+        "left": "12.988586572438162%",
+        "color": "#6a4b2e",
+        "width": "73.7660777385159%",
+        "height": "5.9736375%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.44925%",
+        "left": "31.179681978798584%",
+        "color": "#6a4b2e",
+        "width": "37.10530035335689%",
+        "height": "1.5%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.19925%",
+        "left": "34.747703180212014%",
+        "color": "#6a4b2e",
+        "width": "29.969081272084807%",
+        "height": "1.4599625%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.918%",
+        "left": "11.689770318021202%",
+        "color": "#6a4b2e",
+        "width": "21.246996466431096%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JACOB CARROLL",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.65235%",
+        "left": "41.292402826855124%",
+        "color": "#6a4b2e",
+        "width": "17.161272084805653%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SCHOOL LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.711%",
+        "left": "27.960777385159012%",
+        "color": "#6a4b2e",
+        "width": "43.820318021201416%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "THIS CERTIFICATE IS AWARDED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.902375000000006%",
+        "left": "20.268904593639576%",
+        "color": "#6a4b2e",
+        "width": "58.93321554770318%",
+        "height": "7.9628875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For personal contribution to the development of the financial and credit system and active participation in the company's activities.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.349625%",
+        "left": "25.940812720848054%",
+        "color": "#6a4b2e",
+        "width": "47.863250883392226%",
+        "height": "8.894525%",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.043%",
+        "left": "70.50159010600706%",
+        "color": "#6a4b2e",
+        "width": "15.242250000000002%",
+        "height": "7.950530035335689%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JOHN QUINN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.34375%",
+        "left": "12.30814487632509%",
+        "color": "#6a4b2e",
+        "width": "20.01024734982332%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of the Bank",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.505875%",
+        "left": "68.82243816254417%",
+        "color": "#6a4b2e",
+        "width": "18.596819787985865%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Branch manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.874%",
+        "left": "73.49540636042403%",
+        "width": "9.25077738515901%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-11-2023-05:05:23_mAPwlkyJE2dEhKJFcebUV-XMLID_1_.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.7485%",
+        "left": "17.834275618374555%",
+        "width": "8.95952296819788%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-11-2023-05:06:48_4P9gA48B3sRK7rkYsLNfL-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.351625%",
+        "left": "43.81696113074205%",
+        "width": "11.834699646643108%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-11-2023-05:07:40_FaMelJMfwA6v3cGXXmL-q-Group 391.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.75%",
+        "left": "17.284116607773854%",
+        "color": "#6a4b2e",
+        "width": "65.17508833922263%",
+        "height": "17.75%",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hex08rfz7f7t67eanf30z5h5-1699632931349.png",
+  "isDefault": true,
+  "createdAt": "2023-11-10T16:15:31.331Z",
+  "updatedAt": "2025-03-19T10:59:56.189Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01hex08rfz7f7t67eanf30z5h5",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2735,
+  "categoryOrder": 269
+}

@@ -1,0 +1,262 @@
+{
+  "name": "173_diploma_formal_violet_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/18-12-2023-09:42:25_173_diploma_formal_violet_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.85335689045937%",
+        "left": "5.5578125%",
+        "color": "#4e3e5d",
+        "width": "46.44375%",
+        "height": "11.130742049469964%",
+        "fontSize": "51em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.23021201413428%",
+        "left": "30.948500000000003%",
+        "color": "#4e3e5d",
+        "width": "31.56725%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.82385159010602%",
+        "left": "30.923499999999997%",
+        "color": "#4e3e5d",
+        "width": "25.912499999999998%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.525618374558306%",
+        "left": "5.5328125%",
+        "color": "#4e3e5d",
+        "width": "53.020374999999994%",
+        "height": "9.540636042402827%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The qualification 'Bachelor' in the direction of 'Informatics and Computer Science' was conferred.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.661660777385158%",
+        "left": "5.5828125%",
+        "color": "#4e3e5d",
+        "width": "64.990625%",
+        "height": "26.501766784452297%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "BACHELOR'S DIPLOMA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.482685512367492%",
+        "left": "7.9421875%",
+        "color": "#4e3e5d",
+        "width": "13.678874999999998%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.47049469964664%",
+        "left": "72.921875%",
+        "color": "#4e3e5d",
+        "width": "7.553125%",
+        "height": "4.593639575971731%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Rector",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.89452296819788%",
+        "left": "72.946875%",
+        "color": "#4e3e5d",
+        "width": "16.553125%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Clifton Flowers",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.52243816254417%",
+        "left": "6.196875%",
+        "color": "#4e3e5d",
+        "width": "20.31725%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "51.43780918727915%",
+        "left": "5.486284289276807%",
+        "width": "63.74999999999999%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#4e3e5d"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "23.75441696113074%",
+        "left": "5.5328125%",
+        "width": "2%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-12-2023-09:40:36_xexO4BuAqO3h0i1_arGxY-Icon_1_.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.1399293286219%",
+        "left": "72.921875%",
+        "width": "6.740625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-12-2023-09:40:40_hbz3LoomD6qi4Yrfatn7--Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.20406360424029%",
+        "left": "5.109375%",
+        "width": "12.77975%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-12-2023-09:40:44_Mi-QABKgcfabdI9AEA9Yb-Capa 1.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.40989399293287%",
+        "left": "7.671875%",
+        "color": "#515151",
+        "width": "7.553125%",
+        "height": "4.593639575971731%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.08886925795053%",
+        "left": "8.959375%",
+        "color": "#515151",
+        "width": "4.928125%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhy0xgmvybef8cv40jwcvkna-1702889091962.png",
+  "isDefault": true,
+  "createdAt": "2023-12-18T08:33:11.326Z",
+  "updatedAt": "2025-03-19T11:00:00.443Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "formal",
+    "category": "completion"
+  },
+  "id": "01hhy0xgmvybef8cv40jwcvkna",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2624,
+  "categoryOrder": 878
+}

@@ -1,0 +1,255 @@
+{
+  "name": "122_achievement_modern_orange_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-11-2023-08:55:37_122_achievement_modern_orange_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.38833922261484%",
+        "left": "21.1055%",
+        "color": "#103263",
+        "width": "57.90825%",
+        "height": "11.925795053003533%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.73462897526501%",
+        "left": "39.421375%",
+        "color": "#103263",
+        "width": "20.631875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.27526501766785%",
+        "left": "60.435%",
+        "color": "#103263",
+        "width": "20.55375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.66072438162544%",
+        "left": "41.230875%",
+        "color": "#103263",
+        "width": "17.163125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your logo here",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.47703180212014%",
+        "left": "19.81975%",
+        "color": "#103263",
+        "width": "59.836%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For outstanding academic achievement and winning first place in the Programming Competition",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.226095406360423%",
+        "left": "38.27925%",
+        "color": "#ffffff",
+        "width": "23.0635%",
+        "height": "6.625441696113074%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.27526501766785%",
+        "left": "23.225625%",
+        "color": "#103263",
+        "width": "13.381875%",
+        "height": "3.53356890459364%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Gary Bell",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "52.46307420494699%",
+        "left": "21.003375%",
+        "width": "57.99999999999999%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#103263"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.26643109540636%",
+        "left": "19.163125%",
+        "color": "#103263",
+        "width": "21.506875%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "High School Principal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.614840989399294%",
+        "left": "40.972125%",
+        "color": "#103263",
+        "width": "17.8135%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.685512367491164%",
+        "left": "43.597125%",
+        "color": "#ffffff",
+        "width": "12.5635%",
+        "height": "2.9151943462897525%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED TO",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "74.16219081272084%",
+        "left": "19.4165%",
+        "width": "21.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#103263"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "74.16219081272084%",
+        "left": "60.212875%",
+        "width": "21.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#103263"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.26643109540636%",
+        "left": "64.208%",
+        "color": "#103263",
+        "width": "13.006875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issue date",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01heht6ja4repxq9qnh1phqxa4-1699257469282.png",
+  "isDefault": true,
+  "createdAt": "2023-11-06T07:57:49.254Z",
+  "updatedAt": "2025-03-19T10:59:55.137Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "modern",
+    "category": "achievement"
+  },
+  "id": "01heht6ja4repxq9qnh1phqxa4",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2756,
+  "categoryOrder": 289
+}

@@ -1,0 +1,288 @@
+{
+  "name": "308_Good standing_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-04-2024-02:15:22_308_Good standing_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "18.47809187279152%",
+        "left": "93.330125%",
+        "color": "#f3f5f6",
+        "width": "3.032225%",
+        "height": "6.36042402826855%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.827296819787986%",
+        "left": "5.65625%",
+        "color": "#262626",
+        "width": "26.37975%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.394434628975265%",
+        "left": "71.934375%",
+        "color": "#262626",
+        "width": "20.676625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.195406360424027%",
+        "left": "35.61825%",
+        "color": "#262626",
+        "width": "27.378125000000004%",
+        "height": "3.9752650176678443%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is issued ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.51590106007067%",
+        "left": "5.68125%",
+        "color": "#262626",
+        "width": "88.3125%",
+        "height": "9.540636042402827%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF GOOD STANDING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.647703180212%",
+        "left": "7.06445%",
+        "color": "#262626",
+        "width": "19.034375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company registrar",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.46289752650176%",
+        "left": "5.6796875%",
+        "color": "#262626",
+        "width": "86.752%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " Was incorporated on 09.03.2018 and is currently in a valid legal status. It possesses all necessary permits and licenses to carry out its activities, including the manufacture of building materials.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.07826855123675%",
+        "left": "9.065425%",
+        "color": "#262626",
+        "width": "15.034375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "John Sanchez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.03886925795053%",
+        "left": "38.21875%",
+        "color": "#262626",
+        "width": "21.1875%",
+        "height": "6.713780918727916%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "LLC Interstroy",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.120141342756185%",
+        "left": "18.273375%",
+        "color": "#262626",
+        "width": "63.127%",
+        "height": "7.950530035335689%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "LLC Interstroy has no known restrictions, encumbrances or debts that\u2028would impede its ability to fulfill its obligations.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.07826855123675%",
+        "left": "74.357375%",
+        "color": "#262626",
+        "width": "15.034375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Eduardo Roel",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.647703180212%",
+        "left": "72.3565%",
+        "color": "#262626",
+        "width": "19.034375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.35335689045937%",
+        "left": "12.663499999999999%",
+        "width": "7.8339875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-04-2024-02:13:37_tPQHeCSi_ZLIATmYQqLbh-Group 18923.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.2982332155477%",
+        "left": "76.441875%",
+        "width": "11.66015%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-04-2024-02:13:56_iHlwDrHuHzsoVUoqEVKSQ-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.72526501766785%",
+        "left": "41.045875%",
+        "width": "16.5225%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-04-2024-02:14:17_PE4TMGLjJKr-sTMQ-hSIB-logo.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.83745583038869%",
+        "left": "8.0615%",
+        "color": "#262626",
+        "width": "81.502%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This Certificate of Good Standing is issued on the basis of information available as of 01.10.2024.\u2028It is intended for use by LLC Interstroy in establishing partnerships with other companies.",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hw80m6hps9ddqz2erz1w0ddd-1713961140845.png",
+  "isDefault": true,
+  "createdAt": "2024-04-24T12:17:28.632Z",
+  "updatedAt": "2025-03-19T11:00:14.993Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hw80m6hps9ddqz2erz1w0ddd",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2353,
+  "categoryOrder": 731
+}

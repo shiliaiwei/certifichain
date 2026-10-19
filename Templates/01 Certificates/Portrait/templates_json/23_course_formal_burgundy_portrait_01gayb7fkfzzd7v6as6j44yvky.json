@@ -1,0 +1,324 @@
+{
+  "name": "23_course_formal_burgundy_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-08-22-9:16:51_Formal.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.225625%",
+        "left": "11.693904593639576%",
+        "color": "#650623",
+        "width": "51.32102473498232%",
+        "height": "5.5625%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.3623%",
+        "left": "12.212897526501767%",
+        "color": "#650623",
+        "width": "28.08780918727915%",
+        "height": "6.953125%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "course",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.922875%",
+        "left": "14.926572438162545%",
+        "color": "#0f0a0a",
+        "width": "21.197349823321556%",
+        "height": "2.780275%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO & Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.1475%",
+        "left": "12.21427561837456%",
+        "color": "#0f0a0a",
+        "width": "50.35335689045937%",
+        "height": "11.6796875%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisis ut elementum integer egestas. Facilisis ut elementum integer egestas elit.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.38775%",
+        "left": "13.336466431095406%",
+        "color": "#650623",
+        "width": "24.37756183745583%",
+        "height": "2.2246125%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.388625%",
+        "left": "50.708127208480555%",
+        "color": "#650623",
+        "width": "26.85106007067138%",
+        "height": "2.2246125%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.017625%",
+        "left": "13.77816254416961%",
+        "color": "#0f0a0a",
+        "width": "23.495406360424028%",
+        "height": "2.75%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Angelina Brown",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.125%",
+        "left": "11.693904593639576%",
+        "color": "#0f0a0a",
+        "width": "37.09840989399294%",
+        "height": "6.125%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.95411471321695%",
+        "left": "10.635247349823322%",
+        "color": "#000000",
+        "width": "27.03180212014134%",
+        "height": "5.625%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Brown",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.69837905236908%",
+        "left": "50.61837455830389%",
+        "color": "#000000",
+        "width": "27.03180212014134%",
+        "height": "5.625%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Rondo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.039%",
+        "left": "18.01855123674912%",
+        "color": "#650623",
+        "width": "15.013533568904593%",
+        "height": "2.3642625%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.017625%",
+        "left": "52.38657243816254%",
+        "color": "#0f0a0a",
+        "width": "23.495406360424028%",
+        "height": "2.75%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Andrew Rondo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.922875%",
+        "left": "51.238162544169604%",
+        "color": "#0f0a0a",
+        "width": "25.790989399293284%",
+        "height": "2.780275%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Marketing",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.04%",
+        "left": "57.363250883392226%",
+        "color": "#650623",
+        "width": "12.540035335689048%",
+        "height": "2.25%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issue Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.870125%",
+        "left": "74.7874558303887%",
+        "color": "#ffffff",
+        "width": "15.896925795053004%",
+        "height": "5.0039%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Verified Certificate\n2022",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.75%",
+        "left": "12.212897526501767%",
+        "color": "#650623",
+        "width": "40.98533568904594%",
+        "height": "6.953125%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.6245125%",
+        "left": "76.44169611307422%",
+        "width": "12.588339222614842%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-08-22-9:20:28_Group 311.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12926-1661023274131.png",
+  "isDefault": true,
+  "createdAt": "2022-08-20T19:21:12.559Z",
+  "updatedAt": "2025-03-19T10:59:44.648Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "formal",
+    "category": "course"
+  },
+  "id": "01gayb7fkfzzd7v6as6j44yvky",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2925,
+  "categoryOrder": 105
+}

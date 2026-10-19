@@ -1,0 +1,270 @@
+{
+  "name": "355_Graduation_professional_grey_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-06-2024-06:04:52_355_Graduation_professional_grey_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.923875%",
+        "left": "19.33939929328622%",
+        "color": "#313338",
+        "width": "61.45229681978799%",
+        "height": "4.6464875%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.767625%",
+        "left": "31.110600706713782%",
+        "color": "#313338",
+        "width": "38.325441696113074%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.9453125%",
+        "left": "21.97226148409894%",
+        "color": "#313338",
+        "width": "56.1875%",
+        "height": "11.66077738515901%",
+        "fontSize": "77em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "University ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.194375%",
+        "left": "28.46590106007067%",
+        "color": "#313338",
+        "width": "42.53816254416961%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This award is proudly given to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.34175%",
+        "left": "10.669681978798588%",
+        "color": "#313338",
+        "width": "22.42844522968198%",
+        "height": "2.9209%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Richard Davis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.169%",
+        "left": "6.965706713780919%",
+        "color": "#313338",
+        "width": "84.8145%",
+        "height": "3.7102473498233217%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of successful completion of the Master of Science \nin Environmental Engineering program.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.35937499999999%",
+        "left": "34.381802120141344%",
+        "color": "#313338",
+        "width": "29.98021201413427%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.651375%",
+        "left": "7.511625441696113%",
+        "color": "#313338",
+        "width": "28.74063604240283%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.370125%",
+        "left": "61.087985865724384%",
+        "color": "#313338",
+        "width": "25.96201413427562%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Martin Martinez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.680625%",
+        "left": "58.38392226148409%",
+        "color": "#313338",
+        "width": "31.368727915194345%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.256875%",
+        "left": "7.953957597173145%",
+        "color": "#313338",
+        "width": "82.83604240282685%",
+        "height": "5.8418%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Degree awarded: Master's degree in Environmental Engineering\nInstitution: Environmental University of Argentina",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.953125%",
+        "left": "68.74717314487631%",
+        "width": "10.639363957597174%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-05:56:47_7UiujvniZ42ppjuFqG0qY-Group 18923.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.086875%",
+        "left": "16.07291519434629%",
+        "width": "11.619363957597175%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-05:57:12_oMbHafvzYwvFLZ-P0q994-Vector 731.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.75%",
+        "left": "41.31925795053004%",
+        "width": "17.492544169611307%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-05:58:22_Toh2vikCAmEYkCKiUcjdg-Frame.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.080125%",
+        "left": "21.97226148409894%",
+        "color": "#313338",
+        "width": "56.1875%",
+        "height": "11.66077738515901%",
+        "fontSize": "77em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "of Indiana",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0xrpmdx897mz06r2rvdzqeq-1718985904590.png",
+  "isDefault": true,
+  "createdAt": "2024-06-21T16:05:04.575Z",
+  "updatedAt": "2025-03-19T11:00:19.702Z",
+  "metadata": {
+    "lang": "en",
+    "color": "grey",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0xrpmdx897mz06r2rvdzqeq",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2256,
+  "categoryOrder": 182
+}

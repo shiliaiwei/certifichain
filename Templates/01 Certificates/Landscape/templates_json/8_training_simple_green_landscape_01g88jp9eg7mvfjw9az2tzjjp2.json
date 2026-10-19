@@ -1,0 +1,271 @@
+{
+  "name": "8_training_simple_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-07-22-7:26:06_training_simple_green_landscape background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "77.91519434628975%",
+        "left": "10.625%",
+        "width": "10.125%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#808080"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.87279151943463%",
+        "left": "10.625%",
+        "color": "#373737",
+        "width": "41.375%",
+        "height": "7.773851590106007%",
+        "fontSize": "27em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.626166077738515%",
+        "left": "73.2685%",
+        "width": "13.5185%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-07-22-7:10:47_Group 30.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.7773851590106%",
+        "left": "72.486375%",
+        "width": "15.08203125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-07-22-7:11:08_Mask group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.8339222614841%",
+        "left": "10.625%",
+        "color": "#437779",
+        "width": "38.125%",
+        "height": "34.98233215547703%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.21908127208481%",
+        "left": "10.625%",
+        "color": "#3c3c3c",
+        "width": "22%",
+        "height": "4.41696113074205%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.003533568904594%",
+        "left": "10.625%",
+        "color": "#3c3c3c",
+        "width": "40.625%",
+        "height": "9.010600706713781%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus erat a cras non netus fringilla etiam mi arcu. Sed nulla pretium, nascetur risus in. Turpis at eget vitae ac eros.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.957597173144876%",
+        "left": "10.625%",
+        "color": "#437779",
+        "width": "15.875%",
+        "height": "13.780918727915195%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Gadge",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.29273409893993%",
+        "left": "10.625%",
+        "color": "#373737",
+        "width": "10.125%",
+        "height": "3.180212014134275%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "John Gadge",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.30112632508833%",
+        "left": "10.625%",
+        "color": "#808080",
+        "width": "14.875%",
+        "height": "6.007067137809187%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director Your Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.30112632508833%",
+        "left": "29.224609375%",
+        "color": "#808080",
+        "width": "9.5%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.07120141342756%",
+        "left": "72.964875%",
+        "color": "#ffffff",
+        "width": "14.124999999999998%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issue Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.29273409893993%",
+        "left": "29.224609375%",
+        "color": "#373737",
+        "width": "16.25%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.30106007067137%",
+        "left": "71.527375%",
+        "color": "#ffffff",
+        "width": "17%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.58780918727916%",
+        "left": "72.027375%",
+        "color": "#ffffff",
+        "width": "16%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "yourcompany.com",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/11725-1659526153995.png",
+  "isDefault": true,
+  "createdAt": "2022-07-18T11:56:56.656Z",
+  "updatedAt": "2025-03-19T10:59:35.984Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "training"
+  },
+  "id": "01g88jp9eg7mvfjw9az2tzjjp2",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3086,
+  "categoryOrder": 445
+}

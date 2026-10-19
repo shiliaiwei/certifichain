@@ -1,0 +1,345 @@
+{
+  "name": "102_training_formal_white_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/18-10-2023-11:05:01_102_training_formal_white_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.4434628975265%",
+        "left": "19.5645%",
+        "color": "#152a44",
+        "width": "42.28325%",
+        "height": "12.190812720848058%",
+        "fontSize": "46em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.568904593639576%",
+        "left": "19.5645%",
+        "color": "#152a44",
+        "width": "21.881875%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.12402826855124%",
+        "left": "19.57525%",
+        "color": "#152a44",
+        "width": "19.30375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.436395759717314%",
+        "left": "79.8125%",
+        "color": "#0b1937",
+        "width": "11.2880875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.15494699646644%",
+        "left": "19.5645%",
+        "color": "#152a44",
+        "width": "12.2109375%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Sarah Steven",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.749116607773852%",
+        "left": "19.5645%",
+        "color": "#152a44",
+        "width": "27.557625%",
+        "height": "11.66077738515901%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.596643109540636%",
+        "left": "19.5645%",
+        "color": "#152a44",
+        "width": "28.381875%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to proudly certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.22791519434629%",
+        "left": "19.5645%",
+        "color": "#152a44",
+        "width": "46.183625%",
+        "height": "7.950530035335689%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed the Corporate Training\u2028    'Leader and Manager. What is the difference?'",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.7768551236749%",
+        "left": "19.5605%",
+        "color": "#152a44",
+        "width": "12.1933625%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Marketing",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "52.51766784452296%",
+        "left": "19.576059850374065%",
+        "width": "45%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#152a44"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.18445229681979%",
+        "left": "19.45137157107232%",
+        "width": "15.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#152a44"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.141342756183743%",
+        "left": "19.5645%",
+        "color": "#152a44",
+        "width": "30.807624999999998%",
+        "height": "12.014134275618375%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "of Training ",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.53586572438164%",
+        "left": "48.5625%",
+        "width": "15.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#152a44"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.51236749116607%",
+        "left": "48.071375%",
+        "color": "#152a44",
+        "width": "12.2109375%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Kelly Evans",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.7768551236749%",
+        "left": "48.07125%",
+        "color": "#152a44",
+        "width": "14.318375%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO of the company",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.60070671378092%",
+        "left": "79.8125%",
+        "color": "#0b1937",
+        "width": "13.038125%",
+        "height": "2.385159010600707%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.568904593639576%",
+        "left": "76.375%",
+        "width": "2.3818375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-11:01:35_ORFFVGZLfMxPL4WKqdqi0-Icon_2_.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.20565371024735%",
+        "left": "79.751%",
+        "width": "7.377925%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-11:02:02_BzLvEJ9BQCY8R9YZKQ07s-Frame.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.82632508833922%",
+        "left": "79.996125%",
+        "color": "#ffffff",
+        "width": "7.131837499999999%",
+        "height": "3.4452296819787986%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.70618374558303%",
+        "left": "19.451125%",
+        "width": "12.858374999999999%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-11:03:54_w5SV782y8-Kg_h0B11Xt7-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.70671378091873%",
+        "left": "47.622125%",
+        "width": "12.311525%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-11:04:10_OuhwuPdUMeiUqufPrYps6-Vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hd2a7kk8tte6z0bpr6f34wvq-1697663667839.png",
+  "isDefault": true,
+  "createdAt": "2023-10-18T21:14:27.821Z",
+  "updatedAt": "2025-03-19T10:59:53.015Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "formal",
+    "category": "training"
+  },
+  "id": "01hd2a7kk8tte6z0bpr6f34wvq",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2766,
+  "categoryOrder": 384
+}

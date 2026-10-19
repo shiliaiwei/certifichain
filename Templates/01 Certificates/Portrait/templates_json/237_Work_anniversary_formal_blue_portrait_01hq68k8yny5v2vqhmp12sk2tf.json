@@ -1,0 +1,270 @@
+{
+  "name": "237_Work anniversary_formal_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-02-2024-05:39:32_237_Work anniversary_formal_blue_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "30.671875%",
+        "left": "22.326325088339225%",
+        "color": "#2d313a",
+        "width": "54.657875%",
+        "height": "15.901060070671377%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.400375%",
+        "left": "8.726254416961131%",
+        "color": "#2d313a",
+        "width": "31.325971731448764%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.935%",
+        "left": "61.057597173144885%",
+        "color": "#1a4652",
+        "width": "30.30441696113074%",
+        "height": "1.8584%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.99025%",
+        "left": "34.310777385159014%",
+        "color": "#1a1a1a",
+        "width": "31.003003533568908%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.96000000000001%",
+        "left": "13.007950530035336%",
+        "color": "#1a1a1a",
+        "width": "22.984805653710247%",
+        "height": "2.9209%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brandon Adrian",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.465825%",
+        "left": "14.219134275618375%",
+        "color": "#2d313a",
+        "width": "71.1875%",
+        "height": "13.250883392226148%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "15 YEARS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.193375%",
+        "left": "13.636607773851589%",
+        "color": "#1a1a1a",
+        "width": "72.03657243816254%",
+        "height": "9.5566375%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your 15 years of service is a true testament to your dedication to our company and you are truly \na valued member of our team. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.84575%",
+        "left": "13.428869257950533%",
+        "color": "#1a1a1a",
+        "width": "21.394699646643108%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.066374999999994%",
+        "left": "65.7780918727915%",
+        "color": "#1a1a1a",
+        "width": "20.864664310954062%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Chelsea Cramer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.73925%",
+        "left": "65.3351590106007%",
+        "color": "#1a1a1a",
+        "width": "21.74805653710247%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "General Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.28325%",
+        "left": "39.80583038869258%",
+        "width": "20.012897526501767%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-02-2024-01:18:17_gI-ikcnIqhgurtdnOowpu-Group 18808.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.361375%",
+        "left": "44.12349823321555%",
+        "color": "#b7cbdf",
+        "width": "11.37695%",
+        "height": "3.53356890459364%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "59.546875%",
+        "left": "66.59681978798586%",
+        "width": "20.046113074204946%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-02-2024-01:19:05_3aESORpKDhRhs3i7xv_e--Group 497.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "58.757749999999994%",
+        "left": "15.520017667844524%",
+        "width": "18.614664310954062%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-02-2024-01:19:18_R1XMVO7gLfdgnJG4hNRRY-Group 494.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.375%",
+        "left": "14.219134275618375%",
+        "color": "#2d313a",
+        "width": "71.1875%",
+        "height": "13.250883392226148%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ANNIVERSARY",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hq68k8yny5v2vqhmp12sk2tf-1708533588961.png",
+  "isDefault": true,
+  "createdAt": "2024-02-21T16:39:48.951Z",
+  "updatedAt": "2025-09-10T14:56:29.236Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "employee_of_the_month"
+  },
+  "id": "01hq68k8yny5v2vqhmp12sk2tf",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2495,
+  "categoryOrder": 51
+}

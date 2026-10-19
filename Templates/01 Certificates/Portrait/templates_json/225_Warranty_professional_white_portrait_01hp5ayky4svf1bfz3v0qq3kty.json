@@ -1,0 +1,306 @@
+{
+  "name": "225_Warranty_professional_white_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-02-2024-10:45:42_225_Warranty_professional_white_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "51.85512367491166%",
+        "left": "45.044375%",
+        "color": "#ffffff",
+        "width": "9.782225%",
+        "height": "37.102473498233216%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.2275375%",
+        "left": "67.17102473498232%",
+        "color": "#694a1a",
+        "width": "24.119434628975263%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.59375%",
+        "left": "3.4728091872791516%",
+        "color": "#111948",
+        "width": "92.67775%",
+        "height": "15.371024734982333%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.703125%",
+        "left": "8.777332155477032%",
+        "color": "#694a1a",
+        "width": "18.91554770318021%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lily Johnston",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.96875%",
+        "left": "8.777332155477032%",
+        "color": "#694a1a",
+        "width": "15.658127208480565%",
+        "height": "2.6543%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Action Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.375%",
+        "left": "10.001625441696113%",
+        "color": "#694a1a",
+        "width": "79.61572438162544%",
+        "height": "13.804749999999999%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate guarantees the preservation of the declared and achieved result. In case of postoperative complications, the patient is given a discount \non all services.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.47075%",
+        "left": "33.64134275618375%",
+        "color": "#111948",
+        "width": "32.187279151943464%",
+        "height": "3.451175%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Warranty obligations",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.76465%",
+        "left": "8.777332155477032%",
+        "color": "#694a1a",
+        "width": "29.742756183745584%",
+        "height": "1.7255875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.168%",
+        "left": "26.971731448763247%",
+        "color": "#111948",
+        "width": "45.67775%",
+        "height": "7.950530035335689%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " OF WARRANTY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.96875%",
+        "left": "70.66731448763251%",
+        "color": "#694a1a",
+        "width": "20.328975265017668%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate NO:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.350625%",
+        "left": "8.777332155477032%",
+        "color": "#694a1a",
+        "width": "27.639222614840985%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Commission",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.36725%",
+        "left": "73.51625441696112%",
+        "color": "#694a1a",
+        "width": "19.798939929328622%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Gabriel Moore",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.350625%",
+        "left": "78.96978798586572%",
+        "color": "#694a1a",
+        "width": "12.513798586572438%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Customer",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.173874999999995%",
+        "left": "37.785689045936394%",
+        "width": "23.897173144876326%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-10:28:49_U8I7gFX63FY6NgCg5Mrv5-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.694375%",
+        "left": "40.233038869257946%",
+        "color": "#111948",
+        "width": "19.00388692579505%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "QUALITY GUARANTEE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.867625%",
+        "left": "8.777332155477032%",
+        "width": "14.12047703180212%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-10:31:09_k83RshK6r4EWTej7Odr_F-Vector 497.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.0225%",
+        "left": "76.26166077738516%",
+        "width": "14.306819787985866%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-10:32:11_TSO_B86C1n7D7P0_Hy8xb-Vector 652.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hp5ayky4svf1bfz3v0qq3kty-1707428761561.png",
+  "isDefault": true,
+  "createdAt": "2024-02-08T21:46:01.543Z",
+  "updatedAt": "2025-03-19T11:00:06.349Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hp5ayky4svf1bfz3v0qq3kty",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2519,
+  "categoryOrder": 803
+}

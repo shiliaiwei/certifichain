@@ -1,0 +1,252 @@
+{
+  "name": "328_Academic_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/31-05-2024-03:07:11_328_Academic_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.360424028268554%",
+        "left": "29.044000000000004%",
+        "color": "#0f0f0f",
+        "width": "42.03125%",
+        "height": "10.335689045936396%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.01060070671378%",
+        "left": "26.541999999999998%",
+        "color": "#0f0f0f",
+        "width": "22.002%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.777385159010601%",
+        "left": "3.4707000000000003%",
+        "color": "#0f0f0f",
+        "width": "92.67775%",
+        "height": "15.371024734982333%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACADEMIC CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.353356890459366%",
+        "left": "36.286125%",
+        "color": "#0f0f0f",
+        "width": "27.052749999999996%",
+        "height": "7.950530035335689%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The certificate presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.68409893992934%",
+        "left": "17.459%",
+        "color": "#0f0f0f",
+        "width": "20.4395%",
+        "height": "6.890459363957597%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Robert Murphy",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.87279151943463%",
+        "left": "13.830125%",
+        "color": "#0f0f0f",
+        "width": "69.55275%",
+        "height": "12.7208480565371%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successful graduation from the University with a specialty in Pediatrics. In recognition of outstanding achievement, in-depth knowledge\u2028and dedication to pediatric patients.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.745583038869256%",
+        "left": "53.124%",
+        "color": "#0f0f0f",
+        "width": "20.125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.74204946996466%",
+        "left": "63.092749999999995%",
+        "color": "#0f0f0f",
+        "width": "20.4395%",
+        "height": "6.890459363957597%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Ryan Robinson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.2756183745583%",
+        "left": "17.459%",
+        "color": "#0f0f0f",
+        "width": "20.4395%",
+        "height": "6.890459363957597%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.2756183745583%",
+        "left": "61.96674999999999%",
+        "color": "#0f0f0f",
+        "width": "22.6895%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.60159010600707%",
+        "left": "41.7905%",
+        "width": "16.538125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-05-2024-03:02:48_iEs9SQr5v2C4dbMcgNUTy-Group 18725.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.20494699646643%",
+        "left": "44.15775%",
+        "color": "#434343",
+        "width": "11.8027375%",
+        "height": "6.36042402826855%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACADEMIC\nAWARD",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.1166077738516%",
+        "left": "21.61725%",
+        "width": "12.12305%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-05-2024-03:04:13_uwYNAx8H9Wvhw-_-_3cMM-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.40989399293287%",
+        "left": "66.40525%",
+        "width": "12.71675%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-05-2024-03:04:38_TbzRx0Pr7tFJ3jKVuMEgs-Vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hz7c6pm4h6erxqr3a6ez4d5t-1717160860300.png",
+  "isDefault": true,
+  "createdAt": "2024-05-31T13:07:40.294Z",
+  "updatedAt": "2025-03-19T11:00:16.975Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hz7c6pm4h6erxqr3a6ez4d5t",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2311,
+  "categoryOrder": 207
+}

@@ -1,0 +1,351 @@
+{
+  "name": "434_Authenticity_simple_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-09-2024-10:59:29_434_Authenticity_simple_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "25.25%",
+        "left": "47.17314487632509%",
+        "color": "#825930",
+        "width": "47.349823321554766%",
+        "height": "auto",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.5000000000000004%",
+        "left": "6.5371024734982335%",
+        "color": "#825930",
+        "width": "63.957597173144876%",
+        "height": "auto",
+        "fontSize": "74em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.25%",
+        "left": "47.70318021201413%",
+        "color": "#2e2929",
+        "width": "25.618374558303884%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Title of Artwork",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.11279375%",
+        "left": "47.52650176678445%",
+        "color": "#2e2929",
+        "width": "32.50883392226148%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.86279375%",
+        "left": "47.52650176678445%",
+        "color": "#2e2929",
+        "width": "37.102473498233216%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.125%",
+        "left": "6.890459363957597%",
+        "color": "#2e2929",
+        "width": "86.21908127208481%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate guarantees the authenticity of the artwork described herein and confirms that it is an original work created by the listed artist.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.38965%",
+        "left": "6.890459363957597%",
+        "color": "#2e2929",
+        "width": "11.837455830388691%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MEDIUM:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.25%",
+        "left": "7.06713780918728%",
+        "color": "#2e2929",
+        "width": "21.024734982332156%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Artist\u2019s signature",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.5%",
+        "left": "6.5371024734982335%",
+        "color": "#825930",
+        "width": "64.31095406360424%",
+        "height": "auto",
+        "fontSize": "53em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF AUTHENTICITY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.75%",
+        "left": "6.890459363957597%",
+        "color": "#2e2929",
+        "width": "23.14487632508834%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "YEAR COMPLETED:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.37285%",
+        "left": "56.360424028268554%",
+        "color": "#2e2929",
+        "width": "10.070671378091872%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ARTIST:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.75%",
+        "left": "56.360424028268554%",
+        "color": "#2e2929",
+        "width": "17.491166077738516%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DIMENSIONS:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.35%",
+        "left": "18.727915194346288%",
+        "color": "#2e2929",
+        "width": "20.141342756183743%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Oil on Canvas",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.7207%",
+        "left": "29.964664310954063%",
+        "color": "#2e2929",
+        "width": "7.06713780918728%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.4%",
+        "left": "66.43109540636041%",
+        "color": "#2e2929",
+        "width": "26.67844522968198%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Valentina Rodriguez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.76465%",
+        "left": "73.85159010600707%",
+        "color": "#2e2929",
+        "width": "17.84452296819788%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "18 x 24 inches",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.9587875%",
+        "left": "59.187279151943464%",
+        "width": "11.484098939929329%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-10:48:01_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.125%",
+        "left": "6.802120141342756%",
+        "width": "21.554770318021202%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-10:48:29_Group 19477.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.25%",
+        "left": "75.70671378091873%",
+        "width": "14.13427561837456%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-10:49:03_Group 19007.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "21.2375%",
+        "left": "6.890459363957597%",
+        "width": "33.03886925795053%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-10:49:39_ultra-detailed-texture-canvas-oil-watercolor-textu 2.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j8hqgppncfwdrq25qhyg0gd6-1727171979557.png",
+  "isDefault": true,
+  "createdAt": "2024-09-24T09:59:03.127Z",
+  "updatedAt": "2025-03-19T11:00:27.786Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01j8hqgppncfwdrq25qhyg0gd6",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2096,
+  "categoryOrder": 593
+}

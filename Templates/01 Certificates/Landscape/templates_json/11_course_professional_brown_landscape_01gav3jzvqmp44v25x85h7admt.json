@@ -1,0 +1,333 @@
+{
+  "name": "11_course_professional_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-08-22-3:06:27_Certificate - portrait Professional.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.241725352112674%",
+        "left": "20.9985%",
+        "color": "#754f44",
+        "width": "58.5%",
+        "height": "14.436554770318018%",
+        "fontSize": "52em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.69946996466432%",
+        "left": "40.30187032418952%",
+        "color": "#754f44",
+        "width": "9.028325%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issue Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.403180212014135%",
+        "left": "33.1245%",
+        "color": "#754f44",
+        "width": "34.25%",
+        "height": "3.356890459363958%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS CERTIFICATE IS PROUDLY PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.71819787985866%",
+        "left": "33.951625%",
+        "color": "#170312",
+        "width": "32%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.49134275618375%",
+        "left": "14.153375%",
+        "color": "#222e53",
+        "width": "72.875%",
+        "height": "12.54416961130742%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successfully completing the course of \u201cYouth Program Management and Evaluation\u201d.\nIn this youth management certificate program, he/she learned to use more effective practices and feel more confident about work, all of which will benefit youth.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.62897526501767%",
+        "left": "20.5%",
+        "color": "#170312",
+        "width": "14.249999999999998%",
+        "height": "7.243816254416961%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Andrew Schulz",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.79823321554771%",
+        "left": "21.8125%",
+        "color": "#170312",
+        "width": "11.625%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Graduate Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.6982332155477%",
+        "left": "49.785037406483795%",
+        "color": "#754f44",
+        "width": "15.625%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.074204946996467%",
+        "left": "29.125%",
+        "color": "#754f44",
+        "width": "41.375%",
+        "height": "29.151943462897528%",
+        "fontSize": "27em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE\nOF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.46219081272085%",
+        "left": "44.875%",
+        "color": "#170312",
+        "width": "10.153325%",
+        "height": "2.498339222614841%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.62897526501767%",
+        "left": "65%",
+        "color": "#170312",
+        "width": "14.249999999999998%",
+        "height": "7.243816254416961%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brandi Love",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.79823321554771%",
+        "left": "65.1875%",
+        "color": "#170312",
+        "width": "13.875000000000002%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chairman of the Board",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "1.837173144876325%",
+        "left": "41.57575%",
+        "width": "17.347625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-08-22-10:23:43_Logo Placeholder.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "96.31466431095406%",
+        "left": "38.125%",
+        "color": "#222e53",
+        "width": "23.375%",
+        "height": "3.3306713780918726%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "WWW.YOURUNIVERSITY.COM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.91166077738515%",
+        "left": "21.125%",
+        "color": "#170312",
+        "width": "13%",
+        "height": "9.439876325088338%",
+        "fontSize": "34em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Schulz",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.91166077738515%",
+        "left": "65.625%",
+        "color": "#170312",
+        "width": "13%",
+        "height": "9.439876325088338%",
+        "fontSize": "34em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Love",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.44169611307422%",
+        "left": "44.6025%",
+        "width": "11.530275%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-08-22-3:17:43_Badge.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.90971731448762%",
+        "left": "46.859875%",
+        "color": "#754f44",
+        "width": "6.778325000000001%",
+        "height": "5.551572438162545%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOUR\nTEXT",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12863-1660915112511.png",
+  "isDefault": true,
+  "createdAt": "2022-08-19T13:09:57.751Z",
+  "updatedAt": "2025-03-19T10:59:43.508Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "professional",
+    "category": "course"
+  },
+  "id": "01gav3jzvqmp44v25x85h7admt",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2948,
+  "categoryOrder": 17
+}

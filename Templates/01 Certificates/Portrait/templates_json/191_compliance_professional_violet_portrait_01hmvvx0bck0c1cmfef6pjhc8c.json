@@ -1,0 +1,309 @@
+{
+  "name": "191_compliance_professional_violet_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/23-01-2024-08:14:01_191_compliance_professional_violet_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.884375%",
+        "left": "7.463604240282685%",
+        "color": "#27241f",
+        "width": "84.50088339222614%",
+        "height": "8.89375%",
+        "fontSize": "77em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "95.371875%",
+        "left": "29.987985865724383%",
+        "color": "#27241f",
+        "width": "39.80565371024735%",
+        "height": "1.725%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.565625%",
+        "left": "9.01166077738516%",
+        "color": "#27241f",
+        "width": "25.671378091872793%",
+        "height": "2.25625%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.390625%",
+        "left": "31.48409893992933%",
+        "color": "#95928f",
+        "width": "36.57243816254417%",
+        "height": "1.9921874999999998%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.6000000000000005%",
+        "left": "21.24452296819788%",
+        "color": "#27241f",
+        "width": "57.365371024734976%",
+        "height": "10.61875%",
+        "fontSize": "78em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.2875%",
+        "left": "15.377650176678445%",
+        "color": "#95928f",
+        "width": "13.367932862190813%",
+        "height": "1.59375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Validity date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.051625%",
+        "left": "11.708215547703182%",
+        "color": "#95928f",
+        "width": "76.18374558303887%",
+        "height": "5.571875%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "May provide vehicle maintenance services. Certificate of Conformity issued on the basis of the assessment report  ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.686%",
+        "left": "32.576325088339225%",
+        "color": "#27241f",
+        "width": "34.62897526501767%",
+        "height": "2.390625%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "\u21163455 of 03.08.2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.8375%",
+        "left": "71.44328621908129%",
+        "color": "#27241f",
+        "width": "14.89399293286219%",
+        "height": "2.521875%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Alex Burke",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.279625%",
+        "left": "68.14045936395759%",
+        "color": "#95928f",
+        "width": "21.678445229681977%",
+        "height": "2.1234375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of  Certification",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "44.275%",
+        "left": "12.147887323943662%",
+        "width": "75.20759717314488%",
+        "height": "0.35335689045936397%",
+        "backgroundColor": "#95928f"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.2375%",
+        "left": "12.323943661971832%",
+        "width": "19.403710247349824%",
+        "height": "0.35335689045936397%",
+        "backgroundColor": "#95928f"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "87.871875%",
+        "left": "69.36619718309859%",
+        "width": "19.403710247349824%",
+        "height": "0.35335689045936397%",
+        "backgroundColor": "#95928f"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.840625%",
+        "left": "39.588162544169606%",
+        "width": "20.424028268551236%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-08:02:59_clCW08qG5xi89cI1Z_S1m-Group 18726.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.0125%",
+        "left": "69.75265017667844%",
+        "width": "16.78666077738516%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-08:03:27_pJqGCs-9hp8a-L7dC3Vip-Vector 649.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.197625%",
+        "left": "44.553886925795055%",
+        "color": "#313d4f",
+        "width": "10.247349823321555%",
+        "height": "2.9203125%",
+        "fontSize": "33em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.05%",
+        "left": "43.859363957597175%",
+        "color": "#313d4f",
+        "width": "11.565812720848058%",
+        "height": "2.125%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPLIANT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.475%",
+        "left": "11.350441696113075%",
+        "color": "#27241f",
+        "width": "76.8%",
+        "height": "41.375%",
+        "fontSize": "78em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "of Compliance",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hmvvx0bck0c1cmfef6pjhc8c-1706037248377.png",
+  "isDefault": true,
+  "createdAt": "2024-01-23T19:14:08.366Z",
+  "updatedAt": "2025-03-19T11:00:02.855Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hmvvx0bck0c1cmfef6pjhc8c",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2587,
+  "categoryOrder": 841
+}

@@ -1,0 +1,297 @@
+{
+  "name": "506_Christmas_simple_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-11-2024-12:49:07_506_christmas_simple_green_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "41.832890070921984%",
+        "left": "3.629536921151439%",
+        "color": "#0c331e",
+        "width": "92.36545682102629%",
+        "height": "auto",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.49822695035462%",
+        "left": "42.29036295369211%",
+        "color": "#0c331e",
+        "width": "9.028325%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issue Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.347517730496456%",
+        "left": "31.045056320400505%",
+        "color": "#0c331e",
+        "width": "37.922403003754695%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS CERTIFICATE IS PROUDLY PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.71897163120568%",
+        "left": "51.364205256570706%",
+        "color": "#0c331e",
+        "width": "14.643304130162704%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.790780141843975%",
+        "left": "14.7747183979975%",
+        "color": "#0c331e",
+        "width": "73.34167709637046%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Thank you for your dedication, outstanding achievements, and positive impact this year. \nYour hard work has made a difference, and we are proud to have you as part of the team.\nWishing you a joyful holiday season and continued success in the year ahead!",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.68794326241135%",
+        "left": "12.412390488110137%",
+        "color": "#0c331e",
+        "width": "14.249999999999998%",
+        "height": "7.243816254416961%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Andrew Schulz",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.13475177304964%",
+        "left": "12.581351689612017%",
+        "color": "#0c331e",
+        "width": "14.267834793491865%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Graduate Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.50265957446808%",
+        "left": "51.45181476846058%",
+        "color": "#0c331e",
+        "width": "15.625%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.595744680851062%",
+        "left": "29.28660826032541%",
+        "color": "#0c331e",
+        "width": "41.375%",
+        "height": "29.151943462897528%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "GIFT CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.91400709219857%",
+        "left": "41.29536921151439%",
+        "color": "#0c331e",
+        "width": "10.147058823529411%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID :",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.70567375886525%",
+        "left": "72.71589486858574%",
+        "color": "#0c331e",
+        "width": "14.249999999999998%",
+        "height": "7.243816254416961%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brandi Love",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.48936170212767%",
+        "left": "71.40488110137672%",
+        "color": "#0c331e",
+        "width": "17.146433041301627%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chairman of the Board",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.91400709219859%",
+        "left": "71.8397997496871%",
+        "width": "16.270337922403%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2024-12:26:19_group_19644.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.58156028368793%",
+        "left": "14.14267834793492%",
+        "width": "11.13892365456821%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2024-12:26:25_clip_path_group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.716312056737587%",
+        "left": "29.28660826032541%",
+        "color": "#0c331e",
+        "width": "41.375%",
+        "height": "29.151943462897528%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CHRISTMAS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.929078014184396%",
+        "left": "31.020025031289112%",
+        "color": "#0c331e",
+        "width": "37.922403003754695%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Vespera Collective COMPANY",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jdne6hv8t38gahetk68sxyqx-1732665100172.png",
+  "isDefault": true,
+  "createdAt": "2024-11-26T23:51:40.138Z",
+  "updatedAt": "2025-03-19T11:00:31.993Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01jdne6hv8t38gahetk68sxyqx",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2013,
+  "categoryOrder": 580
+}

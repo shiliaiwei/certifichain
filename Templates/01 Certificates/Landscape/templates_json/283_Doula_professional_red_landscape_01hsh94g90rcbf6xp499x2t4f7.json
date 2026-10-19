@@ -1,0 +1,297 @@
+{
+  "name": "283_Doula_professional_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-03-2024-08:47:38_283_Doula_professional_red_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.927915194346284%",
+        "left": "22.951125%",
+        "color": "#3b3230",
+        "width": "54.657875%",
+        "height": "15.901060070671377%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.96660777385159%",
+        "left": "12.438475%",
+        "color": "#3b3230",
+        "width": "23.377875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.56908127208482%",
+        "left": "63.5225%",
+        "color": "#3b3230",
+        "width": "24.298875%",
+        "height": "4.5053003533568905%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.586042402826855%",
+        "left": "43.871125%",
+        "color": "#3b3230",
+        "width": "15.127000000000002%",
+        "height": "3.9752650176678443%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.95247349823322%",
+        "left": "17.17325%",
+        "color": "#3b3230",
+        "width": "13.908249999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Donna Payne",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.480565371024735%",
+        "left": "5.28125%",
+        "color": "#3b3230",
+        "width": "89.0625%",
+        "height": "9.80565371024735%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "POSTPARTUM DOULA CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.882862190812716%",
+        "left": "15.8115%",
+        "color": "#3b3230",
+        "width": "68.002%",
+        "height": "13.604240282685511%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed training in: supporting and understanding the physiology of the birth process; providing emotional support \nfor the laboring woman and her partner.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.04434628975265%",
+        "left": "16.610375%",
+        "color": "#3b3230",
+        "width": "15.034375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.98233215547703%",
+        "left": "35.1865%",
+        "color": "#3b3230",
+        "width": "29.252%",
+        "height": "7.420494699646643%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.04434628975265%",
+        "left": "67.2315%",
+        "color": "#3b3230",
+        "width": "15.034375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.95247349823322%",
+        "left": "66.794375%",
+        "color": "#3b3230",
+        "width": "15.908250000000002%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Cynthia Mendoza",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "26.76272084805654%",
+        "left": "41.496125%",
+        "width": "2.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-03-2024-08:44:48_bi5bWryYf5bHROXoYvLk6-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.92067137809187%",
+        "left": "43.809125%",
+        "width": "11.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-03-2024-08:45:21_YghbPCbfmEtuZM2FmYvFD-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.89593639575972%",
+        "left": "43.932625%",
+        "color": "#3b3230",
+        "width": "11.37695%",
+        "height": "3.53356890459364%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "46h",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.93127208480566%",
+        "left": "43.808625%",
+        "color": "#3b3230",
+        "width": "11.37695%",
+        "height": "3.53356890459364%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.89010600706715%",
+        "left": "68.974125%",
+        "width": "11.5498%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-03-2024-08:50:14_g0XEV5dCayEreuyMjf9cm-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.74116607773851%",
+        "left": "17.818375%",
+        "width": "12.61525%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-03-2024-08:50:37_Dmvjqs-Ex55vgO5kkdF6u-Vector 245.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hsh94g90rcbf6xp499x2t4f7-1711050736039.png",
+  "isDefault": true,
+  "createdAt": "2024-03-21T19:52:15.907Z",
+  "updatedAt": "2025-03-19T11:00:12.405Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hsh94g90rcbf6xp499x2t4f7",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2402,
+  "categoryOrder": 748
+}

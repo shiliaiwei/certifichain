@@ -1,0 +1,299 @@
+{
+  "name": "261_Appreciation_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/13-10-2023-12:15:57_67_CPD_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.39575971731448%",
+        "left": "20.57325%",
+        "color": "#0c2a48",
+        "width": "59.03325%",
+        "height": "16.96113074204947%",
+        "fontSize": "66em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.471731448763244%",
+        "left": "21.669%",
+        "color": "#0c2a48",
+        "width": "27.631875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.67667844522968%",
+        "left": "59.148500000000006%",
+        "color": "#0c2a48",
+        "width": "18.80375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.35689045936396%",
+        "left": "21.669375%",
+        "color": "#0c2a48",
+        "width": "56.28325000000001%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For your outstanding contribution to the development and prosperity of our company. For your diligence, dedication and professionalism.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.6760777385159%",
+        "left": "18.97025%",
+        "color": "#0c2a48",
+        "width": "61.682625%",
+        "height": "21.73144876325088%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Appreciation Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.23621908127208%",
+        "left": "24.15325%",
+        "color": "#123d56",
+        "width": "14.693375%",
+        "height": "10.60070671378092%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Heather Smith",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.3583038869258%",
+        "left": "24.81296758104738%",
+        "width": "13.625000000000002%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#0c2a48"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.39222614840989%",
+        "left": "39.908625%",
+        "color": "#0c2a48",
+        "width": "19.807625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.80159010600707%",
+        "left": "24.027375%",
+        "color": "#123d56",
+        "width": "14.943375%",
+        "height": "2.385159010600707%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.782084805653709%",
+        "left": "45.9395%",
+        "color": "#0c2a48",
+        "width": "13.307625000000002%",
+        "height": "7.950530035335689%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company\nLogo",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.3583038869258%",
+        "left": "61.4375%",
+        "width": "13.625000000000002%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#0c2a48"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.32455830388692%",
+        "left": "60.34075%",
+        "color": "#0c2a48",
+        "width": "15.568375000000001%",
+        "height": "10.60070671378092%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Justin Thomas",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.80159010600707%",
+        "left": "60.79887500000001%",
+        "color": "#0c2a48",
+        "width": "14.943375%",
+        "height": "2.385159010600707%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "General Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.92049469964664%",
+        "left": "62.92387500000001%",
+        "width": "10.40235%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-10-2023-12:10:30_YAr9tj4758XrvtGDwsPBH-Vector 646.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.70318021201413%",
+        "left": "25.109375%",
+        "width": "12.78125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-10-2023-12:10:34_58BivzJymLf35SDd4RuIm-Vector 645.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.112685512367492%",
+        "left": "41.6875%",
+        "width": "3.6435499999999994%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-07:40:18_16LmfXgj544eOAXZblggn-Group 18788.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.25388692579504%",
+        "left": "42.11075%",
+        "width": "15.403375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-03-2024-03:36:35_uc4h19ccqz8bEWdx4wYQx-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.40865724381626%",
+        "left": "43.57125%",
+        "color": "#0c2a48",
+        "width": "12.4296875%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED\n2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hr7h6pqsdb8cxq7yfngm6gyf-1709649957330.png",
+  "isDefault": true,
+  "createdAt": "2024-03-05T14:45:10.524Z",
+  "updatedAt": "2025-03-19T11:00:08.662Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "appreciation"
+  },
+  "id": "01hr7h6pqsdb8cxq7yfngm6gyf",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2478,
+  "categoryOrder": 129
+}

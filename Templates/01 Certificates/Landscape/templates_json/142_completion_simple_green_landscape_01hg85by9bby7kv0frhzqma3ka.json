@@ -1,0 +1,252 @@
+{
+  "name": "142_completion_simple_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-11-2023-11:30:11_142_completion_simple_green_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.69858657243816%",
+        "left": "30.723125%",
+        "color": "#2e532a",
+        "width": "38.783%",
+        "height": "23.851590106007066%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.07703180212013%",
+        "left": "35.809875%",
+        "color": "#2e532a",
+        "width": "28.005249999999997%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.28657243816255%",
+        "left": "41.112875%",
+        "color": "#2e532a",
+        "width": "17.427125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.45865724381625%",
+        "left": "9.6493125%",
+        "color": "#2e532a",
+        "width": "10.9114625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Nathan Day",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.83374558303887%",
+        "left": "36.7995%",
+        "color": "#2e532a",
+        "width": "26.63025%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is granted to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.003233215547704%",
+        "left": "7.34895%",
+        "color": "#2e532a",
+        "width": "85.5625%",
+        "height": "11.395759717314489%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPLETION CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.17367491166078%",
+        "left": "7.789899999999999%",
+        "color": "#2e532a",
+        "width": "14.6615%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Accountant",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.37526501766785%",
+        "left": "21.84725%",
+        "color": "#2e532a",
+        "width": "56.50525%",
+        "height": "21.20141342756184%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed the Corporate Governance course. Skills and knowledge acquired: knowledge of organizational and legal forms of legal entities.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.15159010600706%",
+        "left": "68.635375%",
+        "color": "#2e532a",
+        "width": "23.2865%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " Tax Management Professor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.7922261484099%",
+        "left": "74.401%",
+        "color": "#2e532a",
+        "width": "11.7864625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Toby Stevens",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.16678445229682%",
+        "left": "42.89925%",
+        "color": "#2e532a",
+        "width": "18.00525%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.92155477031802%",
+        "left": "9.1675375%",
+        "width": "11.847225%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2023-11:28:16_Agn35XhOi0RK3jng1FX3K-path425.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.90176678445229%",
+        "left": "74.23875%",
+        "width": "12.0798625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2023-11:28:20_NPLbPulDEvmZKyXf1FGyv-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "25.100530035335687%",
+        "left": "39.612875%",
+        "width": "2.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2023-11:28:25_aXv8hcE6qHzEc0xUYpRL9-Group 499.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hg85by9bby7kv0frhzqma3ka-1701081119049.png",
+  "isDefault": true,
+  "createdAt": "2023-11-27T10:31:59.027Z",
+  "updatedAt": "2025-03-19T10:59:57.095Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01hg85by9bby7kv0frhzqma3ka",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2686,
+  "categoryOrder": 910
+}

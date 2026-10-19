@@ -1,0 +1,225 @@
+{
+  "name": "448_Internship_simple_purple_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-10-2024-12:59:04_448_Internship_simple_purple_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.117968749999996%",
+        "left": "13.650706713780918%",
+        "color": "#ffffff",
+        "width": "72.96819787985865%",
+        "height": "auto",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.375%",
+        "left": "43.45848056537102%",
+        "width": "13.074204946996467%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-10-2024-12:29:23_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79%",
+        "left": "15.73321554770318%",
+        "width": "27.03180212014134%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-10-2024-12:30:26_Group 19629.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.25%",
+        "left": "39.90503533568905%",
+        "color": "#dbd7d7",
+        "width": "20.49469964664311%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.125%",
+        "left": "13.604240282685511%",
+        "color": "#dbd7d7",
+        "width": "73%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has successfully completed her 3-month internship as an Outreach Coordinator Intern in the Community Engagement Department. During this time, she was involved in organizing community workshops and enhancing volunteer recruitment",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.875%",
+        "left": "31.272084805653712%",
+        "color": "#dbd7d7",
+        "width": "40.45936395759717%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "JUNE 1, 2024 - AUGUST 31, 2024.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.75%",
+        "left": "14.487632508833922%",
+        "color": "#ffffff",
+        "width": "29.50530035335689%",
+        "height": "auto",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SAMANTHA WRIGHT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.8%",
+        "left": "14.495318021201411%",
+        "color": "#ffffff",
+        "width": "29.50530035335689%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "PROGRAM MENTOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.75625%",
+        "left": "61.48409893992933%",
+        "color": "#ffffff",
+        "width": "22.084805653710244%",
+        "height": "auto",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DATE OF ISSUE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13%",
+        "left": "3.7698763250883354%",
+        "color": "#ffffff",
+        "width": "92.75%",
+        "height": "auto",
+        "fontSize": "52em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF INTERNSHIP",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.7875%",
+        "left": "58.8339222614841%",
+        "color": "#ffffff",
+        "width": "27.385159010600706%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.0046875%",
+        "left": "39.03047703180212%",
+        "color": "#dbd7d7",
+        "width": "21.923674911660772%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jamrm69jk8fpth5q2znynyxd-1729561432895.png",
+  "isDefault": true,
+  "createdAt": "2024-10-20T10:47:32.916Z",
+  "updatedAt": "2025-03-19T11:00:29.177Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01jamrm69jk8fpth5q2znynyxd",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2068,
+  "categoryOrder": 657
+}

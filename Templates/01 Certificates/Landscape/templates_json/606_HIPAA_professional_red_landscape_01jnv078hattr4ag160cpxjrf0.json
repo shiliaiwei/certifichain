@@ -1,0 +1,459 @@
+{
+  "name": "606_HIPAA_professional_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-03-2025-04:46:30_606_hipaa_professional_red_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.80530973451327%",
+        "left": "16.5%",
+        "color": "#0c2040",
+        "width": "30.625000000000004%",
+        "height": "auto",
+        "fontSize": "28em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.41592920353983%",
+        "left": "43.5%",
+        "width": "11.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-03-2025-03:49:08_vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.71681415929203%",
+        "left": "5.875%",
+        "width": "6.875000000000001%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-03-2025-03:49:11_qr.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.778761061946903%",
+        "left": "5.875%",
+        "width": "30%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-03-2025-03:49:14_group_20751.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.141592920353983%",
+        "left": "79.625%",
+        "width": "14.000000000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-03-2025-03:49:17_group_20749.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.34513274336283%",
+        "left": "44.5%",
+        "color": "#0c2040",
+        "width": "8.25%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "John Doe",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.61061946902655%",
+        "left": "6%",
+        "color": "#0c2040",
+        "width": "13.375%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date of Issuance:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.61061946902655%",
+        "left": "36.375%",
+        "color": "#0c2040",
+        "width": "13.125%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Course Duration:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.0353982300885%",
+        "left": "5.875%",
+        "color": "#0c2040",
+        "width": "12%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date of Expire:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.78761061946904%",
+        "left": "49.375%",
+        "color": "#0c2040",
+        "width": "6.75%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "15 Hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.584070796460175%",
+        "left": "5.875%",
+        "color": "#0c2040",
+        "width": "54.75%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "regulations to ensure the security and confidentiality of healthcare data.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.929203539823014%",
+        "left": "5.875%",
+        "color": "#0c2040",
+        "width": "55.875%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "recipient has completed training in accordance with federal HIPAA compliance",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.27433628318584%",
+        "left": "5.875%",
+        "color": "#0c2040",
+        "width": "53.87499999999999%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "including: HIPAA Privacy and Security Rules. This certificate verifies that the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.61946902654867%",
+        "left": "5.875%",
+        "color": "#0c2040",
+        "width": "56.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This training covers essential knowledge for third-party vendors and contractors,",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.47787610619469%",
+        "left": "28.499999999999996%",
+        "color": "#0c2040",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "HIPAA COMPLIANCE FOR BUSINESS ASSOCIATES",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.10619469026549%",
+        "left": "5.875%",
+        "color": "#0c2040",
+        "width": "8.5%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.53982300884956%",
+        "left": "5.875%",
+        "color": "#0c2040",
+        "width": "20.75%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Has successfully completed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.76991150442478%",
+        "left": "6%",
+        "color": "#0c2040",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "27em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPLIANCE TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.04424778761062%",
+        "left": "6%",
+        "color": "#0c2040",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "34em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFIVATE OF HIPAA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.31858407079646%",
+        "left": "13.875000000000002%",
+        "color": "#0c2040",
+        "width": "7.249999999999999%",
+        "height": "auto",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "purposes:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.19469026548673%",
+        "left": "13.875000000000002%",
+        "color": "#0c2040",
+        "width": "22.125%",
+        "height": "auto",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Identifier for tracking and verification",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.1504424778761%",
+        "left": "13.875000000000002%",
+        "color": "#0c2040",
+        "width": "22.125%",
+        "height": "auto",
+        "fontSize": "9em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Scan QR Code for Online Verification",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.54867221238938%",
+        "left": "44.5%",
+        "color": "#0c2040",
+        "width": "17.625%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Chief Compliance Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.17698902654867%",
+        "left": "16.625%",
+        "color": "#0c2040",
+        "width": "15.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.94690159292036%",
+        "left": "19.0625%",
+        "color": "#0c2040",
+        "width": "14.75%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.49557522123894%",
+        "left": "19.375%",
+        "color": "#0c2040",
+        "width": "8.5%",
+        "height": "auto",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jnv078hattr4ag160cpxjrf0-1741445197679.png",
+  "isDefault": true,
+  "createdAt": "2025-03-08T13:48:24.491Z",
+  "updatedAt": "2025-03-19T11:00:45.219Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01jnv078hattr4ag160cpxjrf0",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1772,
+  "categoryOrder": 306
+}

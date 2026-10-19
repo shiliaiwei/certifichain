@@ -1,0 +1,300 @@
+{
+  "name": "196_compliance_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/23-01-2024-10:26:50_196_compliance_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.40625%",
+        "left": "16.13957597173145%",
+        "color": "#111948",
+        "width": "67.25053003533569%",
+        "height": "8.3625%",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.3485%",
+        "left": "36.435512367491164%",
+        "color": "#111948",
+        "width": "26.63025%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.535875%",
+        "left": "31.804416961130745%",
+        "color": "#111948",
+        "width": "36.05565371024735%",
+        "height": "2.390625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.8359375%",
+        "left": "5.111484098939929%",
+        "color": "#111948",
+        "width": "89.37950530035336%",
+        "height": "26.55%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate \nof Compliance",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.534375%",
+        "left": "31.13621908127208%",
+        "color": "#9c6f2a",
+        "width": "37.33003533568905%",
+        "height": "2.390625%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS IS TO CERTIFY THAT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.546875%",
+        "left": "9.396024734982332%",
+        "color": "#232323",
+        "width": "80.66696113074204%",
+        "height": "4.5125%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Meets the requirements set forth in ANSI 75869.1 - 98 and conforms to the 4-star category.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.5375%",
+        "left": "10.06404593639576%",
+        "color": "#111948",
+        "width": "23.520318021201415%",
+        "height": "2.390625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "NATALIE CRAWFORD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.764125%",
+        "left": "8.322667844522966%",
+        "color": "#111948",
+        "width": "26.859540636042407%",
+        "height": "2.390625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.4875%",
+        "left": "67.93056537102474%",
+        "color": "#111948",
+        "width": "21.753533568904594%",
+        "height": "2.521875%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "GEORGE WILLIAMS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.9125%",
+        "left": "67.70088339222615%",
+        "color": "#111948",
+        "width": "21.945759717314488%",
+        "height": "2.25625%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Minister of Tourism",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.4485%",
+        "left": "41.84964664310954%",
+        "width": "16.040194346289752%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-10:17:03_mwgf-vO1IyQEImEZZ9CaT-Group 398.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.37425%",
+        "left": "46.41678445229682%",
+        "color": "#2c1111",
+        "width": "6.553125%",
+        "height": "5.30035335689046%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.5125%",
+        "left": "44.03604240282685%",
+        "color": "#7f5454",
+        "width": "11.386925795053005%",
+        "height": "1.1953125%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPLIANCE",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.686%",
+        "left": "8.626760563380282%",
+        "width": "82.60159010600707%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#e0b36e"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.9125%",
+        "left": "14.595848056537102%",
+        "width": "14.383833922261482%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-10:19:19_64Dw_kcyh8zhPyBqEbs_6-Vector 253.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "79.978125%",
+        "left": "10.56338028169014%",
+        "width": "22.837809187279152%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#e0b36e"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "80.16175%",
+        "left": "67.05618374558304%",
+        "width": "22.837809187279152%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#e0b36e"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.6375%",
+        "left": "72.80706713780918%",
+        "width": "14.383833922261482%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-10:19:19_64Dw_kcyh8zhPyBqEbs_6-Vector 253.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hmw3g0n819k8v5j8r170csp4-1706045211327.png",
+  "isDefault": true,
+  "createdAt": "2024-01-23T21:26:51.307Z",
+  "updatedAt": "2025-03-19T11:00:03.359Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hmw3g0n819k8v5j8r170csp4",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2577,
+  "categoryOrder": 831
+}

@@ -1,0 +1,225 @@
+{
+  "name": "284_Doula_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-03-2024-11:33:39_284_Doula_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.39505300353356%",
+        "left": "11.6703875%",
+        "color": "#323232",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.74558303886926%",
+        "left": "50.585%",
+        "color": "#323232",
+        "width": "14.189499999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.65371024734982%",
+        "left": "17.791%",
+        "color": "#2d2d2d",
+        "width": "18.381875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.74558303886926%",
+        "left": "17.643%",
+        "color": "#323232",
+        "width": "18.67875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.25618374558304%",
+        "left": "49.996625%",
+        "color": "#323232",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Michelle Bowen",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.1547703180212%",
+        "left": "35.839875%",
+        "color": "#323232",
+        "width": "28.1885%",
+        "height": "9.010600706713781%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.31678445229682%",
+        "left": "11.7695%",
+        "color": "#323232",
+        "width": "76.086%",
+        "height": "15.901060070671377%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully trained in: breathing techniques, relaxation and pain management; preparation for labor, including birth plan\u2028\nand intervention issues.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.80565371024735%",
+        "left": "12.783625%",
+        "color": "#323232",
+        "width": "74.057625%",
+        "height": "27.56183745583039%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "BIRTH DOULA CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.25618374558304%",
+        "left": "70.9395%",
+        "color": "#323232",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.74558303886926%",
+        "left": "71.528375%",
+        "color": "#323232",
+        "width": "14.189499999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.6148409893993%",
+        "left": "76.248125%",
+        "width": "4.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-03-2024-11:32:44_VgsWnmVgWUplj44gp6VaM-Group 18690.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.24699646643109%",
+        "left": "50.561125%",
+        "width": "14.238249999999999%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-03-2024-11:33:03_ch2VuxVx7GzgmWvLeNSmZ-XMLID_1_.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hshjdn6dspaa7ebvwcyvwvxg-1711060473045.png",
+  "isDefault": true,
+  "createdAt": "2024-03-21T22:34:33.039Z",
+  "updatedAt": "2025-03-19T11:00:12.498Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hshjdn6dspaa7ebvwcyvwvxg",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2400,
+  "categoryOrder": 746
+}

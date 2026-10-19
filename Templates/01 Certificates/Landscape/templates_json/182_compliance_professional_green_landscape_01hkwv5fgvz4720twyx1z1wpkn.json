@@ -1,0 +1,290 @@
+{
+  "name": "182_compliance_professional_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/14-01-2024-03:16:39_182_compliance_professional_green_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.7482332155477%",
+        "left": "25.1335%",
+        "color": "#232323",
+        "width": "49.407875%",
+        "height": "14.045936395759718%",
+        "fontSize": "53em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.5791519434629%",
+        "left": "13.089874999999997%",
+        "color": "#232323",
+        "width": "26.63025%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.15282685512368%",
+        "left": "61.516375000000004%",
+        "color": "#232323",
+        "width": "24.926625%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.6660777385159%",
+        "left": "15.998374999999998%",
+        "color": "#232323",
+        "width": "67.678125%",
+        "height": "20.671378091872793%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Compliance",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.00494699646643%",
+        "left": "39.3985%",
+        "color": "#232323",
+        "width": "20.803875%",
+        "height": "3.0035335689045937%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.319434628975266%",
+        "left": "20.061%",
+        "color": "#232323",
+        "width": "59.428125%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Complies with regulatory requirements and can provide meal services using mobility aids.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.53409893992932%",
+        "left": "17.584375%",
+        "color": "#232323",
+        "width": "17.690625%",
+        "height": "4.063604240282685%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Ethan Weaver",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.39929328621909%",
+        "left": "65.160875%",
+        "color": "#232323",
+        "width": "17.690625%",
+        "height": "4.063604240282685%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Peter Manning",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.71024734982332%",
+        "left": "17.559375%",
+        "color": "#232323",
+        "width": "17.690625%",
+        "height": "4.063604240282685%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Inspector",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.67491166077738%",
+        "left": "70.509375%",
+        "color": "#232323",
+        "width": "6.940625000000001%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Expert",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.25795053003533%",
+        "left": "68.236%",
+        "width": "11.8453125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-01-2024-03:13:52_pAsciVILR6mhkl5zs1QIo-path425.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "62.47349823321555%",
+        "left": "22.2375%",
+        "width": "12.421875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-01-2024-03:13:55_CRSJv-qYrpzPnCPd6iMHH-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "62.52650176678445%",
+        "left": "41.9625%",
+        "width": "16.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-01-2024-03:13:58_lC4HLh2m53UaVFTyj-YUa-logo.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.98021201413428%",
+        "left": "44.998375%",
+        "color": "#ffffff",
+        "width": "9.678125%",
+        "height": "4.240282685512367%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.72084805653711%",
+        "left": "46.534375%",
+        "color": "#ffffff",
+        "width": "6.553125%",
+        "height": "5.30035335689046%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "73.14381625441698%",
+        "left": "18.952618453865338%",
+        "width": "15.375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#232323"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "73.14381625441698%",
+        "left": "66.39225%",
+        "width": "15.375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#232323"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hkwv5fgvz4720twyx1z1wpkn-1705242755449.png",
+  "isDefault": true,
+  "createdAt": "2024-01-11T18:04:50.077Z",
+  "updatedAt": "2025-03-19T11:00:01.596Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hkwv5fgvz4720twyx1z1wpkn",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2606,
+  "categoryOrder": 860
+}

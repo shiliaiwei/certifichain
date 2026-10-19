@@ -1,0 +1,324 @@
+{
+  "name": "27_webinar_modern_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-08-22-1:33:54_Formal.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.61537102473498%",
+        "left": "8.84375%",
+        "color": "#0043c6",
+        "width": "60.875%",
+        "height": "13.881678445229683%",
+        "fontSize": "48em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.42024647887324%",
+        "left": "77.997125%",
+        "color": "#848484",
+        "width": "17.375%",
+        "height": "3.05321554770318%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.43038869257951%",
+        "left": "8.84375%",
+        "color": "#1d1d1d",
+        "width": "52.87500000000001%",
+        "height": "7.216219081272085%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT. CONSECTETUR TURPIS UT AMET ID. NUNC RIDICULUS TELLUS, DONEC.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.09507042253522%",
+        "left": "78.747125%",
+        "color": "#848484",
+        "width": "16.625%",
+        "height": "3.3306713780918726%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.878922261484098%",
+        "left": "8.84375%",
+        "color": "#ffffff",
+        "width": "58.12500000000001%",
+        "height": "18.374558303886925%",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.56890459363957%",
+        "left": "8.84375%",
+        "color": "#3c3c3c",
+        "width": "26.25%",
+        "height": "10.60070671378092%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HEREBY CERTIFIES THAT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.15600706713779%",
+        "left": "9.3671875%",
+        "color": "#000000",
+        "width": "15.903375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Dancing Script, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Malcolm",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.60883392226148%",
+        "left": "40.704125%",
+        "color": "#000000",
+        "width": "15.903375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Dancing Script, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Tatum",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.41731448763252%",
+        "left": "39.34375%",
+        "color": "#848484",
+        "width": "10.125%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ART DIRECTOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.63250883392226%",
+        "left": "9.3681625%",
+        "color": "#1d1d1d",
+        "width": "15.903375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "GEORGE MALCOLM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.42049469964664%",
+        "left": "8.84375%",
+        "color": "#3c3c3c",
+        "width": "38%",
+        "height": "10.60070671378092%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPLETE YOUR TRAINING NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.63250883392226%",
+        "left": "39.34375%",
+        "color": "#1d1d1d",
+        "width": "13.153375%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MELISSA TATUM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.41731448763252%",
+        "left": "9.3671875%",
+        "color": "#848484",
+        "width": "22.125%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DIRECTOR & PROJECT MANAGER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.54416961130742%",
+        "left": "76.671875%",
+        "color": "#604c3f",
+        "width": "12.25%",
+        "height": "12.54416961130742%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED CERTIFICATE\n2022",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.0939929328622%",
+        "left": "86.622125%",
+        "width": "8.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-08-22-1:31:57_Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.01338028169014%",
+        "left": "84.96875%",
+        "color": "#1d1d1d",
+        "width": "10.403325%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.89031690140845%",
+        "left": "87.46875%",
+        "color": "#1d1d1d",
+        "width": "7.903325%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ISSUE DATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12913-1661006306007.png",
+  "isDefault": true,
+  "createdAt": "2022-08-20T11:37:01.516Z",
+  "updatedAt": "2025-03-19T10:59:44.405Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "modern",
+    "category": "completion"
+  },
+  "id": "01gaxgnhacafv796whf24qk8zc",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2930,
+  "categoryOrder": 926
+}

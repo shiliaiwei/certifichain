@@ -1,0 +1,400 @@
+{
+  "name": "546_FireSafety_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/11-02-2025-05:35:45_546_firesafety_professional_blue_portrait-3.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.000000000000004%",
+        "left": "10.777385159010601%",
+        "color": "#0f1552",
+        "width": "67.84452296819788%",
+        "height": "auto",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "MonteCarlo, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.75%",
+        "left": "10.60070671378092%",
+        "color": "#0f1552",
+        "width": "56.18374558303887%",
+        "height": "auto",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.125%",
+        "left": "10.68904593639576%",
+        "color": "#0f1552",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "59em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of completion",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.125%",
+        "left": "10.777385159010601%",
+        "color": "#1a2323",
+        "width": "18.90459363957597%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39%",
+        "left": "11.130742049469964%",
+        "color": "#1a2323",
+        "width": "67.31448763250883%",
+        "height": "auto",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of its approved membership in the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.875%",
+        "left": "11.484098939929329%",
+        "color": "#0f1552",
+        "width": "77.03180212014135%",
+        "height": "auto",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "NATIONAL ASSOCIATION OF FIRE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.5%",
+        "left": "11.484098939929329%",
+        "color": "#0f1552",
+        "width": "64.48763250883393%",
+        "height": "auto",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SAFETY PROFESSIONALS (NAFSP)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.5%",
+        "left": "11.130742049469964%",
+        "color": "#1a2323",
+        "width": "27.208480565371023%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Valid Until: 03/03/2026",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.875%",
+        "left": "11.307420494699647%",
+        "color": "#1a2323",
+        "width": "15.547703180212014%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.875%",
+        "left": "26.855123674911663%",
+        "color": "#1a2323",
+        "width": "19.6113074204947%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.25%",
+        "left": "14.840989399293287%",
+        "color": "#1a2323",
+        "width": "28.975265017667844%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.625%",
+        "left": "27.208480565371023%",
+        "color": "#0f1552",
+        "width": "36.92579505300353%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "FIRE SAFETY PROFESSIONALS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.75%",
+        "left": "27.208480565371023%",
+        "color": "#0f1552",
+        "width": "29.151943462897528%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "NATIONAL ASSOCIATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.75%",
+        "left": "54.77031802120141%",
+        "color": "#fa4616",
+        "width": "4.063604240282685%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of",
+      "autoScale": false
+    },
+    {
+      "type": "vertical-line",
+      "style": {
+        "top": "88.75%",
+        "left": "26.325088339222614%",
+        "width": "0.17667844522968199%",
+        "height": "4%",
+        "backgroundColor": "#fa4616"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.25%",
+        "left": "77.91519434628975%",
+        "width": "9.717314487632509%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-02-2025-05:26:59_qr.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "89%",
+        "left": "10.954063604240282%",
+        "width": "15.19434628975265%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-02-2025-05:27:03_nafsp.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.625%",
+        "left": "11.307420494699647%",
+        "width": "21.024734982332156%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-02-2025-05:27:07_group_20350.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.375%",
+        "left": "10.954063604240282%",
+        "color": "#1a2323",
+        "width": "15.19434628975265%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "John Doe",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82%",
+        "left": "10.954063604240282%",
+        "color": "#1a2323",
+        "width": "20.141342756183743%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Training Director",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "70.5%",
+        "left": "11.130742049469964%",
+        "width": "31.62544169611308%",
+        "height": "0.125%",
+        "backgroundColor": "#1e55a8"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "57.875%",
+        "left": "11.307420494699647%",
+        "width": "36.57243816254417%",
+        "height": "0.125%",
+        "backgroundColor": "#1e55a8"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "64.25%",
+        "left": "11.130742049469964%",
+        "width": "26.325088339222614%",
+        "height": "0.125%",
+        "backgroundColor": "#1e55a8"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.25%",
+        "left": "66.43109540636041%",
+        "color": "#f7f7f5",
+        "width": "28.79858657243816%",
+        "height": "auto",
+        "fontSize": "27em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Verified 2025",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jktrwgqc2pvzvyp8d56fyx9e-1739288162364.png",
+  "isDefault": true,
+  "createdAt": "2025-02-11T15:08:48.751Z",
+  "updatedAt": "2025-03-19T11:00:40.592Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jktrwgqc2pvzvyp8d56fyx9e",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1872,
+  "categoryOrder": 587
+}

@@ -1,0 +1,234 @@
+{
+  "name": "477_Award_simple_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-12-2024-03:41:43_477_award_simple_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "30.619469026548675%",
+        "left": "23.5%",
+        "color": "#0b4983",
+        "width": "51.37500000000001%",
+        "height": "auto",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.52212389380531%",
+        "left": "37.875%",
+        "color": "#0b4983",
+        "width": "24.25%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.53982300884956%",
+        "left": "32.375%",
+        "color": "#0b4983",
+        "width": "34.875%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.194690265486724%",
+        "left": "28.812500000000004%",
+        "color": "#313d4f",
+        "width": "42.375%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS AWARD IS PROUDLY PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.6637168141593%",
+        "left": "13.5%",
+        "color": "#313d4f",
+        "width": "17.1895%",
+        "height": "4.770318021201414%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Bianka Kany",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.619469026548673%",
+        "left": "6.937500000000001%",
+        "color": "#0b4983",
+        "width": "86.125%",
+        "height": "26.548672566371685%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OUTSTANDING ACHIEVEMENT AWARD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.902654867256636%",
+        "left": "18.3125%",
+        "color": "#313d4f",
+        "width": "63.375%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "FOR HER EXCEPTIONAL AS TOP CONTRIBUITIONS AS TOP PERFORMER OF THE\nYEAR. WE ARE PLEASED TO PRESENT THIS AWARD IN RECOGNITION\nOF YOUR HARD WORK",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.6637168141593%",
+        "left": "69.5%",
+        "color": "#313d4f",
+        "width": "17.1895%",
+        "height": "4.770318021201414%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Adam Gross",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.38053097345133%",
+        "left": "10.9375%",
+        "color": "#313d4f",
+        "width": "21.5%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Heliosphere Innovations director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.38053097345133%",
+        "left": "67.35%",
+        "color": "#313d4f",
+        "width": "21.5%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Heliosphere Innovations director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.40707964601769%",
+        "left": "70.725%",
+        "width": "14.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-03:40:32_group_19830.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.58407079646018%",
+        "left": "14.124999999999998%",
+        "width": "15.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-03:40:53_group_19832.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.2990796460177%",
+        "left": "41%",
+        "width": "17.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-03:41:13_group_19763.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jeea7d5vb3vgnebfs258drgk-1733499794641.png",
+  "isDefault": true,
+  "createdAt": "2024-12-06T15:43:14.621Z",
+  "updatedAt": "2025-03-19T11:00:33.566Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01jeea7d5vb3vgnebfs258drgk",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1978,
+  "categoryOrder": 548
+}

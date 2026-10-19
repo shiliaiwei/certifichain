@@ -1,0 +1,281 @@
+{
+  "name": "99_training_formal_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/18-10-2023-12:26:13_99_training_formal_green_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "50.298874999999995%",
+        "left": "23.324911660777385%",
+        "color": "#00313b",
+        "width": "53.2934628975265%",
+        "height": "7.9638625%",
+        "fontSize": "60em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.82525%",
+        "left": "10.059628975265017%",
+        "color": "#ffffff",
+        "width": "34.780742049469964%",
+        "height": "1.4599625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.49225%",
+        "left": "60.53445229681979%",
+        "color": "#ffffff",
+        "width": "29.059540636042403%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.502925%",
+        "left": "9.709717314487634%",
+        "color": "#00313b",
+        "width": "7.6630875000000005%",
+        "height": "5.30035335689046%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company\nname",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.205125%",
+        "left": "9.16655477031802%",
+        "color": "#00313b",
+        "width": "81.2886925795053%",
+        "height": "9.9580125%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully spoke at a business seminar with the topic\u2028              Financial Management in a Scalable Business,\u2028              which was held on November 22, 2023.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.99125%",
+        "left": "23.72190812720848%",
+        "color": "#00313b",
+        "width": "50.046996466431104%",
+        "height": "3.0527375%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "We hereby present this certificate to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.25%",
+        "left": "24.61484098939929%",
+        "color": "#fffdf1",
+        "width": "50.716431095406364%",
+        "height": "20.443375%",
+        "fontSize": "72em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.97075%",
+        "left": "9.683098591549296%",
+        "width": "23.763250883392224%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#186170"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.870125%",
+        "left": "12.111431095406362%",
+        "color": "#00313b",
+        "width": "18.552650176678444%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Financial Consultant",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.191375%",
+        "left": "13.446890459363955%",
+        "color": "#00313b",
+        "width": "15.881875%",
+        "height": "4.770318021201414%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Donald Park",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.191375%",
+        "left": "70.2690812720848%",
+        "color": "#00313b",
+        "width": "15.881875%",
+        "height": "4.770318021201414%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Toby Price",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.870125%",
+        "left": "65.32614840989399%",
+        "color": "#00313b",
+        "width": "25.768904593639576%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Finance Accounting Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.97075%",
+        "left": "66.68303886925796%",
+        "width": "23.40989399293286%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#186170"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.70025%",
+        "left": "42.59063604240282%",
+        "width": "14.437950530035337%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-12:15:37_13kmxl9qPVN1Q1qGMFzc0-Group 461.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "3.0869125%",
+        "left": "10.918180212014136%",
+        "width": "5.245141342756184%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-10-2023-12:16:38_sHMq9Q2gNYf_HNh00F_Ds-Group 502.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.625%",
+        "left": "24.376678445229683%",
+        "color": "#fffdf1",
+        "width": "50.716431095406364%",
+        "height": "20.443375%",
+        "fontSize": "72em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "of training",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hd155rbb258c02kxnygh7y9m-1697624824085.png",
+  "isDefault": true,
+  "createdAt": "2023-10-18T10:26:49.838Z",
+  "updatedAt": "2025-03-19T10:59:52.769Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "training"
+  },
+  "id": "01hd155rbb258c02kxnygh7y9m",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2769,
+  "categoryOrder": 387
+}

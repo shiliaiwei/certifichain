@@ -1,0 +1,270 @@
+{
+  "name": "95_training_simple_white_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-10-2023-05:19:45_95_training_simple_white_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.694375%",
+        "left": "9.95749116607774%",
+        "color": "#11538f",
+        "width": "73.19452296819789%",
+        "height": "6.636725%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.486374999999995%",
+        "left": "11.64203180212014%",
+        "color": "#11538f",
+        "width": "34.82367491166078%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.872125%",
+        "left": "24.171731448763254%",
+        "color": "#11538f",
+        "width": "23.589399293286217%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.004875%",
+        "left": "54.03462897526502%",
+        "color": "#11538f",
+        "width": "15.626378091872791%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.461%",
+        "left": "9.53095406360424%",
+        "color": "#11538f",
+        "width": "19.80459363957597%",
+        "height": "2.2568375%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "William Houston",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.1992%",
+        "left": "9.95749116607774%",
+        "color": "#11538f",
+        "width": "83.4613074204947%",
+        "height": "15.3985%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.5%",
+        "left": "9.95749116607774%",
+        "color": "#11538f",
+        "width": "39.38692579505301%",
+        "height": "3.0527375%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is granted to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.37499999999999%",
+        "left": "9.95749116607774%",
+        "color": "#11538f",
+        "width": "60.85335689045937%",
+        "height": "9.125%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed\nthe Art of Business Communication Training.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.796875%",
+        "left": "9.092031802120141%",
+        "color": "#11538f",
+        "width": "21.741166077738516%",
+        "height": "2.124025%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Business consultant",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.586%",
+        "left": "49.5196113074205%",
+        "color": "#11538f",
+        "width": "15.40553003533569%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Simon Berry",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.796875%",
+        "left": "49.521024734982326%",
+        "color": "#11538f",
+        "width": "26.93657243816255%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Coaching School Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.872125%",
+        "left": "9.95749116607774%",
+        "color": "#11538f",
+        "width": "14.038125%",
+        "height": "3.180212014134275%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date of issue:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.141625%",
+        "left": "10.279770318021201%",
+        "width": "18.304240282685512%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-05:04:19_zX0bcceAqcHAcG0lDp7FD-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.141625%",
+        "left": "50.274734982332156%",
+        "width": "19.656890459363957%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-05:04:57_VTDgTR9tybGPIKbtV5uio-Group 497.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "89.003875%",
+        "left": "50.274734982332156%",
+        "width": "2.8268551236749118%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-05:05:54_BhZPyVYOny5nKA-MOhYLt-Group 499.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hcz3j37v1paxefpsjxsdrjv6-1697556160442.png",
+  "isDefault": true,
+  "createdAt": "2023-10-17T15:20:08.190Z",
+  "updatedAt": "2025-03-19T10:59:52.393Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "simple",
+    "category": "training"
+  },
+  "id": "01hcz3j37v1paxefpsjxsdrjv6",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2779,
+  "categoryOrder": 397
+}

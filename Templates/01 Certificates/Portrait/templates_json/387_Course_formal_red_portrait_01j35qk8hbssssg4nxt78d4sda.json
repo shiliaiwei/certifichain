@@ -1,0 +1,281 @@
+{
+  "name": "387_Course_formal_red_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-07-2024-04:50:43_387_Course_formal_red_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "29.55375%",
+        "left": "19.043992932862192%",
+        "color": "#111842",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.819375%",
+        "left": "55.619257950530034%",
+        "color": "#111842",
+        "width": "36.46484098939929%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.15625%",
+        "left": "7.63583038869258%",
+        "color": "#111842",
+        "width": "29.624028268551232%",
+        "height": "1.8584%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.17975%",
+        "left": "2.198816254416961%",
+        "color": "#111842",
+        "width": "95.39946996466432%",
+        "height": "7.9628875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "for completing the \"Introduction to Psychology\" course at Alabama University. Throughout this semester-long course, student explored fundamental psychological theories",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.792%",
+        "left": "34.48321554770318%",
+        "color": "#111842",
+        "width": "30.502000000000002%",
+        "height": "3.9752650176678443%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "We hereby award this to ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.725625%",
+        "left": "64.31855123674912%",
+        "color": "#111842",
+        "width": "24.868904593639577%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Phoebe Shaw",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.956219081272083%",
+        "left": "0.002%",
+        "color": "#111842",
+        "width": "99.749%",
+        "height": "26.501766784452297%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COURSE CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.43362499999999%",
+        "left": "28.849646643109537%",
+        "color": "#7c1717",
+        "width": "42.627%",
+        "height": "4.240282685512367%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "FINAL GRADE OF A+",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "87.120125%",
+        "left": "65.84507042253522%",
+        "width": "21.565724381625444%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#1e1e1e"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "86.84475%",
+        "left": "11.443661971830986%",
+        "width": "21.38904593639576%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#1e1e1e"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.909125%",
+        "left": "59.54611307420494%",
+        "color": "#111842",
+        "width": "34.41643109540636%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Academic Affairs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.910125%",
+        "left": "10.009929328621908%",
+        "color": "#111842",
+        "width": "24.877%",
+        "height": "6.890459363957597%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "University Principal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.7265%",
+        "left": "10.008551236749117%",
+        "color": "#111842",
+        "width": "25.575618374558307%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Linda Martinez",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.54975%",
+        "left": "7.63583038869258%",
+        "width": "25.587985865724384%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-07-2024-04:41:49_FoJx2xsUThngy9W8XiKgm-Vector 674.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.920875%",
+        "left": "61.94098939929329%",
+        "width": "28.10159010600707%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-07-2024-04:42:05_kuvBhMaG3yWgisqlRFmoL-Vector 675.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.6318375%",
+        "left": "37.33922261484099%",
+        "width": "24.792932862190813%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-07-2024-04:42:28_FJZa5hT6S_D9vj5yV7zA6-logo.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.419875%",
+        "left": "40.687102473498236%",
+        "width": "18.42014134275618%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-07-2024-04:43:31_ve0oZbQcnrDBdLhLnd36G-badge.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j35qk8hbssssg4nxt78d4sda-1721400664630.png",
+  "isDefault": true,
+  "createdAt": "2024-07-19T14:51:04.621Z",
+  "updatedAt": "2025-03-19T11:00:22.924Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "formal",
+    "category": "course"
+  },
+  "id": "01j35qk8hbssssg4nxt78d4sda",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2192,
+  "categoryOrder": 90
+}

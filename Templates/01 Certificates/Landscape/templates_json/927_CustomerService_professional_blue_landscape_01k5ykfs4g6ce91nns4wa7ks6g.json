@@ -1,0 +1,261 @@
+{
+  "name": "927_CustomerService_professional_blue_landscape",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1123 794\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" preserveAspectRatio=\"none\"><g clip-path=\"url(#clip0_0_4)\"><rect width=\"1123\" height=\"794\" fill=\"#FDFDFD\"/><path d=\"M0 82V0H1132L0 82Z\" fill=\"#F1A009\"/><path d=\"M1132 715V797H0L1132 715Z\" fill=\"#1057B3\"/><rect width=\"1132\" height=\"797\" fill=\"url(#pattern0_0_4)\" fill-opacity=\"0.06\"/></g><defs><clipPath id=\"clip0_0_4\"><rect width=\"1123\" height=\"794\" fill=\"white\"/></clipPath><pattern id=\"pattern0_0_4\" patternUnits=\"userSpaceOnUse\" patternTransform=\"matrix(17.02 0 0 17.02 0 -0.325234)\" preserveAspectRatio=\"none\" viewBox=\"0 -0.707031 37 37\" width=\"1\" height=\"1\"><use xlink:href=\"#pattern0_0_4_inner\" transform=\"translate(-37 -37)\"/><use xlink:href=\"#pattern0_0_4_inner\" transform=\"translate(0 -37)\"/><use xlink:href=\"#pattern0_0_4_inner\" transform=\"translate(-37 0)\"/><g id=\"pattern0_0_4_inner\"><line x1=\"0.353553\" y1=\"-0.353553\" x2=\"37.3536\" y2=\"36.6464\" stroke=\"black\"/></g></pattern></defs></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "45.241335%",
+        "left": "24.125%",
+        "color": "#000000",
+        "width": "51%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "9.017456%",
+        "left": "47.875%",
+        "width": "4.25%",
+        "height": "6.017699115044247%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 50 46\"><path fill=\"#1057B3\" d=\"M25.0049 0L9.73584 28.0897H12.1061L25.0049 4.3656L46.5046 43.916H45.1238L24.9892 6.939L13.492 28.0897H15.8623L24.9892 11.2995L42.7484 43.916H40.9304L24.9892 14.649L17.6748 28.0897H20.0506L24.9892 19.004L30.3446 28.84L31.074 30.1733L32.2042 32.2573H32.2098L32.6317 33.0385L33.767 35.1225L34.1945 35.9041L35.3247 37.9876L35.4655 38.2429L39.6903 46H50.0051L25.0049 0Z\"/><path fill=\"#1057B3\" d=\"M9.07429 43.9175H7.25917L8.98947 40.7369H6.61456L4.88426 43.9175H3.49748L5.22778 40.7369H2.8571L-0.00128174 45.9998H10.3126L13.1795 40.7369H10.8003L9.07429 43.9175Z\"/><path fill=\"#1057B3\" d=\"M28.9905 29.6934H8.86307L7.73499 31.7672H30.1186L28.9905 29.6934Z\"/><path fill=\"#1057B3\" d=\"M31.0082 33.4012H6.84763L5.71954 35.475H32.1362L31.0082 33.4012Z\"/><path fill=\"#1057B3\" d=\"M4.8523 37.0642L3.72845 39.1338H34.1231L32.9993 37.0642H4.8523Z\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "71.592386%",
+        "left": "76%",
+        "width": "10.375%",
+        "height": "8.849557522123893%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 116 70\"><path fill=\"black\" d=\"M34.7332 54.1728C37.9959 54.3058 47.7524 36.0543 47.9526 40.8065C47.3493 43.5572 46.133 45.7355 46.2215 48.7936C53.005 43.7918 59.1347 36.9984 61.5854 28.695C64.2369 19.748 67.9967 11.0668 73.0877 3.21617C76.0794 -1.85211 81.3871 -0.822802 79.587 5.54623C77.993 11.8738 74.3339 17.3706 70.9273 22.8457C68.1979 27.5019 63.9985 31.3006 61.8309 36.2574C60.4425 42.1035 57.9492 47.7977 57.1015 53.684C59.72 52.6332 66.3314 39.0807 67.0885 47.2345C70.3634 47.233 74.8986 41.7117 77.506 46.6538C80.387 43.8724 87.2398 37.9933 88.3483 45.1473C96.2235 41.2708 103.242 35.6366 111.297 31.9015C112.336 31.3729 113.397 30.8718 114.49 30.4733C116.529 30.445 115.188 32.5357 113.964 32.8766C105.113 37.8151 96.9229 44.3838 87.6109 48.3109C83.8548 48.7223 87.7787 43.2854 84.9707 43.3059C80.3352 43.7336 74.6513 56.9411 75.3107 46.457C71.6736 46.2889 68.7188 49.1151 65.6329 50.7579C64.8997 50.2906 64.2958 49.9057 63.6004 49.4623C61.6654 51.4204 55.8844 63.0105 53.2248 57.9001C53.3688 52.1976 56.0851 47.3677 57.0528 41.6844C53.3087 43.9411 45.3179 57.9649 43.6676 47.6331C40.8671 50.1084 32.9631 63.6765 31.8018 53.6649C-14.8301 99.2245 -2.17394 36.1026 19.2105 13.1662C32.9083 -4.18112 51.7417 -1.53921 37.1449 21.7318C32.5665 22.8776 45.6837 3.91745 36.5695 4.15138C16.6412 9.47968 6.13863 37.1695 2.9201 55.7571C-1.05102 81.7896 30.4308 55.6426 34.5221 45.968C36.0138 43.5311 36.8025 36.9726 40.2313 37.2601C42.6287 40.9574 34.1436 48.5305 34.7332 54.1728ZM77.7839 2.48526C72.8936 2.48799 65.9358 22.725 64.9513 27.4524C70.7445 20.5504 76.9713 11.754 77.7839 2.48526Z\"/></svg>"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.53982300884956%",
+        "left": "18.375%",
+        "color": "#000000",
+        "width": "63.24999999999999%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Service Hero Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.827071%",
+        "left": "42.6875%",
+        "color": "#000000",
+        "width": "14.625%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.007749%",
+        "left": "25.5%",
+        "color": "#000000",
+        "width": "50.375%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Recognized in the peer-nominated Service Star Program, demonstrating \nconsistent leadership in high-impact customer cases",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.25555%",
+        "left": "39.625%",
+        "color": "#000000",
+        "width": "21%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CSAT Score: 98% Satisfaction\nResolution Rate: 97%\nTickets Handled: 1,300+",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.065944%",
+        "left": "74.75%",
+        "color": "#000000",
+        "width": "11.875%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Angela Brooks",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.93216%",
+        "left": "72.1875%",
+        "color": "#000000",
+        "width": "17.25%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Global Support",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.029064%",
+        "left": "13.125%",
+        "color": "#000000",
+        "width": "17%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date: July 10, 2025",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.973394%",
+        "left": "10%",
+        "color": "#000000",
+        "width": "10%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.070796460177%",
+        "left": "20.25%",
+        "color": "#000000",
+        "width": "13.125%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.802497%",
+        "left": "35.875%",
+        "color": "#1057b3",
+        "width": "28.125%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Performance Metrics (KPIs):",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.898257%",
+        "left": "38.5%",
+        "color": "#000000",
+        "width": "25.25%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Customer Experience Division, Acme Inc.\n123 Innovation Drive, San Francisco, CA 94105\u2028\nwww.orionlabs.com",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "54.68888265486726%",
+        "left": "10.375%",
+        "width": "79.375%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#f1a009"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01k5ykfs4g6ce91nns4wa7ks6g-1758742937493.png",
+  "isDefault": true,
+  "createdAt": "2025-09-24T19:33:59.057Z",
+  "updatedAt": "2025-10-16T06:53:30.389Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01k5ykfs4g6ce91nns4wa7ks6g",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 768,
+  "categoryOrder": 196
+}

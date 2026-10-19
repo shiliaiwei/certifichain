@@ -1,0 +1,272 @@
+{
+  "name": "140_completion_simple_purple_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-11-2023-08:02:30_140_completion_simple_purple_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.18925%",
+        "left": "22.651590106007067%",
+        "color": "#111948",
+        "width": "55.68321554770318%",
+        "height": "5.7083375%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.395875%",
+        "left": "32.84381625441696%",
+        "color": "#111948",
+        "width": "33.777561837455835%",
+        "height": "1.7257000000000002%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.71525%",
+        "left": "32.96519434628975%",
+        "color": "#111948",
+        "width": "33.57879858657244%",
+        "height": "2.9184%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.71175%",
+        "left": "16.53171378091873%",
+        "color": "#111948",
+        "width": "24.204946996466433%",
+        "height": "2.125%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jared Jonhston",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.3055%",
+        "left": "21.457773851590105%",
+        "color": "#111948",
+        "width": "58.02667844522967%",
+        "height": "6.375%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Completed the Project Manager course.\nYou have become an indispensable specialist for any business. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.5555%",
+        "left": "36.201943462897525%",
+        "color": "#111948",
+        "width": "28.621908127208478%",
+        "height": "2.125%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.892375%",
+        "left": "64.98833922261484%",
+        "color": "#111948",
+        "width": "20.290989399293284%",
+        "height": "2.9184%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Daniel McGee",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "56.60762499999999%",
+        "left": "40.21024734982333%",
+        "width": "20.565901060070672%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-11-2023-06:39:56_2DKfUg3b8DrCApe0fsROf-logo.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.875875%",
+        "left": "44.64681978798586%",
+        "color": "#ffffff",
+        "width": "11.692685512367492%",
+        "height": "3.9826374999999996%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.7135%",
+        "left": "14.499893992932863%",
+        "color": "#111948",
+        "width": "30.192402826855126%",
+        "height": "2.9184%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of project office",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.7135%",
+        "left": "63.80547703180213%",
+        "color": "#111948",
+        "width": "22.614840989399294%",
+        "height": "2.9184%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Business coach",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.177125%",
+        "left": "18.133802816901408%",
+        "width": "21.358480565371025%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#111948"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.8333375%",
+        "left": "29.685689045936392%",
+        "color": "#111948",
+        "width": "40.08639575971731%",
+        "height": "8.75%",
+        "fontSize": "66em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.822875%",
+        "left": "22.686042402826853%",
+        "color": "#111948",
+        "width": "54.043992932862196%",
+        "height": "8.75%",
+        "fontSize": "66em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of Completion",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.372375%",
+        "left": "64.63003533568904%",
+        "width": "21.358480565371025%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#111948"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hg6g7sxbccm63j925b31dmr8-1701025408964.png",
+  "isDefault": true,
+  "createdAt": "2023-11-26T19:03:28.941Z",
+  "updatedAt": "2025-03-19T10:59:56.950Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01hg6g7sxbccm63j925b31dmr8",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2689,
+  "categoryOrder": 913
+}

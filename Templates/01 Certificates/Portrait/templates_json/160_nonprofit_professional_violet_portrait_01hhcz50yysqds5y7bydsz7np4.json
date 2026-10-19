@@ -1,0 +1,288 @@
+{
+  "name": "160_nonprofit_professional_violet_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/11-12-2023-06:35:04_160_nonprofit_professional_violet_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.203125%",
+        "left": "12.8521554770318%",
+        "color": "#80428e",
+        "width": "58.91731448763251%",
+        "height": "8.2309%",
+        "fontSize": "77em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.197875%",
+        "left": "13.227579505300351%",
+        "color": "#27083f",
+        "width": "15.353851590106007%",
+        "height": "1.859375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Adrian Reynolds",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.69275%",
+        "left": "13.020212014134275%",
+        "color": "#27083f",
+        "width": "76.79628975265017%",
+        "height": "5.9739625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "who has successfully completed the Nonprofit Leadership Program, which covered essential aspects of nonprofit leadership, including strategic planning, fundraising, community engagement, and effective organizational management.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.269125%",
+        "left": "13.206713780918728%",
+        "color": "#27083f",
+        "width": "20.659187279151944%",
+        "height": "2.65625%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.9305%",
+        "left": "61.66819787985865%",
+        "color": "#ffffff",
+        "width": "32.38621908127209%",
+        "height": "1.7257000000000002%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.05035%",
+        "left": "13.042296819787985%",
+        "color": "#27083f",
+        "width": "53.17031802120141%",
+        "height": "5.1770875%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Nonprofit Leadership",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.007%",
+        "left": "13.206713780918728%",
+        "color": "#27083f",
+        "width": "12.335583038869258%",
+        "height": "1.460075%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of issue",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.151%",
+        "left": "75.45388692579506%",
+        "color": "#27083f",
+        "width": "16.170989399293287%",
+        "height": "2.9201375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ChangeMasters\nEducation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.62325%",
+        "left": "13.020212014134275%",
+        "color": "#27083f",
+        "width": "27.230565371024735%",
+        "height": "5.1770875%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.128500000000003%",
+        "left": "12.998127208480565%",
+        "color": "#27083f",
+        "width": "36.520848056537105%",
+        "height": "1.460075%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.18225%",
+        "left": "46.795229681978796%",
+        "color": "#27083f",
+        "width": "11.915971731448764%",
+        "height": "1.859375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Oliver Grant",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.89925%",
+        "left": "13.206713780918728%",
+        "color": "#27083f",
+        "width": "15.928056537102472%",
+        "height": "1.991325%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.914875%",
+        "left": "46.773144876325084%",
+        "color": "#27083f",
+        "width": "4.372791519434629%",
+        "height": "1.460075%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "61.9045%",
+        "left": "10.983498233215547%",
+        "width": "18.141519434628975%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-12-2023-06:24:36_YbuPCs6EeAvzS-Ve9PQTY-Vector 740.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.62325%",
+        "left": "46.516784452296825%",
+        "width": "12.428833922261484%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-12-2023-06:24:40_TgSr3ODgx7nN4LSRqdMfS-Vector 741.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.219625%",
+        "left": "68.93639575971731%",
+        "width": "5.037791519434629%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-12-2023-06:24:44_xVgJ1Nb3H72A12rJRvPwP-Group 18937.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhcz50yysqds5y7bydsz7np4-1702316360649.png",
+  "isDefault": true,
+  "createdAt": "2023-12-11T17:35:14.914Z",
+  "updatedAt": "2025-03-19T10:59:58.872Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hhcz50yysqds5y7bydsz7np4",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2649,
+  "categoryOrder": 243
+}

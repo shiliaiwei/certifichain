@@ -1,0 +1,299 @@
+{
+  "name": "58_participation_modern_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/02-09-2023-02:42:05_58_participation_modern_green_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "41.36625%",
+        "left": "16.59399293286219%",
+        "color": "#2e8e4e",
+        "width": "66.28325%",
+        "height": "14.840989399293287%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.9765%",
+        "left": "15.209540636042401%",
+        "color": "#8da895",
+        "width": "27.571554770318023%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.090875%",
+        "left": "18.593992932862193%",
+        "color": "#8da895",
+        "width": "20.80375%",
+        "height": "3.180212014134275%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.3955%",
+        "left": "56.31272084805654%",
+        "color": "#104122",
+        "width": "19.44558303886926%",
+        "height": "3.3193374999999996%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Collin Cliff",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.017575%",
+        "left": "39.06519434628976%",
+        "color": "#0f411e",
+        "width": "21.491342756183744%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company Logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.756875%",
+        "left": "22.809540636042403%",
+        "color": "#000000",
+        "width": "54.000176678445236%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For participating in the seminar \u201cCreative way of promotion\u201d on 24 April 2023 in New York",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.90625%",
+        "left": "21.202120141342757%",
+        "color": "#8da895",
+        "width": "24.087632508833927%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "www.yourcompany.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.961875%",
+        "left": "41.995583038869256%",
+        "color": "#000000",
+        "width": "15.631875%",
+        "height": "4.063604240282685%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.667%",
+        "left": "25.106360424028267%",
+        "color": "#104122",
+        "width": "49.4065371024735%",
+        "height": "11.9472625%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF PARTICIPATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.150375%",
+        "left": "23.60583038869258%",
+        "color": "#8da895",
+        "width": "19.28409893992933%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Seminar website:",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "33.153375%",
+        "left": "28.411307420494698%",
+        "width": "43.00053003533569%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#104122"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.38375%",
+        "left": "54.686042402826864%",
+        "color": "#111a39",
+        "width": "29.00971731448763%",
+        "height": "3.9824249999999997%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Verified Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.84475%",
+        "left": "57.27014134275619%",
+        "color": "#8da895",
+        "width": "18.486395759717315%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief organizer",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "69.84475%",
+        "left": "55.633802816901415%",
+        "width": "21.157243816254418%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#104122"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.38275%",
+        "left": "87.99558303886926%",
+        "color": "#111a39",
+        "width": "8.1171875%",
+        "height": "5.30035335689046%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.70025%",
+        "left": "53.269964664310955%",
+        "width": "26.57349823321555%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-09-2023-02:27:54_MfdwydBw7JITAHUYTyX1p-Vector 253.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.392625%",
+        "left": "29.37826855123675%",
+        "width": "7.740724381625441%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-09-2023-02:28:25_olK56e4iBq14veKr7cV5L-Group 413.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h9ayjse1bfxq3a19fcnhzznq-1693658532689.png",
+  "isDefault": true,
+  "createdAt": "2023-09-02T12:41:13.924Z",
+  "updatedAt": "2025-09-10T14:56:27.856Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "modern",
+    "category": "participation"
+  },
+  "id": "01h9ayjse1bfxq3a19fcnhzznq",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2850,
+  "categoryOrder": 25
+}

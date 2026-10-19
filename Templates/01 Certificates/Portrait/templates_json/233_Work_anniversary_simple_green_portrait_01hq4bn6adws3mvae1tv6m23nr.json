@@ -1,0 +1,351 @@
+{
+  "name": "233_Work anniversary_simple_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-02-2024-11:54:32_233_Work anniversary_simple_green_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.45025%",
+        "left": "17.85%",
+        "color": "#4a4b42",
+        "width": "64.54982332155477%",
+        "height": "5.9736375%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.359375%",
+        "left": "14.520759717314489%",
+        "color": "#4a4b42",
+        "width": "36.44134275618375%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.359375%",
+        "left": "65.55865724381626%",
+        "color": "#4a4b42",
+        "width": "23.696996466431095%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.4687625%",
+        "left": "27.71148409893993%",
+        "color": "#4a4b42",
+        "width": "44.04681978798587%",
+        "height": "9.4248%",
+        "fontSize": "77em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "15 YEARS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.80375%",
+        "left": "10.98929328621908%",
+        "color": "#4a4b42",
+        "width": "78.26855123674912%",
+        "height": "9.1582%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "We are proud to present you with this certificate in honor of your 15 years of service with our company. We look forward to the many more great contributions you make.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.31349999999999%",
+        "left": "14.524840989399292%",
+        "color": "#4a4b42",
+        "width": "20.636925795053003%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate NO: ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.13775%",
+        "left": "27.48250883392226%",
+        "color": "#4a4b42",
+        "width": "45.28356890459364%",
+        "height": "6.10645%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ANNIVERSARY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.056125%",
+        "left": "11.174911660777385%",
+        "color": "#4a4b42",
+        "width": "25.575618374558307%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brian Bawerman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.86525%",
+        "left": "10.34673144876325%",
+        "color": "#4a4b42",
+        "width": "27.231978798586574%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.055625%",
+        "left": "63.54081272084806%",
+        "color": "#4a4b42",
+        "width": "25.398939929328623%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Thomas Johnson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.86525%",
+        "left": "63.29787985865725%",
+        "color": "#4a4b42",
+        "width": "25.64187279151944%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "General Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.336%",
+        "left": "41.118374558303884%",
+        "color": "#4a4b42",
+        "width": "23.875088339222618%",
+        "height": "3.3193374999999996%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.70025%",
+        "left": "31.693639575971734%",
+        "color": "#4a4b42",
+        "width": "36.23833922261484%",
+        "height": "3.18555%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.31349999999999%",
+        "left": "72.81766784452297%",
+        "color": "#4a4b42",
+        "width": "16.439381625441698%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified on:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.599625%",
+        "left": "35.299116607773854%",
+        "width": "29.647526501766784%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-02-2024-11:37:42_jCRTzEiYBYlTD-0wylJNC-Badge_Smart_Object__x28_\u043a\u043e\u043f\u0438\u044f_x29_.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.123%",
+        "left": "44.894346289752654%",
+        "color": "#e4e4e4",
+        "width": "10.457155477031801%",
+        "height": "8.230475%",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "15",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.642125%",
+        "left": "41.54293286219081%",
+        "color": "#e4e4e4",
+        "width": "17.51462897526502%",
+        "height": "4.6464875%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YEARS ",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.48725%",
+        "left": "14.825088339222614%",
+        "width": "18.275265017667845%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-02-2024-11:39:01__sus3Mk8-0HXQoDlgiMTk-Vector 245.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "84.0625%",
+        "left": "68.51943462897526%",
+        "width": "15.692632508833922%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-02-2024-11:41:01_YaG1lFoRrnMOMtWzhvnMv-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "21.172375%",
+        "left": "35.33851590106007%",
+        "width": "4.9649469964664315%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-02-2024-11:41:33_sC-TY0HA9Yja06CIcoE__-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hq4bn6adws3mvae1tv6m23nr-1708469688667.png",
+  "isDefault": true,
+  "createdAt": "2024-02-20T22:54:48.655Z",
+  "updatedAt": "2025-09-10T14:56:28.844Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "employee_of_the_month"
+  },
+  "id": "01hq4bn6adws3mvae1tv6m23nr",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2503,
+  "categoryOrder": 59
+}

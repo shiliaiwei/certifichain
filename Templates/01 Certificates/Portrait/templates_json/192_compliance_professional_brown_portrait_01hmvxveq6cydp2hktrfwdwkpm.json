@@ -1,0 +1,252 @@
+{
+  "name": "192_compliance_professional_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/23-01-2024-08:48:09_192_compliance_professional_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "42.104625%",
+        "left": "19.008480565371023%",
+        "color": "#493732",
+        "width": "61.5856890459364%",
+        "height": "6.7703125%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.175%",
+        "left": "9.640017667844523%",
+        "color": "#493732",
+        "width": "23.75475%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.478125%",
+        "left": "55.81943462897526%",
+        "color": "#493732",
+        "width": "33.92226148409894%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.4%",
+        "left": "27.803710247349823%",
+        "color": "#493732",
+        "width": "43.92226148409894%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS CERTIFICATE CERTIFIES THAT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.4875%",
+        "left": "16.979858657243817%",
+        "color": "#493732",
+        "width": "65.64275618374559%",
+        "height": "12.209375%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPLIANCE CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.61875%",
+        "left": "9.463339222614842%",
+        "color": "#493732",
+        "width": "25.909893992932865%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Certification",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.698375%",
+        "left": "17.363074204946997%",
+        "color": "#493732",
+        "width": "64.73056537102474%",
+        "height": "4.5125%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Meets regulatory requirements and can provide vehicle maintenance services.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.834375%",
+        "left": "61.76236749116607%",
+        "color": "#493732",
+        "width": "29.346289752650172%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.8515625%",
+        "left": "73.73233215547702%",
+        "color": "#493732",
+        "width": "16.044611307420496%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.877337499999999%",
+        "left": "9.67535335689046%",
+        "color": "#493732",
+        "width": "17.987985865724383%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.546875%",
+        "left": "37.61925795053004%",
+        "width": "25.132508833922262%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-08:37:14_64fvPXl3yDT1_5VscsW95-Group 18701.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.996875%",
+        "left": "42.731978798586574%",
+        "color": "#ffffff",
+        "width": "14.836572438162543%",
+        "height": "1.9921874999999998%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Compliance",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.525%",
+        "left": "12.852208480565372%",
+        "width": "19.057067137809184%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-08:37:40_lIHe0p6pGNPiM_gjEK4VE-Asher Barber.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.55%",
+        "left": "67.00424028268552%",
+        "width": "18.792049469964663%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-08:37:53_4nqWKRT-g8q6IsP5GShsn-Ethan Charles.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hmvxveq6cydp2hktrfwdwkpm-1706039294758.png",
+  "isDefault": true,
+  "createdAt": "2024-01-23T19:48:14.696Z",
+  "updatedAt": "2025-03-19T11:00:02.957Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hmvxveq6cydp2hktrfwdwkpm",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2585,
+  "categoryOrder": 839
+}

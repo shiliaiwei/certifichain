@@ -1,0 +1,263 @@
+{
+  "name": "172_diploma_formal_beige_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-12-2023-11:16:22_172_diploma_formal_beige_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.52975%",
+        "left": "21.607773851590107%",
+        "color": "#70440d",
+        "width": "56.32508833922262%",
+        "height": "9.159375%",
+        "fontSize": "89em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.302375%",
+        "left": "10.124734982332155%",
+        "color": "#70440d",
+        "width": "31.746996466431092%",
+        "height": "1.725%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.129625%",
+        "left": "59.05265017667845%",
+        "color": "#70440d",
+        "width": "25.534452296819786%",
+        "height": "2.1234375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.015625%",
+        "left": "15.589664310954063%",
+        "color": "#1a1a1a",
+        "width": "68.29063604240282%",
+        "height": "4.246875%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully defended a term paper on \u2028              \n'Assessing the role of enterprise competitiveness'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.659375%",
+        "left": "36.31625441696113%",
+        "color": "#1a1a1a",
+        "width": "27.12014134275618%",
+        "height": "2.1234375%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.925%",
+        "left": "17.30344522968198%",
+        "color": "#70440d",
+        "width": "65.14575971731449%",
+        "height": "15.625%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE \nOF COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.8125%",
+        "left": "10.417402826855124%",
+        "color": "#1a1a1a",
+        "width": "31.30300353356891%",
+        "height": "1.725%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Ariel Sutton | Dean of Faculty",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.7875%",
+        "left": "54.75494699646644%",
+        "color": "#1a1a1a",
+        "width": "34.20053003533569%",
+        "height": "1.725%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Brenda Barber | College Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.2625%",
+        "left": "37.82031802120141%",
+        "color": "#70440d",
+        "width": "24.041519434628974%",
+        "height": "1.459375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "www.yourcompany.com",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.784375%",
+        "left": "44.1321554770318%",
+        "width": "11.157243816254416%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-12-2023-10:58:14_dhwmDpGwK-AylvfgoCY4V-Group 391.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "58.5125%",
+        "left": "17.83127208480565%",
+        "width": "16.40459363957597%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-12-2023-10:58:28_EOC1seCLj_A7Su3mWhQfE-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.084375%",
+        "left": "62.68551236749117%",
+        "width": "18.262014134275617%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-12-2023-10:58:34_oq3JuXG9qSs2-GKBQnsb5-Group 497.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.753125%",
+        "left": "38.52473498233216%",
+        "width": "4.412544169611308%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-12-2023-10:58:50_CcljAhlhjx5_YPgB_2Tcc-Group 484.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.09375%",
+        "left": "44.16749116607774%",
+        "color": "#70440d",
+        "width": "17.064929328621908%",
+        "height": "1.725%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COLLEGE LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "63.82187499999999%",
+        "left": "12.5%",
+        "width": "27.37632508833922%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#70440d"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "63.796875%",
+        "left": "58.2553003533569%",
+        "width": "27.553003533568905%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#70440d"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhwxnvt0y5axnv5znfn95dy8-1702851580163.png",
+  "isDefault": true,
+  "createdAt": "2023-12-17T22:17:20.451Z",
+  "updatedAt": "2025-03-19T11:00:00.396Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "formal",
+    "category": "completion"
+  },
+  "id": "01hhwxnvt0y5axnv5znfn95dy8",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2625,
+  "categoryOrder": 879
+}

@@ -1,0 +1,353 @@
+{
+  "name": "432_Authenticity_formal_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-09-2024-11:31:22_432_Authenticity_formal_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "22.3974625%",
+        "left": "8.303886925795052%",
+        "color": "#393a3e",
+        "width": "59.54063604240283%",
+        "height": "auto",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.25%",
+        "left": "8.436395759717314%",
+        "color": "#6f7179",
+        "width": "75%",
+        "height": "8.495575221238937%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This document confirms the authenticity and value\n of the collectible described below, establishing \nits provenance and genuine status.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.3%",
+        "left": "8.480565371024733%",
+        "color": "#6f7179",
+        "width": "40.45936395759717%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.25000000000001%",
+        "left": "8.480565371024735%",
+        "color": "#6f7179",
+        "width": "32.625%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18%",
+        "left": "8.303886925795052%",
+        "color": "#6f7179",
+        "width": "25.08833922261484%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Collectible Item:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.9791%",
+        "left": "8.303886925795052%",
+        "color": "#393a3e",
+        "width": "26.325088339222614%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Khristian Richard",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.875%",
+        "left": "8.445229681978798%",
+        "color": "#393a3e",
+        "width": "23.851590106007066%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Condition grade:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.373537499999999%",
+        "left": "8.303886925795052%",
+        "color": "#393a3e",
+        "width": "86.74911660777384%",
+        "height": "auto",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AUTHENTICITY CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "32.65087875%",
+        "left": "8.303886925795052%",
+        "width": "69.96466431095406%",
+        "height": "0.125%",
+        "backgroundColor": "#e0d0be"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.272949999999994%",
+        "left": "8.480565371024735%",
+        "color": "#393a3e",
+        "width": "14.487632508833922%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Category:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.0666%",
+        "left": "8.303886925795052%",
+        "color": "#393a3e",
+        "width": "10.25%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Owner:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.625%",
+        "left": "8.303886925795052%",
+        "color": "#393a3e",
+        "width": "14.664310954063604%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Specimen:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.85%",
+        "left": "32.29681978798587%",
+        "color": "#6f7179",
+        "width": "10.247349823321555%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Mint 9",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.2875%",
+        "left": "22.968197879858657%",
+        "color": "#6f7179",
+        "width": "20.671378091872793%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Baseball Card",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.07705%",
+        "left": "20.01766784452297%",
+        "color": "#6f7179",
+        "width": "24.558303886925795%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Emily Thompson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.625%",
+        "left": "23.851590106007066%",
+        "color": "#6f7179",
+        "width": "39.04593639575972%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "1955-56 Topps Mickey Mantle",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.625%",
+        "left": "8.303886925795052%",
+        "color": "#6f7179",
+        "width": "32.86219081272085%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Authentication Specialist",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "87.25%",
+        "left": "8.303886925795052%",
+        "width": "32.86219081272085%",
+        "height": "0.125%",
+        "backgroundColor": "#e0d0be"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.0849625%",
+        "left": "48.409893992932865%",
+        "width": "19.434628975265017%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-11:19:49_Group 19214.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.375%",
+        "left": "80.74204946996466%",
+        "width": "11.307420494699647%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-11:20:07_qr-code.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j8dxsas3v56jxkre3bpawhpx-1727044299565.png",
+  "isDefault": true,
+  "createdAt": "2024-09-22T22:31:39.557Z",
+  "updatedAt": "2025-03-19T11:00:27.592Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j8dxsas3v56jxkre3bpawhpx",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2100,
+  "categoryOrder": 597
+}

@@ -1,0 +1,315 @@
+{
+  "name": "303_Good standing_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/23-04-2024-02:44:00_303_Good standing_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "15.304770318021202%",
+        "left": "93.497125%",
+        "color": "#fff9f7",
+        "width": "1.25%",
+        "height": "14.840989399293287%",
+        "fontSize": "8em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.2826855123675%",
+        "left": "6.742187500000001%",
+        "color": "#292929",
+        "width": "24.252%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.813604240282686%",
+        "left": "6.742187500000001%",
+        "color": "#292929",
+        "width": "79.5%",
+        "height": "24.381625441696116%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Authorization to register a business in the State of Alaska",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.24381625441696%",
+        "left": "6.742187500000001%",
+        "color": "#292929",
+        "width": "14.000000000000002%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jerry Garcia",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.76272084805653%",
+        "left": "6.742187500000001%",
+        "color": "#292929",
+        "width": "17.048875%",
+        "height": "4.240282685512367%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company Name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.559187279151943%",
+        "left": "6.742187500000001%",
+        "color": "#292929",
+        "width": "78.8125%",
+        "height": "24.91166077738516%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Good Standing",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.726148409893995%",
+        "left": "6.742187500000001%",
+        "color": "#292929",
+        "width": "81.627%",
+        "height": "16.96113074204947%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "SummitHaul Logistics a logistics company registered in the state of Alaska, is in good standing with the Alaska Department of Commerce, Community, and Economic Development as of 12.09.2024. This permit confirms your company's right to engage\u2028in logistics activities and transport goods within the State of Alaska.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.00353356890459%",
+        "left": "59.620125%",
+        "color": "#292929",
+        "width": "33.752%",
+        "height": "12.7208480565371%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Alaska: Department of Commerce, Community, and Economic \nDevelopment",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.68904593639576%",
+        "left": "6.742187500000001%",
+        "color": "#292929",
+        "width": "23.25%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.94999999999999%",
+        "left": "6.742187500000001%",
+        "color": "#292929",
+        "width": "19.125%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company registrar",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.91466431095405%",
+        "left": "6.742187500000001%",
+        "color": "#292929",
+        "width": "7.923825%",
+        "height": "4.063604240282685%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Owner: ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.94999999999999%",
+        "left": "33.3125%",
+        "color": "#292929",
+        "width": "19.125%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company registrar",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.24381625441696%",
+        "left": "33.3125%",
+        "color": "#292929",
+        "width": "14.000000000000002%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jerry Garcia",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.2946996466431%",
+        "left": "6.742187500000001%",
+        "width": "9.9589875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-04-2024-02:44:26_mh3GHpinVJT7sUoUZVKEt-Vector 649.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.2946996466431%",
+        "left": "33.3125%",
+        "width": "9.9589875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-04-2024-02:44:26_mh3GHpinVJT7sUoUZVKEt-Vector 649.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.87720848056537%",
+        "left": "22.1875%",
+        "color": "#292929",
+        "width": "19.875%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "SummitHaul Logistics",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.91466431095405%",
+        "left": "13.9375%",
+        "color": "#292929",
+        "width": "19.875%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Michael Holland",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hw5ftkndch61bthavzy3jd10-1713876412836.png",
+  "isDefault": true,
+  "createdAt": "2024-04-23T12:45:24.016Z",
+  "updatedAt": "2025-03-19T11:00:14.523Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hw5ftkndch61bthavzy3jd10",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2361,
+  "categoryOrder": 738
+}

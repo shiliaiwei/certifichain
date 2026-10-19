@@ -1,0 +1,279 @@
+{
+  "name": "105_training_professional_grey_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-10-2023-11:16:35_105_training_professional_gray_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "48.92897526501766%",
+        "left": "29.049249999999997%",
+        "color": "#dddddd",
+        "width": "41.65825%",
+        "height": "9.80565371024735%",
+        "fontSize": "37em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.867137809187284%",
+        "left": "26.171875%",
+        "color": "#dddddd",
+        "width": "22.131875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.867137809187284%",
+        "left": "51.9175%",
+        "color": "#dddddd",
+        "width": "20.55375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.307367491166078%",
+        "left": "44.359375%",
+        "color": "#dddddd",
+        "width": "11.0380875%",
+        "height": "3.0035335689045937%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.7946996466431%",
+        "left": "27.269%",
+        "color": "#dddddd",
+        "width": "45.086%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For participation in a closed seminar with the topic\u2028                      'Financial planning and building a financial business model'",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.522968197879855%",
+        "left": "37.625%",
+        "color": "#dddddd",
+        "width": "24.506875%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to proudly certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.349823321554773%",
+        "left": "18.8935%",
+        "color": "#dddddd",
+        "width": "61.688500000000005%",
+        "height": "9.275618374558304%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Training Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.97667844522968%",
+        "left": "17.225625%",
+        "color": "#dddddd",
+        "width": "13.381875%",
+        "height": "3.53356890459364%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "David Shaw",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.33356890459363%",
+        "left": "15.225625%",
+        "color": "#dddddd",
+        "width": "17.381875%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Seminar organizer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.97667844522968%",
+        "left": "68.456%",
+        "color": "#dddddd",
+        "width": "13.381875%",
+        "height": "3.53356890459364%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Henry Freeman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.33356890459363%",
+        "left": "66.455125%",
+        "color": "#dddddd",
+        "width": "17.381875%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO of the company",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.123674911660777%",
+        "left": "48.378%",
+        "width": "3%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-10-2023-11:07:21_s369LMJ_QsxnzWodGofAP-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.76325088339223%",
+        "left": "42.9365%",
+        "width": "13.88475%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-10-2023-11:11:44_Or9FtXXDltluy23bKVp8O-Group 18701.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.3851590106007%",
+        "left": "45.625%",
+        "color": "#dddddd",
+        "width": "8.5068375%",
+        "height": "5.123674911660777%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.82402826855123%",
+        "left": "68.639625%",
+        "width": "13.01275%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-10-2023-11:14:03_GaJ9yy5GKxp8sXn4HjD5J-Group 497.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.97102473498234%",
+        "left": "17.711%",
+        "width": "14.350625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-10-2023-11:14:24_KMJ7PLFPtG6XwzQ_kivPP-Group 494.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hd8rdtrt0f2gykhty1yj4rs4-1697888649259.png",
+  "isDefault": true,
+  "createdAt": "2023-10-21T09:17:58.430Z",
+  "updatedAt": "2025-03-19T10:59:53.299Z",
+  "metadata": {
+    "lang": "en",
+    "color": "black",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01hd8rdtrt0f2gykhty1yj4rs4",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2760,
+  "categoryOrder": 378
+}

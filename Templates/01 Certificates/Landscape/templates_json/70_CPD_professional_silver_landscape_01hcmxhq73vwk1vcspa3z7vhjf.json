@@ -1,0 +1,353 @@
+{
+  "name": "70_CPD_professional_silver_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/13-10-2023-06:18:40_70_CPD_professional_silver_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.869257950530034%",
+        "left": "26.295874999999995%",
+        "color": "#000000",
+        "width": "47.03325%",
+        "height": "14.575971731448764%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "EB Garamond, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.46413427561838%",
+        "left": "56.977500000000006%",
+        "color": "#000000",
+        "width": "16.381875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.53003533568905%",
+        "left": "57.204125%",
+        "color": "#000000",
+        "width": "15.928749999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.18374558303887%",
+        "left": "29.588875%",
+        "color": "#7b7b7b",
+        "width": "39.78325%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has participated in the 12 hours CPD Seminar",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.49939929328622%",
+        "left": "23.82375%",
+        "color": "#000000",
+        "width": "52.557624999999994%",
+        "height": "10.070671378091872%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "EB Garamond, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Accreditation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.42402826855123%",
+        "left": "27.621499999999997%",
+        "color": "#000000",
+        "width": "44.381875%",
+        "height": "5.6537102473498235%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "EB Garamond, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Strategies for Small Business Growth",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.03127208480565%",
+        "left": "14.367125%",
+        "color": "#000000",
+        "width": "10.9433625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Daniel Clark",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "77.65159010600706%",
+        "left": "13.838875%",
+        "width": "12.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.86219081272085%",
+        "left": "40.19825%",
+        "color": "#7b7b7b",
+        "width": "19.807625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.91819787985865%",
+        "left": "9.8037%",
+        "color": "#7b7b7b",
+        "width": "20.068375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "on behalf of CPD Provider",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.99646643109541%",
+        "left": "61.22075%",
+        "color": "#7b7b7b",
+        "width": "7.5683625%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CPD Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.37572438162544%",
+        "left": "42.033625%",
+        "color": "#000000",
+        "width": "15.557625%",
+        "height": "3.53356890459364%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CPD Provider Logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.03127208480565%",
+        "left": "36.77825%",
+        "color": "#000000",
+        "width": "13.943375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Emma Johnson",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "77.65159010600706%",
+        "left": "37.749%",
+        "width": "12.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.91819787985865%",
+        "left": "33.714875%",
+        "color": "#7b7b7b",
+        "width": "20.068375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "on behalf of CPD Provider",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.2720848056537%",
+        "left": "60.15825%",
+        "color": "#7b7b7b",
+        "width": "9.6933625%",
+        "height": "5.830388692579505%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CPD reference",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.08074204946996%",
+        "left": "77.503875%",
+        "width": "11.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-10-2023-06:15:59_5cTRVEGJS0cc2GBQA4WvB-\u0420\u0435\u0441\u0443\u0440\u0441 1 2.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.69611307420494%",
+        "left": "13.903375%",
+        "width": "11.8671875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-10-2023-06:17:28_Z5YlGPs9JzdRHTnh_EjI_-Vector 652.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.95971731448763%",
+        "left": "35.63675%",
+        "width": "15.472625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-10-2023-06:17:41_ii5cP-VHV-lkyqM7UsFFb-Vector 663.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.87632508833921%",
+        "left": "77.213875%",
+        "width": "11.4150375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-07:59:58_rcc-v1bke9pzD7WligXVH-\u0420\u0435\u0441\u0443\u0440\u0441 1 2.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.53003533568905%",
+        "left": "79.82425%",
+        "color": "#000000",
+        "width": "6.1933625%",
+        "height": "8.480565371024735%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hcmxhq73vwk1vcspa3z7vhjf-1697479287123.png",
+  "isDefault": true,
+  "createdAt": "2023-10-13T16:22:40.102Z",
+  "updatedAt": "2025-03-19T10:59:51.385Z",
+  "metadata": {
+    "lang": "en",
+    "color": "black",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hcmxhq73vwk1vcspa3z7vhjf",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2800,
+  "categoryOrder": 56
+}

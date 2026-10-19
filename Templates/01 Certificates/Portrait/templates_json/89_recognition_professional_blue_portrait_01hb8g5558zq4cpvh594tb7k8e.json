@@ -1,0 +1,342 @@
+{
+  "name": "89_recognition_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-09-2023-12:21:54_89_recognition_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.660125%",
+        "left": "7.06713780918728%",
+        "color": "#141e96",
+        "width": "64.04187279151942%",
+        "height": "7.03515%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.203125%",
+        "left": "75.5839222614841%",
+        "color": "#ffffff",
+        "width": "16.17298586572438%",
+        "height": "1.32715%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.022%",
+        "left": "7.06713780918728%",
+        "color": "#252525",
+        "width": "23.36166077738516%",
+        "height": "1.5918%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.03075%",
+        "left": "7.06713780918728%",
+        "color": "#242424",
+        "width": "14.34683745583039%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Morris Bond",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.088375%",
+        "left": "45.23939929328622%",
+        "color": "#252525",
+        "width": "14.885159010600708%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.753875%",
+        "left": "7.06713780918728%",
+        "color": "#1a1a1a",
+        "width": "32.43021201413428%",
+        "height": "2.7871125%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.76075%",
+        "left": "7.06713780918728%",
+        "color": "#1a1a1a",
+        "width": "57.26872791519435%",
+        "height": "10.6171875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "demonstrated exceptional involvement during the research seminar 'Communicative Failures and Ways to Overcome Them',\nwhich was held from 02 to 04 November 2023",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.209%",
+        "left": "76.60936395759717%",
+        "color": "#ffffff",
+        "width": "13.76987632508834%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.2646500000000005%",
+        "left": "7.0685159010600715%",
+        "color": "#252525",
+        "width": "56.42667844522968%",
+        "height": "9.4248%",
+        "fontSize": "71em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.2735%",
+        "left": "7.06713780918728%",
+        "color": "#242424",
+        "width": "20.636925795053003%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Associate Professor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.194375%",
+        "left": "7.06713780918728%",
+        "color": "#252525",
+        "width": "45.04204946996466%",
+        "height": "5.5752%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.1582%",
+        "left": "71.88462897526502%",
+        "width": "22.62314487632509%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-08:46:24_DBYDT4YiM9xUjvMQ2ebZb-Capa 1.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.8486375%",
+        "left": "75.6874558303887%",
+        "color": "#604c3f",
+        "width": "15.256875%",
+        "height": "9.540636042402827%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Whisper, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Verified",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.642625%",
+        "left": "79.71519434628975%",
+        "color": "#604c3f",
+        "width": "7.3818375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.857375%",
+        "left": "79.22102473498234%",
+        "width": "8.546819787985866%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-08:48:48_2sLW3QhfaJov4u5XLGNiz-Group 413.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.03025%",
+        "left": "42.01766784452297%",
+        "color": "#242424",
+        "width": "15.230229681978798%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Felix Jackson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.2735%",
+        "left": "42.01625441696113%",
+        "color": "#242424",
+        "width": "29.383745583038873%",
+        "height": "1.7255875%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculty of Statistics",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "89.2226148409894%",
+        "left": "42.002875%",
+        "width": "2.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-09-2023-12:05:15_pOdCbcIf6sElkeiEp9h8d-Group 499.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.92875%",
+        "left": "42.1791519434629%",
+        "width": "18.53886925795053%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-09-2023-12:08:42_gKWrfuPIwTk_loblOecgd-Group 497.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.94725%",
+        "left": "7.06713780918728%",
+        "width": "19.95088339222615%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-09-2023-12:08:54_2M4ikpM6BOnSb3d8j3f5A-Group 494.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hb8g5558zq4cpvh594tb7k8e-1695804836245.png",
+  "isDefault": true,
+  "createdAt": "2023-09-26T10:22:01.898Z",
+  "updatedAt": "2025-03-19T10:59:50.410Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01hb8g5558zq4cpvh594tb7k8e",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2818,
+  "categoryOrder": 684
+}

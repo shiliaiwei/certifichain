@@ -1,0 +1,461 @@
+{
+  "name": "614_Stock_Professional_purple_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-03-2025-02:31:52_614_stock_professional_purple_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.876106194690266%",
+        "left": "9%",
+        "color": "#0c263d",
+        "width": "19.5%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.16814159292036%",
+        "left": "14.625%",
+        "width": "12.375000000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-03-2025-02:03:07_vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.99115044247787%",
+        "left": "43.875%",
+        "width": "14.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-03-2025-02:03:27_vector2.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "11.327433628318584%",
+        "left": "9%",
+        "width": "5.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-03-2025-02:03:49_qr.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "13.451327433628318%",
+        "left": "78.125%",
+        "width": "13.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-03-2025-02:04:27_group_20805.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.68141592920354%",
+        "left": "22.875%",
+        "color": "#0c263d",
+        "width": "54%",
+        "height": "auto",
+        "fontSize": "31em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF STOCK",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.36283185840708%",
+        "left": "8.875%",
+        "color": "#8e9fcf",
+        "width": "14.875%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Number:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.36283185840708%",
+        "left": "44.375%",
+        "color": "#8e9fcf",
+        "width": "16.875%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of Issuance: [Date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.36283185840708%",
+        "left": "67.125%",
+        "color": "#8e9fcf",
+        "width": "24.375%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Par Value per Share: [Par Value]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.415929203539825%",
+        "left": "22.875%",
+        "color": "#8e9fcf",
+        "width": "12.875%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.700221238938056%",
+        "left": "9%",
+        "color": "#0c263d",
+        "width": "12.5%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.76106194690265%",
+        "left": "28.999999999999996%",
+        "color": "#0c263d",
+        "width": "17.625%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "is the registered owner of",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.85066371681416%",
+        "left": "9%",
+        "color": "#0c263d",
+        "width": "47.625%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Number of Shares] ([Number of Shares in Words])",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.424778761061944%",
+        "left": "56.375%",
+        "color": "#0c263d",
+        "width": "6.25%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "shares of",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.89380530973451%",
+        "left": "63.125%",
+        "color": "#0c263d",
+        "width": "16.875%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Company Name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.38053097345133%",
+        "left": "9%",
+        "color": "#0c263d",
+        "width": "79.125%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "a corporation duly incorporated under the laws of                                        . These shares are fully paid and non-assessable, subject to the provisions of the corporation\u2019s Articles of Incorporation and Bylaws. Ownership of these shares is transferable only on the books of the corporation by the holder in person or through a duly authorized representative, upon surrender of this certificate properly endorsed.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.67256637168141%",
+        "left": "44.125%",
+        "color": "#0c263d",
+        "width": "15.25%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[State/Country]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.20353982300885%",
+        "left": "9%",
+        "color": "#0c263d",
+        "width": "57.375%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is executed by the duly authorized officers of [Company Name].",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.71681415929203%",
+        "left": "9%",
+        "width": "25.5%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#8e9fcf"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.71681415929203%",
+        "left": "40.75%",
+        "width": "25.5%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#8e9fcf"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.42477876106194%",
+        "left": "9%",
+        "color": "#0c263d",
+        "width": "23.875%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "President: [Name and Surname]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.45026548672566%",
+        "left": "40.8125%",
+        "color": "#0c263d",
+        "width": "23.875%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Secretary: [Name and Surname]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.05309734513274%",
+        "left": "77.375%",
+        "color": "#0c263d",
+        "width": "14.374999999999998%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Corporate Information",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.82300884955752%",
+        "left": "70.125%",
+        "color": "#0c263d",
+        "width": "21.625%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Company Name: [Company Name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.59292035398231%",
+        "left": "70.128125%",
+        "color": "#0c263d",
+        "width": "21.625%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Incorporated in: [State/Country]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.36283185840708%",
+        "left": "73.375%",
+        "color": "#0c263d",
+        "width": "18.375%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Date of Issuance: [Issuance Date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.13274336283186%",
+        "left": "70.125%",
+        "color": "#0c263d",
+        "width": "21.625%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Corporate Address: [Company Address]",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jpfhnykrmpygbt9z578w547m-1742131936784.png",
+  "isDefault": true,
+  "createdAt": "2025-03-16T13:18:20.282Z",
+  "updatedAt": "2025-03-20T08:12:08.081Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01jpfhnykrmpygbt9z578w547m",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1737,
+  "categoryOrder": 522
+}

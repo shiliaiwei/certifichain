@@ -1,0 +1,414 @@
+{
+  "name": "569_ConfinedSpace_professional_orange_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-02-2025-11:19:41_569_confinedspace_professional_orange_portrait-2.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.500000000000004%",
+        "left": "30.123674911660775%",
+        "color": "#050505",
+        "width": "39.57597173144876%",
+        "height": "auto",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "13.375%",
+        "left": "33.39222614840989%",
+        "width": "33.215547703180206%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-02-2025-11:06:26_group_20472.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74%",
+        "left": "37.455830388692576%",
+        "width": "25.08833922261484%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-02-2025-11:06:31_group_20473.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83%",
+        "left": "9.717314487632509%",
+        "width": "21.20141342756184%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-02-2025-11:06:35_group_20462.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "97.125%",
+        "left": "16.431095406360424%",
+        "color": "#ffffff",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "To verify this certificate visit www.company.com or use:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "97.125%",
+        "left": "62.19081272084806%",
+        "color": "#ffffff",
+        "width": "13.250883392226148%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.125%",
+        "left": "10.247349823321555%",
+        "color": "#192934",
+        "width": "17.84452296819788%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Training Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.125%",
+        "left": "59.36395759717315%",
+        "color": "#050505",
+        "width": "30.565371024734983%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Email: info@saferoadacademy.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.875%",
+        "left": "59.36395759717315%",
+        "color": "#050505",
+        "width": "31.62544169611308%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Address: 456 Driver\u2019s Lane, Atlanta,301",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.5%",
+        "left": "59.36395759717315%",
+        "color": "#050505",
+        "width": "20.318021201413426%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Phone: (404) 555-1234",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.75%",
+        "left": "10.424028268551238%",
+        "color": "#192934",
+        "width": "17.6678445229682%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Michael S. Anderson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37%",
+        "left": "24.91166077738516%",
+        "color": "#050505",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of completion the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.25%",
+        "left": "25%",
+        "color": "#050505",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "recognizes",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.5%",
+        "left": "16.784452296819786%",
+        "color": "#050505",
+        "width": "66.43109540636041%",
+        "height": "auto",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Confined Space Awareness Training",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50%",
+        "left": "19.081272084805654%",
+        "color": "#000",
+        "width": "60.95406360424028%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "emergency procedures, and safety compliance.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.5%",
+        "left": "12.36749116607774%",
+        "color": "#000",
+        "width": "74.91166077738515%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "demonstrating an understanding of confined space hazards,",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62%",
+        "left": "25.4416961130742%",
+        "color": "#050505",
+        "width": "23.498233215547703%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CPD Credits: 2 CPD Points",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62%",
+        "left": "51.23674911660777%",
+        "color": "#050505",
+        "width": "22.791519434628977%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Duration: 20 Hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.875%",
+        "left": "36.39575971731448%",
+        "color": "#192934",
+        "width": "27.73851590106007%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "confined space safety standards.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.375%",
+        "left": "37.19081272084806%",
+        "color": "#192934",
+        "width": "25.795053003533567%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Training complies with OSHA\u2019s",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "2.5%",
+        "left": "4.41696113074205%",
+        "color": "#ffffff",
+        "width": "91.16607773851591%",
+        "height": "auto",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Confined Space Training Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.4375%",
+        "left": "52.65017667844523%",
+        "color": "#000",
+        "width": "27.385159010600706%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Expiration Date: November 15, 2026",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.375%",
+        "left": "19.964664310954063%",
+        "color": "#000",
+        "width": "28.091872791519435%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Completion Date: November 15, 2023",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jmavmgpvtbcx74b94xjj967j-1740264794932.png",
+  "isDefault": true,
+  "createdAt": "2025-02-17T21:04:43.229Z",
+  "updatedAt": "2025-03-19T11:00:41.363Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01jmavmgpvtbcx74b94xjj967j",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1826,
+  "categoryOrder": 333
+}

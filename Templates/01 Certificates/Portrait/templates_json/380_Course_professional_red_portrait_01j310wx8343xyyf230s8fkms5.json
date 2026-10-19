@@ -1,0 +1,343 @@
+{
+  "name": "380_Course_professional_red_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-07-2024-08:55:00_380_Course_professional_red_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "29.710000000000004%",
+        "left": "6.844840989399293%",
+        "color": "#601616",
+        "width": "71.02756183745583%",
+        "height": "6.636725%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.78515%",
+        "left": "7.417720848056536%",
+        "color": "#601616",
+        "width": "62.78125%",
+        "height": "21.73144876325088%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COURSE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.502%",
+        "left": "7.762809187279151%",
+        "color": "#601616",
+        "width": "32.19964664310954%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.29%",
+        "left": "45.729328621908124%",
+        "color": "#601616",
+        "width": "23.423875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.05275%",
+        "left": "7.51839222614841%",
+        "color": "#442f2f",
+        "width": "40.66925795053004%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly conferred upon",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.625%",
+        "left": "74.03798586572438%",
+        "color": "#442f2f",
+        "width": "20.837102473498234%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Samuel Runittu",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.910125%",
+        "left": "7.764187279151943%",
+        "color": "#442f2f",
+        "width": "77.46943462897526%",
+        "height": "6.638674999999999%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "for outstanding performance in the Introduction to Artificial Intelligence program at AI Learning Hub",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "38.971625%",
+        "left": "7.570422535211267%",
+        "width": "61.93816254416961%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#442f2f"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.625%",
+        "left": "7.762809187279151%",
+        "color": "#442f2f",
+        "width": "17.1895%",
+        "height": "4.770318021201414%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jai Hemi",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.19725%",
+        "left": "7.902226148409894%",
+        "color": "#442f2f",
+        "width": "17.1895%",
+        "height": "4.770318021201414%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lead Instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.9355%",
+        "left": "74.03798586572438%",
+        "color": "#442f2f",
+        "width": "20.617491166077738%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Program Director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.15625%",
+        "left": "81.960777385159%",
+        "width": "11.8084628975265%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-07-2024-08:40:35_JtWr0dYbSa_ILtvhPifFm-AI Learning Hub.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.09375%",
+        "left": "45.72791519434629%",
+        "color": "#442f2f",
+        "width": "17.1895%",
+        "height": "4.770318021201414%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date Of issue",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.607375%",
+        "left": "7.416360424028268%",
+        "color": "#442f2f",
+        "width": "22.48922261484099%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Reference Number",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.09375%",
+        "left": "7.762809187279151%",
+        "color": "#442f2f",
+        "width": "23.372614840989396%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Completed lessons",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.830124999999995%",
+        "left": "7.762809187279151%",
+        "color": "#601616",
+        "width": "17.1895%",
+        "height": "4.770318021201414%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "14/14",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.13675%",
+        "left": "7.762809187279151%",
+        "width": "17.031519434628976%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-07-2024-08:43:34_DueQGwZ49EVsJLpnZjpZ4-Group 19077.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.76175%",
+        "left": "74.42862190812721%",
+        "width": "18.1482332155477%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-07-2024-08:43:49_Vv8XeqMM8K8exfb2Y-dOz-Group 19078.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.8555%",
+        "left": "36.28674911660777%",
+        "width": "27.357597173144875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-07-2024-08:44:05_9Giololl6IAFuKyvkYPXv-badge.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.125%",
+        "left": "7.416360424028268%",
+        "color": "#601616",
+        "width": "62.78125%",
+        "height": "21.73144876325088%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j310wx8343xyyf230s8fkms5-1721242645775.png",
+  "isDefault": true,
+  "createdAt": "2024-07-17T18:57:25.766Z",
+  "updatedAt": "2025-03-19T11:00:22.256Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "course"
+  },
+  "id": "01j310wx8343xyyf230s8fkms5",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2206,
+  "categoryOrder": 98
+}

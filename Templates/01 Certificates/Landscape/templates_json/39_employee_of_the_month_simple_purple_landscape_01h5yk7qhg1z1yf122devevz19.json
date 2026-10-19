@@ -1,0 +1,306 @@
+{
+  "name": "39_employee_of_the_month_simple_purple_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-07-2023-01:35:38_39_employee_of_the_month_simple_purple_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "47.43409893992933%",
+        "left": "4.25%",
+        "color": "#6c6ea0",
+        "width": "50.125%",
+        "height": "16.872791519434628%",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.48356890459364%",
+        "left": "7.000000000000001%",
+        "color": "#424c55",
+        "width": "45%",
+        "height": "9.540636042402827%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "We know that the growth and success of our organization is largely dependent on having dedicated and capable employees, such as yourself. Thank you for everything you do! ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.1726148409894%",
+        "left": "75.47075%",
+        "color": "#6c6ea0",
+        "width": "11.125%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jessica James",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.52950530035335%",
+        "left": "71.90775%",
+        "color": "#424c55",
+        "width": "18.125%",
+        "height": "6.890459363957597%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Marketing Vice President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.91466431095405%",
+        "left": "32.375%",
+        "color": "#6c6ea0",
+        "width": "17.875%",
+        "height": "10.424028268551238%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Identification Number ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.53657243816254%",
+        "left": "30.562499999999996%",
+        "color": "#424c55",
+        "width": "21.5%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.53657243816254%",
+        "left": "10.125%",
+        "color": "#424c55",
+        "width": "13.750000000000002%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.086572438162543%",
+        "left": "10.9375%",
+        "color": "#424c55",
+        "width": "36.75%",
+        "height": "26.501766784452297%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE THE MONTH",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.473851590106%",
+        "left": "14.249999999999998%",
+        "color": "#424c55",
+        "width": "30.5%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.209717314487634%",
+        "left": "75.346625%",
+        "color": "#ffffff",
+        "width": "11.25%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOUR LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.16201413427561%",
+        "left": "73.7285%",
+        "color": "#6c6ea0",
+        "width": "15.375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Violet Krasinski",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.51890459363958%",
+        "left": "75.65725%",
+        "color": "#424c55",
+        "width": "10.625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Team Leader",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.086572438162543%",
+        "left": "45.75%",
+        "color": "#6c6ea0",
+        "width": "8.125%",
+        "height": "15.19434628975265%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.91466431095405%",
+        "left": "10.125%",
+        "color": "#6c6ea0",
+        "width": "13.375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date of Validity",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "10.070671378091872%",
+        "left": "78.42775%",
+        "width": "5.0869125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-07-2023-01:30:22_4Rb585_9heF5RrV0JTDFd-Group 310.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "39.31095406360424%",
+        "left": "74.145%",
+        "width": "13.651374999999998%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-07-2023-01:30:41_cMJ9-LUMqDonH300g7c23-Vector 34.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "59.717314487632514%",
+        "left": "75.34575%",
+        "width": "12.140625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-07-2023-01:32:19_pe_Mtj2yFiCI--LgdXEnn-Signature 2.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h5yk7qhg1z1yf122devevz19-1690294532649.png",
+  "isDefault": true,
+  "createdAt": "2023-07-22T10:44:58.547Z",
+  "updatedAt": "2025-09-10T14:56:25.563Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "simple",
+    "category": "employee_of_the_month"
+  },
+  "id": "01h5yk7qhg1z1yf122devevz19",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2896,
+  "categoryOrder": 15
+}

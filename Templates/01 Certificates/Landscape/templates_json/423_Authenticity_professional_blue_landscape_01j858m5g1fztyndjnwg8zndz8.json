@@ -1,0 +1,298 @@
+{
+  "name": "423_Authenticity_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-09-2024-11:17:44_423_Authenticity_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24.601769911504427%",
+        "left": "20.495875%",
+        "color": "#ffffff",
+        "width": "59.03325%",
+        "height": "16.96113074204947%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.68141592920354%",
+        "left": "15%",
+        "color": "#a7a8b2",
+        "width": "22.5%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.90265486725663%",
+        "left": "63%",
+        "color": "#a7a8b2",
+        "width": "20.80375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.47787610619469%",
+        "left": "10.370874999999998%",
+        "color": "#a7a8b2",
+        "width": "79.28325%",
+        "height": "10.60070671378092%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate verifies the authenticity of the luxury item detailed below and \naffirms that it is an original design produced by the listed designer.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.902654867256637%",
+        "left": "29.5%",
+        "color": "#ffffff",
+        "width": "40.557625%",
+        "height": "13.074204946996467%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.99115044247788%",
+        "left": "16.5%",
+        "color": "#f4f2f2",
+        "width": "10.375%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OWNER:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.707964601769916%",
+        "left": "14.75%",
+        "color": "#a7a8b2",
+        "width": "13.875000000000002%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Rachel Sinclair",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.132743362831857%",
+        "left": "31.5625%",
+        "color": "#ffffff",
+        "width": "36.5%",
+        "height": "auto",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF AUTHENTICITY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.16814159292035%",
+        "left": "44.8875%",
+        "color": "#f4f2f2",
+        "width": "10.375%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MATERIAL:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.99115044247788%",
+        "left": "71.125%",
+        "color": "#f4f2f2",
+        "width": "15.625%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DESIGNER NAME:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.72566371681416%",
+        "left": "33.175%",
+        "color": "#a7a8b2",
+        "width": "33.75%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Italian Leather, Hand-Stitched Detailing",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.707964601769916%",
+        "left": "72%",
+        "color": "#a7a8b2",
+        "width": "13.875000000000002%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Marlowe & Co.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.76106194690264%",
+        "left": "41.625%",
+        "color": "#a7a8b2",
+        "width": "16.75%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Marlowe & Co.\u2028\nAuthorized Representative",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "40.88426442477876%",
+        "left": "19.375%",
+        "width": "61.25000000000001%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#505267"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.64884955752213%",
+        "left": "68.525%",
+        "width": "9.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-02:37:22_Badge.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.99115044247787%",
+        "left": "42.625%",
+        "width": "14.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-02:37:39_Group 19479.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.63716814159291%",
+        "left": "24.25%",
+        "width": "5.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-02:38:56_qr-code.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j858m5g1fztyndjnwg8zndz8-1726784271420.png",
+  "isDefault": true,
+  "createdAt": "2024-09-19T13:47:54.755Z",
+  "updatedAt": "2025-03-19T11:00:26.645Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j858m5g1fztyndjnwg8zndz8",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2119,
+  "categoryOrder": 616
+}

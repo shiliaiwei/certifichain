@@ -1,0 +1,217 @@
+{
+  "name": "789_Gift_simple_white_landscape",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1123 794\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><rect width=\"1123\" height=\"794\" fill=\"#EFECE8\"/></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.39325842696629%",
+        "left": "11.838624338624339%",
+        "color": "#7f1c1c",
+        "width": "76.05820105820106%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.46509%",
+        "left": "17.3927%",
+        "color": "#861d1d",
+        "width": "65.74074074074075%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "BIRTHDAY GIFT CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "81.5884%",
+        "left": "45.2381%",
+        "width": "9.920634920634921%",
+        "height": "8.05243445692884%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 111 64\"><g filter=\"url(#filter0_i_1_286)\"><path fill=\"#DFDBD2\" d=\"M56.5802 0L43.0242 17.0018C37.3812 24.13 28.5263 34.3794 31.2542 48.8209L12.8934 7.31052C10.0791 0.911362 7.3397 0 0 0V0.827236C0.936186 0.827236 2.07689 1.37125 3.20032 2.56303V56.6783C3.20032 61.8015 1.78884 63.1756 0 63.1756V64H7.25328V63.1756C5.46445 63.1756 4.05297 61.8015 4.05297 56.6783V3.65666C4.7011 4.56522 5.36363 5.85515 6.02904 7.31052L27.8638 56.6783C29.8399 61.0724 31.9167 64 40.5844 64V63.1756C38.7956 63.1756 37.0067 61.7174 34.7426 56.6783L34.3681 55.8651C26.4523 37.4892 37.2833 25.6864 44.1621 17.0018L54.3305 4.20348V56.6783C54.3305 61.8015 52.9161 63.1756 51.1273 63.1756V64H63.9343V63.1756C62.1455 63.1756 60.734 61.8015 60.734 56.6783V7.31052C60.734 4.13057 61.3706 -1.65167 65.0491 3.0117L65.8989 4.20348C66.4606 5.02791 67.1231 6.12154 67.8749 7.31052L97.8156 56.6783C100.356 60.8902 102.332 64 111 64V63.0774C109.859 63.0774 109.024 62.5306 107.797 60.7948V7.31052C107.797 2.19848 109.211 0.827236 111 0.827236V0H103.744V0.827236C105.533 0.827236 106.947 2.19848 106.947 7.31052V59.5189L105.158 56.6783L75.2175 7.31052C71.7522 1.56754 69.6494 0.243964 63.9343 0.0364545L56.5802 0Z\"/></g><defs><filter id=\"filter0_i_1_286\" width=\"111\" height=\"68\" x=\"0\" y=\"0\" color-interpolation-filters=\"sRGB\" filterUnits=\"userSpaceOnUse\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend in=\"SourceGraphic\" in2=\"BackgroundImageFix\" mode=\"normal\" result=\"shape\"/><feColorMatrix in=\"SourceAlpha\" result=\"hardAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\"/><feOffset dy=\"4\"/><feGaussianBlur stdDeviation=\"2\"/><feComposite in2=\"hardAlpha\" k2=\"-1\" k3=\"1\" operator=\"arithmetic\"/><feColorMatrix type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0\"/><feBlend in2=\"shape\" mode=\"normal\" result=\"effect1_innerShadow_1_286\"/></filter></defs></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "39.3429%",
+        "left": "13.3598%",
+        "width": "73.01587301587301%",
+        "height": "10.861423220973784%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 825 9\"><g filter=\"url(#filter0_g_1_287)\"><line x1=\"4\" x2=\"821\" y1=\"4.75\" y2=\"4.75\" stroke=\"#7F1C1C\" stroke-width=\"0.5\"/></g><defs><filter id=\"filter0_g_1_287\" width=\"825\" height=\"8.5\" x=\"0\" y=\"0.5\" color-interpolation-filters=\"sRGB\" filterUnits=\"userSpaceOnUse\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend in=\"SourceGraphic\" in2=\"BackgroundImageFix\" mode=\"normal\" result=\"shape\"/><feTurbulence baseFrequency=\"0.2222222238779068 0.2222222238779068\" numOctaves=\"3\" seed=\"369\" type=\"fractalNoise\"/><feDisplacementMap width=\"100%\" height=\"100%\" in=\"shape\" result=\"displacedImage\" scale=\"8\" xChannelSelector=\"R\" yChannelSelector=\"G\"/><feMerge result=\"effect1_texture_1_287\"><feMergeNode in=\"displacedImage\"/></feMerge></filter></defs></svg>"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.0948%",
+        "left": "34.5238%",
+        "color": "#861d1d",
+        "width": "31.48148148148148%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Satisfy, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "To the person that has everything:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.1463%",
+        "left": "39.5623%",
+        "color": "#1b1818",
+        "width": "20.767195767195766%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "FROM: [GIVER\u2019S NAME]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.62172284644194%",
+        "left": "15.939153439153438%",
+        "color": "#1b1818",
+        "width": "67.85714285714286%",
+        "fontSize": "14em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "A $100 gift certificate to use toward anything that brings you joy - from cozy home accents to everyday essentials \u2014 at ModernNest.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.868%",
+        "left": "39.9471%",
+        "color": "#861d1d",
+        "width": "20.502645502645503%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MODERNNEST",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.8015%",
+        "left": "14.418%",
+        "color": "#1b1818",
+        "width": "10.582010582010582%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Validity Period:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.827%",
+        "left": "77.2487%",
+        "color": "#1b1818",
+        "width": "10.582010582010582%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Code:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.9212%",
+        "left": "75.5291%",
+        "color": "#1b1818",
+        "width": "14.153439153439153%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "5849302398475648329",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.2084%",
+        "left": "9.52381%",
+        "color": "#1b1818",
+        "width": "20.37037037037037%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "12 APRIL2025 - 12 APRIL 2028",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jzj5xq60k5a54the8edjpkxy-1751884412458.png",
+  "isDefault": true,
+  "createdAt": "2025-07-07T10:11:51.675Z",
+  "updatedAt": "2025-07-14T08:59:07.558Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "simple",
+    "category": "appreciation"
+  },
+  "id": "01jzj5xq60k5a54the8edjpkxy",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1519,
+  "categoryOrder": 16
+}

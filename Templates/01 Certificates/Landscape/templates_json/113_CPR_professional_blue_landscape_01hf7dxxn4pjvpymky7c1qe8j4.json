@@ -1,0 +1,342 @@
+{
+  "name": "113_CPR_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/14-11-2023-06:32:36_113_CPR_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.45936395759717%",
+        "left": "28.146500000000003%",
+        "color": "#0039a6",
+        "width": "59.03325%",
+        "height": "16.96113074204947%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.19452296819787%",
+        "left": "40.47075%",
+        "color": "#222222",
+        "width": "16.505875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.32667844522969%",
+        "left": "40.298875%",
+        "color": "#222222",
+        "width": "16.67775%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.699434628975265%",
+        "left": "9.3808625%",
+        "color": "#0039a6",
+        "width": "51.55474999999999%",
+        "height": "21.20141342756184%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "FIRST AID TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.25070671378091%",
+        "left": "80.918%",
+        "color": "#222222",
+        "width": "9.6933625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Noah Davis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.21908127208481%",
+        "left": "28.146500000000003%",
+        "color": "#222222",
+        "width": "24.92975%",
+        "height": "3.9752650176678443%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.96643109540636%",
+        "left": "63.558625%",
+        "color": "#b0b0b0",
+        "width": "9.1933625%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.96643109540636%",
+        "left": "81.207%",
+        "color": "#b0b0b0",
+        "width": "9.6933625%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HR Specialist",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.25070671378091%",
+        "left": "63.236375%",
+        "color": "#222222",
+        "width": "14.443375%",
+        "height": "4.770318021201414%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jacob Brooks",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.02296819787986%",
+        "left": "28.146500000000003%",
+        "color": "#222222",
+        "width": "14.67975%",
+        "height": "4.770318021201414%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of issue:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.081272084805654%",
+        "left": "9.578125%",
+        "color": "#0039a6",
+        "width": "34.05475%",
+        "height": "10.60070671378092%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.699434628975265%",
+        "left": "83.42775%",
+        "color": "#222222",
+        "width": "10.3046875%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MediLink",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.957597173144876%",
+        "left": "83.42775%",
+        "color": "#222222",
+        "width": "10.3046875%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Group ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.12720848056537%",
+        "left": "28.146500000000003%",
+        "color": "#222222",
+        "width": "49.78325%",
+        "height": "7.950530035335689%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "who has successfully completed Rapid Responder Training\n and is qualified to administer emergency first aid.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.06201413427561%",
+        "left": "28.146500000000003%",
+        "color": "#222222",
+        "width": "14.67975%",
+        "height": "4.770318021201414%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.73904593639575%",
+        "left": "79.96775%",
+        "width": "11.5957%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-06:23:48_7D2OkKdhNuIJG-RVsPQbQ-Vector 685.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.68180212014134%",
+        "left": "62.74999999999999%",
+        "width": "9.6211%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-06:23:51_xU4ayHvedUzx-mOOg4ikN-Vector 684.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "11.130742049469964%",
+        "left": "77.375%",
+        "width": "4.9628875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-06:24:05_qC9bMbk2P6HJGveelHlLa-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.03515901060071%",
+        "left": "9.578125%",
+        "width": "10.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-06:24:25_lq28LOaAsoD5JLIeyceGl-Ellipse 327.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.0386925795053%",
+        "left": "11.703125%",
+        "width": "6%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-06:24:29_8m9s8-T01aQr9LXchUPnz-Vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hf7dxxn4pjvpymky7c1qe8j4-1699995232699.png",
+  "isDefault": true,
+  "createdAt": "2023-11-14T17:26:40.550Z",
+  "updatedAt": "2025-03-19T10:59:54.104Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01hf7dxxn4pjvpymky7c1qe8j4",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2714,
+  "categoryOrder": 362
+}

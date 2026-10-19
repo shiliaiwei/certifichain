@@ -1,0 +1,1329 @@
+{
+  "name": "1205_Employee_training_record_landscape",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 842 595\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><g clip-path=\"url(#clip0_26003_1619)\"><rect width=\"842\" height=\"595\" fill=\"#F4F7FA\"/><rect x=\"832\" y=\"-2\" width=\"10\" height=\"847\" fill=\"#97CEFF\"/><rect y=\"-2\" width=\"10\" height=\"847\" fill=\"#97CEFF\"/><path d=\"M562 390H782\" stroke=\"#CFE3F7\"/><path d=\"M562 430H782\" stroke=\"#CFE3F7\"/><path d=\"M60 160L219 160\" stroke=\"#CFE3F7\"/><path d=\"M441 160L601 160\" stroke=\"#CFE3F7\"/><path d=\"M241 160L401 160\" stroke=\"#CFE3F7\"/><path d=\"M623 160L782 160\" stroke=\"#CFE3F7\"/><path d=\"M60 222L219 222\" stroke=\"#CFE3F7\"/><path d=\"M441 222L601 222\" stroke=\"#CFE3F7\"/><path d=\"M60 191L219 191\" stroke=\"#CFE3F7\"/><path d=\"M441 191L601 191\" stroke=\"#CFE3F7\"/><path d=\"M241 191L401 191\" stroke=\"#CFE3F7\"/><path d=\"M623 191L782 191\" stroke=\"#CFE3F7\"/><path d=\"M241 222L401 222\" stroke=\"#CFE3F7\"/><path d=\"M623 222L782 222\" stroke=\"#CFE3F7\"/><path d=\"M535 520.296H60V548H535V520.296Z\" fill=\"white\"/><path d=\"M535 299.555H60V324.578H535V299.555Z\" fill=\"#004E92\"/><path d=\"M60 352.282H535\" stroke=\"#CFE3F7\"/><path d=\"M535 352.282H60V379.987H535V352.282Z\" fill=\"white\"/><path d=\"M60 380.881H535\" stroke=\"#CFE3F7\"/><path d=\"M60 408.585H535\" stroke=\"#CFE3F7\"/><path d=\"M535 408.585H60V436.289H535V408.585Z\" fill=\"white\"/><path d=\"M535 464.887H60V492.591H535V464.887Z\" fill=\"white\"/><path d=\"M60 436.289H535\" stroke=\"#CFE3F7\"/><path d=\"M60 464.887H535\" stroke=\"#CFE3F7\"/><path d=\"M60 492.592H535\" stroke=\"#CFE3F7\"/><path d=\"M60 520.296H535\" stroke=\"#CFE3F7\"/><path d=\"M60 520.296H535\" stroke=\"#CFE3F7\"/><path d=\"M260.5 299.814L260 299.817L260.474 548.003L260.974 548.001L261.474 547.998L261 299.812L260.5 299.814Z\" fill=\"#CFE3F7\"/><path d=\"M380.5 299.814L380 299.812L379.5 547.998L380 548L380.5 548.003L381 299.817L380.5 299.814Z\" fill=\"#CFE3F7\"/><path d=\"M425.5 299.814L425 299.817L425.46 548.003L425.96 548.001L426.46 547.999L426 299.812L425.5 299.814Z\" fill=\"#CFE3F7\"/><path d=\"M479 298.291L478.5 298.293L478.988 546.479L479.488 546.477L479.988 546.475L479.5 298.289L479 298.291Z\" fill=\"#CFE3F7\"/><path d=\"M535 299.555H60V548H535V299.555Z\" stroke=\"#CFE3F7\"/></g><defs><clipPath id=\"clip0_26003_1619\"><rect width=\"842\" height=\"595\" fill=\"white\"/></clipPath></defs></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24.3576%",
+        "left": "7.24095%",
+        "color": "#2f2f2f",
+        "width": "19.600499375780274%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.501696113074203%",
+        "left": "71.08614232209737%",
+        "color": "#151515",
+        "width": "17.10362047440699%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.03733%",
+        "left": "51.4693%",
+        "color": "#004e92",
+        "width": "45.90846047156727%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING ACKNOWLEDGMENT FORM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.8866%",
+        "left": "52.5659%",
+        "color": "#004e92",
+        "width": "11.234396671289876%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING DETAILS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.701%",
+        "left": "7.76374%",
+        "color": "#004e92",
+        "width": "22.74618585298197%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACKNOWLEDGMENT STATEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.0316%",
+        "left": "7.62721%",
+        "color": "#004e92",
+        "width": "26.0748959778086%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACKNOWLEDGED TRAINING / POLICY ITEMS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.5411%",
+        "left": "7.62721%",
+        "color": "#ffffff",
+        "width": "13.592233009708737%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING / POLICY SUBJECT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.64123772102162%",
+        "left": "32.038834951456316%",
+        "color": "#ffffff",
+        "width": "13.592233009708737%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACKNOWLEDGMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.6807%",
+        "left": "46.0472%",
+        "color": "#ffffff",
+        "width": "3.19001386962552%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.671475442043224%",
+        "left": "51.31761442441054%",
+        "color": "#ffffff",
+        "width": "3.744798890429958%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "STATUS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.6055%",
+        "left": "57.6965%",
+        "color": "#ffffff",
+        "width": "5.547850208044383%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SIGNATURE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.0181%",
+        "left": "74.13%",
+        "color": "#2f2f2f",
+        "width": "9.153952843273231%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING TYPE:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.70137524557957%",
+        "left": "74.14701803051318%",
+        "color": "#2f2f2f",
+        "width": "9.153952843273231%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DURATION:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.39685658153242%",
+        "left": "74.14701803051318%",
+        "color": "#2f2f2f",
+        "width": "11.650485436893204%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "TRAINER / PRESENTER:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.40744597249509%",
+        "left": "52.56588072122052%",
+        "color": "#2f2f2f",
+        "width": "14.979195561719832%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING TITLE / SUBJECT:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.663614931237717%",
+        "left": "52.51040221914008%",
+        "color": "#2f2f2f",
+        "width": "14.979195561719832%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DATE & TIME:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.027072691552064%",
+        "left": "52.51040221914008%",
+        "color": "#2f2f2f",
+        "width": "14.979195561719832%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "VENUE:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.7171%",
+        "left": "7.48852%",
+        "color": "#2f2f2f",
+        "width": "80.02773925104022%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "I confirm that I have received and understood the training content listed below and am responsible for following the procedures and instructions covered.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.7957%",
+        "left": "8.32069%",
+        "color": "#2f2f2f",
+        "width": "20.527045769764214%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training1.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.51080550098232%",
+        "left": "8.26629680998613%",
+        "color": "#2f2f2f",
+        "width": "20.527045769764214%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training2.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.0294695481336%",
+        "left": "8.26629680998613%",
+        "color": "#2f2f2f",
+        "width": "20.527045769764214%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training3.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.74459724950884%",
+        "left": "8.26629680998613%",
+        "color": "#2f2f2f",
+        "width": "20.527045769764214%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training4.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.049115913556%",
+        "left": "8.266296809986128%",
+        "color": "#2f2f2f",
+        "width": "20.527045769764214%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training5.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.421%",
+        "left": "8.2663%",
+        "color": "#2f2f2f",
+        "width": "20.527045769764214%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training6.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.28290766208252%",
+        "left": "8.26629680998613%",
+        "color": "#2f2f2f",
+        "width": "20.527045769764214%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training7.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.60510805500982%",
+        "left": "8.26629680998613%",
+        "color": "#2f2f2f",
+        "width": "20.527045769764214%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training8.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.97719056974459%",
+        "left": "28.84882108183079%",
+        "color": "#2f2f2f",
+        "width": "14.979195561719832%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING YEAR:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.9666%",
+        "left": "7.29456%",
+        "color": "#2f2f2f",
+        "width": "14.979195561719832%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "JOB TITLE / POSITION:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.67267190569745%",
+        "left": "28.84882108183079%",
+        "color": "#2f2f2f",
+        "width": "14.979195561719832%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MANAGER / SUPERVISOR:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.39685658153242%",
+        "left": "28.84882108183079%",
+        "color": "#2f2f2f",
+        "width": "14.979195561719832%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.67267190569745%",
+        "left": "7.489597780859916%",
+        "color": "#2f2f2f",
+        "width": "14.979195561719832%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DEPARTMENT:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.42193516699411%",
+        "left": "31.761442441054093%",
+        "color": "#2f2f2f",
+        "width": "12.89875173370319%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t1.acknowledgment]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.451866404715126%",
+        "left": "31.705963938973646%",
+        "color": "#2f2f2f",
+        "width": "12.89875173370319%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t2.acknowledgment]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.0295%",
+        "left": "31.8948%",
+        "color": "#2f2f2f",
+        "width": "12.89875173370319%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t3.acknowledgment]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.70530451866405%",
+        "left": "31.983356449375865%",
+        "color": "#2f2f2f",
+        "width": "12.89875173370319%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t4.acknowledgment]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.5663%",
+        "left": "32.0388%",
+        "color": "#2f2f2f",
+        "width": "12.89875173370319%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t5.acknowledgment]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.4558%",
+        "left": "31.9834%",
+        "color": "#2f2f2f",
+        "width": "12.89875173370319%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t6.acknowledgment]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.08736738703341%",
+        "left": "32.038834951456316%",
+        "color": "#2f2f2f",
+        "width": "12.89875173370319%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t6.acknowledgment]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.56581532416503%",
+        "left": "31.983356449375865%",
+        "color": "#2f2f2f",
+        "width": "12.89875173370319%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t7.acknowledgment]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.646572438162544%",
+        "left": "62.67253433208489%",
+        "color": "#2f2f2f",
+        "width": "9.737827715355806%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Training Record ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.81532416502947%",
+        "left": "66.58807212205271%",
+        "color": "#2f2f2f",
+        "width": "16.08876560332871%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Employee Signature \u00b7 Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.69155206286837%",
+        "left": "66.64355062413316%",
+        "color": "#2f2f2f",
+        "width": "16.08876560332871%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Trainer / Supervisor Sign-off \u00b7 Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.2558%",
+        "left": "66.5861%",
+        "color": "#2f2f2f",
+        "width": "16.08876560332871%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Print Name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.63654223968565%",
+        "left": "66.7128987517337%",
+        "color": "#2f2f2f",
+        "width": "16.08876560332871%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Print Name & Title",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.89921378091873%",
+        "left": "66.916354556804%",
+        "color": "#2f2f2f",
+        "width": "32.20973782771536%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Provider:[issuer.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.860510805500983%",
+        "left": "7.295423023578364%",
+        "color": "#004e92",
+        "width": "15.39528432732316%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE INFORMATION",
+      "autoScale": false
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "7.48864%",
+        "left": "7.3509%",
+        "width": "10.818307905686545%",
+        "height": "10.216110019646365%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 96 32\"><path fill=\"#75B7F0\" fill-rule=\"evenodd\" d=\"M9.0015 1.04102H9.30684C11.8332 1.04102 13.9004 3.10547 13.9004 5.63187V14.9414H4.41064V5.63187C4.41064 3.10547 6.47772 1.04102 9.0015 1.04102Z\" clip-rule=\"evenodd\"/><path fill=\"#447CAA\" fill-rule=\"evenodd\" d=\"M0 10.5626V10.273C0 7.86396 1.96778 5.89355 4.37683 5.89355L13.9005 14.9421H4.37683C1.96788 14.9421 0 12.9716 0 10.5626Z\" clip-rule=\"evenodd\"/><path fill=\"#75B7F0\" fill-rule=\"evenodd\" d=\"M21.7538 1.04102H21.4485C18.9221 1.04102 16.855 3.10547 16.855 5.63187V14.9414H26.3447V5.63187C26.3447 3.10547 24.2777 1.04102 21.7538 1.04102Z\" clip-rule=\"evenodd\"/><path fill=\"#447CAA\" fill-rule=\"evenodd\" d=\"M30.7556 10.5626V10.273C30.7556 7.86396 28.7877 5.89355 26.3787 5.89355L16.855 14.9421H26.3787C28.7877 14.9421 30.7556 12.9716 30.7556 10.5626Z\" clip-rule=\"evenodd\"/><path fill=\"#75B7F0\" fill-rule=\"evenodd\" d=\"M9.0015 30.9591H9.30684C11.8332 30.9591 13.9004 28.892 13.9004 26.3682V17.0586H4.41064V26.3682C4.41064 28.892 6.47772 30.9591 9.0015 30.9591Z\" clip-rule=\"evenodd\"/><path fill=\"#447CAA\" fill-rule=\"evenodd\" d=\"M0 21.4355V21.7279C0 24.1342 1.96778 26.1047 4.37683 26.1047L13.9005 17.0586H4.37683C1.96788 17.0586 0 19.0291 0 21.4355Z\" clip-rule=\"evenodd\"/><path fill=\"#75B7F0\" fill-rule=\"evenodd\" d=\"M21.7538 30.9591H21.4485C18.9221 30.9591 16.855 28.892 16.855 26.3682V17.0586H26.3447V26.3682C26.3447 28.892 24.2777 30.9591 21.7538 30.9591Z\" clip-rule=\"evenodd\"/><path fill=\"#447CAA\" fill-rule=\"evenodd\" d=\"M30.7556 21.4355V21.7279C30.7556 24.1342 28.7877 26.1047 26.3787 26.1047L16.855 17.0586H26.3787C28.7877 17.0586 30.7556 19.0291 30.7556 21.4355Z\" clip-rule=\"evenodd\"/><path fill=\"#2F2F2F\" d=\"M41.1363 8.28239C41.1363 7.55805 41.3032 6.90827 41.637 6.33305C41.9778 5.75783 42.4359 5.31044 43.0111 4.99088C43.5934 4.66421 44.229 4.50088 44.9178 4.50088C45.7061 4.50088 46.4056 4.69617 47.0163 5.08674C47.6341 5.47022 48.0815 6.01703 48.3585 6.72718H46.8991C46.7074 6.3366 46.4411 6.04544 46.1002 5.8537C45.7594 5.66196 45.3652 5.56609 44.9178 5.56609C44.4278 5.56609 43.9911 5.67616 43.6076 5.89631C43.2241 6.11645 42.9223 6.43247 42.7022 6.84435C42.4891 7.25624 42.3826 7.73558 42.3826 8.28239C42.3826 8.82921 42.4891 9.30855 42.7022 9.72044C42.9223 10.1323 43.2241 10.4519 43.6076 10.6791C43.9911 10.8993 44.4278 11.0093 44.9178 11.0093C45.3652 11.0093 45.7594 10.9135 46.1002 10.7217C46.4411 10.53 46.7074 10.2388 46.8991 9.84826H48.3585C48.0815 10.5584 47.6341 11.1052 47.0163 11.4887C46.4056 11.8722 45.7061 12.0639 44.9178 12.0639C44.2219 12.0639 43.5863 11.9041 43.0111 11.5846C42.4359 11.2579 41.9778 10.807 41.637 10.2317C41.3032 9.65652 41.1363 9.00674 41.1363 8.28239ZM52.3258 12.0959C51.7718 12.0959 51.2712 11.9716 50.8238 11.723C50.3764 11.4674 50.0249 11.1123 49.7692 10.6578C49.5136 10.1962 49.3858 9.66363 49.3858 9.06C49.3858 8.46348 49.5171 7.93442 49.7799 7.47283C50.0426 7.01124 50.4013 6.65616 50.8558 6.40761C51.3102 6.15906 51.818 6.03479 52.379 6.03479C52.94 6.03479 53.4478 6.15906 53.9023 6.40761C54.3568 6.65616 54.7154 7.01124 54.9781 7.47283C55.2409 7.93442 55.3723 8.46348 55.3723 9.06C55.3723 9.65652 55.2373 10.1856 54.9675 10.6472C54.6976 11.1088 54.3284 11.4674 53.8597 11.723C53.3981 11.9716 52.8868 12.0959 52.3258 12.0959ZM52.3258 11.0413C52.6382 11.0413 52.9294 10.9667 53.1992 10.8176C53.4762 10.6685 53.6999 10.4448 53.8703 10.1465C54.0407 9.84826 54.126 9.48609 54.126 9.06C54.126 8.63392 54.0443 8.27529 53.881 7.98413C53.7176 7.68587 53.501 7.46218 53.2312 7.31305C52.9613 7.16392 52.6702 7.08935 52.3577 7.08935C52.0452 7.08935 51.7541 7.16392 51.4842 7.31305C51.2215 7.46218 51.012 7.68587 50.8558 7.98413C50.6995 8.27529 50.6214 8.63392 50.6214 9.06C50.6214 9.69203 50.7812 10.182 51.1008 10.53C51.4274 10.8709 51.8358 11.0413 52.3258 11.0413ZM63.6777 6.03479C64.1393 6.03479 64.5512 6.13066 64.9134 6.3224C65.2826 6.51413 65.5702 6.79819 65.7762 7.17457C65.9892 7.55095 66.0958 8.00544 66.0958 8.53805V12H64.8921V8.71913C64.8921 8.19363 64.7607 7.79239 64.4979 7.51544C64.2352 7.23138 63.8766 7.08935 63.4221 7.08935C62.9676 7.08935 62.6054 7.23138 62.3355 7.51544C62.0728 7.79239 61.9414 8.19363 61.9414 8.71913V12H60.7377V8.71913C60.7377 8.19363 60.6063 7.79239 60.3436 7.51544C60.0808 7.23138 59.7222 7.08935 59.2677 7.08935C58.8132 7.08935 58.4511 7.23138 58.1812 7.51544C57.9184 7.79239 57.7871 8.19363 57.7871 8.71913V12H56.5727V6.13066H57.7871V6.80174C57.9859 6.56029 58.238 6.37211 58.5434 6.23718C58.8487 6.10225 59.1754 6.03479 59.5234 6.03479C59.9921 6.03479 60.411 6.13421 60.7803 6.33305C61.1496 6.53189 61.4337 6.8195 61.6325 7.19587C61.81 6.8408 62.087 6.56029 62.4634 6.35435C62.8397 6.14131 63.2445 6.03479 63.6777 6.03479ZM68.8553 6.99348C69.0613 6.72363 69.3418 6.49638 69.6969 6.31174C70.0519 6.12711 70.4532 6.03479 70.9005 6.03479C71.4119 6.03479 71.877 6.16261 72.296 6.41827C72.7221 6.66682 73.0558 7.01834 73.2973 7.47283C73.5387 7.92732 73.6595 8.44928 73.6595 9.0387C73.6595 9.62812 73.5387 10.1572 73.2973 10.6259C73.0558 11.0875 72.7221 11.4496 72.296 11.7124C71.877 11.968 71.4119 12.0959 70.9005 12.0959C70.4532 12.0959 70.0555 12.0071 69.7075 11.8296C69.3595 11.6449 69.0755 11.4177 68.8553 11.1478V14.7909H67.641V6.13066H68.8553V6.99348ZM72.4238 9.0387C72.4238 8.63392 72.3386 8.28595 72.1682 7.99479C72.0048 7.69653 71.7847 7.47283 71.5077 7.3237C71.2379 7.16747 70.9467 7.08935 70.6342 7.08935C70.3289 7.08935 70.0377 7.16747 69.7608 7.3237C69.4909 7.47993 69.2708 7.70718 69.1003 8.00544C68.937 8.3037 68.8553 8.65522 68.8553 9.06C68.8553 9.46478 68.937 9.81986 69.1003 10.1252C69.2708 10.4235 69.4909 10.6507 69.7608 10.807C70.0377 10.9632 70.3289 11.0413 70.6342 11.0413C70.9467 11.0413 71.2379 10.9632 71.5077 10.807C71.7847 10.6436 72.0048 10.4093 72.1682 10.1039C72.3386 9.79855 72.4238 9.44348 72.4238 9.0387ZM74.4555 9.0387C74.4555 8.44928 74.5763 7.92732 74.8177 7.47283C75.0663 7.01834 75.4 6.66682 75.819 6.41827C76.2451 6.16261 76.7138 6.03479 77.2251 6.03479C77.6867 6.03479 78.0879 6.12711 78.4288 6.31174C78.7768 6.48928 79.0537 6.71298 79.2597 6.98283V6.13066H80.4847V12H79.2597V11.1265C79.0537 11.4035 78.7732 11.6343 78.4181 11.8189C78.0631 12.0036 77.6583 12.0959 77.2038 12.0959C76.6996 12.0959 76.238 11.968 75.819 11.7124C75.4 11.4496 75.0663 11.0875 74.8177 10.6259C74.5763 10.1572 74.4555 9.62812 74.4555 9.0387ZM79.2597 9.06C79.2597 8.65522 79.1744 8.3037 79.004 8.00544C78.8407 7.70718 78.6241 7.47993 78.3542 7.3237C78.0844 7.16747 77.7932 7.08935 77.4808 7.08935C77.1683 7.08935 76.8771 7.16747 76.6073 7.3237C76.3374 7.47283 76.1173 7.69653 75.9468 7.99479C75.7835 8.28595 75.7018 8.63392 75.7018 9.0387C75.7018 9.44348 75.7835 9.79855 75.9468 10.1039C76.1173 10.4093 76.3374 10.6436 76.6073 10.807C76.8842 10.9632 77.1754 11.0413 77.4808 11.0413C77.7932 11.0413 78.0844 10.9632 78.3542 10.807C78.6241 10.6507 78.8407 10.4235 79.004 10.1252C79.1744 9.81986 79.2597 9.46478 79.2597 9.06ZM85.041 6.03479C85.5026 6.03479 85.9144 6.13066 86.2766 6.3224C86.6459 6.51413 86.9335 6.79819 87.1394 7.17457C87.3454 7.55095 87.4484 8.00544 87.4484 8.53805V12H86.2447V8.71913C86.2447 8.19363 86.1133 7.79239 85.8505 7.51544C85.5878 7.23138 85.2291 7.08935 84.7747 7.08935C84.3202 7.08935 83.958 7.23138 83.6881 7.51544C83.4254 7.79239 83.294 8.19363 83.294 8.71913V12H82.0797V6.13066H83.294V6.80174C83.4928 6.56029 83.7449 6.37211 84.0503 6.23718C84.3628 6.10225 84.693 6.03479 85.041 6.03479ZM94.2808 6.13066L90.6804 14.7589H89.4234L90.6165 11.9041L88.3049 6.13066H89.6578L91.3088 10.6046L93.0238 6.13066H94.2808ZM47.6235 28H46.4091L42.7554 22.4715V28H41.5411V20.5861H42.7554L46.4091 26.1039V20.5861H47.6235V28ZM48.8134 25.0387C48.8134 24.4493 48.9341 23.9273 49.1755 23.4728C49.4241 23.0183 49.7579 22.6668 50.1768 22.4183C50.6029 22.1626 51.0716 22.0348 51.5829 22.0348C52.0445 22.0348 52.4458 22.1271 52.7866 22.3117C53.1346 22.4893 53.4116 22.713 53.6175 22.9828V22.1307H54.8425V28H53.6175V27.1265C53.4116 27.4035 53.131 27.6343 52.776 27.8189C52.4209 28.0036 52.0161 28.0959 51.5616 28.0959C51.0574 28.0959 50.5958 27.968 50.1768 27.7124C49.7579 27.4496 49.4241 27.0875 49.1755 26.6259C48.9341 26.1572 48.8134 25.6281 48.8134 25.0387ZM53.6175 25.06C53.6175 24.6552 53.5323 24.3037 53.3618 24.0054C53.1985 23.7072 52.9819 23.4799 52.7121 23.3237C52.4422 23.1675 52.151 23.0894 51.8386 23.0894C51.5261 23.0894 51.235 23.1675 50.9651 23.3237C50.6952 23.4728 50.4751 23.6965 50.3047 23.9948C50.1413 24.2859 50.0597 24.6339 50.0597 25.0387C50.0597 25.4435 50.1413 25.7986 50.3047 26.1039C50.4751 26.4093 50.6952 26.6436 50.9651 26.807C51.2421 26.9632 51.5332 27.0413 51.8386 27.0413C52.151 27.0413 52.4422 26.9632 52.7121 26.807C52.9819 26.6507 53.1985 26.4235 53.3618 26.1252C53.5323 25.8199 53.6175 25.4648 53.6175 25.06ZM63.5425 22.0348C64.0041 22.0348 64.416 22.1307 64.7781 22.3224C65.1474 22.5141 65.435 22.7982 65.641 23.1746C65.854 23.5509 65.9605 24.0054 65.9605 24.538V28H64.7568V24.7191C64.7568 24.1936 64.6255 23.7924 64.3627 23.5154C64.0999 23.2314 63.7413 23.0894 63.2868 23.0894C62.8323 23.0894 62.4702 23.2314 62.2003 23.5154C61.9376 23.7924 61.8062 24.1936 61.8062 24.7191V28H60.6025V24.7191C60.6025 24.1936 60.4711 23.7924 60.2084 23.5154C59.9456 23.2314 59.587 23.0894 59.1325 23.0894C58.678 23.0894 58.3158 23.2314 58.046 23.5154C57.7832 23.7924 57.6518 24.1936 57.6518 24.7191V28H56.4375V22.1307H57.6518V22.8017C57.8507 22.5603 58.1028 22.3721 58.4081 22.2372C58.7135 22.1023 59.0402 22.0348 59.3881 22.0348C59.8568 22.0348 60.2758 22.1342 60.6451 22.333C61.0144 22.5319 61.2984 22.8195 61.4973 23.1959C61.6748 22.8408 61.9518 22.5603 62.3281 22.3544C62.7045 22.1413 63.1093 22.0348 63.5425 22.0348ZM72.8851 24.9215C72.8851 25.1417 72.8709 25.3405 72.8425 25.518H68.3579C68.3934 25.9867 68.5674 26.3631 68.8799 26.6472C69.1923 26.9312 69.5758 27.0733 70.0303 27.0733C70.6836 27.0733 71.1452 26.7999 71.4151 26.253H72.7253C72.5478 26.7928 72.2247 27.2366 71.756 27.5846C71.2944 27.9254 70.7192 28.0959 70.0303 28.0959C69.4693 28.0959 68.9651 27.9716 68.5177 27.723C68.0774 27.4674 67.7294 27.1123 67.4738 26.6578C67.2252 26.1962 67.101 25.6636 67.101 25.06C67.101 24.4564 67.2217 23.9273 67.4631 23.4728C67.7117 23.0112 68.0561 22.6562 68.4964 22.4076C68.9438 22.1591 69.4551 22.0348 70.0303 22.0348C70.5842 22.0348 71.0778 22.1555 71.511 22.397C71.9442 22.6384 72.2815 22.9793 72.5229 23.4196C72.7644 23.8528 72.8851 24.3534 72.8851 24.9215ZM71.6175 24.538C71.6104 24.0907 71.4506 23.732 71.1381 23.4622C70.8257 23.1923 70.4386 23.0574 69.9771 23.0574C69.5581 23.0574 69.1994 23.1923 68.9012 23.4622C68.6029 23.7249 68.4254 24.0836 68.3686 24.538H71.6175Z\"/></svg>"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.373303886925797%",
+        "left": "7.240948813982522%",
+        "color": "#2f2f2f",
+        "width": "14.979195561719832%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE NAME:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.7984%",
+        "left": "7.24095%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.department]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.840989399293285%",
+        "left": "7.2334581772784015%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.department]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.381625441696116%",
+        "left": "28.85143570536829%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.department]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.73498233215548%",
+        "left": "28.83895131086142%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.department]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.717314487632514%",
+        "left": "28.699126092384518%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.department]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.547703180212014%",
+        "left": "62.67166042446941%",
+        "color": "#2f2f2f",
+        "width": "6.866416978776529%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date Issued:",
+      "autoScale": false
+    },
+    {
+      "dir": "auto",
+      "type": "text",
+      "style": {
+        "top": "13.8339222614841%",
+        "left": "71.0362047440699%",
+        "color": "#151515",
+        "width": "24.719101123595504%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.4710070671378%",
+        "left": "45.63046192259675%",
+        "color": "#2f2f2f",
+        "width": "4.9937578027465666%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t1.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.394522968197876%",
+        "left": "45.56803995006242%",
+        "color": "#2f2f2f",
+        "width": "4.9937578027465666%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t2.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.0058%",
+        "left": "45.4162%",
+        "color": "#2f2f2f",
+        "width": "4.9937578027465666%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t3.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.65247349823322%",
+        "left": "45.593008739076154%",
+        "color": "#2f2f2f",
+        "width": "4.9937578027465666%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t4.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.56412544169612%",
+        "left": "45.37112359550562%",
+        "color": "#2f2f2f",
+        "width": "4.9937578027465666%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t5.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.38745583038869%",
+        "left": "45.543071161048694%",
+        "color": "#2f2f2f",
+        "width": "4.9937578027465666%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t6.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.97526501766784%",
+        "left": "45.44319600499376%",
+        "color": "#2f2f2f",
+        "width": "4.9937578027465666%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t7.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.5601%",
+        "left": "45.4673%",
+        "color": "#2f2f2f",
+        "width": "4.9937578027465666%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t8.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.4309%",
+        "left": "50.9718%",
+        "color": "#2f2f2f",
+        "width": "5.493133583021224%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t1.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.39451413427561%",
+        "left": "50.975911360798996%",
+        "color": "#2f2f2f",
+        "width": "5.493133583021224%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t2.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.97049469964664%",
+        "left": "50.936329588014985%",
+        "color": "#2f2f2f",
+        "width": "5.493133583021224%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t3.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.63480565371025%",
+        "left": "50.936329588014985%",
+        "color": "#2f2f2f",
+        "width": "5.493133583021224%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t4.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.55830388692578%",
+        "left": "50.936329588014985%",
+        "color": "#2f2f2f",
+        "width": "5.493133583021224%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t5.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.32259717314487%",
+        "left": "50.97803995006242%",
+        "color": "#2f2f2f",
+        "width": "5.493133583021224%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t6.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.03991166077739%",
+        "left": "50.94058676654183%",
+        "color": "#2f2f2f",
+        "width": "5.493133583021224%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t7.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.55706713780918%",
+        "left": "50.97803995006242%",
+        "color": "#2f2f2f",
+        "width": "5.493133583021224%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[t8.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.4853%",
+        "left": "52.5137%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.title]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.74897526501767%",
+        "left": "52.55930087390761%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.date]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.946996466431095%",
+        "left": "52.574781523096135%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.venue]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.505300353356887%",
+        "left": "74.16978776529338%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[trainer.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.681978798586574%",
+        "left": "74.14481897627965%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.duration]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.82332155477032%",
+        "left": "74.15730337078652%",
+        "color": "#2f2f2f",
+        "width": "17.353308364544322%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.type]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01kyd60k98zxh0wg22h2z97kx7-1787124073909.png",
+  "isDefault": true,
+  "createdAt": "2026-07-25T17:43:50.450Z",
+  "updatedAt": "2026-08-19T07:21:15.932Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "category": "hr"
+  },
+  "id": "01kyd60k98zxh0wg22h2z97kx7",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "training_record",
+  "galleryOrder": 18,
+  "categoryOrder": 4
+}

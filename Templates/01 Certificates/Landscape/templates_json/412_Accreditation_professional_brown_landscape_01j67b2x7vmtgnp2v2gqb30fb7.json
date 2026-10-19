@@ -1,0 +1,261 @@
+{
+  "name": "412_Accreditation_professional_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-08-2024-02:35:54_412_Accreditation_professional_brown_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.079646017699115%",
+        "left": "28.575%",
+        "color": "#764813",
+        "width": "42.75%",
+        "height": "9.29203539823009%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.53982300884955%",
+        "left": "9.875%",
+        "color": "#301d05",
+        "width": "24.25%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.41592920353982%",
+        "left": "26.125%",
+        "color": "#601616",
+        "width": "48.75%",
+        "height": "3.3628318584070795%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.946902654867255%",
+        "left": "35.625%",
+        "color": "#301d05",
+        "width": "28.65625%",
+        "height": "4.770318021201414%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80%",
+        "left": "76.125%",
+        "color": "#764813",
+        "width": "17.1895%",
+        "height": "4.770318021201414%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Mrs. Emily Wong",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80%",
+        "left": "12.625%",
+        "color": "#764813",
+        "width": "19.75%",
+        "height": "3.7168141592920354%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "www.accreditation.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.71681415929203%",
+        "left": "75.225%",
+        "color": "#301d05",
+        "width": "19%",
+        "height": "3.185840707964602%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Accreditation Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.725663716814159%",
+        "left": "7.000000000000001%",
+        "color": "#764813",
+        "width": "86.125%",
+        "height": "26.548672566371685%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDIATION CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.94690265486726%",
+        "left": "35.671875%",
+        "color": "#301d05",
+        "width": "28.65625%",
+        "height": "4.770318021201414%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has been accredited as a",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.67256637168141%",
+        "left": "8.125%",
+        "color": "#764813",
+        "width": "82%",
+        "height": "9.557522123893806%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MEDICAL LABORATORY IN ACCORDANCE WITH THE STANDARDS SET BY THE\nAMERICAN ASSOCIATION FOR LABORATORY ACCREDIATION (AALA)",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.50968141592921%",
+        "left": "61.25000000000001%",
+        "width": "11.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-02:31:46_Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.01769911504424%",
+        "left": "42.75%",
+        "width": "14.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-02:34:16_Group 19404.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.02654867256638%",
+        "left": "44.5%",
+        "color": "#301d05",
+        "width": "11.125%",
+        "height": "6.902654867256637%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDITED\nINSTITUTION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.89380530973452%",
+        "left": "44.5625%",
+        "color": "#301d05",
+        "width": "11.125%",
+        "height": "6.902654867256637%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "EST. 2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j67b2x7vmtgnp2v2gqb30fb7-1724675880247.png",
+  "isDefault": true,
+  "createdAt": "2024-08-26T12:38:00.188Z",
+  "updatedAt": "2025-03-19T11:00:25.573Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j67b2x7vmtgnp2v2gqb30fb7",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2143,
+  "categoryOrder": 640
+}

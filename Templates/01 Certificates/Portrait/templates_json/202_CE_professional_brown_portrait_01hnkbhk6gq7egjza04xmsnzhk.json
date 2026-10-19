@@ -1,0 +1,353 @@
+{
+  "name": "202_CE_professional_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/01-02-2024-11:18:08_202_CE_professional_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.375%",
+        "left": "12.188551236749117%",
+        "color": "#342f2b",
+        "width": "75.29823321554771%",
+        "height": "7.8328125%",
+        "fontSize": "82em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.19687499999999%",
+        "left": "27.260424028268552%",
+        "color": "#342f2b",
+        "width": "45.25848056537103%",
+        "height": "1.725%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.971875%",
+        "left": "31.95017667844523%",
+        "color": "#342f2b",
+        "width": "35.878975265017665%",
+        "height": "2.9203125%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.3296875%",
+        "left": "11.85070671378092%",
+        "color": "#342f2b",
+        "width": "75.83922261484098%",
+        "height": "5.575%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Training",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.324999999999996%",
+        "left": "34.68091872791519%",
+        "color": "#342f2b",
+        "width": "30.490282685512366%",
+        "height": "2.25625%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.289%",
+        "left": "8.365724381625443%",
+        "color": "#342f2b",
+        "width": "82.73851590106007%",
+        "height": "5.04375%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For completion of the advanced training program 'Internal Audit in Analytical Laboratory'",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.36725%",
+        "left": "11.625441696113075%",
+        "color": "#342f2b",
+        "width": "18.950883392226146%",
+        "height": "1.725%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THOMAS TAYLOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.870375%",
+        "left": "11.33833922261484%",
+        "color": "#342f2b",
+        "width": "19.900530035335688%",
+        "height": "1.725%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89%",
+        "left": "62.87102473498234%",
+        "color": "#342f2b",
+        "width": "27.12897526501767%",
+        "height": "4.78125%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate may be used to validate the training requirements of a continuing education program.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.208625%",
+        "left": "70.23409893992932%",
+        "color": "#342f2b",
+        "width": "15.065625000000002%",
+        "height": "3.53356890459364%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CE CERTIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.1875%",
+        "left": "42.70318021201413%",
+        "color": "#342f2b",
+        "width": "19.304240282685512%",
+        "height": "2.390625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CE Provider Logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.77737499999999%",
+        "left": "34.644522968197876%",
+        "color": "#342f2b",
+        "width": "24.25583038869258%",
+        "height": "2.1234375%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Academic hours:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.75162499999999%",
+        "left": "59.863074204947%",
+        "color": "#342f2b",
+        "width": "4.315625%",
+        "height": "4.240282685512367%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "78",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.4235%",
+        "left": "63.556338028169016%",
+        "width": "25.596289752650176%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "90.04375%",
+        "left": "9.683098591549296%",
+        "width": "23.191166077738515%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#342f2b"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.597625%",
+        "left": "67.66113074204947%",
+        "width": "2.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-02-2024-11:05:44_-klb14HgR0oqMyABwxpLF-99.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "16.31325%",
+        "left": "37.652296819787985%",
+        "width": "4.308745583038869%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-02-2024-11:06:05_sLuIx02avDb60wd745558-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "84.626625%",
+        "left": "16.008180212014135%",
+        "width": "13.992932862190813%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-02-2024-11:06:23_zFHIUHOCuCoT9Xt5mEfAl-Vector 253.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.684375%",
+        "left": "37.095936395759715%",
+        "width": "25.587455830388688%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-02-2024-11:06:47_XkxMyDv19jkZtMSt-81kF-OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.109375%",
+        "left": "42.959363957597176%",
+        "color": "#7f5454",
+        "width": "13.86042402826855%",
+        "height": "1.3265625%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.120375%",
+        "left": "43.96307420494699%",
+        "color": "#2c1111",
+        "width": "11.85291519434629%",
+        "height": "2.6546875%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hnkbhk6gq7egjza04xmsnzhk-1706888242599.png",
+  "isDefault": true,
+  "createdAt": "2024-02-01T22:10:03.602Z",
+  "updatedAt": "2025-03-19T11:00:03.989Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hnkbhk6gq7egjza04xmsnzhk",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2565,
+  "categoryOrder": 37
+}

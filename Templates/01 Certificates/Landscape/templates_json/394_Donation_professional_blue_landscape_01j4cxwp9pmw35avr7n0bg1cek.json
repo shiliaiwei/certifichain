@@ -1,0 +1,255 @@
+{
+  "name": "394_Donation_professional_blue_landscape ",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/03-08-2024-10:08:27_394_Donation_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24.468551236749114%",
+        "left": "18.857875%",
+        "color": "#41452f",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.10724381625441%",
+        "left": "61.836%",
+        "color": "#41452f",
+        "width": "24.877875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.80689045936396%",
+        "left": "61.836%",
+        "color": "#41452f",
+        "width": "22.548875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.563074204946997%",
+        "left": "34.5225%",
+        "color": "#41452f",
+        "width": "28.252%",
+        "height": "9.010600706713781%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.597173144876325%",
+        "left": "4.374%",
+        "color": "#41452f",
+        "width": "90.877%",
+        "height": "22.791519434628977%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " CERTIFICATE OF DONATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.40936395759717%",
+        "left": "22.684625%",
+        "color": "#41452f",
+        "width": "14.877%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "David Wilson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.70971731448763%",
+        "left": "23.3965%",
+        "color": "#41452f",
+        "width": "10.125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.75795053003534%",
+        "left": "4.5878625%",
+        "color": "#ffffff",
+        "width": "90.877%",
+        "height": "22.791519434628977%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "EDUCATION FOR ALL FOUNDATION",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "37.89469964664311%",
+        "left": "37.686625%",
+        "width": "22%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2d4451"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.289222614841%",
+        "left": "44.088375%",
+        "color": "#2d4451",
+        "width": "11.87695%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED\nDONOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.60777385159011%",
+        "left": "18.774875%",
+        "color": "#41452f",
+        "width": "62.502%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of his generous $5,000 donation to support educational programs and provide textbooks and learning materials to underprivileged children.",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.40583038869258%",
+        "left": "7.320312499999999%",
+        "width": "14.82125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-2024-10:06:49_13ZOHJnUoazXMbjal-G8U-Group 19166.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.72526501766785%",
+        "left": "42.608375%",
+        "width": "14.409125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-2024-10:07:45_A7hB7eH2SWYRsb0o62nYA-Vector.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "80.38250883392226%",
+        "left": "23.566084788029926%",
+        "width": "12.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2d4451"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "80.38250883392226%",
+        "left": "61.720698254364095%",
+        "width": "16.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2d4451"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j4cxwp9pmw35avr7n0bg1cek-1722715900407.png",
+  "isDefault": true,
+  "createdAt": "2024-08-03T20:11:27.928Z",
+  "updatedAt": "2025-03-19T11:00:23.559Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j4cxwp9pmw35avr7n0bg1cek",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2179,
+  "categoryOrder": 674
+}

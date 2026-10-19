@@ -1,0 +1,346 @@
+{
+  "name": "65_CPD_professional_violet_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/14-03-2024-12:32:08_65_CPD_professional_violet_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.559625%",
+        "left": "15.13088339222615%",
+        "color": "#170e88",
+        "width": "69.81007067137809%",
+        "height": "8.4961%",
+        "fontSize": "64em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.6855%",
+        "left": "54.55229681978799%",
+        "color": "#010101",
+        "width": "33.1452296819788%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.8965%",
+        "left": "15.583621908127206%",
+        "color": "#010101",
+        "width": "20.80375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.69825%",
+        "left": "19.97703180212014%",
+        "color": "#010101",
+        "width": "59.514487632508825%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "has successfully demonstrated comprehension of",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.386725%",
+        "left": "11.63798586572438%",
+        "color": "#170e88",
+        "width": "73.76466431095406%",
+        "height": "5.044925%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " CERTIFICATE OF ACCREDIATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.278375%",
+        "left": "68.74858657243817%",
+        "color": "#110e3a",
+        "width": "12.109381625441697%",
+        "height": "5.044925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "EduVista Academy",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.590875%",
+        "left": "19.345583038869258%",
+        "color": "#170e88",
+        "width": "60.8243816254417%",
+        "height": "7.431637500000001%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Educational Leadership and Administration Conference",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.038125%",
+        "left": "20.090282685512367%",
+        "color": "#010101",
+        "width": "13.416519434628976%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Ollie Lorin",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "58.537125%",
+        "left": "19.19014084507042%",
+        "width": "13.658074204946995%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#170e88"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.836%",
+        "left": "36.56342756183746%",
+        "color": "#010101",
+        "width": "26.343109540636046%",
+        "height": "2.6543%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.5645%",
+        "left": "62.89540636042403%",
+        "color": "#010101",
+        "width": "19.720318021201415%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "3 CPD credits",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.5645%",
+        "left": "40.97968197879859%",
+        "color": "#010101",
+        "width": "17.65955830388693%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "13 CPD hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.913125%",
+        "left": "12.121766784452296%",
+        "color": "#010101",
+        "width": "29.353533568904595%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "on behalf of EduVista Academy",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "81.9365%",
+        "left": "19.718309859154928%",
+        "width": "12.598003533568905%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#170e88"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.94525%",
+        "left": "18.05441696113074%",
+        "width": "17.48840989399293%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/12-10-2023-11:52:23_uelRaVSNQ7G3SQ7b1iJL4-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "62.001%",
+        "left": "38.070671378091866%",
+        "width": "23.476148409893995%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-06:58:53_a8jr4eCaJPvwthbITAcs6-Group 18726.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.247125%",
+        "left": "46.82120141342756%",
+        "color": "#170e88",
+        "width": "6.4296875%",
+        "height": "9.275618374558304%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "3",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.20025%",
+        "left": "45.69628975265018%",
+        "color": "#191549",
+        "width": "8.6796875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CPD POINTS",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.27875%",
+        "left": "62.894699646643105%",
+        "width": "4.216819787985866%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-07:00:35_xrnfeNm1reJx1CD6TjFkC-Group.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "58.537125%",
+        "left": "43.1577738515901%",
+        "width": "13.658074204946995%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#170e88"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "58.537125%",
+        "left": "66.10194346289752%",
+        "width": "13.658074204946995%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#170e88"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hrybrqb51gzs90trqe2cnyxb-1710415961462.png",
+  "isDefault": true,
+  "createdAt": "2024-03-14T11:32:41.448Z",
+  "updatedAt": "2025-03-19T10:59:50.967Z",
+  "metadata": {
+    "lang": "en",
+    "color": "pink",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hrybrqb51gzs90trqe2cnyxb",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2456,
+  "categoryOrder": 26
+}

@@ -1,0 +1,291 @@
+{
+  "name": "4_recognition_simple_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/05-08-22-1:28:07_Simple background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "23.20374064837905%",
+        "left": "22.040636042402827%",
+        "color": "#3ba99c",
+        "width": "55.3886925795053%",
+        "height": "11.625%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE\nOF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.871125%",
+        "left": "12.075704225352112%",
+        "color": "#3ba99c",
+        "width": "76.23674911660777%",
+        "height": "9.73535%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "MonteCarlo, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.298875%",
+        "left": "35.909893992932865%",
+        "color": "#206a61",
+        "width": "27.65017667844523%",
+        "height": "5%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Validate Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.61525%",
+        "left": "26.943462897526505%",
+        "color": "#206a61",
+        "width": "45.583038869257955%",
+        "height": "5.875%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.49225%",
+        "left": "14.840989399293287%",
+        "color": "#206a61",
+        "width": "69.78798586572438%",
+        "height": "7.5087874999999995%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "FLorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus erat a cras non netus fringilla etiam mi arcu. Sed nulla pretium, nascetur risus in. Turpis at eget vitae ac eros.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.807625%",
+        "left": "65.17508833922263%",
+        "color": "#206a61",
+        "width": "18.992932862190813%",
+        "height": "2.502925%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Demarcus Rose",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "75.09575%",
+        "left": "65.44010600706714%",
+        "width": "19.081272084805654%",
+        "height": "0.125%",
+        "backgroundColor": "#206a61"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "75.09575%",
+        "left": "13.77678445229682%",
+        "width": "19.081272084805654%",
+        "height": "0.125%",
+        "backgroundColor": "#206a61"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.807625%",
+        "left": "17.26618374558304%",
+        "color": "#206a61",
+        "width": "11.749116607773852%",
+        "height": "2.5%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issue date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.207%",
+        "left": "10.596572438162543%",
+        "color": "#206a61",
+        "width": "25.08833922261484%",
+        "height": "2.2246125%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.361375%",
+        "left": "61.68763250883392%",
+        "color": "#206a61",
+        "width": "25.967667844522968%",
+        "height": "4.449225%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Manager Company name",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.47075%",
+        "left": "40.299823321554776%",
+        "width": "18.86872791519435%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-22-7:34:52_Warstwa 2.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "52.87500000000001%",
+        "left": "20.229681978798585%",
+        "width": "59.36395759717315%",
+        "height": "0.125%",
+        "backgroundColor": "#206a61"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.319375%",
+        "left": "65.90106007067138%",
+        "color": "#206a61",
+        "width": "17.6678445229682%",
+        "height": "7.648437499999999%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ephesis, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Rose",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.99125%",
+        "left": "43.90318021201413%",
+        "color": "#4f2500",
+        "width": "11.66077738515901%",
+        "height": "5.0039%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OFFICIALLY\nVERIFIED\n2022",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.57743142144639%",
+        "left": "33.745583038869256%",
+        "color": "#206a61",
+        "width": "31.978798586572438%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.7485375%",
+        "left": "36.18321554770318%",
+        "width": "28.020141342756183%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-08-22-1:29:05_Group 218.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12371-1659699279746.png",
+  "isDefault": true,
+  "createdAt": "2022-08-05T11:34:38.238Z",
+  "updatedAt": "2025-03-19T10:59:38.377Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01g9pwjccyhnbp0n4tf0hnn6cw",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3041,
+  "categoryOrder": 729
+}

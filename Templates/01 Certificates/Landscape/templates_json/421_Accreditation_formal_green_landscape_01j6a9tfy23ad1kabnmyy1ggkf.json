@@ -1,0 +1,271 @@
+{
+  "name": "421_Accreditation_formal_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-08-2024-06:13:12_421_Accreditation_formal_green_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "26.371681415929203%",
+        "left": "98.03125%",
+        "color": "#ffffff",
+        "width": "2%",
+        "height": "10.619469026548673%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.070796460177%",
+        "left": "63%",
+        "color": "#607755",
+        "width": "22.377%",
+        "height": "2.8268551236749118%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.141592920353983%",
+        "left": "7.124999999999999%",
+        "color": "#607755",
+        "width": "90.5625%",
+        "height": "13.250883392226148%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDITED PROGRAM CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.58407079646018%",
+        "left": "42.25%",
+        "color": "#333319",
+        "width": "14.000000000000002%",
+        "height": "3.7168141592920354%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Barbara Scott",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.070796460177%",
+        "left": "6.25%",
+        "color": "#607755",
+        "width": "23.75%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.52212389380531%",
+        "left": "7.124999999999999%",
+        "color": "#373b35",
+        "width": "70.125%",
+        "height": "4.778761061946903%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THE INTERNATIONAL SKILLS CERTIFICATION AUTHORITY (ISCA)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.902654867256636%",
+        "left": "7.124999999999999%",
+        "color": "#373b35",
+        "width": "26.25%",
+        "height": "3.982300884955752%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly acknowledges the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.98230088495575%",
+        "left": "7.124999999999999%",
+        "color": "#607755",
+        "width": "74.5%",
+        "height": "6.371681415929204%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ADVANCED DATA ANALYTICS TRAINING PROGRAM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.11504424778761%",
+        "left": "7.124999999999999%",
+        "color": "#607755",
+        "width": "74.5%",
+        "height": "6.371681415929204%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OFFERED BY DATATECH INSTITUTE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.849557522123895%",
+        "left": "6.875000000000001%",
+        "color": "#373b35",
+        "width": "77.5%",
+        "height": "7.433628318584071%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "As an accredited program, recognized for its adherence to exemplary standards in data analysis education and comprehensive training practices.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.12389380530973%",
+        "left": "42.25%",
+        "color": "#333319",
+        "width": "20.75%",
+        "height": "3.7168141592920354%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Accreditation Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.97345132743364%",
+        "left": "6.875000000000001%",
+        "color": "#445134",
+        "width": "83.375%",
+        "height": "5.84070796460177%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This accreditation underscores the Advanced Data Analytics Training Program's dedication to providing top-tier education and training in data analysis, ensuring that students receive the highest quality instruction and industry-relevant skills.",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.31277876106195%",
+        "left": "6.875000000000001%",
+        "width": "30%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-08-2024-06:10:03_Group 19459.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.61283185840708%",
+        "left": "63.74999999999999%",
+        "width": "8.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-08-2024-06:10:25_Group 19453.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.901963539823015%",
+        "left": "7.124999999999999%",
+        "width": "74.5%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j6a9tfy23ad1kabnmyy1ggkf-1724775662554.png",
+  "isDefault": true,
+  "createdAt": "2024-08-27T16:13:39.140Z",
+  "updatedAt": "2025-03-19T11:00:26.451Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j6a9tfy23ad1kabnmyy1ggkf",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2125,
+  "categoryOrder": 622
+}

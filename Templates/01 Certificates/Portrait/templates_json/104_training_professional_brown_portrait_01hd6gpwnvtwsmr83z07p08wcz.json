@@ -1,0 +1,316 @@
+{
+  "name": "104_training_professional_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-10-2023-02:24:24_104_training_professional_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.122125%",
+        "left": "6.216872791519434%",
+        "color": "#542e0b",
+        "width": "57.68144876325088%",
+        "height": "7.567387500000001%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.871125%",
+        "left": "36.93551236749117%",
+        "color": "#542e0b",
+        "width": "26.991696113074205%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.871125%",
+        "left": "6.393551236749116%",
+        "color": "#542e0b",
+        "width": "24.775088339222613%",
+        "height": "1.5918%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.955125%",
+        "left": "6.393551236749116%",
+        "color": "#542e0b",
+        "width": "20.43250883392226%",
+        "height": "2.388675%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jonathan Horn",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.998%",
+        "left": "8.458480565371024%",
+        "color": "#542e0b",
+        "width": "31.33427561837456%",
+        "height": "3.3193374999999996%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.1875%",
+        "left": "6.216872791519434%",
+        "color": "#542e0b",
+        "width": "54.33833922261484%",
+        "height": "2.9209%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "We proudly present this certificate to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.586%",
+        "left": "6.216872791519434%",
+        "color": "#542e0b",
+        "width": "62.076325088339225%",
+        "height": "6.638674999999999%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "For outstanding achievements in the\u2028              AutoCAD Zero to PRO training program.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.15625%",
+        "left": "6.216872791519434%",
+        "color": "#542e0b",
+        "width": "57.83604240282685%",
+        "height": "9.292975%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.326125%",
+        "left": "6.216872791519434%",
+        "color": "#542e0b",
+        "width": "51.75583038869258%",
+        "height": "6.636725%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.23925%",
+        "left": "6.393551236749116%",
+        "color": "#542e0b",
+        "width": "11.539310954063604%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "LECTURER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.795375%",
+        "left": "36.93551236749117%",
+        "color": "#542e0b",
+        "width": "24.318197879858655%",
+        "height": "3.0527375%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Andrew Cannon",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.23825%",
+        "left": "36.93551236749117%",
+        "color": "#542e0b",
+        "width": "21.072968197879856%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY DIRECTOR",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.8145%",
+        "left": "6.338028169014084%",
+        "width": "57.80424028268551%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#542e0b"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.23725%",
+        "left": "80.4136042402827%",
+        "width": "14.916908127208481%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-10-2023-02:00:58_b5XdleCURk_iU4DXp94RV-Group 391.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "23.340875%",
+        "left": "6.393551236749116%",
+        "width": "3.53356890459364%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-10-2023-02:01:15_Kc0TJJigCbiLQX1uAz62e-Icon_1_.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.78125%",
+        "left": "80.85936395759717%",
+        "width": "14.262650176678445%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-10-2023-02:01:32_Ubgaad6fgp1uJuNebkuYh-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.7334%",
+        "left": "84.3005300353357%",
+        "color": "#2e1703",
+        "width": "7.3818375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.650375%",
+        "left": "83.65936395759718%",
+        "color": "#2e1703",
+        "width": "8.6630875%",
+        "height": "2.65017667844523%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hd6gpwnvtwsmr83z07p08wcz-1697804701673.png",
+  "isDefault": true,
+  "createdAt": "2023-10-20T12:24:37.821Z",
+  "updatedAt": "2025-03-19T10:59:53.251Z",
+  "metadata": {
+    "lang": "en",
+    "color": "yellow",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01hd6gpwnvtwsmr83z07p08wcz",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2761,
+  "categoryOrder": 379
+}

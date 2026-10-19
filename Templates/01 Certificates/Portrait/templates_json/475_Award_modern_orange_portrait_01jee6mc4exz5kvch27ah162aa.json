@@ -1,0 +1,254 @@
+{
+  "name": "475_Award_modern_orange_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-12-2024-02:40:06_475_award_modern_orange_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.375%",
+        "left": "7.420494699646643%",
+        "color": "#1c1c1c",
+        "width": "80.3886925795053%",
+        "height": "auto",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.73779375%",
+        "left": "7.420494699646643%",
+        "color": "#1c1c1c",
+        "width": "33.56890459363957%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.625%",
+        "left": "7.420494699646643%",
+        "color": "#c65b04",
+        "width": "74.91166077738515%",
+        "height": "auto",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARD CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.49785%",
+        "left": "62.89752650176679%",
+        "color": "#c65b04",
+        "width": "16.607773851590103%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TANNER JETT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.2495125%",
+        "left": "7.420494699646643%",
+        "color": "#c65b04",
+        "width": "36.042402826855124%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31%",
+        "left": "7.420494699646643%",
+        "color": "#1c1c1c",
+        "width": "16.07773851590106%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.125%",
+        "left": "7.420494699646643%",
+        "color": "#1c1c1c",
+        "width": "82.3321554770318%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is recognition of your exceptional \ncontributions as Top Performer of the Year. Your \nachievements continue to set new benchmarks.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.875%",
+        "left": "7.420494699646643%",
+        "color": "#c65b04",
+        "width": "17.6678445229682%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ROWAN SKYE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.2%",
+        "left": "62.72084805653711%",
+        "color": "#1c1c1c",
+        "width": "22.43816254416961%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.5125%",
+        "left": "7.367491166077736%",
+        "color": "#1c1c1c",
+        "width": "17.75%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Sales",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.77587875%",
+        "left": "7.420494699646643%",
+        "width": "25.265017667844525%",
+        "height": "0.125%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.625%",
+        "left": "62.72084805653711%",
+        "width": "26.325088339222614%",
+        "height": "0.125%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.875%",
+        "left": "7.420494699646643%",
+        "width": "25.4416961130742%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-02:29:27_group_19866.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.75%",
+        "left": "62.72084805653711%",
+        "width": "23.498233215547703%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-02:30:00_group_19773.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.5419875%",
+        "left": "7.420494699646643%",
+        "width": "30.212014134275616%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-02:30:42_clip_path_group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jee6mc4exz5kvch27ah162aa-1733496025264.png",
+  "isDefault": true,
+  "createdAt": "2024-12-06T14:40:25.233Z",
+  "updatedAt": "2025-03-19T11:00:33.400Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "modern",
+    "category": "recognition"
+  },
+  "id": "01jee6mc4exz5kvch27ah162aa",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1981,
+  "categoryOrder": 551
+}

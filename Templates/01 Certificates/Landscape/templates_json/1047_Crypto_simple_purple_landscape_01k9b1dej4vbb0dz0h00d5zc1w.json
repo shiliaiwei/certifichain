@@ -1,0 +1,329 @@
+{
+  "name": "1047_Crypto_simple_purple_landscape",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1123 794\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><rect x=\"11\" y=\"11\" width=\"1101\" height=\"772\" fill=\"white\"/><rect x=\"11\" y=\"11\" width=\"1101\" height=\"772\" stroke=\"url(#paint0_linear_1_2)\" stroke-width=\"22\"/><defs><linearGradient id=\"paint0_linear_1_2\" x1=\"282.5\" y1=\"197\" x2=\"1009.5\" y2=\"677.5\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#D8D4EE\"/><stop offset=\"0.451923\" stop-color=\"white\"/><stop offset=\"0.961538\" stop-color=\"#D8D4EE\"/></linearGradient></defs></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "58.468342%",
+        "left": "20.625%",
+        "width": "59.25%",
+        "height": "0.5300353356890459%",
+        "backgroundColor": "#d8d4ee"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.14159292035398%",
+        "left": "26.625%",
+        "color": "#988eca",
+        "width": "51%",
+        "fontSize": "51em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Satisfy, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "80.494266%",
+        "left": "74.625%",
+        "width": "10.5%",
+        "height": "8.672566371681416%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 116 68\"><path fill=\"#191919\" d=\"M83.668 30.1965C83.4938 34.164 80.756 37.5396 77.3384 40.6699C75.2415 42.5905 72.8386 44.2841 70.4128 45.9572C70.2276 46.085 70.1063 46.2669 69.9554 46.4236C70.2085 46.4133 70.4628 46.4112 70.7145 46.3911C71.362 46.3393 71.8385 46.0555 72.3126 45.7365C86.1893 36.3996 100.536 27.491 114.813 18.52C115.13 18.3212 115.555 17.9082 115.909 18.2767C116.238 18.6185 115.589 18.825 115.289 19.0357C102.499 28.0365 89.4254 36.7937 76.3066 45.5117C75.5418 46.02 75.1926 46.2317 76.3585 46.787C78.296 47.7096 78.1476 49.2215 77.627 50.6883C77.2187 51.8386 76.4403 52.8718 75.5123 53.819C70.0497 59.3948 63.2452 63.7539 55.0895 66.8618C53.5084 67.4642 51.8334 67.9224 50.0439 67.9939C47.359 68.1011 46.2252 66.7844 47.3746 64.9047C48.1103 63.7016 49.2096 62.6823 50.3448 61.6923C55.3022 57.3697 60.916 53.5625 66.4646 49.7039C66.7514 49.5045 66.9882 49.263 67.2483 49.0411C66.876 49.0864 66.4917 49.101 66.1339 49.183C65.337 49.3657 64.512 49.5347 64.0549 48.821C63.6283 48.1551 64.1676 47.6726 64.8122 47.2566C68.8258 44.6659 72.8665 42.0863 76.1506 38.9268C79.3056 35.8915 81.8767 32.6395 81.1765 28.5105C80.9673 27.2773 80.5479 26.0655 80.2496 24.8404C80.0906 24.1874 79.6563 24.0844 78.9398 24.3784C77.6978 24.8881 76.3645 25.2961 75.2186 25.9096C71.6088 27.8423 67.3056 28.7374 63.6189 30.5763C61.4824 31.642 60.2917 31.254 59.02 29.5679C58.5314 28.9201 58.0653 29.3896 57.7386 29.5559C55.2077 30.8448 52.7172 32.1797 50.2077 33.4934C47.9143 34.6938 45.6116 35.8901 42.9552 36.5851C41.7358 36.9041 40.411 37.1841 39.3096 36.4582C38.1603 35.7007 38.5224 34.6827 38.8549 33.7207C38.9336 33.493 39.0754 33.2698 39.0941 33.04C39.129 32.613 39.8971 32.0169 39.2275 31.8299C38.6374 31.6651 38.0891 32.2751 37.7657 32.8004C33.9348 39.0239 29.9388 45.1838 25.2265 51.0515C21.1998 56.0654 16.8271 60.8834 11.0635 64.855C9.19138 66.1451 7.21921 67.3466 4.69005 67.8251C1.52904 68.4232 -0.431505 67.0485 0.0811859 64.5751C0.583181 62.1531 2.14276 60.0653 3.81406 58.0398C9.81312 50.7691 17.4277 44.5406 25.4495 38.5821C28.7104 36.16 32.0563 33.8089 35.745 31.7651C36.3926 31.4063 36.709 30.9093 37.0348 30.3916C41.8856 22.6831 46.3981 14.8461 51.9166 7.39119C53.2418 5.60095 54.6598 3.84762 56.4463 2.29822C57.1417 1.69517 57.9214 1.13539 58.7468 0.637331C59.6419 0.0973068 60.7141 -0.265068 61.8055 0.245083C62.9305 0.770882 63.0181 1.67845 62.8524 2.58548C62.529 4.35714 61.5286 5.93835 60.3152 7.42959C56.286 12.3816 51.6805 16.9639 45.6012 20.5795C45.2986 20.7594 44.9932 20.9895 44.8328 21.2483C43.1157 24.0185 41.4258 26.7985 39.7346 29.5781C39.5733 29.8432 39.316 30.1024 40.0347 30.1968C41.4185 30.3785 41.6195 31.1408 41.3517 32.0368C41.1164 32.824 40.8322 33.6029 40.5541 34.3823C40.2208 35.3162 40.7073 35.5752 41.8343 35.3C44.0006 34.771 45.9204 33.8712 47.7798 32.9041C50.4773 31.5009 53.1208 30.0372 55.8126 28.6276C56.6808 28.1729 57.5911 27.7477 58.6762 27.631C59.7478 27.5157 60.5703 27.7938 60.7857 28.6253C61.043 29.6185 61.7154 29.6274 62.6757 29.2538C63.0292 29.1163 63.4061 29.0048 63.732 28.8359C68.0157 26.616 72.9361 25.3075 77.3349 23.2325C80.3644 21.8035 81.765 22.391 82.6027 25.0316C83.1118 26.6365 83.6276 28.2425 83.668 30.1965ZM2.37725 65.2252C2.42631 65.3716 2.41573 65.615 2.56861 65.7505C3.44657 66.5282 4.40418 65.9908 5.20007 65.7019C8.62149 64.4598 11.2051 62.4103 13.6528 60.2777C22.2914 52.7511 28.2799 43.9603 34.0786 35.0832C34.1706 34.9424 34.2807 34.6567 34.2423 34.6413C33.868 34.4903 33.7264 34.7878 33.5206 34.9224C28.2164 38.3934 23.3027 42.1726 18.6552 46.1478C13.0939 50.9047 7.75364 55.7981 3.94962 61.5403C3.19139 62.6847 2.58105 63.8781 2.37725 65.2252ZM75.6771 49.312C75.7513 48.7523 75.5384 48.2807 74.8384 48.0554C74.0112 47.7892 73.1759 47.6206 72.3771 48.1824C70.754 49.324 69.0814 50.4245 67.4624 51.5694C61.8295 55.5526 56.0177 59.4016 51.1872 63.9967C50.5831 64.5714 49.4054 65.2844 49.9282 65.901C50.3006 66.3401 51.73 65.8067 52.5972 65.5143C61.438 62.5337 68.6086 57.9713 74.2591 52.0004C75.0074 51.2097 75.5583 50.3149 75.6771 49.312ZM61.2559 2.01488C61.208 1.37874 60.7914 1.07157 59.9424 1.57301C59.1816 2.02226 58.4111 2.49987 57.8164 3.06967C53.1874 7.50491 50.2337 12.6692 47.0132 17.7159C46.9442 17.824 46.9531 17.9612 46.9255 18.0848C47.1304 17.9834 47.3674 17.9064 47.5353 17.7768C52.4275 14.004 56.7246 9.88379 59.9852 5.1709C60.6438 4.21896 61.1264 3.20277 61.2559 2.01488Z\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "9.718762%",
+        "left": "48%",
+        "width": "3.875%",
+        "height": "5.486725663716814%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 46 31\"><path fill=\"#191919\" d=\"M27.637 0.0969323C30.5234 0.0736666 33.41 0.0735039 36.2967 0.0964508C39.3394 5.68802 42.6219 11.1728 45.7656 16.7105C45.308 17.7266 44.6663 18.7074 44.1297 19.6866C42.8114 22.1047 41.4715 24.5106 40.1097 26.9044L38.6529 29.6971C36.176 25.8815 33.9048 21.4757 31.6668 17.4909C29.3624 13.3879 26.9378 9.38329 24.7285 5.22096C25.2893 4.15552 26.8353 0.690367 27.637 0.0969323Z\"/><path fill=\"#191919\" d=\"M9.71916 0.0918831C12.0805 0.0791348 22.0879 -0.207704 23.5904 0.301911C23.6778 1.36273 18.4135 10.1756 17.4775 11.6342C15.2435 11.6122 13.0082 11.6337 10.7741 11.6377C11.5023 13.1248 12.4317 14.5577 13.2662 15.991C14.85 18.7108 16.4216 21.4198 17.8848 24.2077C18.6924 22.7587 19.6222 21.3817 20.4378 19.9359C22.1244 19.9686 23.8112 19.9866 25.4979 19.9899C27.2454 19.9778 29.7538 19.6782 31.3986 20.1249C31.6555 20.358 31.8759 20.5623 31.9656 20.9099C32.1537 21.638 31.7145 22.273 31.3671 22.8709C29.8237 25.57 28.3846 28.3246 26.7777 30.9887L7.90587 30.9795C5.12451 26.4309 2.61261 21.7231 0 17.0766C2.45963 12.623 4.90093 8.16683 7.50398 3.79432C8.20562 2.61526 8.83937 1.11494 9.71916 0.0918831Z\"/></svg>"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.158098%",
+        "left": "19.125%",
+        "color": "#191919",
+        "width": "61%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "NFT & DEFI TRAINING CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.125105%",
+        "left": "39.125%",
+        "color": "#191919",
+        "width": "9.875%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.244227%",
+        "left": "51.125%",
+        "color": "#191919",
+        "width": "9.875%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "logo here",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.021769%",
+        "left": "32.5%",
+        "color": "#191919",
+        "width": "35.25%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Credential issued on Ethereum Mainnet with IPFS storage",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.518795%",
+        "left": "13.5%",
+        "color": "#7f7f7f",
+        "width": "73.75%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that the individual named below has completed the NFT & DeFi Training \nProgram, with a specialized focus on decentralized finance strategies, NFT project \nevaluation, and compliance standards.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.753919%",
+        "left": "10.5%",
+        "color": "#7f7f7f",
+        "width": "15%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Specialization",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.108242%",
+        "left": "10.625%",
+        "color": "#7f7f7f",
+        "width": "16.75%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate No.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.13836%",
+        "left": "31.125%",
+        "color": "#7f7f7f",
+        "width": "19.625%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of Completion",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.19469026548673%",
+        "left": "57.62500000000001%",
+        "color": "#7f7f7f",
+        "width": "18.125%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Program Facilitator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.724612%",
+        "left": "57.625%",
+        "color": "#7f7f7f",
+        "width": "13.5%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Duration",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.876755%",
+        "left": "10.5%",
+        "color": "#191919",
+        "width": "38.25%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "NFT Project Analysis & Yield Farming in DeFi",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.495614%",
+        "left": "31.25%",
+        "color": "#191919",
+        "width": "18.375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "October 01, 2025",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.536616%",
+        "left": "57.75%",
+        "color": "#191919",
+        "width": "15.375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Marcus D. Allen",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.231996%",
+        "left": "57.625%",
+        "color": "#191919",
+        "width": "38.25%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "10 Weeks \u2013 45 Hours Platform Training",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.47787610619469%",
+        "left": "10.625%",
+        "color": "#191919",
+        "width": "17.625%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01k9b1dej4vbb0dz0h00d5zc1w-1762380921492.png",
+  "isDefault": true,
+  "createdAt": "2025-11-05T22:15:21.417Z",
+  "updatedAt": "2025-12-16T15:09:24.359Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "simple",
+    "category": "training"
+  },
+  "id": "01k9b1dej4vbb0dz0h00d5zc1w",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 648,
+  "categoryOrder": 97
+}

@@ -1,0 +1,234 @@
+{
+  "name": "357_Graduation_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-06-2024-07:07:08_357_Graduation_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "26.59010600706714%",
+        "left": "26.069874999999996%",
+        "color": "#262626",
+        "width": "47.65725%",
+        "height": "14.575971731448764%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.74416961130743%",
+        "left": "37.46%",
+        "color": "#262626",
+        "width": "24.877%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.90851590106007%",
+        "left": "2.309575%",
+        "color": "#262626",
+        "width": "95.17775%",
+        "height": "30.212014134275616%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF GRADUATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.10600706713781%",
+        "left": "12.2880625%",
+        "color": "#262626",
+        "width": "75.048875%",
+        "height": "7.950530035335689%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of the successful completion of the Bachelor's degree program\n\u2028in Forensic Science. This program, designed to provide comprehensive knowledge and skills in the field of forensic science, has equipped  with expertise\u2028\nin criminal investigation, evidence analysis, and legal procedures.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.381625441696116%",
+        "left": "38.411125%",
+        "color": "#262626",
+        "width": "22.80275%",
+        "height": "7.420494699646643%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.74416961130743%",
+        "left": "69.778375%",
+        "color": "#262626",
+        "width": "17.9395%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Regina Jones",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.98233215547704%",
+        "left": "66.278375%",
+        "color": "#262626",
+        "width": "24.9395%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.74416961130743%",
+        "left": "14.528375000000002%",
+        "color": "#262626",
+        "width": "17.9395%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Louise Graves",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.98233215547704%",
+        "left": "14.528375000000002%",
+        "color": "#262626",
+        "width": "17.9395%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.63109540636043%",
+        "left": "38.961%",
+        "color": "#262626",
+        "width": "21.875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "57.652296819787985%",
+        "left": "42.543375%",
+        "width": "14.538125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-07:05:50_so7XU7f1thWE3MIybRnkB-Frame.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.61201413427561%",
+        "left": "18.88775%",
+        "width": "9.221675%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-07:06:10_GawjOrMLTuoxiXYwGsGey-Vector 731.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.87579505300353%",
+        "left": "74.745125%",
+        "width": "8.0058625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-07:06:33_ik2X3NsNfBfDqOWCeE45V-Group 18923.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0xwacxe2ge83xpevmf0qm31-1718989697983.png",
+  "isDefault": true,
+  "createdAt": "2024-06-21T17:08:17.967Z",
+  "updatedAt": "2025-03-19T11:00:19.869Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0xwacxe2ge83xpevmf0qm31",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2253,
+  "categoryOrder": 180
+}

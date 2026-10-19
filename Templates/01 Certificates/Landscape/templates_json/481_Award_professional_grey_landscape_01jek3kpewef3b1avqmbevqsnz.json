@@ -1,0 +1,252 @@
+{
+  "name": "481_Award_professional_grey_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-12-2024-12:23:18_481_award_professional_grey_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.69911504424779%",
+        "left": "18.433875%",
+        "color": "#3a3a3a",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.132743362831858%",
+        "left": "34.125%",
+        "color": "#3a3a3a",
+        "width": "31.75%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.61946902654867%",
+        "left": "32.6505625%",
+        "color": "#3a3a3a",
+        "width": "34.79975%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.83185840707964%",
+        "left": "10.475000000000001%",
+        "color": "#3a3a3a",
+        "width": "78.875%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This award is presented for exceptional academic performance as Top Student. \nYour dedication to learning and consistently high achievements have earned \nyou this prestigious academic award.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.80530973451327%",
+        "left": "31.624999999999996%",
+        "color": "#3a3a3a",
+        "width": "36.75%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.95575221238937%",
+        "left": "9.5360625%",
+        "color": "#3a3a3a",
+        "width": "19.378125%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of the University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.699115044247787%",
+        "left": "8.6875%",
+        "color": "#3a3a3a",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACHIEVEMENT AWARD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.69911504424779%",
+        "left": "73.25%",
+        "color": "#7a0909",
+        "width": "17.627%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MS. DAKOTA BLAZE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.08849557522124%",
+        "left": "8.722999999999999%",
+        "color": "#3a3a3a",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OUTSTANDING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.34513274336283%",
+        "left": "10.412500000000001%",
+        "color": "#7a0909",
+        "width": "17.627%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MR. SAGE EMERSON",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.38053097345133%",
+        "left": "72.311%",
+        "color": "#3a3a3a",
+        "width": "19.378125%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Executive Director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.73451327433628%",
+        "left": "8.8125%",
+        "width": "20.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-12-2024-12:21:17_group_19239.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.70796460176992%",
+        "left": "72.3125%",
+        "width": "19.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-12-2024-12:21:42_group_19464.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.38938053097344%",
+        "left": "39.1625%",
+        "width": "21.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-12-2024-12:22:30_group_19850.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jek3kpewef3b1avqmbevqsnz-1733661236560.png",
+  "isDefault": true,
+  "createdAt": "2024-12-08T12:23:49.469Z",
+  "updatedAt": "2025-03-19T11:00:33.943Z",
+  "metadata": {
+    "lang": "en",
+    "color": "grey",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01jek3kpewef3b1avqmbevqsnz",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1970,
+  "categoryOrder": 540
+}

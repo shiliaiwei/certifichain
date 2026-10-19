@@ -1,0 +1,271 @@
+{
+  "name": "330_Academic_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/31-05-2024-03:48:28_330_Academic_professional_blue_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.3985%",
+        "left": "10.733144876325088%",
+        "color": "#1e396d",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.09575%",
+        "left": "28.17950530035336%",
+        "color": "#2d2d2d",
+        "width": "42.93568904593639%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.755875%",
+        "left": "38.175618374558304%",
+        "color": "#2d2d2d",
+        "width": "23.27190812720848%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.1065%",
+        "left": "17.854240282685513%",
+        "color": "#2d2d2d",
+        "width": "17.13367491166078%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "PAULA YATES",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.017625%",
+        "left": "20.299999999999997%",
+        "color": "#1e396d",
+        "width": "59.02031802120141%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Indiana State University  |  Faculty of Journalism",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.00875%",
+        "left": "29.57703180212014%",
+        "color": "#2d2d2d",
+        "width": "40.82367491166078%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.13774999999999%",
+        "left": "9.28524734982332%",
+        "color": "#2d2d2d",
+        "width": "80.89946996466432%",
+        "height": "13.25%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successful graduation from the University with a degree \nin Journalism. In recognition of outstanding achievements \nin the field of journalism, professionalism and dedication \nto freedom of expression.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.28125%",
+        "left": "12.95964664310954%",
+        "color": "#2d2d2d",
+        "width": "74.057625%",
+        "height": "27.56183745583039%",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ACADEMIC",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "48.04%",
+        "left": "12.5%",
+        "width": "74.64805653710246%",
+        "height": "0.125%",
+        "backgroundColor": "#828282"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.1065%",
+        "left": "59.71236749116608%",
+        "color": "#2d2d2d",
+        "width": "21.197349823321556%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SHEILA CASTILLO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.46%",
+        "left": "12.95964664310954%",
+        "color": "#828282",
+        "width": "26.674381625441697%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.71%",
+        "left": "57.23833922261484%",
+        "color": "#828282",
+        "width": "26.14434628975265%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.625%",
+        "left": "12.95964664310954%",
+        "color": "#2d2d2d",
+        "width": "74.057625%",
+        "height": "27.56183745583039%",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.5%",
+        "left": "20.38922261484099%",
+        "width": "11.816749116607776%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-05-2024-03:46:31_3DmBw7ITkL76v6bS_fHIS-Vector 221.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.5%",
+        "left": "63.52420494699648%",
+        "width": "13.92446996466431%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-05-2024-03:46:53_RdTo8OmpgewCRF_inLWwf-Vector 222.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hz7eg4dypdfgxc3v7tx9fz70-1717163327434.png",
+  "isDefault": true,
+  "createdAt": "2024-05-31T13:47:46.496Z",
+  "updatedAt": "2025-03-19T11:00:17.229Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hz7eg4dypdfgxc3v7tx9fz70",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2306,
+  "categoryOrder": 202
+}

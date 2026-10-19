@@ -1,0 +1,280 @@
+{
+  "name": "279_Doula_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-03-2024-12:04:36_279_Doula_professional_blue_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.88775%",
+        "left": "10.513745583038869%",
+        "color": "#2d2d2d",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "66em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.09475%",
+        "left": "21.086219081272084%",
+        "color": "#828282",
+        "width": "18.690375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.221625%",
+        "left": "42.66166077738516%",
+        "color": "#2d2d2d",
+        "width": "18.381875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.255875%",
+        "left": "40.30618374558304%",
+        "color": "#2d2d2d",
+        "width": "23.0952296819788%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.84575%",
+        "left": "19.213780918727917%",
+        "color": "#2d2d2d",
+        "width": "22.434098939929328%",
+        "height": "2.388675%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "BERTHA CHAPMAN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.763675%",
+        "left": "41.382862190812716%",
+        "color": "#2d2d2d",
+        "width": "21.33250883392226%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.99225%",
+        "left": "32.5922261484099%",
+        "color": "#2d2d2d",
+        "width": "34.28533568904594%",
+        "height": "2.9209%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.875%",
+        "left": "7.033286219081273%",
+        "color": "#2d2d2d",
+        "width": "84.7422261484099%",
+        "height": "8.7627%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed training in Pregnancy Support: Providing emotional and informational support to expectant parents during pregnancy, including discussing birth plans.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.37695%",
+        "left": "12.37577738515901%",
+        "color": "#2d2d2d",
+        "width": "74.057625%",
+        "height": "27.56183745583039%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Birth Doula",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "47.919875%",
+        "left": "12.676056338028168%",
+        "width": "73.76466431095406%",
+        "height": "0.125%",
+        "backgroundColor": "#828282"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.84575%",
+        "left": "61.978268551236745%",
+        "color": "#2d2d2d",
+        "width": "16.24225%",
+        "height": "2.9151943462897525%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "HOLLY WILSON",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.252875%",
+        "left": "61.361307420494704%",
+        "color": "#828282",
+        "width": "17.475989399293287%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course instructor",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.89355%",
+        "left": "36.89134275618375%",
+        "width": "3.2395583038869256%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-03-2024-11:55:00_fO_zoQB0sdNnEanvs2jU0-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.088875%",
+        "left": "24.469964664310954%",
+        "width": "11.23565371024735%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-03-2024-11:56:06_ekvpYEKIHBjC_sfSrdtNE-Vector 221.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.088875%",
+        "left": "63.372438162544164%",
+        "width": "13.108710247349824%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-03-2024-11:56:21_iK_lL5-SC984i4FtWX8B2-Vector 222.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.625%",
+        "left": "12.70636042402827%",
+        "color": "#2d2d2d",
+        "width": "74.057625%",
+        "height": "27.56183745583039%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hsf1ra93cj91temcwn2d9e3d-1710975887674.png",
+  "isDefault": true,
+  "createdAt": "2024-03-20T23:04:47.653Z",
+  "updatedAt": "2025-03-19T11:00:12.021Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hsf1ra93cj91temcwn2d9e3d",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2409,
+  "categoryOrder": 755
+}

@@ -1,0 +1,326 @@
+{
+  "name": "6_training_modern_purple_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/03-08-22-5:19:57_background portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "59.5%",
+        "left": "22.214664310954063%",
+        "width": "18.371797703180214%",
+        "height": "0.125%",
+        "backgroundColor": "#6b2737"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.875%",
+        "left": "24.469964664310954%",
+        "color": "#6b2737",
+        "width": "50.53003533568905%",
+        "height": "16%",
+        "fontSize": "44em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.75%",
+        "left": "18.54028268551237%",
+        "color": "#6b2737",
+        "width": "62.36749116607774%",
+        "height": "5.56055%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus erat a cras non netus fringilla etiam.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.625%",
+        "left": "14.599434628975267%",
+        "color": "#6b2737",
+        "width": "70.273851590106%",
+        "height": "9.73535%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kalam, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.892625%",
+        "left": "37.62349823321555%",
+        "color": "#6b2737",
+        "width": "24.20088339222615%",
+        "height": "2.2246125%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.017625%",
+        "left": "36.11766784452296%",
+        "color": "#6b2737",
+        "width": "27.915194346289752%",
+        "height": "2.125%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22%",
+        "left": "36.130742049469966%",
+        "color": "#f49d6e",
+        "width": "27.208480565371023%",
+        "height": "3.125%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "59.5%",
+        "left": "56.64893992932862%",
+        "width": "20.491939045936398%",
+        "height": "0.125%",
+        "backgroundColor": "#6b2737"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.25%",
+        "left": "41.330388692579504%",
+        "color": "#6b2737",
+        "width": "17.491166077738516%",
+        "height": "2.875%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issue date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.125%",
+        "left": "42.22544169611307%",
+        "color": "#6b2737",
+        "width": "15.016289752650176%",
+        "height": "2.642575%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Serial No:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.679750000000006%",
+        "left": "23.44982332155477%",
+        "color": "#6b2737",
+        "width": "15.547703180212014%",
+        "height": "6.2578125%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lopez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.75%",
+        "left": "23.713604240282685%",
+        "color": "#6b2737",
+        "width": "15.01766784452297%",
+        "height": "2.642575%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Joe Lopez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.517624999999995%",
+        "left": "21.594699646643107%",
+        "color": "#6b2737",
+        "width": "19.257950530035338%",
+        "height": "4.449225%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Marketing Director\nYour Company",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.679750000000006%",
+        "left": "58.989929328621905%",
+        "color": "#6b2737",
+        "width": "15.547703180212014%",
+        "height": "6.2578125%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Russel",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.75%",
+        "left": "59.20936395759717%",
+        "color": "#6b2737",
+        "width": "15.01766784452297%",
+        "height": "2.642575%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Bill Russel",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.517624999999995%",
+        "left": "57.089222614840985%",
+        "color": "#6b2737",
+        "width": "19.257950530035338%",
+        "height": "4.449225%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO\nYour Company",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.875%",
+        "left": "37.17968197879859%",
+        "color": "#6b2737",
+        "width": "25.790989399293284%",
+        "height": "2.2246125%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "yourcompanysite.com",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.249999999999999%",
+        "left": "36.7256183745583%",
+        "width": "26.01996466431095%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-22-5:20:06_Group 44.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12297-1659540142244.png",
+  "isDefault": true,
+  "createdAt": "2022-08-03T15:22:20.754Z",
+  "updatedAt": "2025-03-19T10:59:37.530Z",
+  "metadata": {
+    "lang": "en",
+    "color": "pink",
+    "style": "modern",
+    "category": "training"
+  },
+  "id": "01g9j4swpjjcffeby7cfy2snnz",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3058,
+  "categoryOrder": 417
+}

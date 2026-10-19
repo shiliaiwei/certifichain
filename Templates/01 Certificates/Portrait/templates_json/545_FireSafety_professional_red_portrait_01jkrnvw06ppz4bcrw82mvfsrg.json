@@ -1,0 +1,307 @@
+{
+  "name": "545_FireSafety_professional_red_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-02-2025-09:50:46_545_firesafety_professional_red_portrait-2.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.375%",
+        "left": "10.070671378091872%",
+        "color": "#680707",
+        "width": "78.09187279151944%",
+        "height": "auto",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.125%",
+        "left": "25.08833922261484%",
+        "color": "#1e1104",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Acme Corporation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.625%",
+        "left": "10.424028268551238%",
+        "color": "#680707",
+        "width": "79.50530035335689%",
+        "height": "auto",
+        "fontSize": "52em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "FIRE RISK ASSESSMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.874999999999996%",
+        "left": "14.664310954063604%",
+        "color": "#680707",
+        "width": "71.37809187279152%",
+        "height": "auto",
+        "fontSize": "31em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPLIANCE CERTIFICATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.375%",
+        "left": "25.01766784452297%",
+        "color": "#1e1104",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.25%",
+        "left": "10.070671378091872%",
+        "color": "#1e1104",
+        "width": "79.68197879858657%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of their successful completion of a comprehensive",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.375%",
+        "left": "25.08833922261484%",
+        "color": "#1e1104",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Fire Safety audit and inspection.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.62499999999999%",
+        "left": "31.09540636042403%",
+        "color": "#1e1104",
+        "width": "22.791519434628977%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Number:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.25000000000001%",
+        "left": "24.204946996466433%",
+        "color": "#1e1104",
+        "width": "51.590106007067135%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "(To validate this certificate please scan the QR code below)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.62499999999999%",
+        "left": "53.88692579505301%",
+        "color": "#1e1104",
+        "width": "20.671378091872793%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.5%",
+        "left": "63.78091872791519%",
+        "color": "#000",
+        "width": "20.141342756183743%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.5%",
+        "left": "10.954063604240282%",
+        "color": "#1e1104",
+        "width": "17.6678445229682%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Robert Davis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.125%",
+        "left": "10.424028268551238%",
+        "color": "#1e1104",
+        "width": "18.90459363957597%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Program Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.875%",
+        "left": "58.48056537102474%",
+        "color": "#1e1104",
+        "width": "27.03180212014134%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date Of Expiry: 15/03/2028",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "45.625%",
+        "left": "10.424028268551238%",
+        "width": "77.73851590106007%",
+        "height": "0.125%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.25%",
+        "left": "45.84805653710247%",
+        "width": "8.303886925795052%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-02-2025-09:48:30_qr.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.4453125%",
+        "left": "27.56183745583039%",
+        "width": "19.434628975265017%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-02-2025-09:48:34_vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jkrnvw06ppz4bcrw82mvfsrg-1739217056022.png",
+  "isDefault": true,
+  "createdAt": "2025-02-10T19:37:32.935Z",
+  "updatedAt": "2025-03-19T11:00:40.495Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jkrnvw06ppz4bcrw82mvfsrg",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1874,
+  "categoryOrder": 589
+}

@@ -1,0 +1,156 @@
+{
+  "name": "311_Authorized_Distributor_professional_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-04-2024-04:03:05_311_Good standing_professional_red_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "32.3618%",
+        "left": "35.75%",
+        "color": "#2d2d2d",
+        "width": "28.499999999999996%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.36338053097346%",
+        "left": "37.875%",
+        "color": "#2d2d2d",
+        "width": "24.377875%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.31858407079646%",
+        "left": "27.187499999999996%",
+        "color": "#2d2d2d",
+        "width": "45.625%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is the property of [Company Name] and must be returned upon request.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.983215547703182%",
+        "left": "8.4717%",
+        "color": "#2d2d2d",
+        "width": "82.4375%",
+        "fontSize": "37em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Authorized Distributor Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50%",
+        "left": "8.89655172413793%",
+        "color": "#2d2d2d",
+        "width": "82.34482758620689%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "is an Authorized Distributor of [Company Name] products in [Region/Country].\n\nThis authorization grants [Distributor Name] the right to distribute and promote our products within the specified territory, in accordance with our company\u2019s policies and quality standards.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.29203539823008%",
+        "left": "40.25%",
+        "color": "#828282",
+        "width": "19.5%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.5929203539823%",
+        "left": "35.375%",
+        "color": "#383737",
+        "width": "28.752%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Distributor Address]",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "40.176991150442475%",
+        "left": "35%",
+        "width": "29.125%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2d2d2d"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01kky3s0mz6zpv03r1ts27srrc-1773758349990.png",
+  "isDefault": true,
+  "createdAt": "2026-03-17T14:39:09.985Z",
+  "updatedAt": "2026-03-18T10:38:20.363Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01kky3s0mz6zpv03r1ts27srrc",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 114,
+  "categoryOrder": 9
+}

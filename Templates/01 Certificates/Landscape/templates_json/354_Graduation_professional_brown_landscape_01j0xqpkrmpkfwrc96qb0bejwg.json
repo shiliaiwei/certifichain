@@ -1,0 +1,234 @@
+{
+  "name": "354_Graduation_professional_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-06-2024-05:47:19_354_Graduation_professional_brown_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "42.05229681978798%",
+        "left": "13.840875%",
+        "color": "#323d34",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.09823321554771%",
+        "left": "38.36725%",
+        "color": "#323d34",
+        "width": "23.006875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.15901060070671%",
+        "left": "38.61725%",
+        "color": "#323d34",
+        "width": "23.17875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.62826855123674%",
+        "left": "11.8974625%",
+        "color": "#323d34",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Walter Hale",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.63533568904593%",
+        "left": "37.96825%",
+        "color": "#323d34",
+        "width": "23.6885%",
+        "height": "3.9752650176678443%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.79381625441696%",
+        "left": "3.202625%",
+        "color": "#323d34",
+        "width": "93.211%",
+        "height": "13.51590106007067%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For hastily completing the Master of Science in Accounting and Economics program. Through dedication and hard work, you have demonstrated a high level of academic excellence and professional competence.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.102120141342755%",
+        "left": "6.2836875%",
+        "color": "#323d34",
+        "width": "87.057625%",
+        "height": "13.780918727915195%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "UNIVERSITY OF ILLINOIS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.15901060070671%",
+        "left": "11.8974625%",
+        "color": "#323d34",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.62826855123674%",
+        "left": "71.0645%",
+        "color": "#323d34",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brett King",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.15901060070671%",
+        "left": "68.002%",
+        "color": "#323d34",
+        "width": "21.49225%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.150565371024735%",
+        "left": "46.272%",
+        "width": "7.870112499999999%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-05:45:40_by0Iysh4rw1KlyGAiMWGx-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.02826855123675%",
+        "left": "16.307625%",
+        "width": "6.547850000000001%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-05:46:03_96tJmejbN-Fl3J1vL8KO7-Path 28.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.21042402826855%",
+        "left": "75.404875%",
+        "width": "6.6865250000000005%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-05:46:23_Sb_yuVqlBYAea6dTvWpOk-Path 27.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0xqpkrmpkfwrc96qb0bejwg-1718984864914.png",
+  "isDefault": true,
+  "createdAt": "2024-06-21T15:47:35.319Z",
+  "updatedAt": "2025-03-19T11:00:19.543Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0xqpkrmpkfwrc96qb0bejwg",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2259,
+  "categoryOrder": 185
+}

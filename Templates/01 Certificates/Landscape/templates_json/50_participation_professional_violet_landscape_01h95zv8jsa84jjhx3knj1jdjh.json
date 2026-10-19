@@ -1,0 +1,307 @@
+{
+  "name": "50_participation_professional_violet_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/31-08-2023-04:26:39_50_participation_professional_violet_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "41.168904593639574%",
+        "left": "10.465825%",
+        "color": "#2a27a6",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.64416961130743%",
+        "left": "12.4863375%",
+        "color": "#3e3e3e",
+        "width": "18.690375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director of Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.24028268551237%",
+        "left": "48.819375%",
+        "color": "#171717",
+        "width": "18.381875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.24028268551237%",
+        "left": "32.36725%",
+        "color": "#171717",
+        "width": "18.67875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.24028268551237%",
+        "left": "13.7725%",
+        "color": "#171717",
+        "width": "16.11725%",
+        "height": "3.180212014134275%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MICHAEL COLLINS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.88786219081272%",
+        "left": "41.651875%",
+        "color": "#171717",
+        "width": "16.163125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.812014134275614%",
+        "left": "38.96825%",
+        "color": "#171717",
+        "width": "21.6885%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.74434628975265%",
+        "left": "28.957%",
+        "color": "#171717",
+        "width": "41.711%",
+        "height": "6.890459363957597%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For their active engagement and valuable contributions in Communucation training programme.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.377738515901058%",
+        "left": "38.099125%",
+        "color": "#171717",
+        "width": "23.267625%",
+        "height": "4.770318021201414%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF PARTICIPATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.64416961130743%",
+        "left": "50.81099999999999%",
+        "color": "#929292",
+        "width": "14.131875000000003%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.391784452296818%",
+        "left": "30.891124999999995%",
+        "color": "#2a27a6",
+        "width": "37.682625%",
+        "height": "16.696113074204945%",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "57.58056537102474%",
+        "left": "19.23825%",
+        "width": "61.3985%",
+        "height": "0.125%",
+        "backgroundColor": "#bcbbe9"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.24028268551237%",
+        "left": "70.138625%",
+        "color": "#171717",
+        "width": "16.24225%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ADRIANNA DWECK",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.86219081272085%",
+        "left": "73.849625%",
+        "color": "#3e3e3e",
+        "width": "8.8183625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.64416961130743%",
+        "left": "35.765625%",
+        "color": "#929292",
+        "width": "11.8818375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded on",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.85424028268552%",
+        "left": "73.50925%",
+        "width": "9.499025%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-04:04:54_NRuIc84u-f8GbMs7UvlEL-Vector 222.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.23780918727915%",
+        "left": "18.081%",
+        "width": "8.22265%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-04:05:19_qvIrkQJP-85FG2DlGXg27-Vector 221.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h95zv8jsa84jjhx3knj1jdjh-1693492028019.png",
+  "isDefault": true,
+  "createdAt": "2023-08-31T14:27:07.996Z",
+  "updatedAt": "2025-09-10T14:56:27.036Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "participation"
+  },
+  "id": "01h95zv8jsa84jjhx3knj1jdjh",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2866,
+  "categoryOrder": 176
+}

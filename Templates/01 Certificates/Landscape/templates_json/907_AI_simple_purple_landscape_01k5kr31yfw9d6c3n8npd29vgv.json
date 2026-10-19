@@ -1,0 +1,312 @@
+{
+  "name": "907_AI_simple_purple_landscape",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1123 794\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><g clip-path=\"url(#clip0_0_3)\"><rect width=\"1123\" height=\"794\" fill=\"white\"/><rect x=\"-376.141\" y=\"309.479\" width=\"146.083\" height=\"1635.54\" transform=\"rotate(-54.197 -376.141 309.479)\" fill=\"#5A5BBD\"/><rect x=\"-176\" y=\"-21.3066\" width=\"213.222\" height=\"1635.54\" transform=\"rotate(-54.197 -176 -21.3066)\" fill=\"#5A5BBD\"/><rect x=\"65\" y=\"-334.307\" width=\"168.707\" height=\"1635.54\" transform=\"rotate(-54.197 65 -334.307)\" fill=\"#5A5BBD\"/><rect x=\"34\" y=\"32\" width=\"1056\" height=\"731\" fill=\"#E6E6E6\"/></g><rect x=\"4.5\" y=\"4.5\" width=\"1114\" height=\"785\" stroke=\"black\" stroke-width=\"9\"/><defs><clipPath id=\"clip0_0_3\"><rect width=\"1123\" height=\"794\" fill=\"white\"/></clipPath></defs></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "44.07079646017699%",
+        "left": "26.625%",
+        "color": "#000000",
+        "width": "51%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "9.713513%",
+        "left": "43.5%",
+        "width": "5.5%",
+        "height": "7.787610619469026%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 59 51\"><g clip-path=\"url(#clip0_0_20)\"><path fill=\"#3D59A5\" d=\"M50.7317 51H44.9031C44.1378 51 43.4473 50.5522 43.1366 49.8519L39.6671 42.0216C39.3564 41.327 38.6659 40.8735 37.9006 40.8735H20.455C19.051 40.8735 18.1189 39.4268 18.7 38.1524L20.6046 33.9732C20.9153 33.2843 21.6057 32.848 22.3595 32.848H34.4828C35.0237 32.848 35.3862 32.2912 35.1676 31.7975L27.0834 13.5078C26.6864 12.6065 25.409 12.6122 25.012 13.5078L9.04506 49.8461C8.74011 50.5465 8.04389 51 7.27863 51H1.26586C0.345239 51 -0.270423 50.0528 0.109331 49.2147L20.8232 3.54773C21.7956 1.40646 23.936 0.0229645 26.3009 0.0229645C28.6599 0.0229645 30.8004 1.39498 31.7728 3.53625L52.291 48.5774C52.8089 49.7084 51.9746 50.9943 50.7317 50.9943V51Z\"/><path fill=\"#B7BBDF\" d=\"M54.5753 33.5943C52.1932 33.5943 50.2656 31.6712 50.2656 29.2946V16.1887C50.2656 13.812 52.1932 11.8889 54.5753 11.8889C56.9574 11.8889 58.8849 13.812 58.8849 16.1887V29.2946C58.8849 31.6712 56.9574 33.5943 54.5753 33.5943Z\"/><path fill=\"#F36C0F\" d=\"M51.2323 2.24472e-06C55.3866 -0.132033 58.8677 3.11718 59 7.26193L50.0355 7.54897C45.8812 7.681 42.4002 4.43179 42.2678 0.287035L51.2323 2.24472e-06Z\"/></g><defs><clipPath id=\"clip0_0_20\"><rect width=\"59\" height=\"51\" fill=\"white\"/></clipPath></defs></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "77.249399%",
+        "left": "46.75%",
+        "width": "6.875000000000001%",
+        "height": "7.964601769911504%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 78 46\"><path fill=\"black\" d=\"M32.3691 23.559C30.1346 23.7262 28.0217 24.3127 26.236 26.3795C21.3919 31.9863 16.4422 37.5284 10.5001 42.0468C8.11845 43.8578 5.63569 45.5464 2.5417 45.9468C1.70935 46.0545 0.861372 46.067 0.303721 45.3099C-0.240535 44.5709 0.0435434 43.7761 0.402709 43.0698C1.95063 40.0248 4.48027 37.8383 7.08381 35.7635C13.0132 31.0383 19.4174 27.0714 26.4156 24.0964C26.8572 23.9086 27.1427 23.583 27.4419 23.2482C32.831 17.2159 38.0416 11.0217 43.7993 5.32368C45.5239 3.61695 47.2714 1.93024 49.3723 0.676732C50.1667 0.202817 51.129 -0.407951 51.9279 0.377209C52.6835 1.11979 52.1496 2.08846 51.698 2.86487C48.7738 7.89242 44.8792 12.085 40.3985 15.758C40.0357 16.0554 39.4305 16.618 39.1013 16.2084C38.8153 15.8528 39.5894 15.5486 39.9193 15.2558C44.0941 11.5493 47.8452 7.48415 50.6637 2.6347C50.9167 2.19943 51.4459 1.61203 51.0474 1.21488C50.7992 0.967431 50.1445 1.47829 49.7275 1.75689C46.4577 3.94147 43.828 6.82598 41.2007 9.68668C37.3306 13.9006 33.5751 18.219 29.7735 22.4954C29.6457 22.6392 29.4185 22.8928 29.4574 22.9522C29.6234 23.2056 29.8402 22.9456 30.0343 22.9127C31.0622 22.7384 32.0819 22.5286 33.1363 22.5661C35.4448 22.6481 36.5344 23.9049 36.2361 26.1725C36.2144 26.3376 36.1845 26.5016 36.1584 26.6662C36.3312 26.5845 36.5219 26.5274 36.6739 26.4172C38.4328 25.1427 40.1747 23.8322 42.3591 23.3537C42.7908 23.2591 43.3674 23.1176 43.6813 23.3119C45.2352 24.2741 47.0471 24.0859 48.6992 24.5653C49.8701 24.9051 50.9082 24.331 52.0079 24.184C53.2771 24.0143 54.5698 23.3666 55.7807 24.4393C55.9375 24.5782 56.3792 24.4571 56.668 24.3793C59.7418 23.5518 62.7583 22.5115 65.9075 21.9644C66.7011 21.8265 67.2045 21.1915 67.7418 20.6606C70.5329 17.9031 73.0171 14.8682 75.6464 11.9643C76.1348 11.4249 76.5769 10.3916 77.506 10.8699C78.5083 11.386 77.6959 12.2704 77.5712 12.9792C77.3814 14.0581 77.0663 15.1157 76.8914 16.1963C76.0042 21.6745 72.6939 25.5427 68.4876 28.8132C66.6816 30.2174 64.707 31.3682 62.7104 32.4784C62.4835 32.6045 62.1862 32.8953 61.9797 32.5591C61.8201 32.2994 62.1714 32.1338 62.3521 31.982C64.5327 30.1505 66.7516 28.363 68.8981 26.4928C72.4952 23.3589 75.0137 19.5892 75.5973 14.7376C75.6218 14.534 75.6242 14.3278 75.6369 14.1227C75.4708 14.2675 75.2886 14.3976 75.1411 14.5593C72.8614 17.0577 70.6473 19.6166 68.1784 21.9386C67.4162 22.6554 66.541 23.044 65.5139 23.2913C62.7476 23.9572 60.0156 24.7639 57.2577 25.4665C56.3509 25.6976 55.374 26.0282 54.6223 25.0323C54.5334 24.9145 54.195 24.9343 53.9839 24.9665C53.2883 25.0726 52.5866 25.1706 51.9078 25.3491C49.1836 26.0654 46.5864 25.5201 44.0374 24.5756C43.2535 24.2852 42.5433 24.4219 41.8212 24.6944C39.978 25.39 38.4271 26.5751 36.8198 27.6676C36.3462 27.9896 35.8501 28.5169 35.2281 28.0992C34.6076 27.6825 35.0114 27.056 35.1292 26.5453C35.6472 24.3006 35.0092 23.5297 32.3691 23.559ZM2.1692 44.7091C4.44394 44.4425 6.36846 43.3231 8.2047 42.0546C14.6003 37.6365 19.6184 31.7803 24.8401 26.1389C24.9148 26.0583 24.9624 25.9529 25.0227 25.859C24.8436 25.8901 24.644 25.8803 24.4885 25.9582C17.2271 29.5951 10.3383 33.7851 4.48526 39.4866C3.23138 40.7081 2.11085 42.0506 1.40637 43.6824C1.08411 44.4287 1.25789 44.8338 2.1692 44.7091Z\"/></svg>"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.230088495575224%",
+        "left": "41.875%",
+        "color": "#000000",
+        "width": "16.25%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS CERTIFIES THAT:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.275438%",
+        "left": "41.875%",
+        "color": "#000000",
+        "width": "16.25%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.834909%",
+        "left": "25.5%",
+        "color": "#000000",
+        "width": "49.5%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MACHINE LEARNING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.973205%",
+        "left": "24.5%",
+        "color": "#000000",
+        "width": "53.5%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has successfully completed a comprehensive program in Artificial Intelligence,\u2028\n covering core and advanced modules in machine learning, data analysis,",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.723997%",
+        "left": "24%",
+        "color": "#000000",
+        "width": "53.5%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "neural networks, and real-world AI applications.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.551624%",
+        "left": "30.6875%",
+        "color": "#000000",
+        "width": "38.375%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "PASSED WITH DISTINCTION \u2014 FINAL SCORE 94%",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.735384%",
+        "left": "41.6875%",
+        "color": "#000000",
+        "width": "16.375%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DR. NATALIE R. CHEN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.548044%",
+        "left": "49.875%",
+        "color": "#000000",
+        "width": "16.375%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "FORWARD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.504424778761061%",
+        "left": "49.875%",
+        "color": "#000000",
+        "width": "16.375%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "THINKING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.105688%",
+        "left": "49.875%",
+        "color": "#000000",
+        "width": "16.375%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AI Courses",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.189724%",
+        "left": "46.6875%",
+        "color": "#000000",
+        "width": "8%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lead Instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.910993%",
+        "left": "16.75%",
+        "color": "#000000",
+        "width": "17.125%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded on: 06.09.2025",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.796544%",
+        "left": "68.4375%",
+        "color": "#000000",
+        "width": "8.875%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.626245%",
+        "left": "77.5625%",
+        "color": "#000000",
+        "width": "11.875%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "86.877544%",
+        "left": "41.5%",
+        "width": "16.75%",
+        "height": "0.5300353356890459%",
+        "backgroundColor": "#5a5bbd"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01k5kr31yfw9d6c3n8npd29vgv-1758378167225.png",
+  "isDefault": true,
+  "createdAt": "2025-09-20T14:22:46.229Z",
+  "updatedAt": "2025-10-06T15:17:16.105Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01k5kr31yfw9d6c3n8npd29vgv",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 788,
+  "categoryOrder": 216
+}

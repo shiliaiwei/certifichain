@@ -1,0 +1,219 @@
+{
+  "name": "474_Award_simple_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-12-2024-02:06:00_474_award_simple_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "45.8808625%",
+        "left": "6.890459363957597%",
+        "color": "#174873",
+        "width": "81.97879858657244%",
+        "height": "auto",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.875%",
+        "left": "6.855123674911663%",
+        "color": "#174873",
+        "width": "88.625%",
+        "height": "auto",
+        "fontSize": "69em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate \nof recognition",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.25%",
+        "left": "6.890459363957597%",
+        "color": "#11183e",
+        "width": "55.65371024734982%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.375%",
+        "left": "6.890459363957597%",
+        "color": "#11183e",
+        "width": "69.08127208480566%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This award is presented in recognition of her outstanding performance as Employee of the Month. Your exemplary dedication and results have made a significant impact, and we are honored to present you with this award.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86%",
+        "left": "44.87632508833922%",
+        "color": "#11183e",
+        "width": "46.996466431095406%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.125%",
+        "left": "44.87632508833922%",
+        "color": "#11183e",
+        "width": "37.102473498233216%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86%",
+        "left": "6.713780918727916%",
+        "color": "#11183e",
+        "width": "19.964664310954063%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Melisa Rose",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.125%",
+        "left": "6.713780918727916%",
+        "color": "#11183e",
+        "width": "25.4416961130742%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company President",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "52.900878750000004%",
+        "left": "6.890459363957597%",
+        "width": "84.45229681978799%",
+        "height": "0.125%",
+        "backgroundColor": "#99c3e4"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "89.65087875%",
+        "left": "6.713780918727916%",
+        "width": "19.78798586572438%",
+        "height": "0.125%",
+        "backgroundColor": "#99c3e4"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "89.5%",
+        "left": "44.87632508833922%",
+        "width": "26.501766784452297%",
+        "height": "0.125%",
+        "backgroundColor": "#99c3e4"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.625%",
+        "left": "6.890459363957597%",
+        "width": "54.77031802120141%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-01:52:32_group_19865.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.375%",
+        "left": "6.890459363957597%",
+        "width": "17.137809187279153%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-01:53:05_group_19756.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jee44kqp4as103d2mbxgx01t-1733494011415.png",
+  "isDefault": true,
+  "createdAt": "2024-12-06T13:56:51.575Z",
+  "updatedAt": "2025-03-19T11:00:33.305Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01jee44kqp4as103d2mbxgx01t",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1983,
+  "categoryOrder": 553
+}

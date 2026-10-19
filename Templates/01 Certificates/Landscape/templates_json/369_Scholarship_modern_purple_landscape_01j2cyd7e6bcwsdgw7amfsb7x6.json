@@ -1,0 +1,270 @@
+{
+  "name": "369_Scholarship_modern_purple_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-07-2024-01:47:38_369_Scholarship_modern_purple_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24.46448763250883%",
+        "left": "25.486375%",
+        "color": "#7469ef",
+        "width": "54.53224999999999%",
+        "height": "11.395759717314489%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.59681978798586%",
+        "left": "72.319375%",
+        "color": "#2c2525",
+        "width": "23.50525%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.77349823321555%",
+        "left": "39.413125%",
+        "color": "#2c2525",
+        "width": "27.55075%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.31342756183746%",
+        "left": "25.486375%",
+        "color": "#4c4b4b",
+        "width": "63.65725%",
+        "height": "18.021201413427562%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of their outstanding leadership and commitment to making a positive impact within the university community. This scholarship provides a monetary award od 1,000$",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.325918727915194%",
+        "left": "25.486375%",
+        "color": "#4c4b4b",
+        "width": "64.05375%",
+        "height": "22.791519434628977%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Scholarship  Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.923321554770318%",
+        "left": "25.486375%",
+        "color": "#4c4b4b",
+        "width": "38.3055%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.45830388692579%",
+        "left": "25.169000000000004%",
+        "color": "#4c4b4b",
+        "width": "13.317375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Stella Morgan",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.75618374558304%",
+        "left": "25.169875%",
+        "color": "#7469ef",
+        "width": "63.65725%",
+        "height": "18.021201413427562%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Leadership Excellence Scholarship",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.04593639575972%",
+        "left": "25.486375%",
+        "color": "#4c4b4b",
+        "width": "38.3055%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has been awarded the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.26501766784452%",
+        "left": "58.215875%",
+        "color": "#4c4b4b",
+        "width": "11.8177125%",
+        "height": "3.53356890459364%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Ruby Sullivan",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.34522968197881%",
+        "left": "25.486375%",
+        "color": "#4c4b4b",
+        "width": "21.317375%",
+        "height": "7.420494699646643%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Dean of the University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.34522968197881%",
+        "left": "58.215875%",
+        "color": "#4c4b4b",
+        "width": "21.317375%",
+        "height": "7.420494699646643%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Scholarship Committee Chair",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.93639575971731%",
+        "left": "25.25775%",
+        "width": "8.1787125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-01:46:12_TFd9y3bn1TIn8gYepaor--Vector 71.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.22968197879858%",
+        "left": "58.215875%",
+        "width": "15.622125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-01:46:24_RYpeDWa9FJcimsasyu5KF-Vector 72.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.87526501766784%",
+        "left": "4.644525%",
+        "width": "10.7265625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-01:46:43_phE7RRWa_hDKzHikMJd9j-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2cyd7e6bcwsdgw7amfsb7x6-1720568960144.png",
+  "isDefault": true,
+  "createdAt": "2024-07-09T23:49:06.120Z",
+  "updatedAt": "2025-03-19T11:00:21.116Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2cyd7e6bcwsdgw7amfsb7x6",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2229,
+  "categoryOrder": 156
+}

@@ -1,0 +1,513 @@
+{
+  "name": "585_ConstructionCompletion_professional_purple_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-03-2025-12:44:08_585_constructioncompletion_professional_purple_portrait2x-2.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "22.625%",
+        "left": "63.60424028268551%",
+        "color": "#000000",
+        "width": "16.784452296819786%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.466796875%",
+        "left": "8.657243816254418%",
+        "width": "21.20141342756184%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-03-2025-12:29:38_group_20371.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6%",
+        "left": "9.010600706713781%",
+        "width": "46.81978798586572%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-03-2025-12:29:41_group_20671.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.521484375%",
+        "left": "28.26855123674912%",
+        "width": "21.73144876325088%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-03-2025-12:29:44_group_20694.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "87%",
+        "left": "82.15547703180212%",
+        "width": "9.187279151943462%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-03-2025-12:29:48_qr.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.25%",
+        "left": "8.8339222614841%",
+        "color": "#000",
+        "width": "81.80212014134275%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Additionally, this certificate confirms adherence to all applicable building codes,",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.5%",
+        "left": "56.00706713780919%",
+        "color": "#000",
+        "width": "18.021201413427562%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Date of Issuance:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.75%",
+        "left": "56.00706713780919%",
+        "color": "#000",
+        "width": "7.420494699646643%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Owner:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.625%",
+        "left": "9.010600706713781%",
+        "color": "#000",
+        "width": "14.13427561837456%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.875%",
+        "left": "9.010600706713781%",
+        "color": "#000",
+        "width": "29.151943462897528%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Project Name: [Project Name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.625%",
+        "left": "22.614840989399294%",
+        "color": "#000",
+        "width": "16.431095406360424%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.625%",
+        "left": "72.79151943462897%",
+        "color": "#000",
+        "width": "22.968197879858657%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.75%",
+        "left": "9.010600706713781%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "completion on [Final Completion Date].",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.625%",
+        "left": "9.010600706713781%",
+        "color": "#000",
+        "width": "86.21908127208481%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "reached substantial completion on [Substantial Completion Date], and achieved final",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.5%",
+        "left": "9.010600706713781%",
+        "color": "#000",
+        "width": "81.09540636042402%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Name and Logo], confirming the project commenced on [Begin Construction Date],",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.5%",
+        "left": "9.010600706713781%",
+        "color": "#000",
+        "width": "84.2756183745583%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This Certificate of Construction Completion is issued by [Issuing Organization's",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.125%",
+        "left": "8.8339222614841%",
+        "color": "#000",
+        "width": "18.374558303886925%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[ Remainder Due].",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.125%",
+        "left": "8.8339222614841%",
+        "color": "#000",
+        "width": "80.56537102473497%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "contract amount of [Total Contract Amount], with an outstanding balance of",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52%",
+        "left": "8.8339222614841%",
+        "color": "#000",
+        "width": "84.09893992932862%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "The financial summary reflects a final project cost of [Final Amount] against a total",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.375%",
+        "left": "8.8339222614841%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "available through the provided QR code.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.25%",
+        "left": "8.8339222614841%",
+        "color": "#000",
+        "width": "85.15901060070671%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "safety regulations, and contractual obligations, with complete project details",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.125%",
+        "left": "8.657243816254418%",
+        "color": "#000",
+        "width": "18.021201413427562%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Date of Issuance]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74%",
+        "left": "8.657243816254418%",
+        "color": "#000",
+        "width": "30.918727915194346%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Authorized Signature and Title]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.9749985%",
+        "left": "8.657243816254418%",
+        "color": "#000",
+        "width": "11.307420494699647%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Verified by:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.375%",
+        "left": "23.586572438162545%",
+        "color": "#000",
+        "width": "52.82685512367491%",
+        "height": "auto",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "FINAL COMPLETION CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.375%",
+        "left": "9.010600706713781%",
+        "color": "#000",
+        "width": "30.918727915194346%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Email: info@greentechconstructors.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.875%",
+        "left": "8.92226148409894%",
+        "color": "#000",
+        "width": "18.551236749116608%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Phone: (684) 555-0102",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.25%",
+        "left": "8.8339222614841%",
+        "color": "#000",
+        "width": "38.16254416961131%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Address: 2464 Royal Ln. Mesa, New Jersey 45463",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.625%",
+        "left": "8.8339222614841%",
+        "color": "#000",
+        "width": "20.318021201413426%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "GreenTech Constructors",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jnm7pc7p8xseqd9t3jgpmgmq-1741214658822.png",
+  "isDefault": true,
+  "createdAt": "2025-03-05T22:44:18.808Z",
+  "updatedAt": "2025-03-19T11:00:43.187Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jnm7pc7p8xseqd9t3jgpmgmq",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1794,
+  "categoryOrder": 537
+}

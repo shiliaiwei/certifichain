@@ -1,0 +1,252 @@
+{
+  "name": "357_Graduation_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-06-2024-07:14:23_357_Graduation_professional_blue_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.92875%",
+        "left": "22.727385159010602%",
+        "color": "#262626",
+        "width": "54.01537102473498%",
+        "height": "7.300775%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.24225%",
+        "left": "33.66007067137809%",
+        "color": "#262626",
+        "width": "33.709717314487634%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.53125%",
+        "left": "23.585159010600705%",
+        "color": "#262626",
+        "width": "52.59628975265017%",
+        "height": "7.699225%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.017625%",
+        "left": "9.793957597173145%",
+        "color": "#262626",
+        "width": "79.88074204946997%",
+        "height": "17.525375%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of the successful completion of the Bachelor's \ndegree program in Forensic Science. This program, \ndesigned to provide comprehensive knowledge and skills \nin the field of forensic science, has equipped  with expertise\u2028\nin criminal investigation, evidence analysis, \nand legal procedures.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.13375%",
+        "left": "38.410247349823315%",
+        "color": "#262626",
+        "width": "22.80275%",
+        "height": "7.420494699646643%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.243125%",
+        "left": "62.18109540636042%",
+        "color": "#262626",
+        "width": "17.9395%",
+        "height": "6.890459363957597%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Regina Jones",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.7315%",
+        "left": "56.73710247349823%",
+        "color": "#262626",
+        "width": "28.824734982332156%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.244125%",
+        "left": "16.294452296819788%",
+        "color": "#262626",
+        "width": "17.9395%",
+        "height": "6.890459363957597%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Louise Graves",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.7315%",
+        "left": "14.175636042402825%",
+        "color": "#262626",
+        "width": "22.17720848056537%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.630875%",
+        "left": "32.95335689045936%",
+        "color": "#262626",
+        "width": "34.77120141342756%",
+        "height": "1.7255875%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.651375%",
+        "left": "40.863074204947%",
+        "width": "18.952826855123675%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-07:05:50_so7XU7f1thWE3MIybRnkB-Frame.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "54.736375%",
+        "left": "18.52773851590106%",
+        "width": "13.471731448763252%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-07:06:10_GawjOrMLTuoxiXYwGsGey-Vector 731.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "55.25%",
+        "left": "66.03904593639575%",
+        "width": "10.219752650176678%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-07:06:33_ik2X3NsNfBfDqOWCeE45V-Group 18923.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11%",
+        "left": "19.18339222614841%",
+        "color": "#262626",
+        "width": "61.42897526501767%",
+        "height": "15.375%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF GRADUATION",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0xwp0chpkwy1cnzxh8p9dev-1718990130361.png",
+  "isDefault": true,
+  "createdAt": "2024-06-21T17:14:38.354Z",
+  "updatedAt": "2025-03-19T11:00:19.916Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0xwp0chpkwy1cnzxh8p9dev",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2252,
+  "categoryOrder": 179
+}

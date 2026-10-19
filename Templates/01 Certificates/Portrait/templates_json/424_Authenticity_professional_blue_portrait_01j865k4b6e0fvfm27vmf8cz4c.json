@@ -1,0 +1,345 @@
+{
+  "name": "424_Authenticity_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-09-2024-11:13:55_424_Authenticity_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.625%",
+        "left": "12.897526501766784%",
+        "color": "#0d3146",
+        "width": "74.25%",
+        "height": "auto",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.34970625%",
+        "left": "57.59717314487632%",
+        "color": "#323232",
+        "width": "33.215547703180206%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.5457%",
+        "left": "55.47703180212014%",
+        "color": "#323232",
+        "width": "35.3356890459364%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.25%",
+        "left": "9.187279151943462%",
+        "color": "#323232",
+        "width": "79.28303886925795%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate attests that the luxury timepiece detailed \nbelow is an authentic, original creation crafted by the \nspecified manufacturer.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.75%",
+        "left": "19.946996466431095%",
+        "color": "#0d3146",
+        "width": "59.36395759717315%",
+        "height": "auto",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.125%",
+        "left": "67.13780918727915%",
+        "color": "#323232",
+        "width": "13.427561837455832%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OWNER:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.172850000000004%",
+        "left": "42.04946996466431%",
+        "color": "#323232",
+        "width": "15.901060070671377%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MATERIAL:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.125%",
+        "left": "10.40636042402827%",
+        "color": "#323232",
+        "width": "34.09893992932862%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MANUFACTURER NAME:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.375%",
+        "left": "61.30742049469965%",
+        "color": "#323232",
+        "width": "25.265017667844525%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "James Wellington",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "37.25%",
+        "left": "11.307420494699647%",
+        "width": "77.03180212014135%",
+        "height": "0.125%",
+        "backgroundColor": "#0d3146"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.58535%",
+        "left": "41.51943462897527%",
+        "color": "#323232",
+        "width": "16.25%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Item Name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.375%",
+        "left": "14.487632508833922%",
+        "color": "#323232",
+        "width": "25.97173144876325%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Aurelius Horology",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.375%",
+        "left": "21.37809187279152%",
+        "color": "#323232",
+        "width": "57.42049469964664%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Titanium Case, Sapphire Crystal",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.25%",
+        "left": "55.47703180212014%",
+        "width": "35.3356890459364%",
+        "height": "0.125%",
+        "backgroundColor": "#0d3146"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.6332%",
+        "left": "10.247349823321555%",
+        "color": "#323232",
+        "width": "33.56890459363957%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AURELIUS HOROLOGY",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.40087875%",
+        "left": "14.487632508833922%",
+        "width": "25.08833922261484%",
+        "height": "0.125%",
+        "backgroundColor": "#0d3146"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.88535%",
+        "left": "13.356890459363957%",
+        "color": "#323232",
+        "width": "28.26855123674912%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Manufacturer name",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.25%",
+        "left": "44.522968197879855%",
+        "width": "10.954063604240282%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-10:57:52_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.625%",
+        "left": "17.314487632508836%",
+        "width": "20.318021201413426%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-10:58:18_Group 19476.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.875%",
+        "left": "2.8619257950530077%",
+        "color": "#0d3146",
+        "width": "93.5%",
+        "height": "auto",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF AUTHENTICITY",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j865k4b6e0fvfm27vmf8cz4c-1726784049525.png",
+  "isDefault": true,
+  "createdAt": "2024-09-19T22:14:09.512Z",
+  "updatedAt": "2025-03-19T11:00:26.788Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j865k4b6e0fvfm27vmf8cz4c",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2116,
+  "categoryOrder": 613
+}

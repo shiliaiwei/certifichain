@@ -1,0 +1,335 @@
+{
+  "name": "5_training_formal_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/03-08-22-4:53:33_Formal.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24%",
+        "left": "15.52285777385159%",
+        "color": "#fbfff1",
+        "width": "68.55123674911661%",
+        "height": "12%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.1875%",
+        "left": "23.385048586572438%",
+        "color": "#fbfff1",
+        "width": "52.82685512367491%",
+        "height": "6%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Penatibus tellus platea bibendum mattis odio mi odio amet. Cras vel tortor viverra ut. Ac condimentum.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.3125%",
+        "left": "17.71201413427562%",
+        "color": "#f0d59f",
+        "width": "64.04593639575971%",
+        "height": "10.125%",
+        "fontSize": "85em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.038125%",
+        "left": "29.205830388692583%",
+        "color": "#e1e4ee",
+        "width": "15.81272084805654%",
+        "height": "2.125%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.875%",
+        "left": "31.77720848056537%",
+        "color": "#fbfff1",
+        "width": "36.042402826855124%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.875%",
+        "left": "46.43197879858658%",
+        "color": "#e1e4ee",
+        "width": "20.406360424028268%",
+        "height": "2.125%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "yourcompanysite.com",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.3985%",
+        "left": "41.33727915194346%",
+        "width": "17.430432862190813%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/28-07-22-8:29:28_Warstwa 2_2.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.1875%",
+        "left": "31.247239399293285%",
+        "color": "#fbfff1",
+        "width": "37.102473498233216%",
+        "height": "2.75%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.62500000000001%",
+        "left": "30.805543286219084%",
+        "color": "#fbfff1",
+        "width": "37.985865724381625%",
+        "height": "2.75%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded on:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.875%",
+        "left": "27.969081272084807%",
+        "color": "#e1e4ee",
+        "width": "17.04946996466431%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Visit our website: ",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "72.125%",
+        "left": "63.25088339222616%",
+        "width": "19.081272084805654%",
+        "height": "0.125%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "72.125%",
+        "left": "17.336572438162545%",
+        "width": "19.081272084805654%",
+        "height": "0.125%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.4795%",
+        "left": "44.575441696113074%",
+        "color": "#19614a",
+        "width": "10.954063604240282%",
+        "height": "5.25%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate \n2022",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "10.753910064697266%",
+        "left": "39.501435512367486%",
+        "width": "21.10203180212014%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/28-07-22-5:08:41_Group 199.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.038125%",
+        "left": "46.43197879858658%",
+        "color": "#e1e4ee",
+        "width": "29.681978798586574%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.859375%",
+        "left": "18.573321554770317%",
+        "color": "#fbfff1",
+        "width": "16.25441696113074%",
+        "height": "2.642575%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Damian Lee",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.859375%",
+        "left": "64.48763250883393%",
+        "color": "#fbfff1",
+        "width": "16.25441696113074%",
+        "height": "2.642575%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Allan C.K.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.5%",
+        "left": "18.396643109540637%",
+        "color": "#e1e4ee",
+        "width": "16.607773851590103%",
+        "height": "4.169925%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director\nYour Company",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.5%",
+        "left": "64.31095406360424%",
+        "color": "#e1e4ee",
+        "width": "16.607773851590103%",
+        "height": "4.169925%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Manager\nYour Company",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12293-1659538592137.png",
+  "isDefault": true,
+  "createdAt": "2022-08-03T14:56:30.573Z",
+  "updatedAt": "2025-03-19T10:59:37.307Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "training"
+  },
+  "id": "01g9j3ajvd73zygtv78g0y4hk9",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3062,
+  "categoryOrder": 421
+}

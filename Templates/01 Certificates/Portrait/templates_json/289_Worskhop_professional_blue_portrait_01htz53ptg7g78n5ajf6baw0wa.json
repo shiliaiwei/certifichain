@@ -1,0 +1,315 @@
+{
+  "name": "289_Worskhop_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-04-2024-05:25:16_289_Worskhop_professional_blue_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.3145%",
+        "left": "16.904487632508832%",
+        "color": "#313831",
+        "width": "65.66095406360425%",
+        "height": "7.9638625%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.30275%",
+        "left": "14.077685512367491%",
+        "color": "#313831",
+        "width": "36.1321554770318%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.97075%",
+        "left": "52.54116607773851%",
+        "color": "#313831",
+        "width": "36.28533568904594%",
+        "height": "1.7255875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.911125%",
+        "left": "12.288816254416961%",
+        "color": "#313831",
+        "width": "25.451413427561835%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Alfredo Baldwin",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.026375%",
+        "left": "29.429328621908123%",
+        "color": "#313831",
+        "width": "40.76448763250883%",
+        "height": "3.0527375%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is granted to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.9765625%",
+        "left": "6.953975265017667%",
+        "color": "#313831",
+        "width": "85.5625%",
+        "height": "11.395759717314489%",
+        "fontSize": "86em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "WORKSHOP ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.215875%",
+        "left": "12.384063604240284%",
+        "color": "#313831",
+        "width": "25.260954063604242%",
+        "height": "2.9209%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "SMM-marketer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.663125%",
+        "left": "10.099611307420494%",
+        "color": "#313831",
+        "width": "80.0256183745583%",
+        "height": "15.263625%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successfully completing a business marketing seminar\non 'Social Media Development and Promotion. \nBuilding a strong team.'\u2028in the amount of 8 hours.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.215875%",
+        "left": "62.379151943462894%",
+        "color": "#313831",
+        "width": "23.2865%",
+        "height": "3.7102473498233217%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Seminar organizer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.910125%",
+        "left": "65.48021201413428%",
+        "color": "#313831",
+        "width": "17.085353356890458%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jamie Green",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.26275%",
+        "left": "39.21289752650176%",
+        "color": "#313831",
+        "width": "26.48374558303887%",
+        "height": "3.0527375%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.78325%",
+        "left": "39.37579505300353%",
+        "width": "20.715547703180214%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-05:11:38_x5pMkcLCLan-ynJWPXpkK-Group 18725.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.380875%",
+        "left": "45.54717314487633%",
+        "color": "#273349",
+        "width": "8.527491166077738%",
+        "height": "5.309575%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "8h",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.173875%",
+        "left": "44.87226148409894%",
+        "color": "#273349",
+        "width": "9.87695%",
+        "height": "2.1201413427561837%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING PROGRAM",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "25.293%",
+        "left": "35.15494699646643%",
+        "width": "4.0856890459363955%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-05:13:56_BUcziiyNWHIWEH1IBoGBG-Group 499.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.332%",
+        "left": "65.99346289752651%",
+        "width": "18.69063604240283%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-05:14:47_aE2svH59oNO95JZTa6edL-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.347625%",
+        "left": "16.90316254416961%",
+        "width": "15.609823321554773%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-05:15:12_3KRCQmA3ekbYLggluqjHA-g15.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.625%",
+        "left": "6.953975265017667%",
+        "color": "#313831",
+        "width": "85.5625%",
+        "height": "11.395759717314489%",
+        "fontSize": "86em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01htz53ptg7g78n5ajf6baw0wa-1712590058336.png",
+  "isDefault": true,
+  "createdAt": "2024-04-08T15:26:59.411Z",
+  "updatedAt": "2025-09-10T14:56:29.933Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "webinar"
+  },
+  "id": "01htz53ptg7g78n5ajf6baw0wa",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2389,
+  "categoryOrder": 38
+}

@@ -1,0 +1,281 @@
+{
+  "name": "61_participation_modern_pink_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/05-04-2024-06:36:36_background.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "45.38021201413427%",
+        "left": "29.09575%",
+        "color": "#231f20",
+        "width": "63.03325000000001%",
+        "height": "15.901060070671377%",
+        "fontSize": "60em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.1178445229682%",
+        "left": "29.09575%",
+        "color": "#7a6f72",
+        "width": "33.756875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.1178445229682%",
+        "left": "74.9395%",
+        "color": "#7a6f72",
+        "width": "17.67875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.19611307420494%",
+        "left": "29.09575%",
+        "color": "#231f20",
+        "width": "15.492249999999999%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Mike Johnson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.78091872791519%",
+        "left": "29.09575%",
+        "color": "#7a6f72",
+        "width": "24.1885%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.36890459363957%",
+        "left": "29.09575%",
+        "color": "#7a6f72",
+        "width": "60.836%",
+        "height": "5.830388692579505%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has enriched the event \u201cKnowledge Quest Expo\u201d by actively participating in discussions, sharing insights, and contributing to group exercises.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.750883392226147%",
+        "left": "29.09575%",
+        "color": "#231f20",
+        "width": "25.557625%",
+        "height": "8.8339222614841%",
+        "fontSize": "33em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.2756183745583%",
+        "left": "29.09575%",
+        "color": "#7a6f72",
+        "width": "14.693375%",
+        "height": "5.830388692579505%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Webinar Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.34805653710248%",
+        "left": "29.09575%",
+        "width": "11.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#bf6c81"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.34664310954064%",
+        "left": "51.64062499999999%",
+        "width": "11.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#bf6c81"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.750883392226147%",
+        "left": "54.778375000000004%",
+        "color": "#231f20",
+        "width": "27.807625%",
+        "height": "6.890459363957597%",
+        "fontSize": "35em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of participation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.15194346289752%",
+        "left": "51.64062499999999%",
+        "color": "#231f20",
+        "width": "15.492249999999999%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jim Jeremy",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.2756183745583%",
+        "left": "51.64062499999999%",
+        "color": "#7a6f72",
+        "width": "14.443375%",
+        "height": "5.830388692579505%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Marketing Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.715936395759716%",
+        "left": "86.5625%",
+        "width": "5.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-09-2023-05:24:24_YYUSLY7YTmadDbn3gjwEH-Group 413.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "10.246660777385157%",
+        "left": "29.09575%",
+        "width": "18.50975%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-04-2024-06:31:25_eLBTye9q4rf2uncq1IN56-logo placeholder.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.1731448763251%",
+        "left": "52%",
+        "width": "9.8623%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-04-2024-06:36:42_gnOmaPZAN2DXkz_X1snlH-signature2.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.40918727915195%",
+        "left": "29.317375000000002%",
+        "width": "11.028325%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-04-2024-06:36:55_liPI9xHpZJTZ1k8uzlhoZ-signature1.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h9b7zt7x4t55jcj5cc619mv9-1712335034794.png",
+  "isDefault": true,
+  "createdAt": "2023-09-02T15:25:37.920Z",
+  "updatedAt": "2025-09-10T14:56:28.102Z",
+  "metadata": {
+    "lang": "en",
+    "color": "pink",
+    "style": "modern",
+    "category": "participation"
+  },
+  "id": "01h9b7zt7x4t55jcj5cc619mv9",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2845,
+  "categoryOrder": 165
+}

@@ -1,0 +1,342 @@
+{
+  "name": "180_diploma_professional_violet_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-12-2023-01:35:23_180_diploma_professional_violet_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.46731448763251%",
+        "left": "5.246875%",
+        "color": "#2d0d56",
+        "width": "65.44375%",
+        "height": "13.51590106007067%",
+        "fontSize": "68em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.0173144876325%",
+        "left": "78.321875%",
+        "color": "#ffffff",
+        "width": "21.315625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.53409893992934%",
+        "left": "5.196875%",
+        "color": "#252525",
+        "width": "15.537499999999998%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.559187279151935%",
+        "left": "5.2905625%",
+        "color": "#1a1a1a",
+        "width": "51.520374999999994%",
+        "height": "9.010600706713781%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For completing the course of professional retraining in the specialty 'Accounting'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.161219081272084%",
+        "left": "5.2640625%",
+        "color": "#252525",
+        "width": "33.865625%",
+        "height": "11.484098939929329%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.00671378091873%",
+        "left": "41.7985%",
+        "color": "#252525",
+        "width": "10.803125%",
+        "height": "2.8268551236749118%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.82508833922262%",
+        "left": "5.2640625%",
+        "color": "#242424",
+        "width": "17.053125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.68904593639577%",
+        "left": "5.2640625%",
+        "color": "#242424",
+        "width": "8.053125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Kerry Day",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.018551236749115%",
+        "left": "5.221875%",
+        "color": "#1a1a1a",
+        "width": "23.94225%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.304770318021202%",
+        "left": "5.5476875%",
+        "color": "#252525",
+        "width": "23.240625%",
+        "height": "34.187279151943464%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.72438162544171%",
+        "left": "42.1485%",
+        "color": "#242424",
+        "width": "10.053125%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Branden Hall",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.78975265017668%",
+        "left": "42.1235%",
+        "color": "#242424",
+        "width": "15.678124999999998%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Accounting lecrturer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.68904593639577%",
+        "left": "82.109375%",
+        "color": "#ffffff",
+        "width": "13.690625%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID NO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.9713780918728%",
+        "left": "82.234375%",
+        "color": "#ffffff",
+        "width": "13.440625%",
+        "height": "6.890459363957597%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOURCOMPANY.COM",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.35335689045935%",
+        "left": "42.1235%",
+        "width": "13.011000000000001%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-12-2023-01:32:40_ZQnyG8_NoiM-XwZSxJ_iy-Group 497.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.46996466431095%",
+        "left": "5.2640625%",
+        "width": "13.029750000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-12-2023-01:32:44_IsM2u_7WdlQ2nrAAGCgXd-Group 494.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.491166077738516%",
+        "left": "80.736%",
+        "width": "16.4375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-12-2023-01:32:47_MF0Wep_t1N6SIEsbIqgZL-Capa 1.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.472614840989399%",
+        "left": "84.708625%",
+        "color": "#100032",
+        "width": "8.4421875%",
+        "height": "5.830388692579505%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Officially completed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.373674911660775%",
+        "left": "86.983625%",
+        "color": "#100032",
+        "width": "3.9421875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hj115vr0kw3j5gc46jc4jd0v-1702990290877.png",
+  "isDefault": true,
+  "createdAt": "2023-12-19T12:35:28.130Z",
+  "updatedAt": "2025-03-19T11:00:01.352Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hj115vr0kw3j5gc46jc4jd0v",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2610,
+  "categoryOrder": 864
+}

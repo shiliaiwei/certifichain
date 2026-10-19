@@ -1,0 +1,335 @@
+{
+  "name": "15_achievement_formal_orange_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-08-22-10:39:11_Achievement Formal Horizontal background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "48.183098591549296%",
+        "left": "23.544%",
+        "color": "#bd632f",
+        "width": "52.87500000000001%",
+        "height": "12.493091872791519%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Satisfy, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.87314487632509%",
+        "left": "37.152375%",
+        "color": "#bd632f",
+        "width": "25.65825%",
+        "height": "8.051289752650177%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.32243816254417%",
+        "left": "60%",
+        "color": "#bd632f",
+        "width": "16.625%",
+        "height": "9.717314487632509%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Wilkinson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.6856890459364%",
+        "left": "14.772499999999999%",
+        "color": "#bd632f",
+        "width": "69.5%",
+        "height": "9.159681978798586%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "in recognition of 20 years of outstanding work. \nYour diligence and devotion to (Topic) has surpassed any and all expectations we may have had.\nYou have been an inspiration to not only our staff but all who have come in contact with you.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.319734982332155%",
+        "left": "3.3125%",
+        "color": "#bd632f",
+        "width": "10.153325%",
+        "height": "2.498339222614841%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE NO:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.272190812720847%",
+        "left": "3.3125%",
+        "color": "#bd632f",
+        "width": "8.75%",
+        "height": "3.53356890459364%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ISSUING DATE:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.294893992932862%",
+        "left": "14.056982543640897%",
+        "color": "#bd632f",
+        "width": "28.375%",
+        "height": "2.498339222614841%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.42897526501766%",
+        "left": "40.6065%",
+        "color": "#bd632f",
+        "width": "18.75%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "is hereby awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.93763250883393%",
+        "left": "24.75%",
+        "color": "#bd632f",
+        "width": "9.375%",
+        "height": "2.4734982332155475%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Lucy Davis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.58144876325088%",
+        "left": "61.9375%",
+        "color": "#bd632f",
+        "width": "12.75%",
+        "height": "3.356890459363958%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Declan Wilkinson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.61254416961131%",
+        "left": "26.187500000000004%",
+        "color": "#bd632f",
+        "width": "6.5%",
+        "height": "2.2968197879858656%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.61254416961131%",
+        "left": "62.9375%",
+        "color": "#bd632f",
+        "width": "10.75%",
+        "height": "2.2968197879858656%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HR Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.32243816254417%",
+        "left": "24.4375%",
+        "color": "#bd632f",
+        "width": "10%",
+        "height": "8.657243816254418%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Davis",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.33922261484098%",
+        "left": "62.625%",
+        "width": "11.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#bd632f"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.33922261484098%",
+        "left": "23.75%",
+        "width": "11.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#bd632f"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.270812720848058%",
+        "left": "12.6571072319202%",
+        "color": "#bd632f",
+        "width": "17.625%",
+        "height": "2.7757773851590106%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.30742049469965%",
+        "left": "33.443375%",
+        "color": "#bd632f",
+        "width": "32.15825%",
+        "height": "7.217597173144876%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.823604240282685%",
+        "left": "44.876%",
+        "width": "9.292975%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-22-3:23:02_Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.294893992932862%",
+        "left": "79.75%",
+        "width": "14.499999999999998%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-22-10:43:36_Group 18555.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12725-1660682673253.png",
+  "isDefault": true,
+  "createdAt": "2022-08-16T20:44:31.643Z",
+  "updatedAt": "2025-03-19T10:59:41.409Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01gam6d5gv7wpevt9pe6ef1wxx",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2980,
+  "categoryOrder": 318
+}

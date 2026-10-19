@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+
+# Heavy Files (MANDATORY user rule)
+*.mov
+*.mp4
+*.pptx
+*.ppt
+*.zip
+*.pdf
+*.docx
+*.wav
+*.mp3
+*.ogg
+*.aac
+*.db
+
+# Temporary & build caches
+tmp/
+*.tmp

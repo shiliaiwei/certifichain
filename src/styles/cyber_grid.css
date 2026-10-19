@@ -1,0 +1,290 @@
+/* .TECH DOMAINS Cyber-Grid & Chamfered Design System */
+:root {
+  /* Surfaces */
+  --bg-canvas: #08090b;
+  --bg-panel: #0d0e11;
+  --bg-panel-secondary: #121316;
+  --bg-input: rgb(15, 16, 18);
+
+  /* Borders */
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-muted: rgb(112, 112, 112);
+  --border-divider: rgba(255, 255, 255, 0.06);
+
+  /* Typography */
+  --text-white: #ffffff;
+  --text-primary: #f4f4f5;
+  --text-muted: #8c9099;
+  --text-dim: #555963;
+
+  /* Accents */
+  --accent-mint: #d2e2b9;
+  --accent-mint-hover: #e0eed0;
+  --accent-orange: #f25a38;
+  --accent-success: #10b981;
+
+  /* Fonts */
+  --font-main: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-display: "Space Grotesk", "DM Sans", sans-serif;
+}
+
+/* Obsidian Canvas & 38px Coordinate Square Grid */
+body.cyber-canvas {
+  background-color: var(--bg-canvas);
+  background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 38px 38px;
+  background-position: center top;
+  color: var(--text-primary);
+  font-family: var(--font-main);
+  min-height: 100vh;
+  margin: 0;
+  padding: 24px;
+  box-sizing: border-box;
+}
+
+/* 45-Degree Chamfer Cuts & Nested Continuous 1px Border Architecture */
+
+/* 18px Chamfer (Hero, Presets, Large Cards) */
+.chamfer-18-wrapper {
+  background-color: var(--border-subtle);
+  clip-path: polygon(0 0, calc(100% - 18px) 0, 100% 18px, 100% 100%, 0 100%);
+  padding: 1px;
+  transition: background-color 0.2s ease;
+}
+
+.chamfer-18-wrapper:hover {
+  background-color: var(--accent-mint);
+}
+
+.chamfer-18-inner {
+  background-color: var(--bg-panel);
+  clip-path: polygon(0 0, calc(100% - 17.586px) 0, 100% 17.586px, 100% 100%, 0 100%);
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+/* 14px Chamfer (Input Groups, Primary Buttons, Action Tabs) */
+.chamfer-14-wrapper {
+  background-color: var(--border-muted);
+  clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 0 100%);
+  padding: 1px;
+  display: inline-block;
+  transition: background-color 0.2s ease;
+}
+
+.chamfer-14-wrapper:hover {
+  background-color: var(--accent-mint);
+}
+
+.chamfer-14-inner {
+  background-color: var(--bg-input);
+  clip-path: polygon(0 0, calc(100% - 13.586px) 0, 100% 13.586px, 100% 100%, 0 100%);
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+/* 12px Chamfer (Pills, Tags, Badges) */
+.chamfer-12-wrapper {
+  background-color: var(--border-subtle);
+  clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 0 100%);
+  padding: 1px;
+  display: inline-block;
+}
+
+.chamfer-12-inner {
+  background-color: var(--bg-panel-secondary);
+  clip-path: polygon(0 0, calc(100% - 11.586px) 0, 100% 11.586px, 100% 100%, 0 100%);
+  padding: 4px 10px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+/* Split Input Group Architecture */
+.cyber-search-group {
+  display: flex;
+  align-items: stretch;
+  background-color: var(--border-muted);
+  clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 0 100%);
+  padding: 1px;
+  transition: background-color 0.2s ease;
+  flex: 1;
+  min-width: 300px;
+}
+
+.cyber-search-group:focus-within {
+  background-color: var(--accent-mint);
+}
+
+.cyber-search-inner {
+  display: flex;
+  align-items: center;
+  background-color: var(--bg-input);
+  clip-path: polygon(0 0, calc(100% - 13.586px) 0, 100% 13.586px, 100% 100%, 0 100%);
+  width: 100%;
+  padding-left: 14px;
+}
+
+.cyber-search-input {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--text-white);
+  font-family: var(--font-main);
+  font-size: 14px;
+  padding: 11px 12px;
+}
+
+.cyber-search-divider {
+  width: 1px;
+  height: 24px;
+  background-color: var(--border-muted);
+}
+
+.cyber-search-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  padding: 10px 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 700;
+  transition: all 0.2s;
+}
+
+.cyber-search-btn:hover {
+  color: var(--accent-mint);
+  background-color: rgba(210, 226, 185, 0.08);
+}
+
+/* Stepper Category Tabs */
+.stepper-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.stepper-tab-btn {
+  position: relative;
+  background-color: var(--border-subtle);
+  clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 0 100%);
+  padding: 1px;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s;
+}
+
+.stepper-tab-btn .tab-content {
+  background-color: var(--bg-panel-secondary);
+  clip-path: polygon(0 0, calc(100% - 11.586px) 0, 100% 11.586px, 100% 100%, 0 100%);
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-muted);
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.stepper-tab-btn:hover {
+  background-color: var(--accent-mint);
+}
+
+.stepper-tab-btn:hover .tab-content {
+  color: var(--text-white);
+}
+
+.stepper-tab-btn.active {
+  background-color: var(--accent-mint);
+}
+
+.stepper-tab-btn.active .tab-content {
+  background-color: var(--accent-mint);
+  color: #08090b;
+  font-weight: 700;
+}
+
+/* Template Cards Grid */
+.cyber-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(285px, 1fr));
+  gap: 20px;
+}
+
+.cyber-card-body {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1;
+}
+
+.cyber-card-title {
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-white);
+  line-height: 1.4;
+  word-break: break-word;
+}
+
+.cyber-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: auto;
+}
+
+.cyber-card-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  background: rgba(0, 0, 0, 0.45);
+  border-top: 1px solid var(--border-divider);
+}
+
+.cyber-card-actions a {
+  color: var(--accent-mint);
+  text-decoration: none;
+  font-family: var(--font-display);
+  font-size: 12px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: color 0.15s;
+}
+
+.cyber-card-actions a:hover {
+  color: var(--accent-mint-hover);
+  text-decoration: underline;
+}
+
+/* Keyline Icons System */
+.keyline-icon {
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+  vertical-align: middle;
+  flex-shrink: 0;
+}

@@ -1,0 +1,24 @@
+{
+  "type": "qrcode",
+  "modes": {
+    "verification_page": {
+      "default_data": "[certificate.url]",
+      "default_caption": "Scan to Verify",
+      "caption_style": {
+        "fontSize": "14em",
+        "color": "#858585",
+        "fontFamily": "Mukta, sans-serif"
+      }
+    },
+    "custom_url": {
+      "default_data": "https://example.com",
+      "default_caption": "Visit Website"
+    }
+  },
+  "rendering": {
+    "format": "vector_svg",
+    "errorCorrection": "M",
+    "aspectRatioLocked": true,
+    "default_size": "80x80px"
+  }
+}

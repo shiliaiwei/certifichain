@@ -1,0 +1,82 @@
+<!-- 3D SKEUOMORPHIC PURPLE TEXTURED LEATHER & BANKNOTE GUILLOCHE TOP BAR -->
+<header class="leather-sleeve">
+  <!-- Micro-Radial Pebble Grain Overlay -->
+  <div class="leather-pebble-grain"></div>
+
+  <!-- Perimeter Simulated Thread Stitching -->
+  <svg class="leather-stitch-svg" xmlns="http://www.w3.org/2000/svg">
+    <rect class="leather-stitch-rect" x="9" y="9" width="calc(100% - 18px)" height="calc(100% - 18px)" rx="30" ry="30"/>
+  </svg>
+
+  <!-- Tier 2: Inserted Physical Satin Card -->
+  <div class="inserted-card-slot" id="satinCard">
+    <!-- Specular Sheen Overlay -->
+    <div class="card-specular-sheen"></div>
+
+    <!-- Mathematical Banknote Guilloche Security Watermark (Embedded SVG) -->
+    <!-- Guilloche SVG is dynamically inserted via build_catalog_html.py -->
+
+    <!-- Left Brand Unit: Official Typographic Badge -->
+    <div class="card-brand-col">
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <svg width="122" height="30" viewBox="0 0 122 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <text x="0" y="24" fill="#ffffff" font-size="24" font-family="'Space Grotesk', system-ui, sans-serif" font-weight="900" letter-spacing="-0.03em" textLength="72" lengthAdjust="spacingAndGlyphs">SHILIAI</text>
+          <rect x="75" y="4" width="44" height="23" rx="6" fill="#ffffff" />
+          <text id="badgeWeiText" x="97" y="21" text-anchor="middle" fill="#0077b5" font-size="14" font-family="'Space Grotesk', system-ui, sans-serif" font-weight="900" letter-spacing="-0.01em">WEI</text>
+        </svg>
+        <span class="crypto-address-pill">
+          <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-shield"/></svg>
+          0x71C84...F29A // CERT-VAULT
+        </span>
+      </div>
+      <div style="font-family: var(--font-display); font-size: 13px; color: rgba(255,255,255,0.9); font-weight: 600; margin-top: 2px;">
+        Certifier Local HD Design Studio & Template Archive
+      </div>
+    </div>
+
+    <!-- Right Metric Unit -->
+    <div class="card-meta-col">
+      <div class="card-metric-badge">
+        <svg class="keyline-icon" style="width: 18px; height: 18px;"><use href="#icon-certificate"/></svg>
+        <span>2,328 TEMPLATES</span>
+      </div>
+      <div class="card-metric-badge" style="font-size: 12px; opacity: 0.85;">
+        <svg class="keyline-icon" style="width: 16px; height: 16px;"><use href="#icon-shapes"/></svg>
+        <span>130 VECTOR SVGS</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Tier 3: Front Overlapping Leather Flap with Scooped Lip -->
+  <div class="front-leather-flap">
+    <!-- Top Specular Rim Highlight -->
+    <div class="scooped-rim-highlight"></div>
+
+    <!-- Scooped Curved Edge Thread Stitching -->
+    <svg class="scooped-lip-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 360 14">
+      <path class="scooped-lip-path" d="M 2 2 Q 180 8 360 2"/>
+    </svg>
+
+    <!-- Physical Tactile Currency / Card Finish Toggles -->
+    <div class="leather-toggle-group">
+      <button class="leather-toggle-btn active" id="btnWei" onclick="setCardFinish('wei')">
+        <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-shield"/></svg>
+        WEI BLUE
+      </button>
+      <button class="leather-toggle-btn mode-usd" id="btnUsd" onclick="setCardFinish('usd')">
+        <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-certificate"/></svg>
+        USD EMERALD
+      </button>
+      <button class="leather-toggle-btn mode-khr" id="btnKhr" onclick="setCardFinish('khr')">
+        <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-badge"/></svg>
+        KHR VIOLET
+      </button>
+    </div>
+
+    <!-- Vault Live Verification Indicator -->
+    <div class="vault-status-indicator">
+      <div class="status-pulse"></div>
+      <span style="font-weight: 700; letter-spacing: 0.04em;">CENTRAL REPOSITORY VERIFIED // OFFLINE READY</span>
+    </div>
+  </div>
+</header>

@@ -1,0 +1,62 @@
+{
+  "recipient": [
+    {
+      "tag": "[recipient.name]",
+      "label": "Recipient Full Name",
+      "example": "Jane Doe"
+    }
+  ],
+  "credential": [
+    {
+      "tag": "[certificate.uuid]",
+      "label": "Certificate ID / UUID",
+      "example": "01kktw3bfm6kbfqy5t1e6znnts"
+    },
+    {
+      "tag": "[certificate.issued_on]",
+      "label": "Issue Date",
+      "example": "October 19, 2026"
+    },
+    {
+      "tag": "[certificate.expired_on]",
+      "label": "Expiration Date",
+      "example": "October 19, 2028"
+    },
+    {
+      "tag": "[certificate.url]",
+      "label": "Verification URL",
+      "example": "https://verify.certifier.io/01kktw3bfm6kbfqy5t1e6znnts"
+    }
+  ],
+  "issuer": [
+    {
+      "tag": "[issuer.name]",
+      "label": "Issuer / Organization Name",
+      "example": "Certifier Institute"
+    },
+    {
+      "tag": "[issuer.support_email]",
+      "label": "Issuer Support Email",
+      "example": "support@issuer.com"
+    }
+  ],
+  "group": [
+    {
+      "tag": "[group.name]",
+      "label": "Course / Template Title",
+      "example": "Fall Protection Training"
+    },
+    {
+      "tag": "[group.description]",
+      "label": "Course Description",
+      "example": "Comprehensive occupational safety certification."
+    }
+  ],
+  "custom": [
+    {
+      "tag": "[custom.<name>]",
+      "label": "Custom User Attribute",
+      "description": "Arbitrary variable specified per recipient (e.g. [custom.grade], [custom.instructor])"
+    }
+  ]
+}

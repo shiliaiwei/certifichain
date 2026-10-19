@@ -1,0 +1,103 @@
+{
+  "presets": {
+    "heading": {
+      "fontFamily": "Mukta, sans-serif",
+      "fontSize": "30px",
+      "fontWeight": 700,
+      "lineHeight": 1.2
+    },
+    "subheading": {
+      "fontFamily": "Mukta, sans-serif",
+      "fontSize": "24px",
+      "fontWeight": 700,
+      "lineHeight": 1.3
+    },
+    "body": {
+      "fontFamily": "Mukta, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": 400,
+      "lineHeight": 1.5
+    }
+  },
+  "supportedWeights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    950,
+    1000
+  ],
+  "googleFonts": {
+    "sans": [
+      "Bricolage Grotesque",
+      "Cairo",
+      "DM Sans",
+      "Golos",
+      "Google Sans Flex",
+      "Gothic A1",
+      "Hind Madurai",
+      "Inter",
+      "Inter Tight",
+      "Josefin Sans",
+      "Kufam",
+      "Lato",
+      "Lexend",
+      "Manrope",
+      "Montserrat",
+      "Mullish",
+      "Noto Sans",
+      "Open Sans",
+      "Oswald",
+      "Outfit",
+      "Poppins",
+      "Prompt",
+      "Quicksand",
+      "Roboto",
+      "Teko",
+      "Tenor Sans",
+      "Ubuntu"
+    ],
+    "serif": [
+      "Barlow Condensed",
+      "Baskervville",
+      "Bellefair",
+      "Cinzel",
+      "Cormorant",
+      "EB Garamond",
+      "Inika",
+      "Josefin Slab",
+      "Kameron",
+      "Libre Baskerville",
+      "Lora",
+      "Marcellus",
+      "Merriweather",
+      "Newsreader",
+      "Noto Serif Display",
+      "Playfair Display",
+      "PT Serif",
+      "Roboto Slab"
+    ],
+    "handwriting": [
+      "Alex Brush",
+      "Birthstone",
+      "Bokor",
+      "Dancing Script",
+      "Ephesis",
+      "Great Vibes",
+      "Kalam",
+      "Lobster",
+      "Marck Script",
+      "Monte Carlo",
+      "Satisfy",
+      "Whisper"
+    ],
+    "mono": [
+      "Space Mono"
+    ]
+  }
+}

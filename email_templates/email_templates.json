@@ -1,0 +1,689 @@
+[
+  {
+    "name": "Credential Expiration Reminder [System]",
+    "subject": "Your [group.name] credential will expire soon",
+    "createdAt": "2024-01-25T13:52:49.123Z",
+    "updatedAt": "2024-12-03T08:48:43.669Z",
+    "delta": {
+      "ops": [
+        {
+          "insert": {
+            "imageBlot": {
+              "url": "https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/new-logo.png",
+              "width": "250"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Your credential for [group.name] will expire on [certificate.expired_on].",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "heading": "h3"
+          }
+        },
+        {
+          "insert": "If you\u2019d like to renew your credential, you may need to ",
+          "attributes": {}
+        },
+        {
+          "insert": "contact the issuer",
+          "attributes": {
+            "link": "mailto:[issuer.support_email]"
+          }
+        },
+        {
+          "insert": " for additional details. ",
+          "attributes": {}
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": {
+            "buttonBlot": {
+              "link": "[certificate.url]",
+              "text": "\ufeff\ufeff\ufeff\ufeff\ufeffView Credential\ufeff\ufeff\ufeff\ufeff\ufeff"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": " ",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": {
+            "hr": true
+          },
+          "attributes": {}
+        },
+        {
+          "insert": "What will happen once your credential expires?",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "heading": "h3"
+          }
+        },
+        {
+          "insert": "An expired credential can still be viewed by you and other people you have shared it with. However, such a credential will appear with an expiration alert indicating that this document is no longer valid.\u00a0",
+          "attributes": {}
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Having trouble with your credential or you want to unsubscribe from email list? Contact us at ",
+          "attributes": {}
+        },
+        {
+          "insert": {
+            "attributeBlot": {
+              "tag": "issuer.support_email"
+            }
+          },
+          "attributes": {
+            "link": "mailto:[issuer.support_email]"
+          }
+        },
+        {
+          "insert": ".",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "textSize": "textSmall"
+          }
+        }
+      ]
+    },
+    "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/previews/01hn0ea2z105b17a84c4vm2v2m-1733215720718.png",
+    "id": "01hn0ea2z105b17a84c4vm2v2m",
+    "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+    "type": "credential_expiration_reminder",
+    "isSystem": true
+  },
+  {
+    "name": "Credential Expired [System]",
+    "subject": "Your [group.name] credential has expired",
+    "createdAt": "2024-01-25T13:55:28.306Z",
+    "updatedAt": "2024-12-03T08:48:43.690Z",
+    "delta": {
+      "ops": [
+        {
+          "insert": {
+            "imageBlot": {
+              "url": "https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/new-logo.png",
+              "width": "250"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Your credential for [group.name] has expired.",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "heading": "h3"
+          }
+        },
+        {
+          "insert": "This credential can still be viewed and accessed by you and other people you have shared it with. However, it will now appear with an expiration alert indicating that this document is no longer valid.",
+          "attributes": {}
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": {
+            "buttonBlot": {
+              "link": "[certificate.url]",
+              "text": "\ufeff\ufeff\ufeff\ufeffView Credential\ufeff\ufeff\ufeff\ufeff"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": " ",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Having trouble with your credential or you want to unsubscribe from email list? Contact us at ",
+          "attributes": {}
+        },
+        {
+          "insert": {
+            "attributeBlot": {
+              "tag": "issuer.support_email"
+            }
+          },
+          "attributes": {
+            "link": "mailto:[issuer.support_email]"
+          }
+        },
+        {
+          "insert": ".",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "textSize": "textSmall"
+          }
+        }
+      ]
+    },
+    "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/previews/01hn0eeydfpxvc3mhtw0w2ne8y-1733215720719.png",
+    "id": "01hn0eeydfpxvc3mhtw0w2ne8y",
+    "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+    "type": "credential_expired",
+    "isSystem": true
+  },
+  {
+    "name": "Credential Delivery [System]",
+    "subject": "[recipient.name], here is your credential for [group.name]",
+    "createdAt": "2021-01-31T16:28:29.725Z",
+    "updatedAt": "2024-12-03T08:47:07.369Z",
+    "delta": {
+      "ops": [
+        {
+          "insert": {
+            "imageBlot": {
+              "url": "https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/new-logo.png",
+              "width": "250"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Congratulations, here is your credential for ",
+          "attributes": {}
+        },
+        {
+          "insert": {
+            "attributeBlot": {
+              "tag": "group.name"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": "!",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "heading": "h3"
+          }
+        },
+        {
+          "insert": "Your achievement is available in an online format so that you can retrieve it anywhere, anytime, and use it in a variety of ways:",
+          "attributes": {}
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "add it to your LinkedIn profile to get better job opportunities",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "share it on social media to showcase your skills",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "download it in PDF format for printing",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": {
+            "buttonBlot": {
+              "link": "[certificate.url]",
+              "text": "\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeffView Credential\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": "  ",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Having trouble with your credential or you want to unsubscribe from email list? Contact us at ",
+          "attributes": {}
+        },
+        {
+          "insert": {
+            "attributeBlot": {
+              "tag": "issuer.support_email"
+            }
+          },
+          "attributes": {
+            "link": "mailto:[issuer.support_email]"
+          }
+        },
+        {
+          "insert": ".",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "textSize": "textSmall"
+          }
+        }
+      ]
+    },
+    "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/previews/01excmcdmx7sw6h9ekvj0fm2e2-1733215624454.png",
+    "id": "01excmcdmx7sw6h9ekvj0fm2e2",
+    "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+    "type": "credential_delivery",
+    "isSystem": true
+  },
+  {
+    "name": "Credential Engagement Reminder [System]",
+    "subject": "Make the most of your [group.name] credential!",
+    "createdAt": "2026-08-31T12:46:46.517Z",
+    "updatedAt": "2026-09-29T11:55:08.164Z",
+    "delta": {
+      "ops": [
+        {
+          "insert": {
+            "imageBlot": {
+              "url": "https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/new-logo.png",
+              "width": "250"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "You've earned your credential. Now\u00a0put it to use! \ud83c\udf89",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "heading": "h3"
+          }
+        },
+        {
+          "insert": "Your credential is ",
+          "attributes": {}
+        },
+        {
+          "insert": "more valuable when it\u2019s visible",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ". Share it to help others discover your achievement and skills.",
+          "attributes": {}
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Share your credential to:",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "heading": "h3"
+          }
+        },
+        {
+          "insert": "Celebrate your achievement",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Share a milestone you\u2019re proud of with colleagues, friends, and your wider network.",
+          "attributes": {}
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Make your expertise easier to discover",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Put your credential on the channels where potential employers, clients, collaborators, or peers can come across it.",
+          "attributes": {}
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Back up your skills with proof",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Give others a verifiable record of what you\u2019ve achieved instead of simply listing a skill or qualification.",
+          "attributes": {}
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": {
+            "buttonBlot": {
+              "link": "[certificate.url]",
+              "text": "\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeffView & Share Credential\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": " ",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Having trouble with your credential or you want to unsubscribe from email list? Contact us at ",
+          "attributes": {}
+        },
+        {
+          "insert": {
+            "attributeBlot": {
+              "tag": "issuer.support_email"
+            }
+          },
+          "attributes": {
+            "link": "mailto:[issuer.support_email]"
+          }
+        },
+        {
+          "insert": ".",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "textSize": "textSmall"
+          }
+        }
+      ]
+    },
+    "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/previews/01m1bxq87m4rnrbtrpptjr24bn-1790682906367.png",
+    "id": "01m1bxq87m4rnrbtrpptjr24bn",
+    "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+    "type": "credential_not_engaged",
+    "isSystem": true
+  },
+  {
+    "name": "Credential Opening Reminder [System]",
+    "subject": "[recipient.name], your credential is waiting for you",
+    "createdAt": "2026-08-31T12:42:00.082Z",
+    "updatedAt": "2026-09-29T11:55:06.248Z",
+    "delta": {
+      "ops": [
+        {
+          "insert": {
+            "imageBlot": {
+              "url": "https://certifier-production-amplify.s3.eu-west-1.amazonaws.com/public/565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/new-logo.png",
+              "width": "250"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Your credential for [group.name] is waiting for you!",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "heading": "h3"
+          }
+        },
+        {
+          "insert": "Your achievement ",
+          "attributes": {}
+        },
+        {
+          "insert": "deserves to be seen",
+          "attributes": {
+            "bold": true
+          }
+        },
+        {
+          "insert": ". Open your credential and make the most of it:",
+          "attributes": {}
+        },
+        {
+          "insert": "\n\n",
+          "attributes": {
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "add it to your LinkedIn profile to get better job opportunities",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "share it on social media to showcase your skills",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "download it in PDF format for printing",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "list": "bullet",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": {
+            "buttonBlot": {
+              "link": "[certificate.url]",
+              "text": "\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeffView Credential\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff"
+            }
+          },
+          "attributes": {}
+        },
+        {
+          "insert": "  ",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "align": "center",
+            "textSize": "textNormal"
+          }
+        },
+        {
+          "insert": "Having trouble with your credential or you want to unsubscribe from email list? Contact us at ",
+          "attributes": {}
+        },
+        {
+          "insert": {
+            "attributeBlot": {
+              "tag": "issuer.support_email"
+            }
+          },
+          "attributes": {
+            "link": "mailto:[issuer.support_email]"
+          }
+        },
+        {
+          "insert": ".",
+          "attributes": {}
+        },
+        {
+          "insert": "\n",
+          "attributes": {
+            "textSize": "textSmall"
+          }
+        }
+      ]
+    },
+    "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/email-templates/previews/01m1bxegg9c40c9dhz43d9mav5-1790682894207.png",
+    "id": "01m1bxegg9c40c9dhz43d9mav5",
+    "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+    "type": "credential_not_opened",
+    "isSystem": true
+  }
+]

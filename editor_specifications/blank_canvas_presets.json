@@ -1,0 +1,266 @@
+{
+  "certificate_a4_landscape": {
+    "name": "Blank Certificate (A4 Landscape)",
+    "type": "certificate",
+    "paperSize": "A4",
+    "orientation": "landscape",
+    "dimensions": {
+      "physical_mm": {
+        "width": 297,
+        "height": 210
+      },
+      "px_96dpi": {
+        "width": 1123,
+        "height": 794
+      },
+      "px_editor": {
+        "width": 800,
+        "height": 566
+      },
+      "px_hd_print": {
+        "width": 2000,
+        "height": 1414
+      },
+      "px_300dpi": {
+        "width": 3508,
+        "height": 2480
+      },
+      "aspect_ratio": 1.414
+    },
+    "background": {
+      "type": "color",
+      "value": "#ffffff"
+    },
+    "blocks": [
+      {
+        "type": "text",
+        "style": {
+          "top": "25%",
+          "left": "10%",
+          "width": "80%",
+          "color": "#0F172A",
+          "fontSize": "42em",
+          "fontFamily": "Mukta, sans-serif",
+          "fontWeight": 700,
+          "textAlign": "center"
+        },
+        "value": "Certificate of Completion",
+        "autoScale": true
+      },
+      {
+        "type": "text",
+        "style": {
+          "top": "45%",
+          "left": "10%",
+          "width": "80%",
+          "color": "#1E3A8A",
+          "fontSize": "36em",
+          "fontFamily": "Marcellus, serif",
+          "fontWeight": 400,
+          "textAlign": "center"
+        },
+        "value": "[recipient.name]",
+        "autoScale": true
+      },
+      {
+        "type": "text",
+        "style": {
+          "top": "60%",
+          "left": "15%",
+          "width": "70%",
+          "color": "#475569",
+          "fontSize": "18em",
+          "fontFamily": "Mukta, sans-serif",
+          "fontWeight": 400,
+          "textAlign": "center"
+        },
+        "value": "For successfully completing [group.name] on [certificate.issued_on]",
+        "autoScale": true
+      },
+      {
+        "type": "qrcode",
+        "style": {
+          "top": "75%",
+          "left": "80%",
+          "width": "80px",
+          "height": "80px"
+        },
+        "data": "[certificate.url]",
+        "caption": "Scan to Verify"
+      }
+    ]
+  },
+  "certificate_a4_portrait": {
+    "name": "Blank Certificate (A4 Portrait)",
+    "type": "certificate",
+    "paperSize": "A4",
+    "orientation": "portrait",
+    "dimensions": {
+      "physical_mm": {
+        "width": 210,
+        "height": 297
+      },
+      "px_96dpi": {
+        "width": 794,
+        "height": 1123
+      },
+      "px_editor": {
+        "width": 566,
+        "height": 800
+      },
+      "px_hd_print": {
+        "width": 1414,
+        "height": 2000
+      },
+      "px_300dpi": {
+        "width": 2480,
+        "height": 3508
+      },
+      "aspect_ratio": 0.707
+    },
+    "background": {
+      "type": "color",
+      "value": "#ffffff"
+    },
+    "blocks": []
+  },
+  "certificate_letter_landscape": {
+    "name": "Blank Certificate (US Letter Landscape)",
+    "type": "certificate",
+    "paperSize": "US_Letter",
+    "orientation": "landscape",
+    "dimensions": {
+      "physical_inches": {
+        "width": 11,
+        "height": 8.5
+      },
+      "px_96dpi": {
+        "width": 1056,
+        "height": 816
+      },
+      "px_editor": {
+        "width": 800,
+        "height": 618
+      },
+      "px_300dpi": {
+        "width": 3300,
+        "height": 2550
+      },
+      "aspect_ratio": 1.294
+    },
+    "background": {
+      "type": "color",
+      "value": "#ffffff"
+    },
+    "blocks": []
+  },
+  "badge_square": {
+    "name": "Blank Badge (Square 1:1)",
+    "type": "badge",
+    "paperSize": null,
+    "orientation": null,
+    "dimensions": {
+      "aspect_ratio": 1.0,
+      "px_editor": {
+        "width": 512,
+        "height": 512
+      },
+      "px_vector_viewbox": {
+        "width": 1000,
+        "height": 1000
+      }
+    },
+    "background": {
+      "type": "transparent"
+    },
+    "blocks": []
+  },
+  "transcript_a4": {
+    "name": "Blank Transcript (A4 Landscape)",
+    "type": "transcript",
+    "paperSize": "A4",
+    "orientation": "landscape",
+    "dimensions": {
+      "physical_mm": {
+        "width": 297,
+        "height": 210
+      },
+      "px_96dpi": {
+        "width": 1123,
+        "height": 794
+      },
+      "aspect_ratio": 1.414
+    },
+    "background": {
+      "type": "color",
+      "value": "#ffffff"
+    },
+    "blocks": []
+  },
+  "training_record_a4": {
+    "name": "Blank Training Record (A4 Landscape)",
+    "type": "training_record",
+    "paperSize": "A4",
+    "orientation": "landscape",
+    "dimensions": {
+      "physical_mm": {
+        "width": 297,
+        "height": 210
+      },
+      "px_96dpi": {
+        "width": 1123,
+        "height": 794
+      },
+      "aspect_ratio": 1.414
+    },
+    "background": {
+      "type": "color",
+      "value": "#ffffff"
+    },
+    "blocks": []
+  },
+  "assessment_a4": {
+    "name": "Blank Assessment (A4 Landscape)",
+    "type": "assessment",
+    "paperSize": "A4",
+    "orientation": "landscape",
+    "dimensions": {
+      "physical_mm": {
+        "width": 297,
+        "height": 210
+      },
+      "px_96dpi": {
+        "width": 1123,
+        "height": 794
+      },
+      "aspect_ratio": 1.414
+    },
+    "background": {
+      "type": "color",
+      "value": "#ffffff"
+    },
+    "blocks": []
+  },
+  "letter_a4_portrait": {
+    "name": "Blank Letter (A4 Portrait)",
+    "type": "letter",
+    "paperSize": "A4",
+    "orientation": "portrait",
+    "dimensions": {
+      "physical_mm": {
+        "width": 210,
+        "height": 297
+      },
+      "px_96dpi": {
+        "width": 794,
+        "height": 1123
+      },
+      "aspect_ratio": 0.707
+    },
+    "background": {
+      "type": "color",
+      "value": "#ffffff"
+    },
+    "blocks": []
+  }
+}

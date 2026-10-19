@@ -1,0 +1,234 @@
+{
+  "name": "348_Graduation_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-06-2024-12:12:49_348_Graduation_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "30.996113074204946%",
+        "left": "11.669925%",
+        "color": "#39312c",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.92862190812721%",
+        "left": "57.74462499999999%",
+        "color": "#39312c",
+        "width": "29.756875%",
+        "height": "3.0035335689045937%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.39858657243816%",
+        "left": "11.859875%",
+        "color": "#39312c",
+        "width": "31.30375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.38445229681979%",
+        "left": "19.828125%",
+        "color": "#39312c",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Willie Davis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.314134275618372%",
+        "left": "32.1035%",
+        "color": "#39312c",
+        "width": "35.538125%",
+        "height": "7.420494699646643%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.22968197879859%",
+        "left": "11.2900125%",
+        "color": "#39312c",
+        "width": "76.211%",
+        "height": "9.010600706713781%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed a Master's Degree in Environmental Engineering from the University of Wisconsin Environmental Studies.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.734540636042402%",
+        "left": "5.09375%",
+        "color": "#39312c",
+        "width": "89.557625%",
+        "height": "22.791519434628977%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF GRADUATION ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.18303886925796%",
+        "left": "16.828125%",
+        "color": "#39312c",
+        "width": "21.36725%",
+        "height": "3.7102473498233217%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "University Rector",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.38445229681979%",
+        "left": "64.9395%",
+        "color": "#39312c",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Dennis Porter",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.18303886925796%",
+        "left": "61.9395%",
+        "color": "#39312c",
+        "width": "21.36725%",
+        "height": "3.7102473498233217%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculty",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "57.47703180212014%",
+        "left": "41.7075%",
+        "width": "16.328125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-12:12:01_98X4k-vu5eln70XoyezQO-Frame.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.6113074204947%",
+        "left": "66.99025%",
+        "width": "11.265625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-12:12:17_FUCqaDND2MiD15VmkjY24-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.90459363957598%",
+        "left": "21.44825%",
+        "width": "12.127925%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-12:12:30_3LZSl-cmY_qNaTuAOd-cV-Vector 245.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0x4jvv4pzcrcmpbpbjw61z1-1718964809582.png",
+  "isDefault": true,
+  "createdAt": "2024-06-21T10:13:29.574Z",
+  "updatedAt": "2025-03-19T11:00:18.941Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0x4jvv4pzcrcmpbpbjw61z1",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2271,
+  "categoryOrder": 197
+}

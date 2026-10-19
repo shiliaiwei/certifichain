@@ -1,0 +1,253 @@
+{
+  "name": "407_Accreditation_professional_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-08-2024-01:50:51_407_Accreditation_professional_red_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.150442477876105%",
+        "left": "18.25%",
+        "color": "#7d1d10",
+        "width": "64.625%",
+        "height": "14.51327433628319%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.29203539823008%",
+        "left": "9.5625%",
+        "color": "#310c0c",
+        "width": "27.375%",
+        "height": "2.831858407079646%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.725663716814159%",
+        "left": "3.7875000000000014%",
+        "color": "#7d1d10",
+        "width": "92.5%",
+        "height": "11.946902654867257%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Accredited Institution Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.929203539823014%",
+        "left": "13.252812499999997%",
+        "color": "#310c0c",
+        "width": "74.569375%",
+        "height": "11.925795053003533%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Fulfills the requirements for Hospital Accreditation in accordance with JCAHO standards. This certification acknowledges the hospital's commitment to providing high-quality healthcare services.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.61061946902656%",
+        "left": "70.875%",
+        "color": "#310c0c",
+        "width": "17.252%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Dr. William Brown",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.87610619469027%",
+        "left": "12.875%",
+        "color": "#310c0c",
+        "width": "20.75%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.20353982300885%",
+        "left": "35.75%",
+        "color": "#310c0c",
+        "width": "28.5625%",
+        "height": "7.420494699646643%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "hereby attests that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.646017699115045%",
+        "left": "10.6875%",
+        "color": "#310c0c",
+        "width": "78.625%",
+        "height": "7.433628318584068%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Joint Commission on Accreditation of Healthcare Organizations (JCAHO)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.01769911504424%",
+        "left": "67%",
+        "color": "#310c0c",
+        "width": "25%",
+        "height": "3.7168141592920354%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Accreditation Officer",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "48.31789274336284%",
+        "left": "19%",
+        "width": "62.375%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#dde0e4"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.99115044247787%",
+        "left": "42.625%",
+        "width": "14.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-2024-01:47:59_OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.75221238938053%",
+        "left": "45.375%",
+        "color": "#4a1919",
+        "width": "9.25%",
+        "height": "5.830388692579505%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACCREDITED INSTITUTION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.86725663716814%",
+        "left": "44.625%",
+        "color": "#4a1919",
+        "width": "10.75%",
+        "height": "6.890459363957597%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.08849557522124%",
+        "left": "68.875%",
+        "width": "21.375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-2024-01:50:06_Group 19414.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j5dgk2cp0br6we15hsjtz7t0-1723809423596.png",
+  "isDefault": true,
+  "createdAt": "2024-08-16T11:53:57.400Z",
+  "updatedAt": "2025-03-19T11:00:25.075Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j5dgk2cp0br6we15hsjtz7t0",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2151,
+  "categoryOrder": 648
+}

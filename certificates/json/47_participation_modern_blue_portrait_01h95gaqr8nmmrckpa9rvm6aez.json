@@ -1,0 +1,317 @@
+{
+  "name": "47_participation_modern_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/31-08-2023-11:55:19_47_participation_modern_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "30.350625000000004%",
+        "left": "10.234929328621908%",
+        "color": "#0a2774",
+        "width": "81.36042402826855%",
+        "height": "11.4169875%",
+        "fontSize": "86em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Birthstone, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.168%",
+        "left": "17.44083038869258%",
+        "color": "#5067a4",
+        "width": "24.541696113074206%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO of Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.131875%",
+        "left": "48.986925795053004%",
+        "color": "#5067a4",
+        "width": "23.17243816254417%",
+        "height": "2.124025%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.204125000000005%",
+        "left": "58.708480565371026%",
+        "color": "#0a2774",
+        "width": "22.421875%",
+        "height": "3.180212014134275%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.09575%",
+        "left": "22.32844522968198%",
+        "color": "#5067a4",
+        "width": "57.17208480565371%",
+        "height": "4.77735%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For enthusiastic engagement and active participation                     in [Event/Program Name], which took place from [Dates]. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.241249999999997%",
+        "left": "30.22173144876325%",
+        "color": "#5067a4",
+        "width": "39.60918727915194%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "We hereby present this certificate to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "2.997075%",
+        "left": "41.168904593639574%",
+        "color": "#0a2774",
+        "width": "22.05035335689046%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.221625%",
+        "left": "16.27236749116608%",
+        "color": "#0a2774",
+        "width": "26.877208480565372%",
+        "height": "5.5752%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Alex Johnson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.86725%",
+        "left": "33.35088339222615%",
+        "color": "#5067a4",
+        "width": "15.459363957597173%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID :",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.168%",
+        "left": "63.53674911660777%",
+        "color": "#5067a4",
+        "width": "12.766395759717314%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified on",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.13375%",
+        "left": "36.72491166077739%",
+        "width": "26.018727915194344%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-11:17:37__b9lFBd0bPOudILBa0khz-Group 372.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "3.1543%",
+        "left": "36.40123674911661%",
+        "width": "3.684028268551237%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-11:18:11_98TMvKoWyJWG9b3z-0WLb-Group 374.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.4609375%",
+        "left": "20.813604240282686%",
+        "color": "#0a2774",
+        "width": "58.42667844522968%",
+        "height": "8.09765%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PARTICIPATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.1065%",
+        "left": "27.534805653710247%",
+        "color": "#0a2774",
+        "width": "44.40017667844523%",
+        "height": "4.6464875%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.152375%",
+        "left": "42.39876325088339%",
+        "color": "#ffffff",
+        "width": "14.672597173144874%",
+        "height": "6.3711%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Verified Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.6485%",
+        "left": "46.2821554770318%",
+        "color": "#84a1ed",
+        "width": "6.90625%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "58.005875%",
+        "left": "15.669014084507044%",
+        "width": "28.043639575971728%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#84a1ed"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "58.005875%",
+        "left": "56.07402826855123%",
+        "width": "28.043639575971728%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#84a1ed"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h95gaqr8nmmrckpa9rvm6aez-1693817849586.png",
+  "isDefault": true,
+  "createdAt": "2023-08-31T09:55:57.835Z",
+  "updatedAt": "2025-09-10T14:56:26.794Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "modern",
+    "category": "participation"
+  },
+  "id": "01h95gaqr8nmmrckpa9rvm6aez",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2872,
+  "categoryOrder": 34
+}

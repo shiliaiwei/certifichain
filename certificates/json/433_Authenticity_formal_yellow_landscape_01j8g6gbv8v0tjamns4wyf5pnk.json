@@ -1,0 +1,325 @@
+{
+  "name": "433_Authenticity_formal_yellow_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/23-09-2024-08:40:10_433_Authenticity_formal_yellow_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "25.916607773851585%",
+        "left": "18.50975%",
+        "color": "#57390c",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.29203539823008%",
+        "left": "44.25%",
+        "color": "#595145",
+        "width": "27.125%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.50442477876106%",
+        "left": "47.4%",
+        "color": "#595145",
+        "width": "19.375%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.24778761061947%",
+        "left": "13.524999999999999%",
+        "color": "#595145",
+        "width": "71.875%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate attests to the authenticity and originality of the collectible item described below. It confirms the item\u2019s provenance and status as a genuine artifact.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.1858407079646%",
+        "left": "38.125%",
+        "color": "#595145",
+        "width": "20.878125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Collectible Item:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.610619469026549%",
+        "left": "8.723999999999997%",
+        "color": "#57390c",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF GENUINENESS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.2566371681416%",
+        "left": "8.625%",
+        "color": "#595145",
+        "width": "28.752%",
+        "height": "6.978798586572438%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Signature of Certified Expert",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.76106194690266%",
+        "left": "10.125%",
+        "color": "#595145",
+        "width": "14.127%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CATEGORY:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.743362831858406%",
+        "left": "28.999999999999996%",
+        "color": "#595145",
+        "width": "14.127%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MINT MARK:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.76106194690266%",
+        "left": "50.025%",
+        "color": "#595145",
+        "width": "14.127%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OWNER:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.743362831858406%",
+        "left": "71.2105%",
+        "color": "#595145",
+        "width": "14.127%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SPECIMEN:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.769911504424776%",
+        "left": "10.125%",
+        "color": "#595145",
+        "width": "14.127%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Gold Coin",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.66371681415929%",
+        "left": "25.374999999999996%",
+        "color": "#595145",
+        "width": "21.375%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "St. George and Dragon",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.6283185840708%",
+        "left": "48.65%",
+        "color": "#595145",
+        "width": "16.875%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Johnathan Blake",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.6283185840708%",
+        "left": "67.5625%",
+        "color": "#595145",
+        "width": "21.375%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "1905 British Sovereign",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "39.64532637168141%",
+        "left": "14.499999999999998%",
+        "width": "70.875%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#57390c"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.5221238938053%",
+        "left": "14.249999999999998%",
+        "width": "17.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-09-2024-08:38:59_Group 19478.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.69911504424779%",
+        "left": "81%",
+        "width": "7.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-09-2024-08:39:18_qr-code.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j8g6gbv8v0tjamns4wyf5pnk-1727120551800.png",
+  "isDefault": true,
+  "createdAt": "2024-09-23T19:42:31.786Z",
+  "updatedAt": "2025-03-19T11:00:27.645Z",
+  "metadata": {
+    "lang": "en",
+    "color": "yellow",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j8g6gbv8v0tjamns4wyf5pnk",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2099,
+  "categoryOrder": 596
+}

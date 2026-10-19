@@ -1,0 +1,252 @@
+{
+  "name": "362_Scholarship_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/09-07-2024-10:22:56_362_Scholarship_professional_blue_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.128875000000004%",
+        "left": "20.21802120141343%",
+        "color": "#ffffff",
+        "width": "59.03325%",
+        "height": "16.96113074204947%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.34575%",
+        "left": "33.571731448763245%",
+        "color": "#ffffff",
+        "width": "33.63798586572438%",
+        "height": "2%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.336000000000006%",
+        "left": "33.574381625441696%",
+        "color": "#ffffff",
+        "width": "33.19628975265017%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.94825%",
+        "left": "13.651166077738516%",
+        "color": "#ffffff",
+        "width": "71.55759717314488%",
+        "height": "6.770512499999999%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has been awarded the STEM Excellence Scholarship. In honor of \nexemplary academic performance and steadfast dedication to the \ndisciplines of Science and Mathematics (STEM).",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.4755875%",
+        "left": "6.969787985865724%",
+        "color": "#ffffff",
+        "width": "85.5303886925795%",
+        "height": "7.699225%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "SCHOLORSHIP AWARD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.0215%",
+        "left": "14.001766784452297%",
+        "color": "#ffffff",
+        "width": "17.696819787985866%",
+        "height": "2.2568375%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Gideon Marlowe",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.818375%",
+        "left": "31.733745583038868%",
+        "color": "#ffffff",
+        "width": "35.38957597173145%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.2315%",
+        "left": "10.84226148409894%",
+        "color": "#ffffff",
+        "width": "25.436219081272082%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of Mexdall University ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.834%",
+        "left": "65.89699646643109%",
+        "color": "#ffffff",
+        "width": "20.70035335689046%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Amara Blakeslee",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.78125%",
+        "left": "67.29929328621907%",
+        "color": "#ffffff",
+        "width": "18.193375%",
+        "height": "4.770318021201414%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Financial Aid Office",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.808625%",
+        "left": "15.044558303886923%",
+        "width": "15.609823321554773%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-10:11:08_-CBlfaC7f6YUkKgDkAL8l-Vector 79.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.808625%",
+        "left": "66.41872791519434%",
+        "width": "21.33939929328622%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-10:11:22_eT1T1DUPSyIq-SzaDZwT1-Vector 96.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.76275%",
+        "left": "38.64911660777385%",
+        "width": "22.167667844522967%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-10:11:52_Mv-FMAyRv4f6icUjJQaVG-badge.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.127875%",
+        "left": "43.51872791519435%",
+        "color": "#0c2a48",
+        "width": "12.4296875%",
+        "height": "7.420494699646643%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "BEST\nSTUDENT\n2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2cjn55xzpxp3pax0yt4e60h-1720556633793.png",
+  "isDefault": true,
+  "createdAt": "2024-07-09T20:23:43.039Z",
+  "updatedAt": "2025-03-19T11:00:20.494Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2cjn55xzpxp3pax0yt4e60h",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2242,
+  "categoryOrder": 169
+}

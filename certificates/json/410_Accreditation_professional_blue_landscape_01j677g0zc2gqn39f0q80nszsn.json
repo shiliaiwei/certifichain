@@ -1,0 +1,306 @@
+{
+  "name": "410_Accreditation_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-08-2024-01:32:14_410_Accreditation_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.716814159292035%",
+        "left": "32.25%",
+        "color": "#5879ab",
+        "width": "60.62499999999999%",
+        "height": "10.619469026548673%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.4070796460177%",
+        "left": "5.7480625%",
+        "color": "#fffcfc",
+        "width": "22.12975%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "2.47787610619469%",
+        "left": "32.25%",
+        "color": "#0e2145",
+        "width": "33.875%",
+        "height": "13.008849557522122%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.76106194690266%",
+        "left": "32.25%",
+        "color": "#0e2145",
+        "width": "59.25%",
+        "height": "4.778761061946903%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "meets the established criteria for Operational Excellence.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.20353982300885%",
+        "left": "32.25%",
+        "color": "#0e2145",
+        "width": "48.375%",
+        "height": "8.495575221238937%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The Industry Standards Certification Authority (ISCA) certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.079646017699115%",
+        "left": "7.124999999999999%",
+        "color": "#fffdfd",
+        "width": "19.5%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.6038407079646%",
+        "left": "32.25%",
+        "color": "#0e2145",
+        "width": "45.375%",
+        "height": "8.761061946902656%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "*This certificate will become invalid if the accreditation is suspended, canceled, or revoked. For the most up-to-date accreditation status, please visit www.isca.com or contact ISCA at (512) 555-1234",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.98230088495575%",
+        "left": "6.125%",
+        "color": "#0e2145",
+        "width": "22.75%",
+        "height": "4.2477876106194685%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Standards Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.61061946902655%",
+        "left": "6.125%",
+        "color": "#0e2145",
+        "width": "19.752%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Marta Stuart",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.327433628318584%",
+        "left": "32.2375%",
+        "color": "#0e2145",
+        "width": "49.375%",
+        "height": "12.212389380530974%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Of Accreditation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.84955752212389%",
+        "left": "32.25%",
+        "color": "#0e2145",
+        "width": "36.125%",
+        "height": "8.495575221238937%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Scope of Accreditation:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.69309734513274%",
+        "left": "32.25%",
+        "color": "#5879ab",
+        "width": "38.875%",
+        "height": "4.513274336283186%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Adherence to Industry Best Practices",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.10619469026548%",
+        "left": "6.125%",
+        "width": "16.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-01:30:21_Group 19381.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.94690265486726%",
+        "left": "86.625%",
+        "width": "8%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-01:30:42_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "29.20353982300885%",
+        "left": "7.787500000000001%",
+        "width": "18.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-01:30:57_Group 19403.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.230088495575224%",
+        "left": "12.125%",
+        "color": "#120e45",
+        "width": "9.4375%",
+        "height": "6.36042402826855%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ISCA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.176991150442475%",
+        "left": "12.15625%",
+        "color": "#120e45",
+        "width": "9.4375%",
+        "height": "6.36042402826855%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFIED QUALITY",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j677g0zc2gqn39f0q80nszsn-1724672115710.png",
+  "isDefault": true,
+  "createdAt": "2024-08-26T11:35:15.695Z",
+  "updatedAt": "2025-03-19T11:00:25.379Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j677g0zc2gqn39f0q80nszsn",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2147,
+  "categoryOrder": 644
+}

@@ -1,0 +1,234 @@
+{
+  "name": "473_Award_formal_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-12-2024-01:35:35_473_award_formal_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.469026548672566%",
+        "left": "6.25%",
+        "color": "#8392e3",
+        "width": "61.52866242038216%",
+        "height": "auto",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.619469026548673%",
+        "left": "6.25%",
+        "color": "#8392e3",
+        "width": "52.5%",
+        "height": "auto",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Award Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.327433628318584%",
+        "left": "6.25%",
+        "color": "#e7e1e1",
+        "width": "40.25%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.38053097345133%",
+        "left": "53.125%",
+        "color": "#8392e3",
+        "width": "14.75%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Linden Grey",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.69911504424779%",
+        "left": "11.125%",
+        "color": "#ffffff",
+        "width": "30.573248407643312%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.743362831858406%",
+        "left": "6.25%",
+        "color": "#e7e1e1",
+        "width": "70.5%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of  15 years of service, this award honors her commitment and loyalty to Omicron Technologies. This recognition reflects not only her years of service but also her passion, perseverance, and the high standards she brings to her role every day.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.42477876106194%",
+        "left": "11.125%",
+        "color": "#8392e3",
+        "width": "30.625000000000004%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.34513274336284%",
+        "left": "72.625%",
+        "color": "#8392e3",
+        "width": "14.75%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Sage Emerson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.7433628318584%",
+        "left": "53.125%",
+        "color": "#ffffff",
+        "width": "14.75%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.78761061946902%",
+        "left": "72.625%",
+        "color": "#ffffff",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "12.097628318584071%",
+        "left": "65.75%",
+        "width": "23.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-01:32:34_group_19847.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.16814159292036%",
+        "left": "72.625%",
+        "width": "12.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-01:33:04_vector_778.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.58227433628319%",
+        "left": "53.125%",
+        "width": "7.375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-01:33:22_vector_777.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jee2zjkkf53dhfkb2fm863tk-1733573138537.png",
+  "isDefault": true,
+  "createdAt": "2024-12-06T13:36:38.004Z",
+  "updatedAt": "2025-03-19T11:00:33.171Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01jee2zjkkf53dhfkb2fm863tk",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1986,
+  "categoryOrder": 556
+}

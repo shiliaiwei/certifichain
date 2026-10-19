@@ -1,0 +1,254 @@
+{
+  "name": "363_Scholarship_professional_red_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/09-07-2024-10:51:13_363_Scholarship_professional_red_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24.61725%",
+        "left": "10.412985865724382%",
+        "color": "#7e1717",
+        "width": "78.64399293286219%",
+        "height": "7.699225%",
+        "fontSize": "78em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.276375%",
+        "left": "56.07190812720848%",
+        "color": "#392626",
+        "width": "33.868374558303884%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.944875%",
+        "left": "9.905035335689046%",
+        "color": "#392626",
+        "width": "37.32879858657244%",
+        "height": "1.8584%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.798875%",
+        "left": "5.824187279151944%",
+        "color": "#392626",
+        "width": "86.17773851590105%",
+        "height": "10.08985%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has been awarded the Global Citizenship Scholarship. In honor \nof commitment to promoting cultural understanding, global awareness,\n and international cooperation. This scholarship includes funding \nfor study abroad programs and language courses",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.6953125%",
+        "left": "5.04982332155477%",
+        "color": "#7e1717",
+        "width": "88.62632508833921%",
+        "height": "7.9638625%",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Scholarship ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.359375%",
+        "left": "5.460547703180212%",
+        "color": "#2c2525",
+        "width": "34.4356890459364%",
+        "height": "4.1142625%",
+        "fontSize": "31em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jasper Hawthorne",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "85.331%",
+        "left": "7.746478873239436%",
+        "width": "30.737985865724383%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.8565%",
+        "left": "36.448763250883395%",
+        "color": "#392626",
+        "width": "24.929681978798587%",
+        "height": "2.2568375%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.03175%",
+        "left": "14.328904593639576%",
+        "color": "#2c2525",
+        "width": "17.415247349823325%",
+        "height": "1.9902375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "University Rector",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "85.05475%",
+        "left": "63.02816901408451%",
+        "width": "30.10441696113074%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.82025%",
+        "left": "68.64116607773852%",
+        "color": "#2c2525",
+        "width": "19.71201413427562%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.882375%",
+        "left": "64.80795053003533%",
+        "color": "#2c2525",
+        "width": "27.193374999999996%",
+        "height": "5.30035335689046%",
+        "fontSize": "31em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Elowen Sinclair",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.440375%",
+        "left": "40.07279151943463%",
+        "width": "20.319434628975262%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-10:32:29_pWeCfQAGdoDAOCTkYxIaS-logo.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.75%",
+        "left": "9.071342756183746%",
+        "width": "25.089752650176678%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-10:32:46_cJb4J7TEMHNVWM_ymfSQn-Group 18969.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.464875%",
+        "left": "71.40017667844522%",
+        "width": "20.60106007067138%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-10:33:07_xlsMECcf61y5q_NddoEEU-Group 18970.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2cm7ybdebt36q0zbz4qh836-1720558287221.png",
+  "isDefault": true,
+  "createdAt": "2024-07-09T20:51:27.214Z",
+  "updatedAt": "2025-03-19T11:00:20.588Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2cm7ybdebt36q0zbz4qh836",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2240,
+  "categoryOrder": 167
+}

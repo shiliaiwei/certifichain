@@ -1,0 +1,254 @@
+{
+  "name": "375_Scholarship_professional_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-07-2024-03:35:37_375_Scholarship_professional_green_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "25.916607773851585%",
+        "left": "18.50975%",
+        "color": "#41452f",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.23922261484098%",
+        "left": "38.46875%",
+        "color": "#555a3e",
+        "width": "22.87975%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.80212014134276%",
+        "left": "32.50975%",
+        "color": "#555a3e",
+        "width": "34.79975%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.67685512367491%",
+        "left": "12.25%",
+        "color": "#555a3e",
+        "width": "75.127%",
+        "height": "9.540636042402827%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has been awarded the Entrepreneurship Excellence Scholarship.\nIn recognition of their entrepreneurial spirit and innovative thinking",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.389929328621907%",
+        "left": "38.25%",
+        "color": "#555a3e",
+        "width": "20.878125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.82632508833922%",
+        "left": "16.336%",
+        "color": "#555a3e",
+        "width": "12.878125%",
+        "height": "3.8869257950530036%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Emily Davis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.19081272084806%",
+        "left": "13.005875%",
+        "color": "#555a3e",
+        "width": "19.378125%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Director of Scholarships",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.773851590106007%",
+        "left": "10.059575%",
+        "color": "#41452f",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SCHOLARSHIP AWARD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.91872791519434%",
+        "left": "68.684625%",
+        "color": "#555a3e",
+        "width": "17.627%",
+        "height": "11.130742049469964%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Megan Thomas",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.19081272084806%",
+        "left": "65.934625%",
+        "color": "#555a3e",
+        "width": "23.627%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Scholarship Committee Chair",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "86.21554770318022%",
+        "left": "11.845386533665836%",
+        "width": "21.75%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#555a3e"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "86.30812720848057%",
+        "left": "66.625%",
+        "width": "21.75%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#555a3e"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.68939929328621%",
+        "left": "40.6235%",
+        "width": "18.378875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-03:34:12_JBE_YNZpLigWNwIug67pU-logo.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.87985865724382%",
+        "left": "15.583%",
+        "width": "14.384750000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-03:34:32_fuxeec6tbu0N3DFeM48v1-Vector 87.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.11448763250883%",
+        "left": "71.36425%",
+        "width": "12.7685%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-03:34:54_6w10IE68A90f7sMr8IT0w-Vector 88.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2d4jjdy80xrt0tpg4yxwjvv-1720575423750.png",
+  "isDefault": true,
+  "createdAt": "2024-07-10T01:36:52.672Z",
+  "updatedAt": "2025-03-19T11:00:21.710Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2d4jjdy80xrt0tpg4yxwjvv",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2217,
+  "categoryOrder": 144
+}

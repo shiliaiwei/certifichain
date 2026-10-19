@@ -1,0 +1,280 @@
+{
+  "name": "123_achievement_modern_orange_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-11-2023-11:16:41_123_achievement_modern_orange_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.36725%",
+        "left": "10.034787985865725%",
+        "color": "#157147",
+        "width": "72.49204946996467%",
+        "height": "9.292975%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.09575%",
+        "left": "10.034787985865725%",
+        "color": "#1b1a1a",
+        "width": "25.631874999999997%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.09575%",
+        "left": "47.65353356890459%",
+        "color": "#1b1a1a",
+        "width": "17.67875%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.161125%",
+        "left": "21.64381625441696%",
+        "color": "#ffffff",
+        "width": "23.089752650176678%",
+        "height": "2.388675%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.3935%",
+        "left": "10.153498233215547%",
+        "color": "#1b1a1a",
+        "width": "77%",
+        "height": "9.9580125%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For your outstanding achievements and impeccable skills on the basketball court. For contribution and dedication to the sport.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "2.2597625%",
+        "left": "12.626996466431095%",
+        "color": "#e85a2f",
+        "width": "64.6422261484099%",
+        "height": "9.292975%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.006875%",
+        "left": "10.029257950530035%",
+        "color": "#1b1a1a",
+        "width": "18.625795053003532%",
+        "height": "1.9902375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Kimberley Shaffer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.475625%",
+        "left": "10.030565371024736%",
+        "color": "#1b1a1a",
+        "width": "33.764840989399296%",
+        "height": "3.0527375%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.99025%",
+        "left": "10.027879858657245%",
+        "color": "#1b1a1a",
+        "width": "21.730035335689045%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sports academy director",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.165%",
+        "left": "10.035211267605634%",
+        "width": "79.93462897526501%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#1b1a1a"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.23535%",
+        "left": "12.626996466431095%",
+        "color": "#1b1a1a",
+        "width": "42.528445229681985%",
+        "height": "4.6464875%",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.006875%",
+        "left": "47.65353356890459%",
+        "color": "#1b1a1a",
+        "width": "16.85899293286219%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Ronald T. Navarro",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.99025%",
+        "left": "47.65353356890459%",
+        "color": "#1b1a1a",
+        "width": "23.3160777385159%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Basketball master of sports",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "22.28125%",
+        "left": "15.226095406360423%",
+        "width": "4.900070671378092%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-11:06:41_mh_hiD-Db412R2B7PDkaO-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.651375%",
+        "left": "47.65353356890459%",
+        "width": "14.0721554770318%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-11:07:00_JgnanlAaGslHJJR-1H5OE-Signature_2_1_.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.00775%",
+        "left": "10.026501766784452%",
+        "width": "13.170830388692579%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-11:07:13_XmYcbwp3OdGYzzNa4-ukV-Signature_1_1_.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01heq6x02jhb3fjnpew0chm5vf-1699438611048.png",
+  "isDefault": true,
+  "createdAt": "2023-11-08T10:15:59.318Z",
+  "updatedAt": "2025-03-19T10:59:55.287Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "modern",
+    "category": "achievement"
+  },
+  "id": "01heq6x02jhb3fjnpew0chm5vf",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2753,
+  "categoryOrder": 286
+}

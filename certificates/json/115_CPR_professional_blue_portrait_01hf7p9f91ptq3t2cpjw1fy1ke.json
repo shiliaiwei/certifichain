@@ -1,0 +1,334 @@
+{
+  "name": "115_CPR_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/14-11-2023-08:51:05_115_CPR_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.94925%",
+        "left": "12.707049469964662%",
+        "color": "#020077",
+        "width": "74.22703180212014%",
+        "height": "9.955075%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "94.099625%",
+        "left": "58.911307420494694%",
+        "color": "#222222",
+        "width": "35.8547703180212%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.07425%",
+        "left": "38.76431095406361%",
+        "color": "#020077",
+        "width": "21.941342756183747%",
+        "height": "1.857425%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.46485%",
+        "left": "24.503003533568908%",
+        "color": "#020077",
+        "width": "50.99664310954064%",
+        "height": "5.125%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Emergency First Aid ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.287125%",
+        "left": "24.577561837455832%",
+        "color": "#020077",
+        "width": "15.834805653710246%",
+        "height": "1.7246125%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Evelyn Carter",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.002%",
+        "left": "28.512897526501767%",
+        "color": "#222222",
+        "width": "42.977031802120145%",
+        "height": "1.857425%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.80275%",
+        "left": "63.87067137809187%",
+        "color": "#222222",
+        "width": "7.343197879858657%",
+        "height": "1.7246125%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Nurse",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.724625%",
+        "left": "31.79098939929329%",
+        "color": "#222222",
+        "width": "36.41236749116607%",
+        "height": "1.857425%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "who has successfully completed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.80275%",
+        "left": "25.843286219081275%",
+        "color": "#222222",
+        "width": "13.303339222614841%",
+        "height": "1.7246125%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.287125%",
+        "left": "58.89876325088339%",
+        "color": "#020077",
+        "width": "17.289646643109542%",
+        "height": "1.7246125%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Amelia Roberts",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.67975%",
+        "left": "22.02685512367491%",
+        "color": "#020077",
+        "width": "55.93533568904594%",
+        "height": "2.7890625%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Basic First Aid Mastery Training                                 ",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "49.5%",
+        "left": "32.58339222614841%",
+        "width": "35.225265017667844%",
+        "height": "0.375%",
+        "backgroundColor": "#020077"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.3985%",
+        "left": "38.52279151943463%",
+        "width": "22.598233215547705%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-08:29:15_ZR0Y79XURZ_hqbPKtMh2v-Rectangle 1174.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.47075%",
+        "left": "44.67208480565371%",
+        "color": "#222222",
+        "width": "14.871360424028268%",
+        "height": "1.326175%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "HealthSymphony ",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.732375%",
+        "left": "20.84257950530035%",
+        "width": "23.652826855123674%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-08:32:27_0g3wnX83rgL229x7GEGtj-Vector 698.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.546875%",
+        "left": "55.22031802120142%",
+        "width": "22.74452296819788%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-08:32:31_C1NCPYLkJv45x1H5T6BEd-Vector 697.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.701125%",
+        "left": "40.53674911660777%",
+        "width": "3.425901060070671%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-08:32:37_b6wVM3GoKLsHUp5R4DVtg-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "25.86725%",
+        "left": "46.28286219081272%",
+        "width": "7.434293286219081%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/14-11-2023-08:33:16_9uZES4wHj73PySfYNXj2a-Vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.875%",
+        "left": "25.82809187279152%",
+        "color": "#020077",
+        "width": "48.34646643109541%",
+        "height": "5.125%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Training Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.734375%",
+        "left": "44.335335689045934%",
+        "color": "#222222",
+        "width": "15.54494699646643%",
+        "height": "1.4589875%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CORPORATION",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hf7p9f91ptq3t2cpjw1fy1ke-1699995428033.png",
+  "isDefault": true,
+  "createdAt": "2023-11-14T19:52:47.651Z",
+  "updatedAt": "2025-03-19T10:59:54.345Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01hf7p9f91ptq3t2cpjw1fy1ke",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2709,
+  "categoryOrder": 357
+}

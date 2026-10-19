@@ -1,0 +1,333 @@
+{
+  "name": "21_course_modern_navy_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-08-22-8:57:36_Modern portrait background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.083%",
+        "left": "33.32597173144876%",
+        "color": "#0d3b66",
+        "width": "62.275088339222606%",
+        "height": "7.7880875000000005%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.08940149625935%",
+        "left": "38.760070671378095%",
+        "color": "#0d3b66",
+        "width": "51.409363957597165%",
+        "height": "10.25%",
+        "fontSize": "74em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.34812967581047%",
+        "left": "50.70671378091873%",
+        "color": "#0b2545",
+        "width": "29.147879858657245%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Creator & Blogger",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.91209476309228%",
+        "left": "39.110777385159004%",
+        "color": "#0b2545",
+        "width": "51.060070671378085%",
+        "height": "7.5087874999999995%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio eget hac elementum senectus dictum. Augue tellus sed nisl in non accumsan.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.5%",
+        "left": "44.87349823321555%",
+        "color": "#0d3b66",
+        "width": "40.812720848056536%",
+        "height": "2.780275%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This Certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.49376558603491%",
+        "left": "42.29169611307421%",
+        "color": "#1c1c1c",
+        "width": "44.3422261484099%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.79089775561098%",
+        "left": "53.599116607773844%",
+        "color": "#1c1c1c",
+        "width": "22.080742049469965%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.4569825436409%",
+        "left": "56.15954063604241%",
+        "color": "#0d3b66",
+        "width": "16.607773851590103%",
+        "height": "2.75%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Filip Wallace",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.9007481296758%",
+        "left": "56.77667844522968%",
+        "color": "#0d3b66",
+        "width": "15.371024734982333%",
+        "height": "2.502925%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issue Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.56895261845386%",
+        "left": "48.589222614840985%",
+        "color": "#1c1c1c",
+        "width": "17.663710247349822%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Visit our website:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.90660847880299%",
+        "left": "46.55547703180212%",
+        "color": "#0d3b66",
+        "width": "37.451766784452296%",
+        "height": "5.5625%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of Appreciation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.489650872817954%",
+        "left": "51.50176678445229%",
+        "color": "#0b2545",
+        "width": "24.73498233215548%",
+        "height": "7.5%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Nec fermentum nisi\nPellentesque adipiscing\nConsequat eget",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.50985037406483%",
+        "left": "48.58798586572438%",
+        "color": "#1c1c1c",
+        "width": "12.010000000000002%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Contact us:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.56895261845386%",
+        "left": "66.42826855123674%",
+        "color": "#1c1c1c",
+        "width": "18.72385159010601%",
+        "height": "2.125%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "yourwebsite.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.50985037406483%",
+        "left": "60.77455830388693%",
+        "color": "#1c1c1c",
+        "width": "23.494169611307424%",
+        "height": "5%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "youremail@gmail.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.60349127182045%",
+        "left": "53.86272084805653%",
+        "color": "#0d3b66",
+        "width": "21.20141342756184%",
+        "height": "2.780275%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5%",
+        "left": "49.64116607773851%",
+        "width": "30%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-08-22-8:57:50_Group 275.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.3985%",
+        "left": "38.58286219081272%",
+        "width": "8.523356890459363%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-08-22-8:58:12_Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12922-1664717745494.png",
+  "isDefault": true,
+  "createdAt": "2022-08-20T19:01:27.308Z",
+  "updatedAt": "2025-03-19T10:59:44.552Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "modern",
+    "category": "course"
+  },
+  "id": "01gaya3a4c1cjtxw077hwr3zt8",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2927,
+  "categoryOrder": 106
+}

@@ -1,0 +1,378 @@
+{
+  "name": "590_ConstructionCompletion_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/09-03-2025-06:36:12_590_constructioncompletion_professional_blue_landscape2x-2.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "29.38053097345133%",
+        "left": "39.25%",
+        "color": "#232c3a",
+        "width": "20.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "underline"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.91150442477876%",
+        "left": "70.125%",
+        "width": "12%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-03-2025-05:09:39_vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.2477876106194685%",
+        "left": "90.75%",
+        "width": "4.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-03-2025-05:09:42_qr.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "3.893805309734513%",
+        "left": "5.125%",
+        "width": "11.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-03-2025-05:09:45_group_20672.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.35398230088496%",
+        "left": "5.125%",
+        "color": "#000",
+        "width": "89.875%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This Certificate of Construction Completion, issued by ABC Construction Company, confirms the completion of the City Bridge \nExpansion Project, including the construction of a new bridge lane and pedestrian walkway, commissioned by City of Public Works",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.132743362831858%",
+        "left": "70.125%",
+        "color": "#000",
+        "width": "18.625%",
+        "height": "auto",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "QR Code is attached \nfor additional verification",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.38053097345133%",
+        "left": "5.25%",
+        "color": "#000",
+        "width": "22.75%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "underline"
+      },
+      "value": "Contract Number: CB-2023-045",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.743362831858406%",
+        "left": "5.25%",
+        "color": "#000",
+        "width": "22.75%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "underline"
+      },
+      "value": "Project: City Bridge Expansion",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.38053097345133%",
+        "left": "34.375%",
+        "color": "#000",
+        "width": "4.875%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "underline"
+      },
+      "value": "Owner:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.72566265486726%",
+        "left": "34.375%",
+        "color": "#000",
+        "width": "11.75%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "underline"
+      },
+      "value": "Date of Issuance:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.743362831858406%",
+        "left": "45.75%",
+        "color": "#000",
+        "width": "14.75%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "underline"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.67256637168141%",
+        "left": "5.375%",
+        "color": "#000",
+        "width": "10.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Department.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.575221238938056%",
+        "left": "5.375%",
+        "color": "#000",
+        "width": "92.125%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This certificate certifies compliance with all relevant building codes, safety standards, and contractual agreements, with full project details accessible via the provided QR code and verification inquiries directed to contact@abcconstruction.com.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.14159292035397%",
+        "left": "34.75%",
+        "color": "#5a7093",
+        "width": "5.375%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Dates:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.14159292035397%",
+        "left": "5.375%",
+        "color": "#5a7093",
+        "width": "15%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Financial Information:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.9203539823009%",
+        "left": "5.25%",
+        "color": "#000",
+        "width": "33.375%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Total Project Cost: $15,800,000\nOriginal Contract Value: $14,500,000\nOutstanding Balance: $1,300,000",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.929203539823%",
+        "left": "70.125%",
+        "color": "#000",
+        "width": "25.874999999999996%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "John Doe, Project Manager\nCertificate Number CB-EXP-2023-789",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.9203539823009%",
+        "left": "34.625%",
+        "color": "#000",
+        "width": "31.874999999999996%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Begin Construction Date: March 15, 2023\nSubstantial Completion Date: January 10, 2025\nFinal Completion Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.58407079646018%",
+        "left": "50%",
+        "color": "#000",
+        "width": "16%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.73451327433628%",
+        "left": "31%",
+        "color": "#cccccc",
+        "width": "37.875%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Contact Information:\n123 Builder's Lane, Suite 400\nPhone: (555) 123-4567, Email: contact@abcconstruction.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.283185840707965%",
+        "left": "5.25%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Completion",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jnxqaa21an5dt9dgwft2n2qd-1741538572927.png",
+  "isDefault": true,
+  "createdAt": "2025-03-09T15:10:30.467Z",
+  "updatedAt": "2025-03-19T11:00:43.635Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jnxqaa21an5dt9dgwft2n2qd",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1755,
+  "categoryOrder": 522
+}

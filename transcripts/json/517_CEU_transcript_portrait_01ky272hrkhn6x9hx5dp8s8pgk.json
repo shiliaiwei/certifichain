@@ -1,0 +1,1209 @@
+{
+  "name": "517_CEU_transcript_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-07-2026-01:30:27_517_ceu_transcript_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "13.772390761548065%",
+        "left": "19.929453262786595%",
+        "color": "#07162d",
+        "width": "31.216931216931215%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5%",
+        "left": "9.275618374558304%",
+        "color": "#07162d",
+        "width": "81.44876325088339%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Continuing Education Credit Transcript",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.8976279650437%",
+        "left": "16.525573192239857%",
+        "color": "#2f2f2f",
+        "width": "38.80070546737213%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.7255%",
+        "left": "59.2593%",
+        "color": "#07162d",
+        "width": "26.278659611992943%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.998%",
+        "left": "7.50883%",
+        "color": "#07162d",
+        "width": "20.848056537102476%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Recipient",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.0274%",
+        "left": "51.2367%",
+        "color": "#07162d",
+        "width": "20.848056537102476%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Provider",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.0381%",
+        "left": "7.59717%",
+        "color": "#07162d",
+        "width": "12.36749116607774%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Professional Name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.7031%",
+        "left": "7.59717%",
+        "color": "#07162d",
+        "width": "39.399293286219084%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "License Number:\u00a0[License Number]\u2028\nProfession:\u00a0[profession.name]\u2028\nCertification Type:\u00a0[certification.type]\nEmployer:\u00a0[Organization]\u2028\nReporting Period:\u00a0[reporting.period]\nRenewal Period Covered:\u00a0[renewal.period]\u2028\nTranscript Status:\u00a0Complete",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.782225%",
+        "left": "51.32508833922261%",
+        "color": "#07162d",
+        "width": "39.399293286219084%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Provider: [provider.name]\nProvider ID#: [provider.id]\nRecognized by: IFC CERP \u00b7 \nGFIA\u2028Approved by: Global Financial Institute for Accreditation\u2028Approval valid: Jan 1, 2023 \u2013 Dec 31, 2026",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.7881%",
+        "left": "51.2367%",
+        "color": "#07162d",
+        "width": "8.12720848056537%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date Issued:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.0381%",
+        "left": "7.59579%",
+        "color": "#07162d",
+        "width": "3.356890459363958%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.500000000000004%",
+        "left": "7.508833922261485%",
+        "color": "#07162d",
+        "width": "37.455830388692576%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Main Continuing Education Credit Transcript Table",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.1631%",
+        "left": "17.3145%",
+        "color": "#07162d",
+        "width": "8.8339222614841%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Credit Source",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.125%",
+        "left": "27.0663%",
+        "color": "#07162d",
+        "width": "8.8339222614841%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Credit Type",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.1064%",
+        "left": "36.9258%",
+        "color": "#07162d",
+        "width": "11.307420494699647%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Credit Description",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.0814%",
+        "left": "52.4721%",
+        "color": "#07162d",
+        "width": "14.487632508833922%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Contact Hours / CEUs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.1621%",
+        "left": "68.0226%",
+        "color": "#07162d",
+        "width": "4.946996466431095%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Status",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.15645%",
+        "left": "77.91519434628975%",
+        "color": "#07162d",
+        "width": "9.010600706713781%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Activity ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.37499999999999%",
+        "left": "7.597173144876325%",
+        "color": "#07162d",
+        "width": "13.074204946996467%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Total Contact Hours:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.75%",
+        "left": "7.59579%",
+        "color": "#07162d",
+        "width": "37.455830388692576%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Credit Summary",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.4875%",
+        "left": "7.544169611307421%",
+        "color": "#07162d",
+        "width": "37.455830388692576%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Credit Type / Status Legend",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.75%",
+        "left": "7.597173144876325%",
+        "color": "#07162d",
+        "width": "37.455830388692576%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Verification",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.1739%",
+        "left": "53.8869%",
+        "color": "#07162d",
+        "width": "9.010600706713781%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Kelly Hood",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.164%",
+        "left": "7.59579%",
+        "color": "#07162d",
+        "width": "7.597173144876325%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Total CEUs:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.75%",
+        "left": "7.597173144876325%",
+        "color": "#07162d",
+        "width": "10.070671378091872%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Renewal Period:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.414%",
+        "left": "51.2367%",
+        "color": "#07162d",
+        "width": "11.307420494699647%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Credits Approved:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.1972%",
+        "left": "51.1837%",
+        "color": "#07162d",
+        "width": "14.487632508833922%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Credits Pending:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.789%",
+        "left": "51.2367%",
+        "color": "#07162d",
+        "width": "11.307420494699647%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Required Credits:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.2844%",
+        "left": "21.5168%",
+        "color": "#07162d",
+        "width": "9.876543209876543%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[total.hours]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.9372%",
+        "left": "21.5168%",
+        "color": "#07162d",
+        "width": "9.876543209876543%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[total.ceu]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.875%",
+        "left": "21.554770318021202%",
+        "color": "#07162d",
+        "width": "9.89399293286219%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[renewal.period]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.481449999999995%",
+        "left": "64.31095406360424%",
+        "color": "#07162d",
+        "width": "7.06713780918728%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "0.8 CEUs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.209475%",
+        "left": "64.25795053003533%",
+        "color": "#07162d",
+        "width": "7.06713780918728%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "0",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.79395%",
+        "left": "64.31095406360424%",
+        "color": "#07162d",
+        "width": "11.307420494699647%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[Required Credits]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.5%",
+        "left": "10.070671378091872%",
+        "color": "#282828",
+        "width": "79.15194346289752%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Live Lecture CE \u2014 continuing education credit earned through live lecture educational method\nContact Hours \u2014 instructional hours completed\nCEU \u2014 Continuing Education Unit (10 contact hours = 1.0 CEU)\nApproved \u2014 credit accepted and recorded on this transcript\nPending Approval \u2014 submitted, awaiting confirmation\n\nCredits listed were provider-reported by Elite Finance Academy. IFC CERP recognition assists financial professionals in identifying \nquality providers of continuing financial education. Approval does not imply acceptance by any state or provincial financial certification \nboard.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.80645%",
+        "left": "7.773851590106007%",
+        "color": "#07162d",
+        "width": "25.265017667844525%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEU Transcript ID: [transcript.id]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.5625%",
+        "left": "7.6855123674911665%",
+        "color": "#07162d",
+        "width": "28.79858657243816%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Activity ID: [activity.id]\nCode: FINTR-2024-03-5\nProvider ID#: [provider.id]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.18145%",
+        "left": "7.6855123674911665%",
+        "color": "#07162d",
+        "width": "8.8339222614841%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Credential ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.915525%",
+        "left": "53.71024734982333%",
+        "color": "#07162d",
+        "width": "19.081272084805654%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEU Certification Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.60645%",
+        "left": "53.71024734982333%",
+        "color": "#07162d",
+        "width": "13.780918727915195%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.3506%",
+        "left": "7.59717%",
+        "color": "#07162d",
+        "width": "86.04240282685512%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This continuing education credit transcript certifies the continuing education activities completed by the recipient during the reporting period stated above.\u2028\nThis transcript has been issued by the named continuing education provider and may be verified using credential ID. Credit totals are based on approved continuing education activities listed in this transcript. Licensees should maintain this document in the event of an audit. This record may be retained for license renewal, recertification, employer review, or audit purposes.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.375%",
+        "left": "7.597173144876325%",
+        "color": "#282828",
+        "width": "8.303886925795052%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit1.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.25%",
+        "left": "7.45583%",
+        "color": "#282828",
+        "width": "8.303886925795052%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit2.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40%",
+        "left": "7.597173144876325%",
+        "color": "#282828",
+        "width": "8.303886925795052%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit3.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45%",
+        "left": "7.544169611307421%",
+        "color": "#282828",
+        "width": "8.303886925795052%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit4.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.6013%",
+        "left": "17.2699%",
+        "color": "#282828",
+        "width": "9.700176366843033%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit1.source]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.22176654182272%",
+        "left": "17.28395061728395%",
+        "color": "#282828",
+        "width": "9.700176366843033%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit2.source]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.091928838951304%",
+        "left": "17.46031746031746%",
+        "color": "#282828",
+        "width": "9.523809523809524%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit3.source]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.1567%",
+        "left": "17.0936%",
+        "color": "#282828",
+        "width": "9.700176366843033%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit4.source]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.211%",
+        "left": "27.0318%",
+        "color": "#282828",
+        "width": "8.303886925795052%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit4.type]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.0375%",
+        "left": "27.014134275618375%",
+        "color": "#282828",
+        "width": "8.303886925795052%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit3.type]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.2189375%",
+        "left": "27.03180212014134%",
+        "color": "#282828",
+        "width": "8.303886925795052%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit2.type]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.4064375%",
+        "left": "27.014134275618375%",
+        "color": "#282828",
+        "width": "8.303886925795052%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit1.type]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.5628875%",
+        "left": "36.74911660777385%",
+        "color": "#282828",
+        "width": "13.250883392226148%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit1.description]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.329588014981276%",
+        "left": "36.860670194003525%",
+        "color": "#282828",
+        "width": "13.239541446208115%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit2.description]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40%",
+        "left": "36.92579505300353%",
+        "color": "#282828",
+        "width": "13.250883392226148%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit3.description]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.25%",
+        "left": "36.92579505300353%",
+        "color": "#282828",
+        "width": "15.01766784452297%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit4.description]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.8196%",
+        "left": "52.381%",
+        "color": "#282828",
+        "width": "11.816578483245149%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit3.hours.ceu]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.9325%",
+        "left": "52.5573%",
+        "color": "#282828",
+        "width": "11.64021164021164%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit4.hours.ceu]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.346610486891386%",
+        "left": "52.38095238095239%",
+        "color": "#282828",
+        "width": "11.816578483245149%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit2.hours.ceu]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.4764481897628%",
+        "left": "52.38095238095239%",
+        "color": "#282828",
+        "width": "13.403880070546737%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit1.hours.ceu]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.60129213483146%",
+        "left": "68.07760141093475%",
+        "color": "#282828",
+        "width": "8.641975308641975%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit1.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.346610486891386%",
+        "left": "68.07760141093475%",
+        "color": "#282828",
+        "width": "8.641975308641975%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit2.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.085686641697876%",
+        "left": "68.07760141093475%",
+        "color": "#282828",
+        "width": "9.700176366843033%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit4.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.96708489388265%",
+        "left": "68.07760141093475%",
+        "color": "#282828",
+        "width": "9.700176366843033%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit3.status]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.9875%",
+        "left": "77.91519434628975%",
+        "color": "#282828",
+        "width": "10.954063604240282%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit3.id]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.329588014981276%",
+        "left": "77.77777777777779%",
+        "color": "#282828",
+        "width": "10.944761904761906%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit2.id]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.4991%",
+        "left": "78.0282%",
+        "color": "#282828",
+        "width": "10.954063604240282%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit1.id]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.1%",
+        "left": "77.91519434628975%",
+        "color": "#282828",
+        "width": "10.954063604240282%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[credit4.id]",
+      "autoScale": false
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "82.7375%",
+        "left": "72.79151943462897%",
+        "width": "10.424028268551238%",
+        "height": "5.5%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 86 43\"><path stroke=\"#0A3272\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M9.30116 8.29039C7.35946 11.8808 5.66166 15.6034 3.64928 19.1527C2.9659 20.358 2.47235 21.7212 1.6045 22.8097C0.289763 24.4586 1.64957 22.5555 2.14713 21.8995C3.52796 20.0789 4.97381 18.1822 6.61049 16.5716C8.65729 14.5575 10.8921 12.739 12.9595 10.74C13.5932 10.1272 14.9688 9.25854 13.475 10.1245C11.1934 11.4472 9.19647 13.2988 7.1109 14.9106C6.56728 15.3307 5.75024 15.6661 6.30449 16.3833C6.58229 16.7428 7.03772 17.0596 7.36248 17.4348C8.72846 19.013 11.0613 19.4983 12.8725 18.4817C14.1631 17.7574 15.0804 17.3211 16.0452 16.162C16.6354 15.453 16.3714 15.3306 15.6 15.2317C14.6203 15.1062 13.4814 16.9976 14.118 17.8213C14.522 18.3442 14.8389 18.3929 15.472 18.4741C16.2947 18.5795 16.8481 18.1662 17.619 18.1742C18.8779 18.1872 20.4336 16.5476 21.0179 15.5853C21.8331 14.2426 23.1349 13.0525 24.2522 11.953C25.4832 10.7417 23.4602 13.8466 23.1025 14.2763C22.4128 15.1049 22.3402 15.9098 21.8631 16.8012C21.4283 17.6136 21.9109 17.8597 22.6446 17.8491C23.8096 17.8323 24.8238 17.0098 25.578 16.2336C26.5684 15.2141 27.6844 14.1853 28.7892 13.2799C29.7031 12.531 28.5493 14.1828 28.328 14.552C27.9785 15.1352 27.4992 15.8673 27.4112 16.5537C27.3636 16.9256 28.8594 16.9473 29.1096 16.8459C29.6312 16.6346 30.6335 15.471 31.0213 15.9727C31.2148 16.2231 31.6461 16.6926 31.9858 16.7566C32.6477 16.8813 32.9818 16.464 32.8777 17.2756C32.6901 18.7396 31.8449 19.4133 31.143 20.6741C28.4878 25.4437 25.2763 29.864 22.4265 34.5089\"/><path stroke=\"#0A3272\" stroke-linecap=\"round\" stroke-width=\"2\" d=\"M49.857 10.4202C48.8672 12.8793 45.0571 19.8346 46.5851 17.6685C46.9619 17.1344 47.6888 16.8325 48.2631 16.5417C49.7269 15.8004 51.2056 15.0698 52.6852 14.3609C53.7799 13.8363 55.1396 13.8091 56.2757 13.3514C56.6462 13.2021 58.621 12.0665 58.4775 12.2917C57.889 13.2152 56.5415 16.0691 58.389 16.3059C59.549 16.4545 60.5722 16.394 61.724 16.5416C62.6561 16.661 63.1845 15.3869 64.0621 15.4994C64.5943 15.5676 65.3173 15.1432 65.7852 15.4327C66.4404 15.8381 67.2188 15.9039 67.9701 16.0002C69.1749 16.1546 70.5718 16.2924 71.1361 14.9789C71.2611 14.6881 72.1022 15.5162 72.2938 15.5852C72.7402 15.7463 73.3301 15.7287 73.8012 15.7891C74.3372 15.8578 75.817 15.1471 75.9747 14.5341C76.1374 13.9018 76.3768 14.7582 76.5395 14.9473C76.8428 15.2998 77.6276 15.408 78.0724 15.3674C78.5398 15.3246 78.7469 14.6103 78.6878 14.2215C78.6127 13.727 77.3902 13.7571 77.0386 13.712C76.4818 13.6406 76.1722 14.2509 76.3697 14.7764C76.5131 15.158 77.974 15.225 78.2865 15.1925C79.6266 15.0531 81.2526 13.5798 82.2549 12.7298C82.7739 12.2897 83.325 11.8141 83.7791 11.3064C84.0647 10.9872 84.5208 10.0254 84.703 10.4131C84.9382 10.9137 83.7248 12.7806 83.4544 13.3415C83.1406 13.9925 82.7119 14.3159 82.6118 15.0971C82.5169 15.8374 83.7774 16.8759 84.4808 16.9661\"/></svg>"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01ky272hrkhn6x9hx5dp8s8pgk-1787043967198.png",
+  "isDefault": true,
+  "createdAt": "2026-07-21T11:30:44.122Z",
+  "updatedAt": "2026-08-18T09:06:11.049Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "category": "ceu"
+  },
+  "id": "01ky272hrkhn6x9hx5dp8s8pgk",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "transcript",
+  "galleryOrder": 23,
+  "categoryOrder": null
+}

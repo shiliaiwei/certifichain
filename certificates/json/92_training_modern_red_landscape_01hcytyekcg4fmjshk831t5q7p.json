@@ -1,0 +1,273 @@
+{
+  "name": "92_training_modern_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-10-2023-02:43:38_92_training_modern_green_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.57597173144876%",
+        "left": "31.836%",
+        "color": "#1f262c",
+        "width": "53.40825%",
+        "height": "14.575971731448764%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.78445229681978%",
+        "left": "46.32325%",
+        "color": "#212121",
+        "width": "28.381875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.3286219081272%",
+        "left": "68.272%",
+        "color": "#212121",
+        "width": "24.80375%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.53356890459364%",
+        "left": "77.55475%",
+        "color": "#1f262c",
+        "width": "17.413125%",
+        "height": "4.770318021201414%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.58127208480565%",
+        "left": "28.265625%",
+        "color": "#212121",
+        "width": "11.7109375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Buck Rich",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.671766784452295%",
+        "left": "39.36775%",
+        "color": "#1f262c",
+        "width": "41.807625%",
+        "height": "12.7208480565371%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.94646643109541%",
+        "left": "47.705%",
+        "color": "#0b1937",
+        "width": "25.131875000000004%",
+        "height": "4.770318021201414%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.714134275618378%",
+        "left": "49.74225%",
+        "color": "#1f262c",
+        "width": "21.057625%",
+        "height": "5.830388692579505%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.62897526501767%",
+        "left": "23.262625%",
+        "color": "#0b1937",
+        "width": "73.558625%",
+        "height": "11.925795053003533%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed a Course on UX/UI Design. Your attention to detail, analytical approach to tasks, and ability to translate your ideas into a user-friendly UI were key components to the successful completion of this course.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.46413427561838%",
+        "left": "76.327125%",
+        "color": "#212121",
+        "width": "8.6933625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded on",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "50.79505300353356%",
+        "left": "33.1465%",
+        "width": "54.50000000000001%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#1f262c"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.36395759717314%",
+        "left": "29.551122194513717%",
+        "width": "19%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#ebe9d4"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.0113074204947%",
+        "left": "71.298875%",
+        "width": "19%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#ebe9d4"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.46537102473498%",
+        "left": "34.579125%",
+        "color": "#212121",
+        "width": "8.6933625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Art Director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.32985865724382%",
+        "left": "39.59575%",
+        "width": "10.7558625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-02:41:43_pPndXLxL72ajsT-QJ21Lv-Vector 264.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.153321554770318%",
+        "left": "94.79975%",
+        "width": "2.5224625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-02:42:01_8VOvYls8dGqqX_lUyhdGV-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hcytyekcg4fmjshk831t5q7p-1697622993425.png",
+  "isDefault": true,
+  "createdAt": "2023-10-17T12:49:35.854Z",
+  "updatedAt": "2025-03-19T10:59:52.054Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "modern",
+    "category": "training"
+  },
+  "id": "01hcytyekcg4fmjshk831t5q7p",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2786,
+  "categoryOrder": 404
+}

@@ -1,0 +1,1214 @@
+{
+  "name": "197_CEU_tracker_landscape",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1123 794\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><g clip-path=\"url(#clip0_1_17094)\"><rect width=\"1123\" height=\"794\" fill=\"#FDFFFC\"/><rect x=\"5\" y=\"5\" width=\"1113\" height=\"784\" stroke=\"#213C07\" stroke-width=\"10\"/><rect x=\"22\" y=\"22\" width=\"1079\" height=\"750\" stroke=\"#213C07\" stroke-width=\"4\" stroke-dasharray=\"20 20\"/><rect x=\"60\" y=\"315\" width=\"167.167\" height=\"26\" fill=\"#F0F3ED\"/><rect x=\"60\" y=\"315\" width=\"167.167\" height=\"26\" stroke=\"#E0E6DC\"/><rect x=\"227.167\" y=\"315\" width=\"167.167\" height=\"26\" fill=\"#F0F3ED\"/><rect x=\"227.167\" y=\"315\" width=\"167.167\" height=\"26\" stroke=\"#E0E6DC\"/><rect x=\"394.333\" y=\"315\" width=\"167.167\" height=\"26\" fill=\"#F0F3ED\"/><rect x=\"394.333\" y=\"315\" width=\"167.167\" height=\"26\" stroke=\"#E0E6DC\"/><rect x=\"561.5\" y=\"315\" width=\"167.167\" height=\"26\" fill=\"#F0F3ED\"/><rect x=\"561.5\" y=\"315\" width=\"167.167\" height=\"26\" stroke=\"#E0E6DC\"/><rect x=\"728.667\" y=\"315\" width=\"167.167\" height=\"26\" fill=\"#F0F3ED\"/><rect x=\"728.667\" y=\"315\" width=\"167.167\" height=\"26\" stroke=\"#E0E6DC\"/><rect x=\"895.833\" y=\"315\" width=\"167.167\" height=\"26\" fill=\"#F0F3ED\"/><rect x=\"895.833\" y=\"315\" width=\"167.167\" height=\"26\" stroke=\"#E0E6DC\"/><rect x=\"60\" y=\"341\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"227.167\" y=\"341\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"394.333\" y=\"341\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"561.5\" y=\"341\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"728.667\" y=\"341\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"895.833\" y=\"341\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"60\" y=\"381\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"227.167\" y=\"381\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"394.333\" y=\"381\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"561.5\" y=\"381\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"728.667\" y=\"381\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"895.833\" y=\"381\" width=\"167.167\" height=\"40\" stroke=\"#E0E6DC\"/><rect x=\"60\" y=\"421\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"227.167\" y=\"421\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"394.333\" y=\"421\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"561.5\" y=\"421\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"728.667\" y=\"421\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"895.833\" y=\"421\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"60\" y=\"475\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"227.167\" y=\"475\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"394.333\" y=\"475\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"561.5\" y=\"475\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"728.667\" y=\"475\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/><rect x=\"895.833\" y=\"475\" width=\"167.167\" height=\"54\" stroke=\"#E0E6DC\"/></g><defs><clipPath id=\"clip0_1_17094\"><rect width=\"1123\" height=\"794\" fill=\"white\"/></clipPath></defs></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "19.7618%",
+        "left": "20.0999%",
+        "color": "#484848",
+        "width": "27.590511860174782%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.91%",
+        "left": "5.54569%",
+        "color": "#223e0c",
+        "width": "54.64632454923717%",
+        "fontSize": "37em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Continuing Education Log",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.654%",
+        "left": "5.54785%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Member Name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.3847%",
+        "left": "5.49237%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Member ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.1413%",
+        "left": "5.54785%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Job Title:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.8857%",
+        "left": "5.49237%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "License Number:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.6684%",
+        "left": "5.54785%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Reporting Period:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.5739%",
+        "left": "5.49237%",
+        "color": "#484848",
+        "width": "12.62135922330097%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Renewal Period Covered:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.797544169611307%",
+        "left": "20.34956304619226%",
+        "color": "#484848",
+        "width": "16.729088639201%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[member.id]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.376%",
+        "left": "20.3329%",
+        "color": "#484848",
+        "width": "12.62135922330097%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[job.title]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.3998%",
+        "left": "20.2497%",
+        "color": "#484848",
+        "width": "12.62135922330097%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[licence.number]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.8825%",
+        "left": "20.1964%",
+        "color": "#484848",
+        "width": "12.62135922330097%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[reporting.period]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.654223968565816%",
+        "left": "20.110957004160888%",
+        "color": "#484848",
+        "width": "12.62135922330097%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[renewal.period]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.842829076620824%",
+        "left": "65.88072122052705%",
+        "color": "#484848",
+        "width": "27.600554785020805%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Professional Accounting Education Program",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.5841%",
+        "left": "65.8252%",
+        "color": "#484848",
+        "width": "27.600554785020805%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PAEP-CE-00831",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.7965%",
+        "left": "51.0261%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Provider:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.593320235756384%",
+        "left": "50.98474341192788%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Provider ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.4943%",
+        "left": "50.9847%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Contact E-mail:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.0713%",
+        "left": "50.9847%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date Issued:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.27504911591356%",
+        "left": "6.38002773925104%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.2483%",
+        "left": "21.1588%",
+        "color": "#484848",
+        "width": "9.015256588072122%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Activity",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.28764243614931%",
+        "left": "35.97780859916782%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Sponsoring Organization",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.24834970530452%",
+        "left": "51.054091539528436%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Duration",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.24834970530452%",
+        "left": "65.9500693481276%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Credits/Hours Earned",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.24834970530452%",
+        "left": "80.72122052704577%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Notes",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.53045186640472%",
+        "left": "51.04022191400832%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Credential ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.1996%",
+        "left": "50.9847%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CEU Record ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.7819253438114%",
+        "left": "5.409153952843273%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Subtotal:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.0008%",
+        "left": "5.35368%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Renewal Period:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.2503%",
+        "left": "5.35368%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Total Contact Hours:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.5014%",
+        "left": "5.35368%",
+        "color": "#484848",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Total Credits Earned:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.6582%",
+        "left": "28.5714%",
+        "color": "#000000",
+        "width": "12.76005547850208%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Derek Baker",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.6581532416503%",
+        "left": "5.381414701803051%",
+        "color": "#000000",
+        "width": "12.76005547850208%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Richard Black",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.335%",
+        "left": "28.5703%",
+        "color": "#000000",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Program Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.40864440078585%",
+        "left": "5.381414701803051%",
+        "color": "#000000",
+        "width": "12.76005547850208%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.21180746561886%",
+        "left": "51.04022191400832%",
+        "color": "#000000",
+        "width": "46.463245492371705%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Keep this log for license renewal or audit purposes.\u2028\nEntries reflect completed professional development activities during the reporting period.\u2028\nThis certificate may be used to validate the training requirements of a continuing \neducation program.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.50072438162545%",
+        "left": "20.224719101123593%",
+        "color": "#000000",
+        "width": "11.235955056179774%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[total.ceu]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.79453180212015%",
+        "left": "20.224719101123593%",
+        "color": "#000000",
+        "width": "6.991260923845194%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[total.hours]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.03143418467585%",
+        "left": "20.19417475728155%",
+        "color": "#000000",
+        "width": "7.766990291262135%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[renewal.period]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.81416502946955%",
+        "left": "20.249653259361995%",
+        "color": "#000000",
+        "width": "11.234396671289876%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "5.5 CEUs (55 hours)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.1348%",
+        "left": "60.0499%",
+        "color": "#000000",
+        "width": "35.95505617977528%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[ceu.record]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.4046%",
+        "left": "6.36704%",
+        "color": "#000000",
+        "width": "11.735330836454432%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity1.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.3456%",
+        "left": "6.36704%",
+        "color": "#000000",
+        "width": "10.861423220973784%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity2.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.539593639575976%",
+        "left": "6.367041198501873%",
+        "color": "#000000",
+        "width": "9.113607990012484%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity3.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.253374558303896%",
+        "left": "6.367041198501873%",
+        "color": "#000000",
+        "width": "9.113607990012484%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity3.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.37917485265226%",
+        "left": "21.221067961165048%",
+        "color": "#000000",
+        "width": "10.679611650485436%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity1.title]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.52652259332024%",
+        "left": "21.24880721220527%",
+        "color": "#000000",
+        "width": "10.679611650485436%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity2.title]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.5625%",
+        "left": "21.165%",
+        "color": "#000000",
+        "width": "11.789181692094314%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity3.title]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.34656188605108%",
+        "left": "21.248266296809984%",
+        "color": "#000000",
+        "width": "11.789181692094314%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity4.title]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.28644400785855%",
+        "left": "35.92233009708738%",
+        "color": "#000000",
+        "width": "11.789181692094314%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity1.sponsor]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.5756%",
+        "left": "36.1965%",
+        "color": "#000000",
+        "width": "11.789181692094314%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity2.sponsor]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.63457760314342%",
+        "left": "36.18585298196948%",
+        "color": "#000000",
+        "width": "11.789181692094314%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity3.sponsor]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.921414538310415%",
+        "left": "36.42163661581137%",
+        "color": "#000000",
+        "width": "11.789181692094314%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity4.sponsor]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.07368374558304%",
+        "left": "51.06117353308365%",
+        "color": "#000000",
+        "width": "12.734082397003746%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity4.duration]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.23622791519434%",
+        "left": "51.06117353308365%",
+        "color": "#000000",
+        "width": "11.36079900124844%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity2.duration]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.12159010600706%",
+        "left": "51.06117353308365%",
+        "color": "#000000",
+        "width": "11.36079900124844%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity1.duration]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.35990282685512%",
+        "left": "51.06117353308365%",
+        "color": "#000000",
+        "width": "11.36079900124844%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[activity3.duration]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.4538%",
+        "left": "65.9501%",
+        "color": "#000000",
+        "width": "8.599167822468793%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "0.5 CEU / 5.0 hrs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.4544%",
+        "left": "65.7004%",
+        "color": "#000000",
+        "width": "8.599167822468793%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "0.5 CEU / 5.0 hrs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.52339882121808%",
+        "left": "65.9361997226075%",
+        "color": "#000000",
+        "width": "8.599167822468793%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "0.5 CEU / 5.0 hrs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.62752455795678%",
+        "left": "65.71428571428571%",
+        "color": "#000000",
+        "width": "8.599167822468793%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "4.0 CEU / 40.0 hrs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.2882%",
+        "left": "80.7212%",
+        "color": "#000000",
+        "width": "10.263522884882107%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In-person workshop; applied budgeting techniques",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.4719%",
+        "left": "80.7212%",
+        "color": "#000000",
+        "width": "11.234396671289876%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Special course program; Verification Code B-748596",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.447937131630646%",
+        "left": "80.72122052704577%",
+        "color": "#000000",
+        "width": "11.234396671289876%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Live webinar; ethics requirement fulfilled",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.48998035363458%",
+        "left": "80.72122052704577%",
+        "color": "#000000",
+        "width": "13.176144244105409%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Self-paced module; annual standards review",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.106876227897835%",
+        "left": "65.89459084604717%",
+        "color": "#000000",
+        "width": "11.234396671289876%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "March 4, 2024",
+      "autoScale": false
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "84.28290766208252%",
+        "left": "37.43411927877947%",
+        "width": "7.766990291262135%",
+        "height": "8.25147347740668%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 84 45\"><path stroke=\"#484848\" stroke-linecap=\"round\" d=\"M4.08766 11.5374C8.41464 11.2041 12.5946 8.47146 15.8205 5.74434C16.5393 5.13664 22.158 -1.44705 20.52 1.55159C16.4081 9.07896 13.2272 17.1183 9.52248 24.8517C9.03033 25.8791 4.4065 38.8521 1.53009 36.7578C-5.09722 31.9325 22.3856 18.6654 23.3333 18.1305C27.3202 15.8806 37.9024 9.40084 33.3718 8.75287C31.0344 8.41858 29.4965 13.1613 29.983 14.866C30.7651 17.6066 39.7106 13.5868 40.8207 13.0416C45.8372 10.5779 50.0102 6.58102 54.088 2.83182C61.6234 -4.09621 43.8235 6.72566 54.088 5.64832C58.524 5.18273 70.5602 -1.11243 66.6521 1.0395C64.3095 2.32936 54.9681 12.2271 58.308 14.6419C61.9027 17.241 68.4659 14.0391 71.927 16.8503C74.179 18.6795 67.9234 26.3181 67.1316 27.3482C62.7482 33.0507 56.9157 37.7738 50.5074 41.0146C47.4214 42.5753 43.8008 44.1534 40.3092 44.4712C34.675 44.984 41.229 38.4898 42.1314 37.59C54.3198 25.4375 69.1863 16.3171 83.5 6.92855\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "84.3029%",
+        "left": "14.7148%",
+        "width": "7.766990291262135%",
+        "height": "8.25147347740668%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 84 45\"><path stroke=\"#484848\" stroke-linecap=\"round\" d=\"M4.08766 11.5374C8.41464 11.2041 12.5946 8.47146 15.8205 5.74434C16.5393 5.13664 22.158 -1.44705 20.52 1.55159C16.4081 9.07896 13.2272 17.1183 9.52248 24.8517C9.03033 25.8791 4.4065 38.8521 1.53009 36.7578C-5.09722 31.9325 22.3856 18.6654 23.3333 18.1305C27.3202 15.8806 37.9024 9.40084 33.3718 8.75287C31.0344 8.41858 29.4965 13.1613 29.983 14.866C30.7651 17.6066 39.7106 13.5868 40.8207 13.0416C45.8372 10.5779 50.0102 6.58102 54.088 2.83182C61.6234 -4.09621 43.8235 6.72566 54.088 5.64832C58.524 5.18273 70.5602 -1.11243 66.6521 1.0395C64.3095 2.32936 54.9681 12.2271 58.308 14.6419C61.9027 17.241 68.4659 14.0391 71.927 16.8503C74.179 18.6795 67.9234 26.3181 67.1316 27.3482C62.7482 33.0507 56.9157 37.7738 50.5074 41.0146C47.4214 42.5753 43.8008 44.1534 40.3092 44.4712C34.675 44.984 41.229 38.4898 42.1314 37.59C54.3198 25.4375 69.1863 16.3171 83.5 6.92855\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "7.85242%",
+        "left": "79.0537%",
+        "width": "15.672676837725383%",
+        "height": "8.25147347740668%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 173 49\"><path fill=\"#223E0C\" d=\"M70.9975 18.73C71.0725 18.73 71.11 18.775 71.11 18.865C71.11 18.955 71.0725 19 70.9975 19C70.7125 19 70.255 18.985 69.625 18.955C68.995 18.925 68.5375 18.91 68.2525 18.91C67.8775 18.91 67.435 18.925 66.925 18.955C66.415 18.985 66.0175 19 65.7325 19C65.6725 19 65.6425 18.955 65.6425 18.865C65.6425 18.775 65.6725 18.73 65.7325 18.73C66.1675 18.73 66.4825 18.685 66.6775 18.595C66.8875 18.49 66.9925 18.325 66.9925 18.1C66.9925 17.875 66.865 17.4925 66.61 16.9525L64.18 12.025H60.1075L58.375 15.9175C58.18 16.3675 58.0825 16.7725 58.0825 17.1325C58.0825 17.6575 58.27 18.055 58.645 18.325C59.02 18.595 59.545 18.73 60.22 18.73C60.295 18.73 60.3325 18.775 60.3325 18.865C60.3325 18.955 60.295 19 60.22 19C59.95 19 59.56 18.985 59.05 18.955C58.48 18.925 57.985 18.91 57.565 18.91C57.16 18.91 56.6875 18.925 56.1475 18.955C55.6675 18.985 55.27 19 54.955 19C54.88 19 54.8425 18.955 54.8425 18.865C54.8425 18.775 54.88 18.73 54.955 18.73C55.375 18.73 55.7275 18.6475 56.0125 18.4825C56.2975 18.3175 56.575 18.025 56.845 17.605C57.115 17.17 57.4375 16.5325 57.8125 15.6925L62.65 4.8025C62.68 4.7575 62.7475 4.735 62.8525 4.735C62.9575 4.735 63.0175 4.7575 63.0325 4.8025L68.545 15.9175C69.07 16.9975 69.505 17.74 69.85 18.145C70.21 18.535 70.5925 18.73 70.9975 18.73ZM60.355 11.4625H63.91L62.0425 7.6825L60.355 11.4625ZM76.2386 19.27C75.2636 19.27 74.4311 19.06 73.7411 18.64C73.0661 18.205 72.5636 17.65 72.2336 16.975C71.9036 16.285 71.7386 15.565 71.7386 14.815C71.7386 13.87 71.9936 13.045 72.5036 12.34C73.0136 11.62 73.6661 11.0725 74.4611 10.6975C75.2711 10.3075 76.0886 10.1125 76.9136 10.1125C77.6186 10.1125 78.2561 10.255 78.8261 10.54C79.3961 10.825 79.6811 11.2075 79.6811 11.6875C79.6811 11.9425 79.5836 12.1675 79.3886 12.3625C79.1936 12.5425 78.9236 12.6325 78.5786 12.6325C78.0086 12.6325 77.5961 12.295 77.3411 11.62C77.1911 11.245 77.0336 10.9825 76.8686 10.8325C76.7036 10.6675 76.4411 10.585 76.0811 10.585C75.3761 10.585 74.8136 10.9075 74.3936 11.5525C73.9886 12.1825 73.7861 13.03 73.7861 14.095C73.7861 15.34 74.0711 16.3525 74.6411 17.1325C75.2261 17.8975 76.1336 18.28 77.3636 18.28C77.7836 18.28 78.1586 18.2275 78.4886 18.1225C78.8186 18.0175 79.1786 17.8525 79.5686 17.6275H79.5911C79.6361 17.6275 79.6736 17.65 79.7036 17.695C79.7486 17.74 79.7561 17.7775 79.7261 17.8075C79.1711 18.3025 78.6236 18.67 78.0836 18.91C77.5436 19.15 76.9286 19.27 76.2386 19.27ZM85.555 19.27C84.58 19.27 83.7475 19.06 83.0575 18.64C82.3825 18.205 81.88 17.65 81.55 16.975C81.22 16.285 81.055 15.565 81.055 14.815C81.055 13.87 81.31 13.045 81.82 12.34C82.33 11.62 82.9825 11.0725 83.7775 10.6975C84.5875 10.3075 85.405 10.1125 86.23 10.1125C86.935 10.1125 87.5725 10.255 88.1425 10.54C88.7125 10.825 88.9975 11.2075 88.9975 11.6875C88.9975 11.9425 88.9 12.1675 88.705 12.3625C88.51 12.5425 88.24 12.6325 87.895 12.6325C87.325 12.6325 86.9125 12.295 86.6575 11.62C86.5075 11.245 86.35 10.9825 86.185 10.8325C86.02 10.6675 85.7575 10.585 85.3975 10.585C84.6925 10.585 84.13 10.9075 83.71 11.5525C83.305 12.1825 83.1025 13.03 83.1025 14.095C83.1025 15.34 83.3875 16.3525 83.9575 17.1325C84.5425 17.8975 85.45 18.28 86.68 18.28C87.1 18.28 87.475 18.2275 87.805 18.1225C88.135 18.0175 88.495 17.8525 88.885 17.6275H88.9075C88.9525 17.6275 88.99 17.65 89.02 17.695C89.065 17.74 89.0725 17.7775 89.0425 17.8075C88.4875 18.3025 87.94 18.67 87.4 18.91C86.86 19.15 86.245 19.27 85.555 19.27ZM96.3082 10.09C96.6532 10.09 96.9832 10.2025 97.2982 10.4275C97.6132 10.6525 97.7707 10.9225 97.7707 11.2375C97.7707 11.5225 97.6807 11.755 97.5007 11.935C97.3357 12.115 97.1032 12.205 96.8032 12.205C96.6082 12.205 96.4432 12.1675 96.3082 12.0925C96.1882 12.0025 96.0607 11.8825 95.9257 11.7325C95.7907 11.5975 95.6707 11.5 95.5657 11.44C95.4607 11.365 95.3332 11.3275 95.1832 11.3275C95.0182 11.3275 94.8382 11.395 94.6432 11.53C94.4632 11.65 94.1782 11.9125 93.7882 12.3175V17.1775C93.7882 17.5975 93.8482 17.92 93.9682 18.145C94.0882 18.355 94.2907 18.505 94.5757 18.595C94.8607 18.685 95.2807 18.73 95.8357 18.73C95.8957 18.73 95.9257 18.775 95.9257 18.865C95.9257 18.955 95.8957 19 95.8357 19C95.3407 19 94.9432 18.9925 94.6432 18.9775L92.8657 18.955L91.5607 18.9775C91.3507 18.9925 91.0582 19 90.6832 19C90.6382 19 90.6157 18.955 90.6157 18.865C90.6157 18.775 90.6382 18.73 90.6832 18.73C91.1932 18.73 91.5307 18.625 91.6957 18.415C91.8607 18.205 91.9432 17.7925 91.9432 17.1775V12.88C91.9432 12.4 91.8832 12.0475 91.7632 11.8225C91.6582 11.5975 91.4782 11.485 91.2232 11.485C90.9982 11.485 90.6232 11.5975 90.0982 11.8225H90.0757C90.0157 11.8225 89.9707 11.785 89.9407 11.71C89.9107 11.635 89.9182 11.59 89.9632 11.575L92.9107 10.135C93.0007 10.105 93.0532 10.09 93.0682 10.09C93.2182 10.09 93.3682 10.255 93.5182 10.585C93.6682 10.9 93.7582 11.32 93.7882 11.845C94.3732 11.185 94.8607 10.7275 95.2507 10.4725C95.6407 10.2175 95.9932 10.09 96.3082 10.09ZM106.463 17.5825C106.493 17.5825 106.523 17.6125 106.553 17.6725C106.598 17.7325 106.605 17.7775 106.575 17.8075C106.035 18.3175 105.488 18.6925 104.933 18.9325C104.378 19.1575 103.77 19.27 103.11 19.27C102.18 19.27 101.378 19.075 100.703 18.685C100.043 18.28 99.5326 17.7475 99.1726 17.0875C98.8276 16.4125 98.6551 15.6925 98.6551 14.9275C98.6551 14.0425 98.8726 13.2325 99.3076 12.4975C99.7576 11.7625 100.365 11.185 101.13 10.765C101.91 10.33 102.765 10.1125 103.695 10.1125C104.58 10.1125 105.263 10.315 105.743 10.72C106.223 11.11 106.463 11.65 106.463 12.34C106.463 12.745 106.38 12.9475 106.215 12.9475H104.978L100.748 12.9925C100.703 13.3075 100.68 13.645 100.68 14.005C100.68 15.31 100.98 16.3525 101.58 17.1325C102.195 17.8975 103.043 18.28 104.123 18.28C104.513 18.28 104.91 18.2275 105.315 18.1225C105.72 18.0025 106.088 17.83 106.418 17.605L106.463 17.5825ZM102.885 10.5625C102.39 10.5625 101.963 10.7425 101.603 11.1025C101.243 11.4625 100.988 11.9575 100.838 12.5875L104.348 12.52C104.318 11.905 104.183 11.425 103.943 11.08C103.703 10.735 103.35 10.5625 102.885 10.5625ZM118.459 17.605C118.504 17.605 118.542 17.6425 118.572 17.7175C118.617 17.7925 118.617 17.8375 118.572 17.8525L115.692 19.2475L115.557 19.27C115.407 19.27 115.264 19.12 115.129 18.82C115.009 18.52 114.942 18.115 114.927 17.605C114.387 18.115 113.832 18.5275 113.262 18.8425C112.692 19.1425 112.069 19.2925 111.394 19.2925C110.749 19.2925 110.157 19.12 109.617 18.775C109.077 18.415 108.649 17.905 108.334 17.245C108.019 16.585 107.862 15.8125 107.862 14.9275C107.862 13.8175 108.124 12.895 108.649 12.16C109.174 11.425 109.834 10.885 110.629 10.54C111.424 10.195 112.219 10.0225 113.014 10.0225C113.674 10.0225 114.304 10.1425 114.904 10.3825V5.68C114.904 5.155 114.852 4.78 114.747 4.555C114.657 4.315 114.484 4.195 114.229 4.195C114.064 4.195 113.764 4.285 113.329 4.465H113.284C113.224 4.465 113.179 4.4275 113.149 4.3525C113.119 4.2775 113.119 4.2325 113.149 4.2175L116.322 2.71L116.412 2.6875C116.472 2.6875 116.539 2.7175 116.614 2.7775C116.689 2.8375 116.727 2.89 116.727 2.935V16.435C116.727 16.96 116.779 17.335 116.884 17.56C116.989 17.77 117.169 17.875 117.424 17.875C117.724 17.875 118.062 17.785 118.437 17.605H118.459ZM112.519 18.3025C112.954 18.3025 113.359 18.205 113.734 18.01C114.124 17.815 114.514 17.5375 114.904 17.1775V17.155V11.8C114.604 11.38 114.267 11.0725 113.892 10.8775C113.532 10.6675 113.097 10.5625 112.587 10.5625C111.732 10.5625 111.072 10.8625 110.607 11.4625C110.142 12.0475 109.909 12.97 109.909 14.23C109.909 15.49 110.149 16.4875 110.629 17.2225C111.124 17.9425 111.754 18.3025 112.519 18.3025ZM119.601 19C119.556 19 119.533 18.955 119.533 18.865C119.533 18.775 119.556 18.73 119.601 18.73C120.111 18.73 120.448 18.625 120.613 18.415C120.778 18.205 120.861 17.7925 120.861 17.1775V13.0825C120.861 12.5725 120.808 12.205 120.703 11.98C120.598 11.74 120.418 11.62 120.163 11.62C119.938 11.62 119.646 11.71 119.286 11.89H119.263C119.203 11.89 119.158 11.8525 119.128 11.7775C119.098 11.7025 119.106 11.65 119.151 11.62L122.391 10.1125L122.458 10.09C122.518 10.09 122.578 10.1275 122.638 10.2025C122.713 10.2625 122.751 10.315 122.751 10.36V10.8325C122.721 11.4625 122.706 12.205 122.706 13.06V17.1775C122.706 17.7925 122.788 18.205 122.953 18.415C123.133 18.625 123.478 18.73 123.988 18.73C124.033 18.73 124.056 18.775 124.056 18.865C124.056 18.955 124.033 19 123.988 19C123.613 19 123.313 18.9925 123.088 18.9775L121.783 18.955L120.478 18.9775C120.268 18.9925 119.976 19 119.601 19ZM121.671 7.7275C121.281 7.7275 120.973 7.6225 120.748 7.4125C120.538 7.2025 120.433 6.9025 120.433 6.5125C120.433 6.1375 120.538 5.8525 120.748 5.6575C120.973 5.4475 121.281 5.3425 121.671 5.3425C122.046 5.3425 122.338 5.4475 122.548 5.6575C122.758 5.8525 122.863 6.1375 122.863 6.5125C122.863 6.9025 122.758 7.2025 122.548 7.4125C122.353 7.6225 122.061 7.7275 121.671 7.7275ZM131.787 17.56C131.832 17.56 131.87 17.59 131.9 17.65C131.945 17.71 131.945 17.755 131.9 17.785C131.345 18.31 130.82 18.6925 130.325 18.9325C129.83 19.1575 129.305 19.27 128.75 19.27C128.105 19.27 127.557 19.12 127.107 18.82C126.672 18.505 126.455 17.9875 126.455 17.2675V12.1825C126.455 11.6875 126.372 11.3575 126.207 11.1925C126.057 11.0275 125.757 10.945 125.307 10.945C125.292 10.945 125.27 10.93 125.24 10.9C125.225 10.855 125.217 10.81 125.217 10.765C125.217 10.72 125.225 10.6825 125.24 10.6525C125.27 10.6075 125.292 10.585 125.307 10.585C126.717 10.525 127.602 9.9175 127.962 8.7625C127.992 8.7025 128.052 8.6725 128.142 8.6725C128.247 8.6725 128.3 8.7025 128.3 8.7625V10.54C129.005 10.525 130.002 10.45 131.292 10.315C131.322 10.315 131.352 10.375 131.382 10.495C131.427 10.6 131.45 10.72 131.45 10.855C131.45 10.99 131.42 11.125 131.36 11.26C131.315 11.395 131.262 11.455 131.202 11.44C130.362 11.245 129.395 11.125 128.3 11.08V16.525C128.3 17.11 128.442 17.545 128.727 17.83C129.027 18.1 129.44 18.235 129.965 18.235C130.595 18.235 131.187 18.0175 131.742 17.5825L131.787 17.56ZM133.158 19C133.113 19 133.09 18.955 133.09 18.865C133.09 18.775 133.113 18.73 133.158 18.73C133.668 18.73 134.005 18.625 134.17 18.415C134.335 18.205 134.418 17.7925 134.418 17.1775V13.0825C134.418 12.5725 134.365 12.205 134.26 11.98C134.155 11.74 133.975 11.62 133.72 11.62C133.495 11.62 133.203 11.71 132.843 11.89H132.82C132.76 11.89 132.715 11.8525 132.685 11.7775C132.655 11.7025 132.663 11.65 132.708 11.62L135.948 10.1125L136.015 10.09C136.075 10.09 136.135 10.1275 136.195 10.2025C136.27 10.2625 136.308 10.315 136.308 10.36V10.8325C136.278 11.4625 136.263 12.205 136.263 13.06V17.1775C136.263 17.7925 136.345 18.205 136.51 18.415C136.69 18.625 137.035 18.73 137.545 18.73C137.59 18.73 137.613 18.775 137.613 18.865C137.613 18.955 137.59 19 137.545 19C137.17 19 136.87 18.9925 136.645 18.9775L135.34 18.955L134.035 18.9775C133.825 18.9925 133.533 19 133.158 19ZM135.228 7.7275C134.838 7.7275 134.53 7.6225 134.305 7.4125C134.095 7.2025 133.99 6.9025 133.99 6.5125C133.99 6.1375 134.095 5.8525 134.305 5.6575C134.53 5.4475 134.838 5.3425 135.228 5.3425C135.603 5.3425 135.895 5.4475 136.105 5.6575C136.315 5.8525 136.42 6.1375 136.42 6.5125C136.42 6.9025 136.315 7.2025 136.105 7.4125C135.91 7.6225 135.618 7.7275 135.228 7.7275ZM149.485 18.73C149.53 18.73 149.552 18.775 149.552 18.865C149.552 18.955 149.53 19 149.485 19C149.11 19 148.817 18.9925 148.607 18.9775L147.302 18.955L146.02 18.9775C145.795 18.9925 145.495 19 145.12 19C145.075 19 145.052 18.955 145.052 18.865C145.052 18.775 145.075 18.73 145.12 18.73C145.63 18.73 145.967 18.625 146.132 18.415C146.297 18.205 146.38 17.7925 146.38 17.1775V13.8025C146.38 12.9625 146.222 12.3475 145.907 11.9575C145.607 11.5525 145.127 11.35 144.467 11.35C144.077 11.35 143.68 11.44 143.275 11.62C142.87 11.8 142.502 12.04 142.172 12.34V17.1775C142.172 17.7925 142.255 18.205 142.42 18.415C142.585 18.625 142.922 18.73 143.432 18.73C143.477 18.73 143.5 18.775 143.5 18.865C143.5 18.955 143.477 19 143.432 19C143.057 19 142.765 18.9925 142.555 18.9775L141.25 18.955L139.945 18.9775C139.735 18.9925 139.442 19 139.067 19C139.022 19 139 18.955 139 18.865C139 18.775 139.022 18.73 139.067 18.73C139.577 18.73 139.915 18.625 140.08 18.415C140.245 18.205 140.327 17.7925 140.327 17.1775V12.88C140.327 12.4 140.267 12.0475 140.147 11.8225C140.042 11.5975 139.862 11.485 139.607 11.485C139.382 11.485 139.007 11.5975 138.482 11.8225H138.46C138.4 11.8225 138.355 11.785 138.325 11.71C138.295 11.635 138.302 11.59 138.347 11.575L141.295 10.135C141.385 10.105 141.437 10.09 141.452 10.09C141.602 10.09 141.752 10.2625 141.902 10.6075C142.067 10.9375 142.157 11.3725 142.172 11.9125C143.222 10.6675 144.362 10.045 145.592 10.045C146.417 10.045 147.062 10.3 147.527 10.81C147.992 11.305 148.225 11.98 148.225 12.835V17.1775C148.225 17.7925 148.307 18.205 148.472 18.415C148.637 18.625 148.975 18.73 149.485 18.73ZM155.434 18.1C156.379 18.25 157.114 18.4 157.639 18.55C158.164 18.685 158.622 18.9325 159.012 19.2925C159.417 19.6525 159.619 20.1625 159.619 20.8225C159.619 21.5875 159.357 22.315 158.832 23.005C158.322 23.71 157.632 24.2725 156.762 24.6925C155.892 25.1275 154.954 25.345 153.949 25.345C152.854 25.345 151.962 25.0975 151.272 24.6025C150.582 24.1225 150.237 23.4925 150.237 22.7125C150.237 22.1725 150.417 21.625 150.777 21.07C151.152 20.515 151.782 19.93 152.667 19.315C151.692 19.03 151.204 18.4975 151.204 17.7175C151.204 17.3275 151.347 16.9375 151.632 16.5475C151.932 16.1425 152.359 15.775 152.914 15.445C152.299 15.22 151.819 14.8825 151.474 14.4325C151.129 13.9675 150.957 13.465 150.957 12.925C150.957 12.355 151.137 11.86 151.497 11.44C151.872 11.02 152.344 10.705 152.914 10.495C153.484 10.27 154.077 10.1575 154.692 10.1575C155.682 10.1575 156.492 10.3975 157.122 10.8775C157.527 10.6225 157.924 10.435 158.314 10.315C158.704 10.18 159.124 10.1125 159.574 10.1125C159.679 10.1125 159.732 10.3075 159.732 10.6975C159.732 10.9075 159.702 11.125 159.642 11.35C159.597 11.575 159.544 11.665 159.484 11.62C158.854 11.38 158.314 11.26 157.864 11.26C157.729 11.26 157.624 11.2675 157.549 11.2825C157.954 11.7325 158.157 12.2575 158.157 12.8575C158.157 13.3975 157.977 13.885 157.617 14.32C157.272 14.74 156.814 15.07 156.244 15.31C155.674 15.55 155.067 15.67 154.422 15.67C154.002 15.67 153.619 15.625 153.274 15.535C152.884 15.835 152.689 16.195 152.689 16.615C152.689 17.08 152.914 17.41 153.364 17.605C153.814 17.785 154.504 17.95 155.434 18.1ZM154.017 10.5625C153.657 10.5625 153.372 10.72 153.162 11.035C152.967 11.335 152.869 11.7775 152.869 12.3625C152.869 13.1725 153.072 13.8625 153.477 14.4325C153.882 15.0025 154.384 15.2875 154.984 15.2875C155.329 15.2875 155.622 15.13 155.862 14.815C156.102 14.5 156.222 14.0125 156.222 13.3525C156.222 12.5575 156.004 11.8975 155.569 11.3725C155.134 10.8325 154.617 10.5625 154.017 10.5625ZM155.052 24.6475C155.937 24.6475 156.642 24.4 157.167 23.905C157.707 23.41 157.977 22.7725 157.977 21.9925C157.977 21.4225 157.804 20.98 157.459 20.665C157.129 20.35 156.717 20.125 156.222 19.99C155.742 19.87 155.097 19.7575 154.287 19.6525C154.167 19.6375 153.987 19.6075 153.747 19.5625C153.522 19.5325 153.327 19.495 153.162 19.45C152.847 19.735 152.599 20.05 152.419 20.395C152.254 20.755 152.172 21.205 152.172 21.745C152.172 22.66 152.434 23.3725 152.959 23.8825C153.484 24.3925 154.182 24.6475 155.052 24.6475ZM63.235 42.27C61.84 42.27 60.595 41.9475 59.5 41.3025C58.42 40.6425 57.58 39.7575 56.98 38.6475C56.395 37.5225 56.1025 36.3 56.1025 34.98C56.1025 33.435 56.4925 32.115 57.2725 31.02C58.0525 29.91 59.05 29.0775 60.265 28.5225C61.495 27.9675 62.7475 27.69 64.0225 27.69C65.4475 27.69 66.7 28.0275 67.78 28.7025C68.86 29.3625 69.685 30.24 70.255 31.335C70.84 32.43 71.1325 33.5925 71.1325 34.8225C71.1325 36.1875 70.7725 37.44 70.0525 38.58C69.3325 39.72 68.365 40.62 67.15 41.28C65.95 41.94 64.645 42.27 63.235 42.27ZM64 41.73C64.9 41.73 65.7025 41.49 66.4075 41.01C67.1275 40.515 67.69 39.795 68.095 38.85C68.515 37.905 68.725 36.78 68.725 35.475C68.725 34.095 68.4925 32.8575 68.0275 31.7625C67.5775 30.6675 66.925 29.8125 66.07 29.1975C65.23 28.5825 64.24 28.275 63.1 28.275C61.645 28.275 60.5125 28.8 59.7025 29.85C58.9075 30.885 58.51 32.325 58.51 34.17C58.51 35.595 58.7425 36.885 59.2075 38.04C59.6875 39.195 60.34 40.1025 61.165 40.7625C62.005 41.4075 62.95 41.73 64 41.73ZM78.7741 33.09C79.1191 33.09 79.4491 33.2025 79.7641 33.4275C80.0791 33.6525 80.2366 33.9225 80.2366 34.2375C80.2366 34.5225 80.1466 34.755 79.9666 34.935C79.8016 35.115 79.5691 35.205 79.2691 35.205C79.0741 35.205 78.9091 35.1675 78.7741 35.0925C78.6541 35.0025 78.5266 34.8825 78.3916 34.7325C78.2566 34.5975 78.1366 34.5 78.0316 34.44C77.9266 34.365 77.7991 34.3275 77.6491 34.3275C77.4841 34.3275 77.3041 34.395 77.1091 34.53C76.9291 34.65 76.6441 34.9125 76.2541 35.3175V40.1775C76.2541 40.5975 76.3141 40.92 76.4341 41.145C76.5541 41.355 76.7566 41.505 77.0416 41.595C77.3266 41.685 77.7466 41.73 78.3016 41.73C78.3616 41.73 78.3916 41.775 78.3916 41.865C78.3916 41.955 78.3616 42 78.3016 42C77.8066 42 77.4091 41.9925 77.1091 41.9775L75.3316 41.955L74.0266 41.9775C73.8166 41.9925 73.5241 42 73.1491 42C73.1041 42 73.0816 41.955 73.0816 41.865C73.0816 41.775 73.1041 41.73 73.1491 41.73C73.6591 41.73 73.9966 41.625 74.1616 41.415C74.3266 41.205 74.4091 40.7925 74.4091 40.1775V35.88C74.4091 35.4 74.3491 35.0475 74.2291 34.8225C74.1241 34.5975 73.9441 34.485 73.6891 34.485C73.4641 34.485 73.0891 34.5975 72.5641 34.8225H72.5416C72.4816 34.8225 72.4366 34.785 72.4066 34.71C72.3766 34.635 72.3841 34.59 72.4291 34.575L75.3766 33.135C75.4666 33.105 75.5191 33.09 75.5341 33.09C75.6841 33.09 75.8341 33.255 75.9841 33.585C76.1341 33.9 76.2241 34.32 76.2541 34.845C76.8391 34.185 77.3266 33.7275 77.7166 33.4725C78.1066 33.2175 78.4591 33.09 78.7741 33.09ZM85.8909 41.1C86.8359 41.25 87.5709 41.4 88.0959 41.55C88.6209 41.685 89.0784 41.9325 89.4684 42.2925C89.8734 42.6525 90.0759 43.1625 90.0759 43.8225C90.0759 44.5875 89.8134 45.315 89.2884 46.005C88.7784 46.71 88.0884 47.2725 87.2184 47.6925C86.3484 48.1275 85.4109 48.345 84.4059 48.345C83.3109 48.345 82.4184 48.0975 81.7284 47.6025C81.0384 47.1225 80.6934 46.4925 80.6934 45.7125C80.6934 45.1725 80.8734 44.625 81.2334 44.07C81.6084 43.515 82.2384 42.93 83.1234 42.315C82.1484 42.03 81.6609 41.4975 81.6609 40.7175C81.6609 40.3275 81.8034 39.9375 82.0884 39.5475C82.3884 39.1425 82.8159 38.775 83.3709 38.445C82.7559 38.22 82.2759 37.8825 81.9309 37.4325C81.5859 36.9675 81.4134 36.465 81.4134 35.925C81.4134 35.355 81.5934 34.86 81.9534 34.44C82.3284 34.02 82.8009 33.705 83.3709 33.495C83.9409 33.27 84.5334 33.1575 85.1484 33.1575C86.1384 33.1575 86.9484 33.3975 87.5784 33.8775C87.9834 33.6225 88.3809 33.435 88.7709 33.315C89.1609 33.18 89.5809 33.1125 90.0309 33.1125C90.1359 33.1125 90.1884 33.3075 90.1884 33.6975C90.1884 33.9075 90.1584 34.125 90.0984 34.35C90.0534 34.575 90.0009 34.665 89.9409 34.62C89.3109 34.38 88.7709 34.26 88.3209 34.26C88.1859 34.26 88.0809 34.2675 88.0059 34.2825C88.4109 34.7325 88.6134 35.2575 88.6134 35.8575C88.6134 36.3975 88.4334 36.885 88.0734 37.32C87.7284 37.74 87.2709 38.07 86.7009 38.31C86.1309 38.55 85.5234 38.67 84.8784 38.67C84.4584 38.67 84.0759 38.625 83.7309 38.535C83.3409 38.835 83.1459 39.195 83.1459 39.615C83.1459 40.08 83.3709 40.41 83.8209 40.605C84.2709 40.785 84.9609 40.95 85.8909 41.1ZM84.4734 33.5625C84.1134 33.5625 83.8284 33.72 83.6184 34.035C83.4234 34.335 83.3259 34.7775 83.3259 35.3625C83.3259 36.1725 83.5284 36.8625 83.9334 37.4325C84.3384 38.0025 84.8409 38.2875 85.4409 38.2875C85.7859 38.2875 86.0784 38.13 86.3184 37.815C86.5584 37.5 86.6784 37.0125 86.6784 36.3525C86.6784 35.5575 86.4609 34.8975 86.0259 34.3725C85.5909 33.8325 85.0734 33.5625 84.4734 33.5625ZM85.5084 47.6475C86.3934 47.6475 87.0984 47.4 87.6234 46.905C88.1634 46.41 88.4334 45.7725 88.4334 44.9925C88.4334 44.4225 88.2609 43.98 87.9159 43.665C87.5859 43.35 87.1734 43.125 86.6784 42.99C86.1984 42.87 85.5534 42.7575 84.7434 42.6525C84.6234 42.6375 84.4434 42.6075 84.2034 42.5625C83.9784 42.5325 83.7834 42.495 83.6184 42.45C83.3034 42.735 83.0559 43.05 82.8759 43.395C82.7109 43.755 82.6284 44.205 82.6284 44.745C82.6284 45.66 82.8909 46.3725 83.4159 46.8825C83.9409 47.3925 84.6384 47.6475 85.5084 47.6475ZM99.5393 40.785C99.5993 40.785 99.6368 40.8225 99.6518 40.8975C99.6668 40.9575 99.6443 41.0025 99.5843 41.0325L97.2668 42.135C97.2068 42.165 97.1393 42.18 97.0643 42.18C96.8543 42.18 96.6518 42.06 96.4568 41.82C96.2618 41.58 96.1268 41.2575 96.0518 40.8525L94.8818 41.4825C94.0118 41.9325 93.2693 42.1575 92.6543 42.1575C92.1743 42.1575 91.7993 42.0375 91.5293 41.7975C91.2743 41.5425 91.1468 41.1975 91.1468 40.7625C91.1468 40.2975 91.3118 39.9525 91.6418 39.7275C91.9718 39.4875 92.6018 39.21 93.5318 38.895L95.9843 38.0625V36.2625C95.9843 35.3475 95.8793 34.68 95.6693 34.26C95.4593 33.825 95.1443 33.6075 94.7243 33.6075C93.9143 33.6075 93.4493 34.2 93.3293 35.385C93.2543 36.135 92.8718 36.51 92.1818 36.51C91.5368 36.51 91.2143 36.2325 91.2143 35.6775C91.2143 35.2875 91.4543 34.8975 91.9343 34.5075C92.4293 34.1025 93.0218 33.7725 93.7118 33.5175C94.4018 33.2475 95.0168 33.1125 95.5568 33.1125C96.2318 33.1125 96.7718 33.3225 97.1768 33.7425C97.5968 34.1475 97.8068 34.7625 97.8068 35.5875V39.57C97.8068 40.035 97.8818 40.3875 98.0318 40.6275C98.1818 40.8675 98.3993 40.9875 98.6843 40.9875C98.9093 40.9875 99.1793 40.92 99.4943 40.785H99.5393ZM96.0068 40.4925C95.9918 40.4325 95.9843 40.32 95.9843 40.155V38.4225L94.3868 39.0075C93.9968 39.1575 93.7193 39.3225 93.5543 39.5025C93.3893 39.6675 93.3068 39.8775 93.3068 40.1325C93.3068 40.4475 93.3968 40.695 93.5768 40.875C93.7568 41.055 93.9893 41.145 94.2743 41.145C94.5893 41.145 94.9418 41.0475 95.3318 40.8525L96.0068 40.4925ZM110.923 41.73C110.968 41.73 110.99 41.775 110.99 41.865C110.99 41.955 110.968 42 110.923 42C110.548 42 110.255 41.9925 110.045 41.9775L108.74 41.955L107.458 41.9775C107.233 41.9925 106.933 42 106.558 42C106.513 42 106.49 41.955 106.49 41.865C106.49 41.775 106.513 41.73 106.558 41.73C107.068 41.73 107.405 41.625 107.57 41.415C107.735 41.205 107.818 40.7925 107.818 40.1775V36.8025C107.818 35.9625 107.66 35.3475 107.345 34.9575C107.045 34.5525 106.565 34.35 105.905 34.35C105.515 34.35 105.118 34.44 104.713 34.62C104.308 34.8 103.94 35.04 103.61 35.34V40.1775C103.61 40.7925 103.693 41.205 103.858 41.415C104.023 41.625 104.36 41.73 104.87 41.73C104.915 41.73 104.938 41.775 104.938 41.865C104.938 41.955 104.915 42 104.87 42C104.495 42 104.203 41.9925 103.993 41.9775L102.688 41.955L101.383 41.9775C101.173 41.9925 100.88 42 100.505 42C100.46 42 100.438 41.955 100.438 41.865C100.438 41.775 100.46 41.73 100.505 41.73C101.015 41.73 101.353 41.625 101.518 41.415C101.683 41.205 101.765 40.7925 101.765 40.1775V35.88C101.765 35.4 101.705 35.0475 101.585 34.8225C101.48 34.5975 101.3 34.485 101.045 34.485C100.82 34.485 100.445 34.5975 99.92 34.8225H99.8975C99.8375 34.8225 99.7925 34.785 99.7625 34.71C99.7325 34.635 99.74 34.59 99.785 34.575L102.733 33.135C102.823 33.105 102.875 33.09 102.89 33.09C103.04 33.09 103.19 33.2625 103.34 33.6075C103.505 33.9375 103.595 34.3725 103.61 34.9125C104.66 33.6675 105.8 33.045 107.03 33.045C107.855 33.045 108.5 33.3 108.965 33.81C109.43 34.305 109.663 34.98 109.663 35.835V40.1775C109.663 40.7925 109.745 41.205 109.91 41.415C110.075 41.625 110.413 41.73 110.923 41.73ZM112.35 42C112.305 42 112.282 41.955 112.282 41.865C112.282 41.775 112.305 41.73 112.35 41.73C112.86 41.73 113.197 41.625 113.362 41.415C113.527 41.205 113.61 40.7925 113.61 40.1775V36.0825C113.61 35.5725 113.557 35.205 113.452 34.98C113.347 34.74 113.167 34.62 112.912 34.62C112.687 34.62 112.395 34.71 112.035 34.89H112.012C111.952 34.89 111.907 34.8525 111.877 34.7775C111.847 34.7025 111.855 34.65 111.9 34.62L115.14 33.1125L115.207 33.09C115.267 33.09 115.327 33.1275 115.387 33.2025C115.462 33.2625 115.5 33.315 115.5 33.36V33.8325C115.47 34.4625 115.455 35.205 115.455 36.06V40.1775C115.455 40.7925 115.537 41.205 115.702 41.415C115.882 41.625 116.227 41.73 116.737 41.73C116.782 41.73 116.805 41.775 116.805 41.865C116.805 41.955 116.782 42 116.737 42C116.362 42 116.062 41.9925 115.837 41.9775L114.532 41.955L113.227 41.9775C113.017 41.9925 112.725 42 112.35 42ZM114.42 30.7275C114.03 30.7275 113.722 30.6225 113.497 30.4125C113.287 30.2025 113.182 29.9025 113.182 29.5125C113.182 29.1375 113.287 28.8525 113.497 28.6575C113.722 28.4475 114.03 28.3425 114.42 28.3425C114.795 28.3425 115.087 28.4475 115.297 28.6575C115.507 28.8525 115.612 29.1375 115.612 29.5125C115.612 29.9025 115.507 30.2025 115.297 30.4125C115.102 30.6225 114.81 30.7275 114.42 30.7275ZM123.299 33.7875C123.359 33.6825 123.321 33.63 123.186 33.63C121.791 33.63 120.704 33.81 119.924 34.17C119.159 34.515 118.641 35.0925 118.371 35.9025C118.371 35.9175 118.341 35.925 118.281 35.925C118.161 35.925 118.109 35.895 118.124 35.835L119.024 32.505C119.024 32.49 119.054 32.4825 119.114 32.4825C119.234 32.4825 119.286 32.5125 119.271 32.5725C119.241 32.6925 119.226 32.775 119.226 32.82C119.226 33.015 119.316 33.15 119.496 33.225C119.676 33.285 119.969 33.315 120.374 33.315H125.414C125.474 33.315 125.526 33.345 125.571 33.405C125.616 33.465 125.624 33.525 125.594 33.585L120.396 41.46C120.351 41.565 120.389 41.6175 120.509 41.6175C121.634 41.6175 122.526 41.5425 123.186 41.3925C123.861 41.2425 124.379 40.995 124.739 40.65C125.099 40.29 125.361 39.795 125.526 39.165C125.541 39.12 125.586 39.0975 125.661 39.0975C125.751 39.0975 125.796 39.12 125.796 39.165L125.751 41.7525C125.751 41.8125 125.729 41.8725 125.684 41.9325C125.639 41.9775 125.586 42 125.526 42H118.304C118.244 42 118.191 41.97 118.146 41.91C118.116 41.85 118.116 41.79 118.146 41.73L123.299 33.7875ZM135.86 40.785C135.92 40.785 135.958 40.8225 135.973 40.8975C135.988 40.9575 135.965 41.0025 135.905 41.0325L133.588 42.135C133.528 42.165 133.46 42.18 133.385 42.18C133.175 42.18 132.973 42.06 132.778 41.82C132.583 41.58 132.448 41.2575 132.373 40.8525L131.203 41.4825C130.333 41.9325 129.59 42.1575 128.975 42.1575C128.495 42.1575 128.12 42.0375 127.85 41.7975C127.595 41.5425 127.468 41.1975 127.468 40.7625C127.468 40.2975 127.633 39.9525 127.963 39.7275C128.293 39.4875 128.923 39.21 129.853 38.895L132.305 38.0625V36.2625C132.305 35.3475 132.2 34.68 131.99 34.26C131.78 33.825 131.465 33.6075 131.045 33.6075C130.235 33.6075 129.77 34.2 129.65 35.385C129.575 36.135 129.193 36.51 128.503 36.51C127.858 36.51 127.535 36.2325 127.535 35.6775C127.535 35.2875 127.775 34.8975 128.255 34.5075C128.75 34.1025 129.343 33.7725 130.033 33.5175C130.723 33.2475 131.338 33.1125 131.878 33.1125C132.553 33.1125 133.093 33.3225 133.498 33.7425C133.918 34.1475 134.128 34.7625 134.128 35.5875V39.57C134.128 40.035 134.203 40.3875 134.353 40.6275C134.503 40.8675 134.72 40.9875 135.005 40.9875C135.23 40.9875 135.5 40.92 135.815 40.785H135.86ZM132.328 40.4925C132.313 40.4325 132.305 40.32 132.305 40.155V38.4225L130.708 39.0075C130.318 39.1575 130.04 39.3225 129.875 39.5025C129.71 39.6675 129.628 39.8775 129.628 40.1325C129.628 40.4475 129.718 40.695 129.898 40.875C130.078 41.055 130.31 41.145 130.595 41.145C130.91 41.145 131.263 41.0475 131.653 40.8525L132.328 40.4925ZM143.103 40.56C143.148 40.56 143.186 40.59 143.216 40.65C143.261 40.71 143.261 40.755 143.216 40.785C142.661 41.31 142.136 41.6925 141.641 41.9325C141.146 42.1575 140.621 42.27 140.066 42.27C139.421 42.27 138.873 42.12 138.423 41.82C137.988 41.505 137.771 40.9875 137.771 40.2675V35.1825C137.771 34.6875 137.688 34.3575 137.523 34.1925C137.373 34.0275 137.073 33.945 136.623 33.945C136.608 33.945 136.586 33.93 136.556 33.9C136.541 33.855 136.533 33.81 136.533 33.765C136.533 33.72 136.541 33.6825 136.556 33.6525C136.586 33.6075 136.608 33.585 136.623 33.585C138.033 33.525 138.918 32.9175 139.278 31.7625C139.308 31.7025 139.368 31.6725 139.458 31.6725C139.563 31.6725 139.616 31.7025 139.616 31.7625V33.54C140.321 33.525 141.318 33.45 142.608 33.315C142.638 33.315 142.668 33.375 142.698 33.495C142.743 33.6 142.766 33.72 142.766 33.855C142.766 33.99 142.736 34.125 142.676 34.26C142.631 34.395 142.578 34.455 142.518 34.44C141.678 34.245 140.711 34.125 139.616 34.08V39.525C139.616 40.11 139.758 40.545 140.043 40.83C140.343 41.1 140.756 41.235 141.281 41.235C141.911 41.235 142.503 41.0175 143.058 40.5825L143.103 40.56ZM144.474 42C144.429 42 144.406 41.955 144.406 41.865C144.406 41.775 144.429 41.73 144.474 41.73C144.984 41.73 145.321 41.625 145.486 41.415C145.651 41.205 145.734 40.7925 145.734 40.1775V36.0825C145.734 35.5725 145.681 35.205 145.576 34.98C145.471 34.74 145.291 34.62 145.036 34.62C144.811 34.62 144.519 34.71 144.159 34.89H144.136C144.076 34.89 144.031 34.8525 144.001 34.7775C143.971 34.7025 143.979 34.65 144.024 34.62L147.264 33.1125L147.331 33.09C147.391 33.09 147.451 33.1275 147.511 33.2025C147.586 33.2625 147.624 33.315 147.624 33.36V33.8325C147.594 34.4625 147.579 35.205 147.579 36.06V40.1775C147.579 40.7925 147.661 41.205 147.826 41.415C148.006 41.625 148.351 41.73 148.861 41.73C148.906 41.73 148.929 41.775 148.929 41.865C148.929 41.955 148.906 42 148.861 42C148.486 42 148.186 41.9925 147.961 41.9775L146.656 41.955L145.351 41.9775C145.141 41.9925 144.849 42 144.474 42ZM146.544 30.7275C146.154 30.7275 145.846 30.6225 145.621 30.4125C145.411 30.2025 145.306 29.9025 145.306 29.5125C145.306 29.1375 145.411 28.8525 145.621 28.6575C145.846 28.4475 146.154 28.3425 146.544 28.3425C146.919 28.3425 147.211 28.4475 147.421 28.6575C147.631 28.8525 147.736 29.1375 147.736 29.5125C147.736 29.9025 147.631 30.2025 147.421 30.4125C147.226 30.6225 146.934 30.7275 146.544 30.7275ZM154.748 42.2925C153.848 42.2925 153.053 42.0825 152.363 41.6625C151.673 41.2275 151.14 40.65 150.765 39.93C150.39 39.195 150.203 38.4 150.203 37.545C150.203 36.57 150.443 35.745 150.923 35.07C151.418 34.38 152.04 33.87 152.79 33.54C153.555 33.195 154.335 33.0225 155.13 33.0225C156.045 33.0225 156.84 33.24 157.515 33.675C158.205 34.11 158.73 34.6875 159.09 35.4075C159.45 36.1125 159.63 36.87 159.63 37.68C159.63 38.58 159.405 39.3825 158.955 40.0875C158.52 40.7925 157.928 41.34 157.178 41.73C156.428 42.105 155.618 42.2925 154.748 42.2925ZM155.423 41.8425C156.083 41.8425 156.585 41.55 156.93 40.965C157.29 40.38 157.47 39.525 157.47 38.4C157.47 37.395 157.328 36.5175 157.043 35.7675C156.773 35.0175 156.398 34.4475 155.918 34.0575C155.453 33.6675 154.943 33.4725 154.388 33.4725C153.713 33.4725 153.203 33.75 152.858 34.305C152.513 34.86 152.34 35.6775 152.34 36.7575C152.34 37.7325 152.468 38.61 152.723 39.39C152.993 40.155 153.36 40.755 153.825 41.19C154.305 41.625 154.838 41.8425 155.423 41.8425ZM171.743 41.73C171.788 41.73 171.81 41.775 171.81 41.865C171.81 41.955 171.788 42 171.743 42C171.368 42 171.075 41.9925 170.865 41.9775L169.56 41.955L168.278 41.9775C168.053 41.9925 167.753 42 167.378 42C167.333 42 167.31 41.955 167.31 41.865C167.31 41.775 167.333 41.73 167.378 41.73C167.888 41.73 168.225 41.625 168.39 41.415C168.555 41.205 168.638 40.7925 168.638 40.1775V36.8025C168.638 35.9625 168.48 35.3475 168.165 34.9575C167.865 34.5525 167.385 34.35 166.725 34.35C166.335 34.35 165.938 34.44 165.533 34.62C165.128 34.8 164.76 35.04 164.43 35.34V40.1775C164.43 40.7925 164.513 41.205 164.678 41.415C164.843 41.625 165.18 41.73 165.69 41.73C165.735 41.73 165.758 41.775 165.758 41.865C165.758 41.955 165.735 42 165.69 42C165.315 42 165.023 41.9925 164.813 41.9775L163.508 41.955L162.203 41.9775C161.993 41.9925 161.7 42 161.325 42C161.28 42 161.258 41.955 161.258 41.865C161.258 41.775 161.28 41.73 161.325 41.73C161.835 41.73 162.173 41.625 162.338 41.415C162.503 41.205 162.585 40.7925 162.585 40.1775V35.88C162.585 35.4 162.525 35.0475 162.405 34.8225C162.3 34.5975 162.12 34.485 161.865 34.485C161.64 34.485 161.265 34.5975 160.74 34.8225H160.718C160.658 34.8225 160.613 34.785 160.583 34.71C160.553 34.635 160.56 34.59 160.605 34.575L163.553 33.135C163.643 33.105 163.695 33.09 163.71 33.09C163.86 33.09 164.01 33.2625 164.16 33.6075C164.325 33.9375 164.415 34.3725 164.43 34.9125C165.48 33.6675 166.62 33.045 167.85 33.045C168.675 33.045 169.32 33.3 169.785 33.81C170.25 34.305 170.483 34.98 170.483 35.835V40.1775C170.483 40.7925 170.565 41.205 170.73 41.415C170.895 41.625 171.233 41.73 171.743 41.73Z\"/><path fill=\"#484848\" d=\"M0 5C10.2173 5 18.5 13.2827 18.5 23.5C8.28273 23.5 0 15.2173 0 5Z\"/><path fill=\"#484848\" d=\"M18.5 23.5C28.7173 23.5 37 15.2173 37 5C26.7827 5 18.5 13.2827 18.5 23.5Z\"/><path fill=\"#484848\" d=\"M37 42C26.7827 42 18.5 33.7173 18.5 23.5C28.7173 23.5 37 31.7827 37 42Z\"/><path fill=\"#484848\" d=\"M18.5 23.5C8.28273 23.5 0 31.7827 0 42C10.2173 42 18.5 33.7173 18.5 23.5Z\"/><path fill=\"#484848\" d=\"M16.65 23.5C16.65 22.4783 17.4783 21.65 18.5 21.65C19.5217 21.65 20.35 22.4783 20.35 23.5C20.35 24.5217 19.5217 25.35 18.5 25.35C17.4783 25.35 16.65 24.5217 16.65 23.5Z\"/></svg>"
+    },
+    {
+      "dir": "auto",
+      "type": "text",
+      "style": {
+        "top": "25.49469964664311%",
+        "left": "65.94257178526843%",
+        "color": "#484848",
+        "width": "16.354556803995006%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[issuer.support_email]",
+      "autoScale": true
+    },
+    {
+      "dir": "auto",
+      "type": "text",
+      "style": {
+        "top": "70.4717%",
+        "left": "59.9251%",
+        "color": "#000000",
+        "width": "36.079900124843945%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01ky0b392ecvdp5tzvs16aq0vx-1787042162430.png",
+  "isDefault": true,
+  "createdAt": "2026-07-20T18:02:33.449Z",
+  "updatedAt": "2026-08-18T08:36:04.561Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "category": "ceu"
+  },
+  "id": "01ky0b392ecvdp5tzvs16aq0vx",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "training_record",
+  "galleryOrder": 10,
+  "categoryOrder": 6
+}

@@ -1,0 +1,236 @@
+{
+  "name": "367_Scholarship_modern_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-07-2024-01:18:26_367_Scholarship_modern_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.8965%",
+        "left": "13.907915194346291%",
+        "color": "#243545",
+        "width": "65.875%",
+        "height": "13.049363957597171%",
+        "fontSize": "54em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.69525%",
+        "left": "13.907915194346291%",
+        "color": "#243545",
+        "width": "35.258303886925795%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.141625%",
+        "left": "13.907915194346291%",
+        "color": "#243545",
+        "width": "69.5%",
+        "height": "9.010600706713781%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The \"Sports Pride\" scholarship awarded in honor of outstanding athletic talent and a dedicated commitment to intercollegiate competition. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.32425%",
+        "left": "13.907915194346291%",
+        "color": "#243545",
+        "width": "27.39487632508834%",
+        "height": "2.2568375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.94825%",
+        "left": "13.638127208480565%",
+        "color": "#243545",
+        "width": "48.10618374558304%",
+        "height": "7.249999999999999%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.151375%",
+        "left": "13.87339222614841%",
+        "color": "#243545",
+        "width": "27.36590106007067%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is herebly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "69.72125%",
+        "left": "13.908450704225354%",
+        "width": "29.62685512367491%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#243545"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.955125%",
+        "left": "13.907915194346291%",
+        "color": "#243545",
+        "width": "12.875%",
+        "height": "4.719240282685512%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Cole Davis\u00a0",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.3565%",
+        "left": "13.907915194346291%",
+        "color": "#243545",
+        "width": "25.93162544169611%",
+        "height": "1.8584%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "President of Devisons University",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "43.88275%",
+        "left": "13.908450704225354%",
+        "width": "69.81837455830389%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#243545"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.890459363957597%",
+        "left": "13.750000000000002%",
+        "width": "23.853003533568906%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-12:57:39_TijuWGvyNv6o8iQ6CV26w-Group 272.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.63675%",
+        "left": "60.34116607773852%",
+        "width": "13.489681978798588%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-12:58:31_MLzkH7V1ttdg9moGTm8Co-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "62.9795%",
+        "left": "13.907915194346291%",
+        "width": "23.764664310954064%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-12:58:53_JtycoP73O75PvUKxSKEUw-Vector 4.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.125%",
+        "left": "13.874770318021202%",
+        "color": "#243545",
+        "width": "67.53816254416961%",
+        "height": "21.875%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF SCHOLARSHIP",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2cwnf87gaqbycfj0ttnwrr7-1720567119126.png",
+  "isDefault": true,
+  "createdAt": "2024-07-09T23:18:39.112Z",
+  "updatedAt": "2025-03-19T11:00:20.977Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2cwnf87gaqbycfj0ttnwrr7",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2232,
+  "categoryOrder": 159
+}

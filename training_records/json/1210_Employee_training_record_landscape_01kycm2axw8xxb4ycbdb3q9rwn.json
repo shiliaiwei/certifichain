@@ -1,0 +1,1481 @@
+{
+  "name": "1210_Employee_training_record_landscape",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 842 595\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><rect width=\"842\" height=\"595\" fill=\"#EFEFEF\"/><rect x=\"813\" y=\"29\" width=\"538\" height=\"783\" transform=\"rotate(90 813 29)\" stroke=\"#ACACAC\" stroke-width=\"4\"/><path d=\"M585 408H782\" stroke=\"#D1D1D1\"/><path d=\"M585 461H782\" stroke=\"#D1D1D1\"/><path d=\"M60 176H220\" stroke=\"#D1D1D1\"/><path d=\"M60 204H220\" stroke=\"#D1D1D1\"/><path d=\"M60 232H220\" stroke=\"#D1D1D1\"/><path d=\"M247 166H407\" stroke=\"#D1D1D1\"/><path d=\"M247 204H407\" stroke=\"#D1D1D1\"/><path d=\"M247 232H407\" stroke=\"#D1D1D1\"/><path d=\"M435 176H595\" stroke=\"#D1D1D1\"/><path d=\"M435 204H595\" stroke=\"#D1D1D1\"/><path d=\"M435 232H595\" stroke=\"#D1D1D1\"/><path d=\"M622 176H782\" stroke=\"#D1D1D1\"/><path d=\"M622 204H782\" stroke=\"#D1D1D1\"/><path d=\"M622 232H782\" stroke=\"#D1D1D1\"/><path d=\"M535 265H60V292H535V265Z\" fill=\"#151515\"/><path d=\"M60 323H535\" stroke=\"#E1E1E1\"/><path d=\"M535 323H60V353H535V323Z\" fill=\"#FCFCFC\"/><path d=\"M60 353H535\" stroke=\"#E1E1E1\"/><path d=\"M60 383H535\" stroke=\"#E1E1E1\"/><path d=\"M535 383H60V414H535V383Z\" fill=\"#FCFCFC\"/><path d=\"M60 414H535\" stroke=\"#E1E1E1\"/><path d=\"M60 444H535\" stroke=\"#E1E1E1\"/><path d=\"M535 444H60V474H535V444Z\" fill=\"#FCFCFC\"/><path d=\"M535 505H60V535H535V505Z\" fill=\"#FCFCFC\"/><path d=\"M60 474H535\" stroke=\"#E1E1E1\"/><path d=\"M122 265V535\" stroke=\"#E1E1E1\"/><path d=\"M188 265V535\" stroke=\"#E1E1E1\"/><path d=\"M345 265V535\" stroke=\"#E1E1E1\"/><path d=\"M388 265V535\" stroke=\"#E1E1E1\"/><path d=\"M459 265V535\" stroke=\"#E1E1E1\"/><path d=\"M535 265H60V535H535V265Z\" stroke=\"#E1E1E1\"/></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.2186%",
+        "left": "7.1161%",
+        "color": "#151515",
+        "width": "20.72409488139825%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.106007067137808%",
+        "left": "7.116104868913857%",
+        "color": "#151515",
+        "width": "18.030513176144243%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.516904593639575%",
+        "left": "7.116104868913857%",
+        "color": "#151515",
+        "width": "27.21598002496879%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.840864440078585%",
+        "left": "7.073509015256588%",
+        "color": "#151515",
+        "width": "40.36061026352289%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "INDIVIDUAL TRAINING RECORD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.145%",
+        "left": "6.79503%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.9705304518664%",
+        "left": "6.740638002773926%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JOB TITLE / POSITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.7721%",
+        "left": "29.1262%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DEPARTMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.11787819253438%",
+        "left": "29.070735090152567%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SUPERVISOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.06876227897839%",
+        "left": "29.126213592233007%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING YEAR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.422396856581535%",
+        "left": "51.45631067961165%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING TITLE / SUBJECT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.196463654223965%",
+        "left": "51.40083217753121%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINER / PRESENTER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.088408644400786%",
+        "left": "51.40083217753121%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "VENUE / WORKPLACE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.09500785854617%",
+        "left": "74.34119278779472%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING PERIOD",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.222711198428286%",
+        "left": "74.28571428571429%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING COORDINATOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.422396856581535%",
+        "left": "74.28571428571429%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "WORKSITE / LOCATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.42777013752456%",
+        "left": "6.934812760055478%",
+        "color": "#151515",
+        "width": "10.402219140083217%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Training record",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.22986247544205%",
+        "left": "71.70596393897365%",
+        "color": "#151515",
+        "width": "20.943134535367545%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "PROVIDER:  [issuer.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.1383%",
+        "left": "69.9007%",
+        "color": "#151515",
+        "width": "11.373092926490985%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Employee Signature \u00b7 Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.9961%",
+        "left": "69.6244%",
+        "color": "#151515",
+        "width": "14.563106796116504%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Supervisor / Trainer Signature \u00b7 Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.96070726915521%",
+        "left": "69.57004160887656%",
+        "color": "#151515",
+        "width": "14.563106796116504%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Print Name & Title",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.255%",
+        "left": "69.6255%",
+        "color": "#151515",
+        "width": "14.563106796116504%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Print Name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.4153064833006%",
+        "left": "46.948682385575594%",
+        "color": "#151515",
+        "width": "6.102635228848821%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s8.result]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.55206286836936%",
+        "left": "46.9625520110957%",
+        "color": "#151515",
+        "width": "6.102635228848821%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s7.result]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.07225933202358%",
+        "left": "46.9625520110957%",
+        "color": "#151515",
+        "width": "6.102635228848821%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s6.result]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.37809187279152%",
+        "left": "46.94132334581773%",
+        "color": "#151515",
+        "width": "6.0989138576779025%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s5.result]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.01178781925344%",
+        "left": "46.9625520110957%",
+        "color": "#151515",
+        "width": "6.102635228848821%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s4.result]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.90373280943025%",
+        "left": "46.948682385575594%",
+        "color": "#151515",
+        "width": "6.102635228848821%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s3.result]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.8387%",
+        "left": "46.9626%",
+        "color": "#151515",
+        "width": "6.102635228848821%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s2.result]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.6746%",
+        "left": "46.9487%",
+        "color": "#151515",
+        "width": "6.102635228848821%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s1.result]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.4979%",
+        "left": "41.6738%",
+        "color": "#151515",
+        "width": "3.9950062421972534%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s1.hrs]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.3028%",
+        "left": "23.4397%",
+        "color": "#151515",
+        "width": "11.373092926490985%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s8.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.48406679764243%",
+        "left": "23.384188626907072%",
+        "color": "#151515",
+        "width": "11.373092926490985%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s7.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.30801571709233%",
+        "left": "23.384188626907072%",
+        "color": "#151515",
+        "width": "11.373092926490985%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s6.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.2289%",
+        "left": "23.3842%",
+        "color": "#151515",
+        "width": "13.453536754507628%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s5.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.05261296660119%",
+        "left": "23.384188626907072%",
+        "color": "#151515",
+        "width": "13.453536754507628%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s4.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.21960707269155%",
+        "left": "23.384188626907072%",
+        "color": "#151515",
+        "width": "13.453536754507628%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s3.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.76697445972495%",
+        "left": "23.384188626907072%",
+        "color": "#151515",
+        "width": "16.50485436893204%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s2.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.785854616895875%",
+        "left": "23.384188626907072%",
+        "color": "#151515",
+        "width": "16.50485436893204%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s1.subject]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.6984%",
+        "left": "15.3998%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s1.category]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.18937131630648%",
+        "left": "15.478502080443826%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s5.category]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.32508833922262%",
+        "left": "15.480649188514356%",
+        "color": "#151515",
+        "width": "6.65362047440699%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s6.category]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.74734774066798%",
+        "left": "15.478502080443826%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s2.category]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.0616699410609%",
+        "left": "15.478502080443826%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s4.category]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.326895874263265%",
+        "left": "15.53398058252427%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s3.category]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.43571709233791%",
+        "left": "15.423023578363384%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s7.category]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.35636542239685%",
+        "left": "15.589459084604718%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s8.category]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.1733%",
+        "left": "55.2%",
+        "color": "#151515",
+        "width": "7.489597780859916%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Cert. valid 2 yrs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.81809430255403%",
+        "left": "55.22884882108183%",
+        "color": "#151515",
+        "width": "7.489597780859916%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Cert. valid 2 yrs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.90373280943025%",
+        "left": "55.28432732316227%",
+        "color": "#151515",
+        "width": "7.489597780859916%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Cert. valid 3 yrs",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.7214%",
+        "left": "51.3454%",
+        "color": "#151515",
+        "width": "10.402219140083217%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Training details",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.5328%",
+        "left": "7.07135%",
+        "color": "#151515",
+        "width": "13.453536754507628%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Employee Information",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.792259332023576%",
+        "left": "73.50901525658807%",
+        "color": "#151515",
+        "width": "13.453536754507628%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Site & role details",
+      "autoScale": false
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "9.43947%",
+        "left": "71.9964%",
+        "width": "20.527045769764214%",
+        "height": "10.412573673870334%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 180 51\"><path fill=\"#F7941D\" d=\"M158.135 10.7015C158.078 9.89068 157.94 9.10471 157.726 8.35059C151.122 8.35059 151.689 8.35059 148.499 8.35059V10.7015H155.174C155.223 11.2269 155.226 11.7703 155.174 12.3298H148.499V14.6805H154.609C152.187 20.7152 144.239 21.9943 140.076 17.0377H136.512C138.913 21.4341 143.782 23.6738 148.499 22.8963C154.308 21.9549 158.557 16.7303 158.135 10.7015Z\"/><path fill=\"#1C75BC\" d=\"M144.778 14.6804V12.3298H138.102C138.051 11.7809 138.053 11.2345 138.102 10.7014H144.778V8.35054H138.668C141.024 2.37267 148.991 1.01476 153.2 5.99964H156.765C150.927 -4.68897 134.266 -0.185139 135.135 12.3299C135.192 13.1405 135.33 13.9263 135.55 14.6805C142.154 14.6804 141.587 14.6804 144.778 14.6804Z\"/><path fill=\"#151515\" d=\"M127.709 33.8534C128.045 33.9636 128.312 34.1493 128.51 34.4104C128.707 34.6656 128.805 34.9847 128.805 35.3676C128.805 35.8955 128.602 36.3045 128.196 36.5946C127.79 36.8789 127.198 37.021 126.421 37.021H123.393V30.9295H126.247C126.966 30.9295 127.52 31.0716 127.909 31.3559C128.298 31.6344 128.492 32.0202 128.492 32.5133C128.492 32.815 128.422 33.0818 128.283 33.3139C128.144 33.5459 127.953 33.7258 127.709 33.8534ZM124.524 31.8171V33.4966H126.125C126.52 33.4966 126.821 33.427 127.03 33.2878C127.245 33.1427 127.352 32.9339 127.352 32.6612C127.352 32.3828 127.245 32.1739 127.03 32.0347C126.821 31.8896 126.52 31.8171 126.125 31.8171H124.524ZM126.351 36.1334C127.227 36.1334 127.665 35.8404 127.665 35.2545C127.665 34.6685 127.227 34.3755 126.351 34.3755H124.524V36.1334H126.351ZM134.407 32.3741V37.021H133.372V36.4293C133.198 36.6381 132.98 36.8005 132.719 36.9166C132.458 37.0268 132.177 37.0819 131.875 37.0819C131.254 37.0819 130.764 36.9108 130.404 36.5685C130.05 36.2204 129.874 35.707 129.874 35.0282V32.3741H130.961V34.8803C130.961 35.298 131.054 35.6113 131.24 35.8201C131.431 36.0232 131.701 36.1247 132.049 36.1247C132.438 36.1247 132.745 36.0057 132.971 35.7679C133.204 35.5242 133.32 35.1761 133.32 34.7236V32.3741H134.407ZM135.832 32.3741H136.919V37.021H135.832V32.3741ZM136.38 31.6083C136.183 31.6083 136.017 31.5474 135.884 31.4255C135.75 31.2979 135.684 31.1413 135.684 30.9556C135.684 30.77 135.75 30.6162 135.884 30.4944C136.017 30.3668 136.183 30.303 136.38 30.303C136.577 30.303 136.742 30.3639 136.876 30.4857C137.009 30.6017 137.076 30.7497 137.076 30.9295C137.076 31.121 137.009 31.2834 136.876 31.4168C136.748 31.5445 136.583 31.6083 136.38 31.6083ZM138.347 30.564H139.435V37.021H138.347V30.564ZM145.414 30.564V37.021H144.369V36.4205C144.19 36.641 143.966 36.8063 143.699 36.9166C143.438 37.0268 143.148 37.0819 142.829 37.0819C142.382 37.0819 141.979 36.9833 141.62 36.786C141.266 36.5888 140.987 36.3103 140.784 35.9506C140.581 35.5851 140.48 35.1674 140.48 34.6975C140.48 34.2276 140.581 33.8128 140.784 33.4531C140.987 33.0934 141.266 32.815 141.62 32.6177C141.979 32.4205 142.382 32.3218 142.829 32.3218C143.137 32.3218 143.418 32.3741 143.673 32.4785C143.929 32.5829 144.146 32.7395 144.326 32.9484V30.564H145.414ZM142.96 36.1508C143.221 36.1508 143.456 36.0928 143.665 35.9767C143.873 35.8549 144.039 35.6838 144.161 35.4633C144.282 35.2429 144.343 34.9876 144.343 34.6975C144.343 34.4075 144.282 34.1522 144.161 33.9317C144.039 33.7113 143.873 33.543 143.665 33.427C143.456 33.3052 143.221 33.2443 142.96 33.2443C142.699 33.2443 142.464 33.3052 142.255 33.427C142.046 33.543 141.881 33.7113 141.759 33.9317C141.637 34.1522 141.576 34.4075 141.576 34.6975C141.576 34.9876 141.637 35.2429 141.759 35.4633C141.881 35.6838 142.046 35.8549 142.255 35.9767C142.464 36.0928 142.699 36.1508 142.96 36.1508ZM150.927 37.021L149.682 35.2371C149.63 35.2429 149.552 35.2458 149.447 35.2458H148.072V37.021H146.941V30.9295H149.447C149.975 30.9295 150.434 31.0165 150.822 31.1906C151.217 31.3646 151.518 31.6141 151.727 31.939C151.936 32.2638 152.041 32.6496 152.041 33.0963C152.041 33.5546 151.927 33.9491 151.701 34.2798C151.481 34.6105 151.162 34.8571 150.744 35.0195L152.145 37.021H150.927ZM150.901 33.0963C150.901 32.7076 150.773 32.4089 150.518 32.2C150.262 31.9912 149.888 31.8867 149.395 31.8867H148.072V34.3146H149.395C149.888 34.3146 150.262 34.2102 150.518 34.0014C150.773 33.7867 150.901 33.485 150.901 33.0963ZM153.202 32.3741H154.29V37.021H153.202V32.3741ZM153.75 31.6083C153.553 31.6083 153.387 31.5474 153.254 31.4255C153.121 31.2979 153.054 31.1413 153.054 30.9556C153.054 30.77 153.121 30.6162 153.254 30.4944C153.387 30.3668 153.553 30.303 153.75 30.303C153.947 30.303 154.113 30.3639 154.246 30.4857C154.379 30.6017 154.446 30.7497 154.446 30.9295C154.446 31.121 154.379 31.2834 154.246 31.4168C154.118 31.5445 153.953 31.6083 153.75 31.6083ZM160.329 32.3741V36.3161C160.329 37.9521 159.494 38.7701 157.823 38.7701C157.376 38.7701 156.953 38.7121 156.553 38.5961C156.152 38.4859 155.822 38.3234 155.561 38.1088L156.048 37.2908C156.251 37.459 156.506 37.5924 156.814 37.6911C157.127 37.7955 157.443 37.8477 157.762 37.8477C158.273 37.8477 158.647 37.7317 158.885 37.4996C159.123 37.2676 159.242 36.9137 159.242 36.438V36.1943C159.056 36.3973 158.83 36.5511 158.563 36.6555C158.296 36.7599 158.003 36.8121 157.684 36.8121C157.243 36.8121 156.843 36.7193 156.483 36.5337C156.129 36.3422 155.848 36.0754 155.639 35.7331C155.436 35.3908 155.334 34.9992 155.334 34.5583C155.334 34.1174 155.436 33.7287 155.639 33.3922C155.848 33.0499 156.129 32.786 156.483 32.6003C156.843 32.4147 157.243 32.3218 157.684 32.3218C158.02 32.3218 158.325 32.377 158.598 32.4872C158.876 32.5974 159.108 32.7657 159.294 32.9919V32.3741H160.329ZM157.849 35.8897C158.261 35.8897 158.598 35.7679 158.859 35.5242C159.126 35.2748 159.259 34.9528 159.259 34.5583C159.259 34.1696 159.126 33.8534 158.859 33.6098C158.598 33.3661 158.261 33.2443 157.849 33.2443C157.432 33.2443 157.089 33.3661 156.822 33.6098C156.561 33.8534 156.431 34.1696 156.431 34.5583C156.431 34.9528 156.561 35.2748 156.822 35.5242C157.089 35.7679 157.432 35.8897 157.849 35.8897ZM164.396 32.3218C164.982 32.3218 165.452 32.493 165.806 32.8353C166.16 33.1776 166.337 33.6852 166.337 34.3581V37.021H165.249V34.4974C165.249 34.0913 165.153 33.7867 164.962 33.5837C164.77 33.3748 164.498 33.2704 164.144 33.2704C163.744 33.2704 163.427 33.3922 163.195 33.6359C162.963 33.8737 162.847 34.2189 162.847 34.6714V37.021H161.759V30.564H162.847V32.9136C163.027 32.7221 163.248 32.5771 163.509 32.4785C163.775 32.3741 164.071 32.3218 164.396 32.3218ZM170.51 36.7686C170.382 36.8731 170.226 36.9514 170.04 37.0036C169.86 37.0558 169.669 37.0819 169.466 37.0819C168.955 37.0819 168.561 36.9485 168.282 36.6816C168.004 36.4147 167.865 36.0261 167.865 35.5155V33.2791H167.099V32.4089H167.865V31.3472H168.952V32.4089H170.197V33.2791H168.952V35.4894C168.952 35.7157 169.008 35.8897 169.118 36.0115C169.228 36.1276 169.388 36.1856 169.596 36.1856C169.84 36.1856 170.043 36.1218 170.206 35.9941L170.51 36.7686ZM121.096 48.108C120.481 48.108 119.924 47.9746 119.425 47.7077C118.932 47.4351 118.544 47.0609 118.259 46.5851C117.981 46.1094 117.842 45.5728 117.842 44.9752C117.842 44.3777 117.984 43.8411 118.268 43.3654C118.552 42.8896 118.941 42.5183 119.434 42.2515C119.933 41.9788 120.49 41.8425 121.105 41.8425C121.604 41.8425 122.059 41.9295 122.471 42.1035C122.883 42.2776 123.231 42.53 123.515 42.8606L122.784 43.5481C122.344 43.0724 121.801 42.8345 121.157 42.8345C120.739 42.8345 120.365 42.9273 120.035 43.113C119.704 43.2928 119.446 43.5452 119.26 43.8701C119.074 44.195 118.982 44.5633 118.982 44.9752C118.982 45.3872 119.074 45.7555 119.26 46.0804C119.446 46.4053 119.704 46.6606 120.035 46.8462C120.365 47.0261 120.739 47.116 121.157 47.116C121.801 47.116 122.344 46.8752 122.784 46.3937L123.515 47.0899C123.231 47.4205 122.88 47.6729 122.462 47.847C122.051 48.021 121.595 48.108 121.096 48.108ZM126.414 48.0819C125.944 48.0819 125.52 47.9804 125.143 47.7773C124.766 47.5743 124.47 47.2929 124.255 46.9332C124.047 46.5677 123.942 46.1558 123.942 45.6975C123.942 45.2392 124.047 44.8302 124.255 44.4705C124.47 44.1108 124.766 43.8295 125.143 43.6264C125.52 43.4234 125.944 43.3218 126.414 43.3218C126.889 43.3218 127.316 43.4234 127.693 43.6264C128.07 43.8295 128.363 44.1108 128.572 44.4705C128.786 44.8302 128.894 45.2392 128.894 45.6975C128.894 46.1558 128.786 46.5677 128.572 46.9332C128.363 47.2929 128.07 47.5743 127.693 47.7773C127.316 47.9804 126.889 48.0819 126.414 48.0819ZM126.414 47.1508C126.814 47.1508 127.145 47.0174 127.406 46.7505C127.667 46.4836 127.797 46.1326 127.797 45.6975C127.797 45.2624 127.667 44.9114 127.406 44.6446C127.145 44.3777 126.814 44.2443 126.414 44.2443C126.013 44.2443 125.683 44.3777 125.421 44.6446C125.166 44.9114 125.039 45.2624 125.039 45.6975C125.039 46.1326 125.166 46.4836 125.421 46.7505C125.683 47.0174 126.013 47.1508 126.414 47.1508ZM132.571 43.3218C133.156 43.3218 133.626 43.493 133.98 43.8353C134.334 44.1776 134.511 44.6852 134.511 45.3581V48.021H133.423V45.4974C133.423 45.0913 133.328 44.7867 133.136 44.5837C132.945 44.3748 132.672 44.2704 132.318 44.2704C131.918 44.2704 131.602 44.3922 131.37 44.6359C131.138 44.8737 131.022 45.2189 131.022 45.6714V48.021H129.934V43.3741H130.969V43.9745C131.149 43.7599 131.375 43.5974 131.648 43.4872C131.921 43.377 132.228 43.3218 132.571 43.3218ZM137.327 48.0819C136.95 48.0819 136.581 48.0326 136.222 47.934C135.862 47.8354 135.575 47.7106 135.36 47.5598L135.778 46.7331C135.987 46.8723 136.236 46.9854 136.526 47.0725C136.822 47.1537 137.112 47.1943 137.396 47.1943C138.046 47.1943 138.371 47.0232 138.371 46.6809C138.371 46.5184 138.287 46.4053 138.119 46.3415C137.956 46.2777 137.692 46.2168 137.327 46.1587C136.944 46.1007 136.631 46.034 136.387 45.9586C136.149 45.8832 135.94 45.7526 135.76 45.567C135.586 45.3755 135.499 45.1116 135.499 44.7751C135.499 44.3342 135.682 43.9832 136.048 43.7221C136.419 43.4553 136.918 43.3218 137.544 43.3218C137.864 43.3218 138.183 43.3596 138.502 43.435C138.821 43.5046 139.082 43.6003 139.285 43.7221L138.867 44.5488C138.473 44.3168 138.029 44.2008 137.536 44.2008C137.217 44.2008 136.973 44.2501 136.805 44.3487C136.642 44.4415 136.561 44.5662 136.561 44.7229C136.561 44.8969 136.648 45.0217 136.822 45.0971C137.002 45.1667 137.278 45.2334 137.649 45.2972C138.02 45.3552 138.325 45.422 138.563 45.4974C138.8 45.5728 139.003 45.7004 139.172 45.8803C139.346 46.0601 139.433 46.3154 139.433 46.6461C139.433 47.0812 139.244 47.4293 138.867 47.6903C138.49 47.9514 137.977 48.0819 137.327 48.0819ZM143.163 47.7686C143.035 47.8731 142.879 47.9514 142.693 48.0036C142.513 48.0558 142.322 48.0819 142.119 48.0819C141.608 48.0819 141.214 47.9485 140.935 47.6816C140.657 47.4147 140.518 47.0261 140.518 46.5155V44.2791H139.752V43.4089H140.518V42.3472H141.605V43.4089H142.85V44.2791H141.605V46.4894C141.605 46.7157 141.66 46.8897 141.771 47.0115C141.881 47.1276 142.04 47.1856 142.249 47.1856C142.493 47.1856 142.696 47.1218 142.858 46.9941L143.163 47.7686ZM145.093 44.0528C145.407 43.5655 145.958 43.3218 146.747 43.3218V44.3574C146.654 44.34 146.57 44.3313 146.494 44.3313C146.071 44.3313 145.74 44.456 145.502 44.7055C145.264 44.9491 145.146 45.303 145.146 45.7671V48.021H144.058V43.3741H145.093V44.0528ZM152.211 43.3741V48.021H151.175V47.4293C151.001 47.6381 150.784 47.8005 150.523 47.9166C150.262 48.0268 149.98 48.0819 149.679 48.0819C149.058 48.0819 148.568 47.9108 148.208 47.5685C147.854 47.2204 147.677 46.707 147.677 46.0282V43.3741H148.765V45.8803C148.765 46.298 148.858 46.6113 149.043 46.8201C149.235 47.0232 149.505 47.1247 149.853 47.1247C150.241 47.1247 150.549 47.0057 150.775 46.7679C151.007 46.5242 151.123 46.1761 151.123 45.7236V43.3741H152.211ZM155.767 48.0819C155.286 48.0819 154.854 47.9804 154.471 47.7773C154.088 47.5743 153.789 47.2929 153.574 46.9332C153.36 46.5677 153.252 46.1558 153.252 45.6975C153.252 45.2392 153.36 44.8302 153.574 44.4705C153.789 44.1108 154.085 43.8295 154.462 43.6264C154.845 43.4234 155.28 43.3218 155.767 43.3218C156.226 43.3218 156.626 43.4147 156.968 43.6003C157.316 43.786 157.577 44.0528 157.751 44.4009L156.916 44.8882C156.782 44.6736 156.614 44.514 156.411 44.4096C156.214 44.2994 155.996 44.2443 155.759 44.2443C155.352 44.2443 155.016 44.3777 154.749 44.6446C154.482 44.9056 154.349 45.2566 154.349 45.6975C154.349 46.1384 154.479 46.4923 154.74 46.7592C155.007 47.0203 155.347 47.1508 155.759 47.1508C155.996 47.1508 156.214 47.0986 156.411 46.9941C156.614 46.8839 156.782 46.7215 156.916 46.5068L157.751 46.9941C157.571 47.3422 157.308 47.612 156.959 47.8034C156.617 47.9891 156.22 48.0819 155.767 48.0819ZM161.545 47.7686C161.417 47.8731 161.26 47.9514 161.075 48.0036C160.895 48.0558 160.703 48.0819 160.5 48.0819C159.99 48.0819 159.595 47.9485 159.317 47.6816C159.038 47.4147 158.899 47.0261 158.899 46.5155V44.2791H158.133V43.4089H158.899V42.3472H159.987V43.4089H161.231V44.2791H159.987V46.4894C159.987 46.7157 160.042 46.8897 160.152 47.0115C160.262 47.1276 160.422 47.1856 160.631 47.1856C160.874 47.1856 161.077 47.1218 161.24 46.9941L161.545 47.7686ZM162.439 43.3741H163.527V48.021H162.439V43.3741ZM162.988 42.6083C162.79 42.6083 162.625 42.5474 162.492 42.4255C162.358 42.2979 162.291 42.1413 162.291 41.9556C162.291 41.77 162.358 41.6162 162.492 41.4944C162.625 41.3668 162.79 41.303 162.988 41.303C163.185 41.303 163.35 41.3639 163.484 41.4857C163.617 41.6017 163.684 41.7497 163.684 41.9295C163.684 42.121 163.617 42.2834 163.484 42.4168C163.356 42.5445 163.191 42.6083 162.988 42.6083ZM167.043 48.0819C166.573 48.0819 166.15 47.9804 165.773 47.7773C165.396 47.5743 165.1 47.2929 164.885 46.9332C164.676 46.5677 164.572 46.1558 164.572 45.6975C164.572 45.2392 164.676 44.8302 164.885 44.4705C165.1 44.1108 165.396 43.8295 165.773 43.6264C166.15 43.4234 166.573 43.3218 167.043 43.3218C167.519 43.3218 167.945 43.4234 168.323 43.6264C168.7 43.8295 168.993 44.1108 169.201 44.4705C169.416 44.8302 169.523 45.2392 169.523 45.6975C169.523 46.1558 169.416 46.5677 169.201 46.9332C168.993 47.2929 168.7 47.5743 168.323 47.7773C167.945 47.9804 167.519 48.0819 167.043 48.0819ZM167.043 47.1508C167.444 47.1508 167.774 47.0174 168.035 46.7505C168.296 46.4836 168.427 46.1326 168.427 45.6975C168.427 45.2624 168.296 44.9114 168.035 44.6446C167.774 44.3777 167.444 44.2443 167.043 44.2443C166.643 44.2443 166.312 44.3777 166.051 44.6446C165.796 44.9114 165.668 45.2624 165.668 45.6975C165.668 46.1326 165.796 46.4836 166.051 46.7505C166.312 47.0174 166.643 47.1508 167.043 47.1508ZM173.2 43.3218C173.786 43.3218 174.256 43.493 174.61 43.8353C174.964 44.1776 175.141 44.6852 175.141 45.3581V48.021H174.053V45.4974C174.053 45.0913 173.957 44.7867 173.766 44.5837C173.575 44.3748 173.302 44.2704 172.948 44.2704C172.548 44.2704 172.231 44.3922 171.999 44.6359C171.767 44.8737 171.651 45.2189 171.651 45.6714V48.021H170.564V43.3741H171.599V43.9745C171.779 43.7599 172.005 43.5974 172.278 43.4872C172.551 43.377 172.858 43.3218 173.2 43.3218Z\"/><path fill=\"#151515\" d=\"M2.31111 39.042C1.94711 39.042 1.59711 38.9837 1.26111 38.867C0.929776 38.7503 0.673109 38.5963 0.491109 38.405L0.694109 38.006C0.871443 38.1833 1.10711 38.328 1.40111 38.44C1.69511 38.5473 1.99844 38.601 2.31111 38.601C2.74978 38.601 3.07878 38.5217 3.29811 38.363C3.51744 38.1997 3.62711 37.9897 3.62711 37.733C3.62711 37.537 3.56644 37.3807 3.44511 37.264C3.32844 37.1473 3.18378 37.0587 3.01111 36.998C2.83844 36.9327 2.59811 36.8627 2.29011 36.788C1.92144 36.6947 1.62744 36.606 1.40811 36.522C1.18878 36.4333 0.999776 36.3003 0.841109 36.123C0.687109 35.9457 0.610109 35.7053 0.610109 35.402C0.610109 35.1547 0.675443 34.9307 0.806109 34.73C0.936776 34.5247 1.13744 34.3613 1.40811 34.24C1.67878 34.1187 2.01478 34.058 2.41611 34.058C2.69611 34.058 2.96911 34.0977 3.23511 34.177C3.50578 34.2517 3.73911 34.3567 3.93511 34.492L3.76011 34.905C3.55478 34.7697 3.33544 34.6693 3.10211 34.604C2.86878 34.534 2.64011 34.499 2.41611 34.499C1.98678 34.499 1.66244 34.583 1.44311 34.751C1.22844 34.9143 1.12111 35.1267 1.12111 35.388C1.12111 35.584 1.17944 35.7427 1.29611 35.864C1.41744 35.9807 1.56678 36.0717 1.74411 36.137C1.92611 36.1977 2.16878 36.2653 2.47211 36.34C2.83144 36.4287 3.12078 36.5173 3.34011 36.606C3.56411 36.69 3.75311 36.8207 3.90711 36.998C4.06111 37.1707 4.13811 37.4063 4.13811 37.705C4.13811 37.9523 4.07044 38.1787 3.93511 38.384C3.80444 38.5847 3.60144 38.7457 3.32611 38.867C3.05078 38.9837 2.71244 39.042 2.31111 39.042ZM6.44975 35.29C6.93042 35.29 7.29908 35.4113 7.55575 35.654C7.81242 35.892 7.94075 36.2467 7.94075 36.718V39H7.46475V38.426C7.35275 38.6173 7.18708 38.7667 6.96775 38.874C6.75308 38.9813 6.49642 39.035 6.19775 39.035C5.78708 39.035 5.46042 38.937 5.21775 38.741C4.97508 38.545 4.85375 38.286 4.85375 37.964C4.85375 37.6513 4.96575 37.3993 5.18975 37.208C5.41842 37.0167 5.78008 36.921 6.27475 36.921H7.44375V36.697C7.44375 36.3797 7.35508 36.1393 7.17775 35.976C7.00042 35.808 6.74142 35.724 6.40075 35.724C6.16742 35.724 5.94342 35.7637 5.72875 35.843C5.51408 35.9177 5.32975 36.0227 5.17575 36.158L4.95175 35.787C5.13842 35.6283 5.36242 35.507 5.62375 35.423C5.88508 35.3343 6.16042 35.29 6.44975 35.29ZM6.27475 38.643C6.55475 38.643 6.79508 38.58 6.99575 38.454C7.19642 38.3233 7.34575 38.1367 7.44375 37.894V37.292H6.28875C5.65875 37.292 5.34375 37.5113 5.34375 37.95C5.34375 38.1647 5.42542 38.335 5.58875 38.461C5.75208 38.5823 5.98075 38.643 6.27475 38.643ZM10.5087 34.191C10.294 34.191 10.1307 34.2493 10.0187 34.366C9.91132 34.4827 9.85766 34.6553 9.85766 34.884V35.318H10.9917V35.738H9.87166V39H9.37466V35.738H8.71666V35.318H9.37466V34.863C9.37466 34.527 9.47032 34.261 9.66166 34.065C9.85766 33.869 10.133 33.771 10.4877 33.771C10.6277 33.771 10.763 33.792 10.8937 33.834C11.0243 33.8713 11.134 33.9273 11.2227 34.002L11.0547 34.373C10.91 34.2517 10.728 34.191 10.5087 34.191ZM14.8072 37.313H11.7272C11.7552 37.6957 11.9022 38.006 12.1682 38.244C12.4342 38.4773 12.7702 38.594 13.1762 38.594C13.4049 38.594 13.6149 38.5543 13.8062 38.475C13.9975 38.391 14.1632 38.2697 14.3032 38.111L14.5832 38.433C14.4199 38.629 14.2145 38.7783 13.9672 38.881C13.7245 38.9837 13.4562 39.035 13.1622 39.035C12.7842 39.035 12.4482 38.9557 12.1542 38.797C11.8649 38.6337 11.6385 38.4097 11.4752 38.125C11.3119 37.8403 11.2302 37.5183 11.2302 37.159C11.2302 36.7997 11.3072 36.4777 11.4612 36.193C11.6199 35.9083 11.8345 35.6867 12.1052 35.528C12.3805 35.3693 12.6885 35.29 13.0292 35.29C13.3699 35.29 13.6755 35.3693 13.9462 35.528C14.2169 35.6867 14.4292 35.9083 14.5832 36.193C14.7372 36.473 14.8142 36.795 14.8142 37.159L14.8072 37.313ZM13.0292 35.717C12.6745 35.717 12.3759 35.8313 12.1332 36.06C11.8952 36.284 11.7599 36.578 11.7272 36.942H14.3382C14.3055 36.578 14.1679 36.284 13.9252 36.06C13.6872 35.8313 13.3885 35.717 13.0292 35.717ZM17.7648 38.776C17.6715 38.86 17.5548 38.9253 17.4148 38.972C17.2795 39.014 17.1371 39.035 16.9878 39.035C16.6425 39.035 16.3765 38.9417 16.1898 38.755C16.0031 38.5683 15.9098 38.3047 15.9098 37.964V35.738H15.2518V35.318H15.9098V34.513H16.4068V35.318H17.5268V35.738H16.4068V37.936C16.4068 38.1553 16.4605 38.3233 16.5678 38.44C16.6798 38.552 16.8385 38.608 17.0438 38.608C17.1465 38.608 17.2445 38.5917 17.3378 38.559C17.4358 38.5263 17.5198 38.4797 17.5898 38.419L17.7648 38.776ZM21.6952 35.318L19.8542 39.441C19.7049 39.7863 19.5322 40.0313 19.3362 40.176C19.1402 40.3207 18.9045 40.393 18.6292 40.393C18.4519 40.393 18.2862 40.365 18.1322 40.309C17.9782 40.253 17.8452 40.169 17.7332 40.057L17.9642 39.686C18.1509 39.8727 18.3749 39.966 18.6362 39.966C18.8042 39.966 18.9465 39.9193 19.0632 39.826C19.1845 39.7327 19.2965 39.574 19.3992 39.35L19.5602 38.993L17.9152 35.318H18.4332L19.8192 38.447L21.2052 35.318H21.6952ZM27.8392 39.077L27.1602 38.377C26.7448 38.8203 26.1988 39.042 25.5222 39.042C25.2048 39.042 24.9202 38.9907 24.6682 38.888C24.4208 38.7807 24.2272 38.6337 24.0872 38.447C23.9472 38.2557 23.8772 38.0387 23.8772 37.796C23.8772 37.502 23.9705 37.2383 24.1572 37.005C24.3438 36.7717 24.6612 36.5267 25.1092 36.27C24.8758 36.0273 24.7148 35.822 24.6262 35.654C24.5375 35.4813 24.4932 35.2993 24.4932 35.108C24.4932 34.7953 24.6052 34.5433 24.8292 34.352C25.0532 34.1607 25.3542 34.065 25.7322 34.065C26.0822 34.065 26.3598 34.1513 26.5652 34.324C26.7705 34.4967 26.8732 34.7347 26.8732 35.038C26.8732 35.2807 26.7915 35.5 26.6282 35.696C26.4648 35.8873 26.1825 36.0997 25.7812 36.333L27.1252 37.719C27.2745 37.453 27.3842 37.138 27.4542 36.774L27.8602 36.9C27.7715 37.3387 27.6268 37.7143 27.4262 38.027L28.1262 38.748L27.8392 39.077ZM25.7322 34.436C25.4895 34.436 25.2982 34.4967 25.1582 34.618C25.0228 34.7393 24.9552 34.9003 24.9552 35.101C24.9552 35.2457 24.9925 35.3833 25.0672 35.514C25.1418 35.6447 25.2888 35.822 25.5082 36.046C25.8628 35.8407 26.1078 35.6657 26.2432 35.521C26.3785 35.3763 26.4462 35.2177 26.4462 35.045C26.4462 34.8583 26.3832 34.7113 26.2572 34.604C26.1312 34.492 25.9562 34.436 25.7322 34.436ZM25.5502 38.629C26.0915 38.629 26.5302 38.4447 26.8662 38.076L25.3892 36.557C25.0018 36.7763 24.7335 36.9747 24.5842 37.152C24.4395 37.3293 24.3672 37.5277 24.3672 37.747C24.3672 38.013 24.4745 38.2277 24.6892 38.391C24.9085 38.5497 25.1955 38.629 25.5502 38.629ZM37.5738 34.1L35.9218 39H35.3758L33.9408 34.821L32.4988 39H31.9598L30.3078 34.1H30.8398L32.2538 38.314L33.7168 34.1H34.1998L35.6418 38.335L37.0768 34.1H37.5738ZM39.6433 39.035C39.2886 39.035 38.969 38.9557 38.6843 38.797C38.3996 38.6337 38.1756 38.4097 38.0123 38.125C37.849 37.8403 37.7673 37.5183 37.7673 37.159C37.7673 36.7997 37.849 36.4777 38.0123 36.193C38.1756 35.9083 38.3996 35.6867 38.6843 35.528C38.969 35.3693 39.2886 35.29 39.6433 35.29C39.998 35.29 40.3176 35.3693 40.6023 35.528C40.887 35.6867 41.1086 35.9083 41.2673 36.193C41.4306 36.4777 41.5123 36.7997 41.5123 37.159C41.5123 37.5183 41.4306 37.8403 41.2673 38.125C41.1086 38.4097 40.887 38.6337 40.6023 38.797C40.3176 38.9557 39.998 39.035 39.6433 39.035ZM39.6433 38.594C39.9046 38.594 40.138 38.5357 40.3433 38.419C40.5533 38.2977 40.7166 38.1273 40.8333 37.908C40.95 37.6887 41.0083 37.439 41.0083 37.159C41.0083 36.879 40.95 36.6293 40.8333 36.41C40.7166 36.1907 40.5533 36.0227 40.3433 35.906C40.138 35.7847 39.9046 35.724 39.6433 35.724C39.382 35.724 39.1463 35.7847 38.9363 35.906C38.731 36.0227 38.5676 36.1907 38.4463 36.41C38.3296 36.6293 38.2713 36.879 38.2713 37.159C38.2713 37.439 38.3296 37.6887 38.4463 37.908C38.5676 38.1273 38.731 38.2977 38.9363 38.419C39.1463 38.5357 39.382 38.594 39.6433 38.594ZM43.003 36.039C43.1197 35.7917 43.2923 35.605 43.521 35.479C43.7543 35.353 44.0413 35.29 44.382 35.29V35.773L44.263 35.766C43.8757 35.766 43.5723 35.885 43.353 36.123C43.1337 36.361 43.024 36.6947 43.024 37.124V39H42.527V35.318H43.003V36.039ZM46.6469 37.152L45.7789 37.95V39H45.2819V33.806H45.7789V37.327L47.9769 35.318H48.5929L47.0179 36.823L48.7399 39H48.1309L46.6469 37.152ZM50.704 34.191C50.4893 34.191 50.326 34.2493 50.214 34.366C50.1066 34.4827 50.053 34.6553 50.053 34.884V35.318H51.187V35.738H50.067V39H49.57V35.738H48.912V35.318H49.57V34.863C49.57 34.527 49.6656 34.261 49.857 34.065C50.053 33.869 50.3283 33.771 50.683 33.771C50.823 33.771 50.9583 33.792 51.089 33.834C51.2196 33.8713 51.3293 33.9273 51.418 34.002L51.25 34.373C51.1053 34.2517 50.9233 34.191 50.704 34.191ZM53.3015 39.035C52.9468 39.035 52.6272 38.9557 52.3425 38.797C52.0578 38.6337 51.8338 38.4097 51.6705 38.125C51.5072 37.8403 51.4255 37.5183 51.4255 37.159C51.4255 36.7997 51.5072 36.4777 51.6705 36.193C51.8338 35.9083 52.0578 35.6867 52.3425 35.528C52.6272 35.3693 52.9468 35.29 53.3015 35.29C53.6562 35.29 53.9758 35.3693 54.2605 35.528C54.5452 35.6867 54.7668 35.9083 54.9255 36.193C55.0888 36.4777 55.1705 36.7997 55.1705 37.159C55.1705 37.5183 55.0888 37.8403 54.9255 38.125C54.7668 38.4097 54.5452 38.6337 54.2605 38.797C53.9758 38.9557 53.6562 39.035 53.3015 39.035ZM53.3015 38.594C53.5628 38.594 53.7962 38.5357 54.0015 38.419C54.2115 38.2977 54.3748 38.1273 54.4915 37.908C54.6082 37.6887 54.6665 37.439 54.6665 37.159C54.6665 36.879 54.6082 36.6293 54.4915 36.41C54.3748 36.1907 54.2115 36.0227 54.0015 35.906C53.7962 35.7847 53.5628 35.724 53.3015 35.724C53.0402 35.724 52.8045 35.7847 52.5945 35.906C52.3892 36.0227 52.2258 36.1907 52.1045 36.41C51.9878 36.6293 51.9295 36.879 51.9295 37.159C51.9295 37.439 51.9878 37.6887 52.1045 37.908C52.2258 38.1273 52.3892 38.2977 52.5945 38.419C52.8045 38.5357 53.0402 38.594 53.3015 38.594ZM56.6612 36.039C56.7779 35.7917 56.9505 35.605 57.1792 35.479C57.4125 35.353 57.6995 35.29 58.0402 35.29V35.773L57.9212 35.766C57.5339 35.766 57.2305 35.885 57.0112 36.123C56.7919 36.361 56.6822 36.6947 56.6822 37.124V39H56.1852V35.318H56.6612V36.039ZM60.4319 39.035C60.0679 39.035 59.7412 38.9557 59.4519 38.797C59.1672 38.6383 58.9432 38.4167 58.7799 38.132C58.6166 37.8427 58.5349 37.5183 58.5349 37.159C58.5349 36.7997 58.6166 36.4777 58.7799 36.193C58.9432 35.9083 59.1672 35.6867 59.4519 35.528C59.7412 35.3693 60.0679 35.29 60.4319 35.29C60.7492 35.29 61.0316 35.353 61.2789 35.479C61.5309 35.6003 61.7292 35.78 61.8739 36.018L61.5029 36.27C61.3816 36.088 61.2276 35.9527 61.0409 35.864C60.8542 35.7707 60.6512 35.724 60.4319 35.724C60.1659 35.724 59.9256 35.7847 59.7109 35.906C59.5009 36.0227 59.3352 36.1907 59.2139 36.41C59.0972 36.6293 59.0389 36.879 59.0389 37.159C59.0389 37.4437 59.0972 37.6957 59.2139 37.915C59.3352 38.1297 59.5009 38.2977 59.7109 38.419C59.9256 38.5357 60.1659 38.594 60.4319 38.594C60.6512 38.594 60.8542 38.5497 61.0409 38.461C61.2276 38.3723 61.3816 38.237 61.5029 38.055L61.8739 38.307C61.7292 38.545 61.5309 38.727 61.2789 38.853C61.0269 38.9743 60.7446 39.035 60.4319 39.035ZM65.9947 37.313H62.9147C62.9427 37.6957 63.0897 38.006 63.3557 38.244C63.6217 38.4773 63.9577 38.594 64.3637 38.594C64.5924 38.594 64.8024 38.5543 64.9937 38.475C65.185 38.391 65.3507 38.2697 65.4907 38.111L65.7707 38.433C65.6074 38.629 65.402 38.7783 65.1547 38.881C64.912 38.9837 64.6437 39.035 64.3497 39.035C63.9717 39.035 63.6357 38.9557 63.3417 38.797C63.0524 38.6337 62.826 38.4097 62.6627 38.125C62.4994 37.8403 62.4177 37.5183 62.4177 37.159C62.4177 36.7997 62.4947 36.4777 62.6487 36.193C62.8074 35.9083 63.022 35.6867 63.2927 35.528C63.568 35.3693 63.876 35.29 64.2167 35.29C64.5574 35.29 64.863 35.3693 65.1337 35.528C65.4044 35.6867 65.6167 35.9083 65.7707 36.193C65.9247 36.473 66.0017 36.795 66.0017 37.159L65.9947 37.313ZM64.2167 35.717C63.862 35.717 63.5634 35.8313 63.3207 36.06C63.0827 36.284 62.9474 36.578 62.9147 36.942H65.5257C65.493 36.578 65.3554 36.284 65.1127 36.06C64.8747 35.8313 64.576 35.717 64.2167 35.717ZM69.9023 34.548H68.1803V34.1H72.1423V34.548H70.4203V39H69.9023V34.548ZM73.2452 36.039C73.3618 35.7917 73.5345 35.605 73.7632 35.479C73.9965 35.353 74.2835 35.29 74.6242 35.29V35.773L74.5052 35.766C74.1178 35.766 73.8145 35.885 73.5952 36.123C73.3758 36.361 73.2662 36.6947 73.2662 37.124V39H72.7692V35.318H73.2452V36.039ZM76.8052 35.29C77.2859 35.29 77.6546 35.4113 77.9112 35.654C78.1679 35.892 78.2962 36.2467 78.2962 36.718V39H77.8202V38.426C77.7082 38.6173 77.5426 38.7667 77.3232 38.874C77.1086 38.9813 76.8519 39.035 76.5532 39.035C76.1426 39.035 75.8159 38.937 75.5732 38.741C75.3306 38.545 75.2092 38.286 75.2092 37.964C75.2092 37.6513 75.3212 37.3993 75.5452 37.208C75.7739 37.0167 76.1356 36.921 76.6302 36.921H77.7992V36.697C77.7992 36.3797 77.7106 36.1393 77.5332 35.976C77.3559 35.808 77.0969 35.724 76.7562 35.724C76.5229 35.724 76.2989 35.7637 76.0842 35.843C75.8696 35.9177 75.6852 36.0227 75.5312 36.158L75.3072 35.787C75.4939 35.6283 75.7179 35.507 75.9792 35.423C76.2406 35.3343 76.5159 35.29 76.8052 35.29ZM76.6302 38.643C76.9102 38.643 77.1506 38.58 77.3512 38.454C77.5519 38.3233 77.7012 38.1367 77.7992 37.894V37.292H76.6442C76.0142 37.292 75.6992 37.5113 75.6992 37.95C75.6992 38.1647 75.7809 38.335 75.9442 38.461C76.1076 38.5823 76.3362 38.643 76.6302 38.643ZM79.6461 35.318H80.1431V39H79.6461V35.318ZM79.8981 34.513C79.7955 34.513 79.7091 34.478 79.6391 34.408C79.5691 34.338 79.5341 34.254 79.5341 34.156C79.5341 34.0627 79.5691 33.981 79.6391 33.911C79.7091 33.841 79.7955 33.806 79.8981 33.806C80.0008 33.806 80.0871 33.841 80.1571 33.911C80.2271 33.9763 80.2621 34.0557 80.2621 34.149C80.2621 34.2517 80.2271 34.338 80.1571 34.408C80.0871 34.478 80.0008 34.513 79.8981 34.513ZM83.402 35.29C83.864 35.29 84.2303 35.4253 84.501 35.696C84.7763 35.962 84.914 36.3517 84.914 36.865V39H84.417V36.914C84.417 36.5313 84.3213 36.2397 84.13 36.039C83.9387 35.8383 83.6657 35.738 83.311 35.738C82.9143 35.738 82.5993 35.857 82.366 36.095C82.1373 36.3283 82.023 36.6527 82.023 37.068V39H81.526V35.318H82.002V35.997C82.1373 35.773 82.324 35.6003 82.562 35.479C82.8047 35.353 83.0847 35.29 83.402 35.29ZM86.2633 35.318H86.7603V39H86.2633V35.318ZM86.5153 34.513C86.4126 34.513 86.3263 34.478 86.2563 34.408C86.1863 34.338 86.1513 34.254 86.1513 34.156C86.1513 34.0627 86.1863 33.981 86.2563 33.911C86.3263 33.841 86.4126 33.806 86.5153 33.806C86.618 33.806 86.7043 33.841 86.7743 33.911C86.8443 33.9763 86.8793 34.0557 86.8793 34.149C86.8793 34.2517 86.8443 34.338 86.7743 34.408C86.7043 34.478 86.618 34.513 86.5153 34.513ZM90.0192 35.29C90.4812 35.29 90.8475 35.4253 91.1182 35.696C91.3935 35.962 91.5312 36.3517 91.5312 36.865V39H91.0342V36.914C91.0342 36.5313 90.9385 36.2397 90.7472 36.039C90.5559 35.8383 90.2829 35.738 89.9282 35.738C89.5315 35.738 89.2165 35.857 88.9832 36.095C88.7545 36.3283 88.6402 36.6527 88.6402 37.068V39H88.1432V35.318H88.6192V35.997C88.7545 35.773 88.9412 35.6003 89.1792 35.479C89.4219 35.353 89.7019 35.29 90.0192 35.29ZM96.3032 35.318V38.552C96.3032 39.1773 96.1492 39.6393 95.8412 39.938C95.5378 40.2413 95.0782 40.393 94.4622 40.393C94.1215 40.393 93.7972 40.3417 93.4892 40.239C93.1858 40.141 92.9385 40.0033 92.7472 39.826L92.9992 39.448C93.1765 39.6067 93.3912 39.7303 93.6432 39.819C93.8998 39.9077 94.1682 39.952 94.4482 39.952C94.9148 39.952 95.2578 39.8423 95.4772 39.623C95.6965 39.4083 95.8062 39.0723 95.8062 38.615V38.146C95.6522 38.3793 95.4492 38.5567 95.1972 38.678C94.9498 38.7993 94.6745 38.86 94.3712 38.86C94.0258 38.86 93.7108 38.7853 93.4262 38.636C93.1462 38.482 92.9245 38.2697 92.7612 37.999C92.6025 37.7237 92.5232 37.4133 92.5232 37.068C92.5232 36.7227 92.6025 36.4147 92.7612 36.144C92.9245 35.8733 93.1462 35.6633 93.4262 35.514C93.7062 35.3647 94.0212 35.29 94.3712 35.29C94.6838 35.29 94.9662 35.353 95.2182 35.479C95.4702 35.605 95.6732 35.787 95.8272 36.025V35.318H96.3032ZM94.4202 38.419C94.6862 38.419 94.9265 38.363 95.1412 38.251C95.3558 38.1343 95.5215 37.9733 95.6382 37.768C95.7595 37.5627 95.8202 37.3293 95.8202 37.068C95.8202 36.8067 95.7595 36.5757 95.6382 36.375C95.5215 36.1697 95.3558 36.011 95.1412 35.899C94.9312 35.7823 94.6908 35.724 94.4202 35.724C94.1542 35.724 93.9138 35.78 93.6992 35.892C93.4892 36.004 93.3235 36.1627 93.2022 36.368C93.0855 36.5733 93.0272 36.8067 93.0272 37.068C93.0272 37.3293 93.0855 37.5627 93.2022 37.768C93.3235 37.9733 93.4892 38.1343 93.6992 38.251C93.9138 38.363 94.1542 38.419 94.4202 38.419ZM12.5148 47.776C12.4215 47.86 12.3048 47.9253 12.1648 47.972C12.0295 48.014 11.8871 48.035 11.7378 48.035C11.3925 48.035 11.1265 47.9417 10.9398 47.755C10.7531 47.5683 10.6598 47.3047 10.6598 46.964V44.738H10.0018V44.318H10.6598V43.513H11.1568V44.318H12.2768V44.738H11.1568V46.936C11.1568 47.1553 11.2105 47.3233 11.3178 47.44C11.4298 47.552 11.5885 47.608 11.7938 47.608C11.8965 47.608 11.9945 47.5917 12.0878 47.559C12.1858 47.5263 12.2698 47.4797 12.3398 47.419L12.5148 47.776ZM13.8956 45.039C14.0122 44.7917 14.1849 44.605 14.4136 44.479C14.6469 44.353 14.9339 44.29 15.2746 44.29V44.773L15.1556 44.766C14.7682 44.766 14.4649 44.885 14.2456 45.123C14.0262 45.361 13.9166 45.6947 13.9166 46.124V48H13.4196V44.318H13.8956V45.039ZM17.4556 44.29C17.9363 44.29 18.3049 44.4113 18.5616 44.654C18.8183 44.892 18.9466 45.2467 18.9466 45.718V48H18.4706V47.426C18.3586 47.6173 18.1929 47.7667 17.9736 47.874C17.7589 47.9813 17.5023 48.035 17.2036 48.035C16.7929 48.035 16.4663 47.937 16.2236 47.741C15.9809 47.545 15.8596 47.286 15.8596 46.964C15.8596 46.6513 15.9716 46.3993 16.1956 46.208C16.4243 46.0167 16.7859 45.921 17.2806 45.921H18.4496V45.697C18.4496 45.3797 18.3609 45.1393 18.1836 44.976C18.0063 44.808 17.7473 44.724 17.4066 44.724C17.1733 44.724 16.9493 44.7637 16.7346 44.843C16.5199 44.9177 16.3356 45.0227 16.1816 45.158L15.9576 44.787C16.1443 44.6283 16.3683 44.507 16.6296 44.423C16.8909 44.3343 17.1663 44.29 17.4556 44.29ZM17.2806 47.643C17.5606 47.643 17.8009 47.58 18.0016 47.454C18.2023 47.3233 18.3516 47.1367 18.4496 46.894V46.292H17.2946C16.6646 46.292 16.3496 46.5113 16.3496 46.95C16.3496 47.1647 16.4313 47.335 16.5946 47.461C16.7579 47.5823 16.9866 47.643 17.2806 47.643ZM20.2965 44.318H20.7935V48H20.2965V44.318ZM20.5485 43.513C20.4458 43.513 20.3595 43.478 20.2895 43.408C20.2195 43.338 20.1845 43.254 20.1845 43.156C20.1845 43.0627 20.2195 42.981 20.2895 42.911C20.3595 42.841 20.4458 42.806 20.5485 42.806C20.6512 42.806 20.7375 42.841 20.8075 42.911C20.8775 42.9763 20.9125 43.0557 20.9125 43.149C20.9125 43.2517 20.8775 43.338 20.8075 43.408C20.7375 43.478 20.6512 43.513 20.5485 43.513ZM24.0524 44.29C24.5144 44.29 24.8807 44.4253 25.1514 44.696C25.4267 44.962 25.5644 45.3517 25.5644 45.865V48H25.0674V45.914C25.0674 45.5313 24.9717 45.2397 24.7804 45.039C24.5891 44.8383 24.3161 44.738 23.9614 44.738C23.5647 44.738 23.2497 44.857 23.0164 45.095C22.7877 45.3283 22.6734 45.6527 22.6734 46.068V48H22.1764V44.318H22.6524V44.997C22.7877 44.773 22.9744 44.6003 23.2124 44.479C23.4551 44.353 23.7351 44.29 24.0524 44.29ZM26.9137 44.318H27.4107V48H26.9137V44.318ZM27.1657 43.513C27.063 43.513 26.9767 43.478 26.9067 43.408C26.8367 43.338 26.8017 43.254 26.8017 43.156C26.8017 43.0627 26.8367 42.981 26.9067 42.911C26.9767 42.841 27.063 42.806 27.1657 42.806C27.2684 42.806 27.3547 42.841 27.4247 42.911C27.4947 42.9763 27.5297 43.0557 27.5297 43.149C27.5297 43.2517 27.4947 43.338 27.4247 43.408C27.3547 43.478 27.2684 43.513 27.1657 43.513ZM30.6696 44.29C31.1316 44.29 31.4979 44.4253 31.7686 44.696C32.0439 44.962 32.1816 45.3517 32.1816 45.865V48H31.6846V45.914C31.6846 45.5313 31.5889 45.2397 31.3976 45.039C31.2063 44.8383 30.9333 44.738 30.5786 44.738C30.1819 44.738 29.8669 44.857 29.6336 45.095C29.4049 45.3283 29.2906 45.6527 29.2906 46.068V48H28.7936V44.318H29.2696V44.997C29.4049 44.773 29.5916 44.6003 29.8296 44.479C30.0723 44.353 30.3523 44.29 30.6696 44.29ZM36.9536 44.318V47.552C36.9536 48.1773 36.7996 48.6393 36.4916 48.938C36.1882 49.2413 35.7286 49.393 35.1126 49.393C34.7719 49.393 34.4476 49.3417 34.1396 49.239C33.8362 49.141 33.5889 49.0033 33.3976 48.826L33.6496 48.448C33.8269 48.6067 34.0416 48.7303 34.2936 48.819C34.5502 48.9077 34.8186 48.952 35.0986 48.952C35.5652 48.952 35.9082 48.8423 36.1276 48.623C36.3469 48.4083 36.4566 48.0723 36.4566 47.615V47.146C36.3026 47.3793 36.0996 47.5567 35.8476 47.678C35.6002 47.7993 35.3249 47.86 35.0216 47.86C34.6762 47.86 34.3612 47.7853 34.0766 47.636C33.7966 47.482 33.5749 47.2697 33.4116 46.999C33.2529 46.7237 33.1736 46.4133 33.1736 46.068C33.1736 45.7227 33.2529 45.4147 33.4116 45.144C33.5749 44.8733 33.7966 44.6633 34.0766 44.514C34.3566 44.3647 34.6716 44.29 35.0216 44.29C35.3342 44.29 35.6166 44.353 35.8686 44.479C36.1206 44.605 36.3236 44.787 36.4776 45.025V44.318H36.9536ZM35.0706 47.419C35.3366 47.419 35.5769 47.363 35.7916 47.251C36.0062 47.1343 36.1719 46.9733 36.2886 46.768C36.4099 46.5627 36.4706 46.3293 36.4706 46.068C36.4706 45.8067 36.4099 45.5757 36.2886 45.375C36.1719 45.1697 36.0062 45.011 35.7916 44.899C35.5816 44.7823 35.3412 44.724 35.0706 44.724C34.8046 44.724 34.5642 44.78 34.3496 44.892C34.1396 45.004 33.9739 45.1627 33.8526 45.368C33.7359 45.5733 33.6776 45.8067 33.6776 46.068C33.6776 46.3293 33.7359 46.5627 33.8526 46.768C33.9739 46.9733 34.1396 47.1343 34.3496 47.251C34.5642 47.363 34.8046 47.419 35.0706 47.419ZM41.2834 43.058C41.9087 43.058 42.4664 43.1887 42.9564 43.45C43.4511 43.7067 43.8361 44.0707 44.1114 44.542C44.3867 45.0087 44.5244 45.543 44.5244 46.145C44.5244 46.7377 44.4217 47.202 44.2164 47.538C44.0111 47.8693 43.7264 48.035 43.3624 48.035C43.1337 48.035 42.9471 47.9673 42.8024 47.832C42.6624 47.6967 42.5854 47.51 42.5714 47.272C42.4314 47.5147 42.2401 47.7037 41.9974 47.839C41.7547 47.9697 41.4794 48.035 41.1714 48.035C40.8447 48.035 40.5484 47.958 40.2824 47.804C40.0211 47.6453 39.8134 47.4283 39.6594 47.153C39.5101 46.8777 39.4354 46.5673 39.4354 46.222C39.4354 45.8767 39.5101 45.5687 39.6594 45.298C39.8134 45.0227 40.0211 44.808 40.2824 44.654C40.5484 44.5 40.8447 44.423 41.1714 44.423C41.4701 44.423 41.7384 44.4883 41.9764 44.619C42.2191 44.745 42.4127 44.9247 42.5574 45.158V44.451H43.0124V47.104C43.0124 47.2907 43.0521 47.426 43.1314 47.51C43.2107 47.594 43.3157 47.636 43.4464 47.636C43.6657 47.636 43.8384 47.5053 43.9644 47.244C44.0951 46.9827 44.1604 46.6187 44.1604 46.152C44.1604 45.6107 44.0391 45.1347 43.7964 44.724C43.5537 44.3087 43.2131 43.9867 42.7744 43.758C42.3404 43.5293 41.8434 43.415 41.2834 43.415C40.7187 43.415 40.2171 43.534 39.7784 43.772C39.3444 44.0053 39.0061 44.3367 38.7634 44.766C38.5207 45.1907 38.3994 45.676 38.3994 46.222C38.3994 46.768 38.5184 47.2557 38.7564 47.685C38.9991 48.1143 39.3351 48.448 39.7644 48.686C40.1984 48.924 40.6954 49.043 41.2554 49.043C41.4747 49.043 41.7034 49.0173 41.9414 48.966C42.1841 48.9147 42.4034 48.8377 42.5994 48.735L42.7184 49.078C42.5177 49.1807 42.2844 49.26 42.0184 49.316C41.7571 49.372 41.5027 49.4 41.2554 49.4C40.6207 49.4 40.0584 49.2647 39.5684 48.994C39.0784 48.7233 38.6957 48.3477 38.4204 47.867C38.1497 47.3817 38.0144 46.8333 38.0144 46.222C38.0144 45.606 38.1521 45.06 38.4274 44.584C38.7027 44.1033 39.0877 43.73 39.5824 43.464C40.0817 43.1933 40.6487 43.058 41.2834 43.058ZM41.2344 47.629C41.4864 47.629 41.7127 47.5707 41.9134 47.454C42.1141 47.3373 42.2727 47.174 42.3894 46.964C42.5061 46.7493 42.5644 46.502 42.5644 46.222C42.5644 45.9467 42.5061 45.704 42.3894 45.494C42.2727 45.2793 42.1141 45.116 41.9134 45.004C41.7127 44.8873 41.4864 44.829 41.2344 44.829C40.9777 44.829 40.7467 44.8873 40.5414 45.004C40.3407 45.1207 40.1821 45.284 40.0654 45.494C39.9534 45.704 39.8974 45.9467 39.8974 46.222C39.8974 46.4973 39.9534 46.7423 40.0654 46.957C40.1821 47.167 40.3407 47.3327 40.5414 47.454C40.7467 47.5707 40.9777 47.629 41.2344 47.629ZM47.4728 44.29C47.8181 44.29 48.1308 44.3693 48.4108 44.528C48.6908 44.682 48.9101 44.9013 49.0688 45.186C49.2275 45.4707 49.3068 45.795 49.3068 46.159C49.3068 46.523 49.2275 46.8473 49.0688 47.132C48.9101 47.4167 48.6908 47.6383 48.4108 47.797C48.1308 47.9557 47.8181 48.035 47.4728 48.035C47.1648 48.035 46.8871 47.9697 46.6398 47.839C46.3971 47.7083 46.2011 47.5193 46.0518 47.272V48H45.5758V42.806H46.0728V45.018C46.2268 44.78 46.4228 44.6003 46.6608 44.479C46.9035 44.353 47.1741 44.29 47.4728 44.29ZM47.4378 47.594C47.6945 47.594 47.9278 47.5357 48.1378 47.419C48.3478 47.2977 48.5111 47.1273 48.6278 46.908C48.7491 46.6887 48.8098 46.439 48.8098 46.159C48.8098 45.879 48.7491 45.6293 48.6278 45.41C48.5111 45.1907 48.3478 45.0227 48.1378 44.906C47.9278 44.7847 47.6945 44.724 47.4378 44.724C47.1765 44.724 46.9408 44.7847 46.7308 44.906C46.5255 45.0227 46.3621 45.1907 46.2408 45.41C46.1241 45.6293 46.0658 45.879 46.0658 46.159C46.0658 46.439 46.1241 46.6887 46.2408 46.908C46.3621 47.1273 46.5255 47.2977 46.7308 47.419C46.9408 47.5357 47.1765 47.594 47.4378 47.594ZM53.638 44.318V48H53.162V47.328C53.0313 47.552 52.8516 47.727 52.623 47.853C52.3943 47.9743 52.133 48.035 51.839 48.035C51.3583 48.035 50.978 47.902 50.698 47.636C50.4226 47.3653 50.285 46.971 50.285 46.453V44.318H50.782V46.404C50.782 46.7913 50.8776 47.0853 51.069 47.286C51.2603 47.4867 51.5333 47.587 51.888 47.587C52.2753 47.587 52.581 47.4703 52.805 47.237C53.029 46.999 53.141 46.67 53.141 46.25V44.318H53.638ZM55.0299 44.318H55.5269V48H55.0299V44.318ZM55.2819 43.513C55.1792 43.513 55.0929 43.478 55.0229 43.408C54.9529 43.338 54.9179 43.254 54.9179 43.156C54.9179 43.0627 54.9529 42.981 55.0229 42.911C55.0929 42.841 55.1792 42.806 55.2819 42.806C55.3846 42.806 55.4709 42.841 55.5409 42.911C55.6109 42.9763 55.6459 43.0557 55.6459 43.149C55.6459 43.2517 55.6109 43.338 55.5409 43.408C55.4709 43.478 55.3846 43.513 55.2819 43.513ZM56.9098 42.806H57.4068V48H56.9098V42.806ZM62.1497 42.806V48H61.6737V47.272C61.5243 47.5193 61.326 47.7083 61.0787 47.839C60.836 47.9697 60.5607 48.035 60.2527 48.035C59.9073 48.035 59.5947 47.9557 59.3147 47.797C59.0347 47.6383 58.8153 47.4167 58.6567 47.132C58.498 46.8473 58.4187 46.523 58.4187 46.159C58.4187 45.795 58.498 45.4707 58.6567 45.186C58.8153 44.9013 59.0347 44.682 59.3147 44.528C59.5947 44.3693 59.9073 44.29 60.2527 44.29C60.5513 44.29 60.8197 44.353 61.0577 44.479C61.3003 44.6003 61.4987 44.78 61.6527 45.018V42.806H62.1497ZM60.2947 47.594C60.5513 47.594 60.7823 47.5357 60.9877 47.419C61.1977 47.2977 61.361 47.1273 61.4777 46.908C61.599 46.6887 61.6597 46.439 61.6597 46.159C61.6597 45.879 61.599 45.6293 61.4777 45.41C61.361 45.1907 61.1977 45.0227 60.9877 44.906C60.7823 44.7847 60.5513 44.724 60.2947 44.724C60.0333 44.724 59.7977 44.7847 59.5877 44.906C59.3823 45.0227 59.219 45.1907 59.0977 45.41C58.981 45.6293 58.9227 45.879 58.9227 46.159C58.9227 46.439 58.981 46.6887 59.0977 46.908C59.219 47.1273 59.3823 47.2977 59.5877 47.419C59.7977 47.5357 60.0333 47.594 60.2947 47.594ZM64.0098 45.039C64.1265 44.7917 64.2992 44.605 64.5278 44.479C64.7612 44.353 65.0482 44.29 65.3888 44.29V44.773L65.2698 44.766C64.8825 44.766 64.5792 44.885 64.3598 45.123C64.1405 45.361 64.0308 45.6947 64.0308 46.124V48H63.5338V44.318H64.0098V45.039ZM66.2887 44.318H66.7857V48H66.2887V44.318ZM66.5407 43.513C66.438 43.513 66.3517 43.478 66.2817 43.408C66.2117 43.338 66.1767 43.254 66.1767 43.156C66.1767 43.0627 66.2117 42.981 66.2817 42.911C66.3517 42.841 66.438 42.806 66.5407 42.806C66.6434 42.806 66.7297 42.841 66.7997 42.911C66.8697 42.9763 66.9047 43.0557 66.9047 43.149C66.9047 43.2517 66.8697 43.338 66.7997 43.408C66.7297 43.478 66.6434 43.513 66.5407 43.513ZM71.5776 44.318V47.552C71.5776 48.1773 71.4236 48.6393 71.1156 48.938C70.8123 49.2413 70.3526 49.393 69.7366 49.393C69.3959 49.393 69.0716 49.3417 68.7636 49.239C68.4603 49.141 68.2129 49.0033 68.0216 48.826L68.2736 48.448C68.4509 48.6067 68.6656 48.7303 68.9176 48.819C69.1743 48.9077 69.4426 48.952 69.7226 48.952C70.1893 48.952 70.5323 48.8423 70.7516 48.623C70.9709 48.4083 71.0806 48.0723 71.0806 47.615V47.146C70.9266 47.3793 70.7236 47.5567 70.4716 47.678C70.2243 47.7993 69.9489 47.86 69.6456 47.86C69.3003 47.86 68.9853 47.7853 68.7006 47.636C68.4206 47.482 68.1989 47.2697 68.0356 46.999C67.8769 46.7237 67.7976 46.4133 67.7976 46.068C67.7976 45.7227 67.8769 45.4147 68.0356 45.144C68.1989 44.8733 68.4206 44.6633 68.7006 44.514C68.9806 44.3647 69.2956 44.29 69.6456 44.29C69.9583 44.29 70.2406 44.353 70.4926 44.479C70.7446 44.605 70.9476 44.787 71.1016 45.025V44.318H71.5776ZM69.6946 47.419C69.9606 47.419 70.2009 47.363 70.4156 47.251C70.6303 47.1343 70.7959 46.9733 70.9126 46.768C71.0339 46.5627 71.0946 46.3293 71.0946 46.068C71.0946 45.8067 71.0339 45.5757 70.9126 45.375C70.7959 45.1697 70.6303 45.011 70.4156 44.899C70.2056 44.7823 69.9653 44.724 69.6946 44.724C69.4286 44.724 69.1883 44.78 68.9736 44.892C68.7636 45.004 68.5979 45.1627 68.4766 45.368C68.3599 45.5733 68.3016 45.8067 68.3016 46.068C68.3016 46.3293 68.3599 46.5627 68.4766 46.768C68.5979 46.9733 68.7636 47.1343 68.9736 47.251C69.1883 47.363 69.4286 47.419 69.6946 47.419ZM74.8434 44.29C75.3054 44.29 75.6717 44.4253 75.9424 44.696C76.2177 44.962 76.3554 45.3517 76.3554 45.865V48H75.8584V45.914C75.8584 45.5313 75.7627 45.2397 75.5714 45.039C75.3801 44.8383 75.1071 44.738 74.7524 44.738C74.3557 44.738 74.0407 44.857 73.8074 45.095C73.5787 45.3283 73.4644 45.6527 73.4644 46.068V48H72.9674V42.806H73.4644V44.962C73.5997 44.7473 73.7864 44.5817 74.0244 44.465C74.2624 44.3483 74.5354 44.29 74.8434 44.29ZM79.6437 47.776C79.5504 47.86 79.4337 47.9253 79.2937 47.972C79.1584 48.014 79.0161 48.035 78.8667 48.035C78.5214 48.035 78.2554 47.9417 78.0687 47.755C77.8821 47.5683 77.7887 47.3047 77.7887 46.964V44.738H77.1307V44.318H77.7887V43.513H78.2857V44.318H79.4057V44.738H78.2857V46.936C78.2857 47.1553 78.3394 47.3233 78.4467 47.44C78.5587 47.552 78.7174 47.608 78.9227 47.608C79.0254 47.608 79.1234 47.5917 79.2167 47.559C79.3147 47.5263 79.3987 47.4797 79.4687 47.419L79.6437 47.776ZM80.6658 48.035C80.5632 48.035 80.4745 47.9977 80.3998 47.923C80.3298 47.8483 80.2948 47.7573 80.2948 47.65C80.2948 47.5427 80.3298 47.454 80.3998 47.384C80.4745 47.3093 80.5632 47.272 80.6658 47.272C80.7685 47.272 80.8572 47.3093 80.9318 47.384C81.0065 47.454 81.0438 47.5427 81.0438 47.65C81.0438 47.7573 81.0065 47.8483 80.9318 47.923C80.8572 47.9977 80.7685 48.035 80.6658 48.035ZM83.5237 48.035C83.1597 48.035 82.833 47.9557 82.5437 47.797C82.259 47.6383 82.035 47.4167 81.8717 47.132C81.7084 46.8427 81.6267 46.5183 81.6267 46.159C81.6267 45.7997 81.7084 45.4777 81.8717 45.193C82.035 44.9083 82.259 44.6867 82.5437 44.528C82.833 44.3693 83.1597 44.29 83.5237 44.29C83.841 44.29 84.1234 44.353 84.3707 44.479C84.6227 44.6003 84.821 44.78 84.9657 45.018L84.5947 45.27C84.4734 45.088 84.3194 44.9527 84.1327 44.864C83.946 44.7707 83.743 44.724 83.5237 44.724C83.2577 44.724 83.0174 44.7847 82.8027 44.906C82.5927 45.0227 82.427 45.1907 82.3057 45.41C82.189 45.6293 82.1307 45.879 82.1307 46.159C82.1307 46.4437 82.189 46.6957 82.3057 46.915C82.427 47.1297 82.5927 47.2977 82.8027 47.419C83.0174 47.5357 83.2577 47.594 83.5237 47.594C83.743 47.594 83.946 47.5497 84.1327 47.461C84.3194 47.3723 84.4734 47.237 84.5947 47.055L84.9657 47.307C84.821 47.545 84.6227 47.727 84.3707 47.853C84.1187 47.9743 83.8364 48.035 83.5237 48.035ZM87.3855 48.035C87.0308 48.035 86.7112 47.9557 86.4265 47.797C86.1418 47.6337 85.9178 47.4097 85.7545 47.125C85.5912 46.8403 85.5095 46.5183 85.5095 46.159C85.5095 45.7997 85.5912 45.4777 85.7545 45.193C85.9178 44.9083 86.1418 44.6867 86.4265 44.528C86.7112 44.3693 87.0308 44.29 87.3855 44.29C87.7402 44.29 88.0598 44.3693 88.3445 44.528C88.6292 44.6867 88.8508 44.9083 89.0095 45.193C89.1728 45.4777 89.2545 45.7997 89.2545 46.159C89.2545 46.5183 89.1728 46.8403 89.0095 47.125C88.8508 47.4097 88.6292 47.6337 88.3445 47.797C88.0598 47.9557 87.7402 48.035 87.3855 48.035ZM87.3855 47.594C87.6468 47.594 87.8802 47.5357 88.0855 47.419C88.2955 47.2977 88.4588 47.1273 88.5755 46.908C88.6922 46.6887 88.7505 46.439 88.7505 46.159C88.7505 45.879 88.6922 45.6293 88.5755 45.41C88.4588 45.1907 88.2955 45.0227 88.0855 44.906C87.8802 44.7847 87.6468 44.724 87.3855 44.724C87.1242 44.724 86.8885 44.7847 86.6785 44.906C86.4732 45.0227 86.3098 45.1907 86.1885 45.41C86.0718 45.6293 86.0135 45.879 86.0135 46.159C86.0135 46.439 86.0718 46.6887 86.1885 46.908C86.3098 47.1273 86.4732 47.2977 86.6785 47.419C86.8885 47.5357 87.1242 47.594 87.3855 47.594ZM94.8612 44.29C95.3232 44.29 95.6848 44.423 95.9462 44.689C96.2122 44.955 96.3452 45.347 96.3452 45.865V48H95.8482V45.914C95.8482 45.5313 95.7548 45.2397 95.5682 45.039C95.3862 44.8383 95.1272 44.738 94.7912 44.738C94.4085 44.738 94.1075 44.857 93.8882 45.095C93.6688 45.3283 93.5592 45.6527 93.5592 46.068V48H93.0622V45.914C93.0622 45.5313 92.9688 45.2397 92.7822 45.039C92.6002 44.8383 92.3388 44.738 91.9982 44.738C91.6202 44.738 91.3192 44.857 91.0952 45.095C90.8758 45.3283 90.7662 45.6527 90.7662 46.068V48H90.2692V44.318H90.7452V44.99C90.8758 44.766 91.0578 44.5933 91.2912 44.472C91.5245 44.3507 91.7928 44.29 92.0962 44.29C92.4042 44.29 92.6702 44.3553 92.8942 44.486C93.1228 44.6167 93.2932 44.8103 93.4052 45.067C93.5405 44.8243 93.7342 44.6353 93.9862 44.5C94.2428 44.36 94.5345 44.29 94.8612 44.29Z\"/></svg>"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.3564%",
+        "left": "8.18308%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s8.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.3882%",
+        "left": "8.1276%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s7.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.31707465618861%",
+        "left": "8.183079056865465%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s6.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.24831041257367%",
+        "left": "8.072122052704579%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s5.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.0813163064833%",
+        "left": "8.12760055478502%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s4.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.9436%",
+        "left": "8.07212%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s3.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.79567779960707%",
+        "left": "8.044382801664355%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s2.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.757151277013755%",
+        "left": "7.864077669902914%",
+        "color": "#151515",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s1.date]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.598%",
+        "left": "7.71065%",
+        "color": "#ffffff",
+        "width": "4.0221914008321775%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.7069%",
+        "left": "15.1147%",
+        "color": "#ffffff",
+        "width": "6.657420249653259%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CATEGORY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.931%",
+        "left": "23.3842%",
+        "color": "#ffffff",
+        "width": "9.015256588072122%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING SUBJECT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.6165%",
+        "left": "41.8319%",
+        "color": "#ffffff",
+        "width": "2.496532593619972%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "HRS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.934736738703336%",
+        "left": "46.9625520110957%",
+        "color": "#ffffff",
+        "width": "4.854368932038835%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "RESULT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.60980353634577%",
+        "left": "55.28432732316227%",
+        "color": "#ffffff",
+        "width": "4.854368932038835%",
+        "fontSize": "7em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "NOTES",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.8574%",
+        "left": "7.0412%",
+        "color": "#151515",
+        "width": "15.672676837725383%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DEPARTMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.1113%",
+        "left": "6.99126%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.id]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.0242%",
+        "left": "7.1161%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.position]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.65169611307421%",
+        "left": "29.113607990012486%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.department]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.0069%",
+        "left": "29.1011%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[supervisor.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.923780918727914%",
+        "left": "29.113607990012486%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.year]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.686%",
+        "left": "41.5617%",
+        "color": "#151515",
+        "width": "3.9950062421972534%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s2.hrs]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.80669611307421%",
+        "left": "41.57303370786517%",
+        "color": "#151515",
+        "width": "3.9950062421972534%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s3.hrs]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.7006890459364%",
+        "left": "41.560549313358294%",
+        "color": "#151515",
+        "width": "3.9950062421972534%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s4.hrs]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.05706713780918%",
+        "left": "41.57303370786517%",
+        "color": "#151515",
+        "width": "3.9950062421972534%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s5.hrs]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.71835689045936%",
+        "left": "41.57303370786517%",
+        "color": "#151515",
+        "width": "3.9950062421972534%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s6.hrs]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.18374558303887%",
+        "left": "41.57586766541822%",
+        "color": "#151515",
+        "width": "3.9950062421972534%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s7.hrs]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.02173144876325%",
+        "left": "41.57586766541822%",
+        "color": "#151515",
+        "width": "3.9950062421972534%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[s8.hrs]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.155477031802118%",
+        "left": "51.31086142322098%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.title]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.978798586572438%",
+        "left": "51.29837702871411%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[trainer.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.9541%",
+        "left": "51.3277%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.venue]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.063763250883394%",
+        "left": "74.25717852684144%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.location]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.87%",
+        "left": "74.3695%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.coordinator]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.010759717314485%",
+        "left": "74.29463171036204%",
+        "color": "#151515",
+        "width": "18.85143570536829%",
+        "fontSize": "6em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[training.period]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01kycm2axw8xxb4ycbdb3q9rwn-1787123949431.png",
+  "isDefault": true,
+  "createdAt": "2026-07-25T12:30:13.136Z",
+  "updatedAt": "2026-08-19T07:19:11.791Z",
+  "metadata": {
+    "lang": "en",
+    "color": "grey",
+    "category": "hr"
+  },
+  "id": "01kycm2axw8xxb4ycbdb3q9rwn",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "training_record",
+  "galleryOrder": 19,
+  "categoryOrder": 6
+}

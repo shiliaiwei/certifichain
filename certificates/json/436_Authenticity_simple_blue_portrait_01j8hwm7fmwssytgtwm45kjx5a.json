@@ -1,0 +1,333 @@
+{
+  "name": "436_Authenticity_simple_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-09-2024-12:28:16_436_Authenticity_simple_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "67.1245125%",
+        "left": "26.325088339222614%",
+        "color": "#2e2b2b",
+        "width": "23.674911660777383%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.97998125%",
+        "left": "57.243816254416956%",
+        "color": "#2e2b2b",
+        "width": "31.802120141342755%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.025975%",
+        "left": "57.26148409893993%",
+        "color": "#2e2b2b",
+        "width": "23.674911660777383%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.744125%",
+        "left": "7.915194346289754%",
+        "color": "#2e2b2b",
+        "width": "78.62190812720848%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate guarantees the authenticity of the artwork titled \"Moonlit Tranquility,\" an original oil painting on canvas. The artwork embodies a serene night scene with soft, moonlit reflections on calm water. The piece is noted for its intricate detailing and the artist's unique blending techniques.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.25%",
+        "left": "8.303886925795052%",
+        "color": "#2e2b2b",
+        "width": "86.92579505300353%",
+        "height": "auto",
+        "fontSize": "48em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Of Authenticity",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.4995125%",
+        "left": "7.950530035335689%",
+        "color": "#aeaeae",
+        "width": "18.551236749116608%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Artist Signature:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.125%",
+        "left": "8.480565371024735%",
+        "color": "#aeaeae",
+        "width": "17.6678445229682%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Title of Artwork:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.438475%",
+        "left": "26.501766784452297%",
+        "color": "#2e2b2b",
+        "width": "20.848056537102476%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Anna M. Reynolds",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70%",
+        "left": "8.480565371024735%",
+        "color": "#aeaeae",
+        "width": "21.554770318021202%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Identification code:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73%",
+        "left": "8.480565371024735%",
+        "color": "#aeaeae",
+        "width": "10.777385159010601%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Medium:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.0625%",
+        "left": "57.243816254416956%",
+        "color": "#aeaeae",
+        "width": "14.840989399293287%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Dimensions:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.9995125%",
+        "left": "30.03533568904594%",
+        "color": "#2e2b2b",
+        "width": "19.964664310954063%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "GLO-37954-284",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.025%",
+        "left": "18.63816254416961%",
+        "color": "#2e2b2b",
+        "width": "15.375%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Oil on Canvas",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.063475%",
+        "left": "72.1731448763251%",
+        "color": "#2e2b2b",
+        "width": "15.375%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "30 x 40 inches",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "15.75%",
+        "left": "79.15194346289752%",
+        "width": "11.66077738515901%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-12:09:40_Group 19541.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "42.75%",
+        "left": "8.303886925795052%",
+        "width": "36.21908127208481%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-12:10:05_Group 19538.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "87.125%",
+        "left": "68.02120141342756%",
+        "width": "23.32155477031802%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-12:10:36_logo.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "25.75%",
+        "left": "80.11690812720849%",
+        "width": "9.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-12:10:59_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.0168%",
+        "left": "7.950530035335689%",
+        "width": "26.501766784452297%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-12:11:42_Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "16.649375%",
+        "left": "8.303886925795052%",
+        "width": "45.22968197879859%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2024-12:22:30_image 77.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j8hwm7fmwssytgtwm45kjx5a-1727177301504.png",
+  "isDefault": true,
+  "createdAt": "2024-09-24T11:28:21.494Z",
+  "updatedAt": "2025-03-19T11:00:27.991Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01j8hwm7fmwssytgtwm45kjx5a",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2092,
+  "categoryOrder": 589
+}

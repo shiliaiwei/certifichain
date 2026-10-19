@@ -1,0 +1,324 @@
+{
+  "name": "28_training_formal_burgundy_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-08-22-1:12:36_Training Formal Burgundy Portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.25%",
+        "left": "10.379858657243817%",
+        "color": "#d19c1d",
+        "width": "78.52950530035335%",
+        "height": "9.73535%",
+        "fontSize": "66em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.8214463840399%",
+        "left": "25.349293286219083%",
+        "color": "#d19c1d",
+        "width": "50.70671378091873%",
+        "height": "2.875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certifies that he/she has participated to ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.124999999999996%",
+        "left": "32.420494699646646%",
+        "color": "#d19c1d",
+        "width": "34.62897526501767%",
+        "height": "3.875%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly Presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.400375%",
+        "left": "49.82332155477032%",
+        "color": "#d19c1d",
+        "width": "21.197349823321556%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.18462499999999%",
+        "left": "49.82332155477032%",
+        "color": "#d19c1d",
+        "width": "24.907597173144875%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.25%",
+        "left": "18.286219081272083%",
+        "color": "#d19c1d",
+        "width": "18.19787985865724%",
+        "height": "2.5%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Anastasiia Clark",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.379875%",
+        "left": "18.81625441696113%",
+        "color": "#d19c1d",
+        "width": "17.6678445229682%",
+        "height": "6.2578125%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Dancing Script, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Clark",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.15525%",
+        "left": "17.6678445229682%",
+        "color": "#d19c1d",
+        "width": "19.434628975265017%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Department Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.18462499999999%",
+        "left": "30.036749116607776%",
+        "color": "#d19c1d",
+        "width": "15.720247349823321%",
+        "height": "2.919925%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date of issue:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17%",
+        "left": "15.3689222614841%",
+        "color": "#d19c1d",
+        "width": "70.66731448763251%",
+        "height": "6.2578125%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Training Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.399375%",
+        "left": "28.97667844522968%",
+        "color": "#d19c1d",
+        "width": "16.780318021201417%",
+        "height": "2.919925%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.38054862842893%",
+        "left": "60.43109540636043%",
+        "color": "#d19c1d",
+        "width": "19.081272084805654%",
+        "height": "6.2578125%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Dancing Script, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chechik",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.25%",
+        "left": "60.872791519434635%",
+        "color": "#d19c1d",
+        "width": "18.19787985865724%",
+        "height": "2.5%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Natalie Chechik",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.15425%",
+        "left": "60.2708480565371%",
+        "color": "#d19c1d",
+        "width": "20.318021201413426%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.0235%",
+        "left": "24.28922261484099%",
+        "color": "#d19c1d",
+        "width": "52.82685512367491%",
+        "height": "2.919925%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "in recognition of their active participation.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.726625%",
+        "left": "14.312332155477032%",
+        "color": "#d19c1d",
+        "width": "70.8439929328622%",
+        "height": "4.171875%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CORPORATE SAFETY CULTURE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "12.25%",
+        "left": "28.97667844522968%",
+        "width": "41.39664310954064%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-08-22-1:12:46_Logo Placeholder.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12992-1661166804665.png",
+  "isDefault": true,
+  "createdAt": "2022-08-22T11:13:22.902Z",
+  "updatedAt": "2025-03-19T10:59:45.508Z",
+  "metadata": {
+    "lang": "en",
+    "color": "yellow",
+    "style": "formal",
+    "category": "training"
+  },
+  "id": "01gb2m3nyp27ywrknwgb6gyz3w",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2910,
+  "categoryOrder": 407
+}

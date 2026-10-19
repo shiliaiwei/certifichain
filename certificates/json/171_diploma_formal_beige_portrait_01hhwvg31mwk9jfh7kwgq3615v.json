@@ -1,0 +1,252 @@
+{
+  "name": "171_diploma_formal_beige_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-12-2023-10:38:54_171_diploma_formal_beige_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.41725%",
+        "left": "20.881272084805655%",
+        "color": "#605143",
+        "width": "57.919611307420496%",
+        "height": "6.2390625%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.04375%",
+        "left": "31.952296819787986%",
+        "color": "#605143",
+        "width": "35.7773851590106%",
+        "height": "1.459375%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.909375%",
+        "left": "33.00459363957597%",
+        "color": "#605143",
+        "width": "33.745583038869256%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.71725%",
+        "left": "30.170141342756185%",
+        "color": "#605143",
+        "width": "39.36395759717315%",
+        "height": "2.25625%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is granted to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.725%",
+        "left": "18.662720848056537%",
+        "color": "#605143",
+        "width": "62.429328621908134%",
+        "height": "15.396874999999998%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE \nOF COMPLETION ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.725%",
+        "left": "14.511925795053005%",
+        "color": "#605143",
+        "width": "20.85459363957597%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.759375%",
+        "left": "18.937809187279154%",
+        "color": "#605143",
+        "width": "61.75795053003533%",
+        "height": "6.76875%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully defended her course work on\u2028              'Fundamentals of design, erection \nand maintenance of landscape \narchitecture objects'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.696875%",
+        "left": "15.267226148409893%",
+        "color": "#605143",
+        "width": "19.414664310954063%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Doreen Hunter",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.5875%",
+        "left": "63.3083038869258%",
+        "color": "#605143",
+        "width": "21.8839222614841%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Margaret Conley",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.7%",
+        "left": "64.5969964664311%",
+        "color": "#605143",
+        "width": "19.237985865724383%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Design educator",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.732%",
+        "left": "19.516431095406357%",
+        "width": "11.678445229681977%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-12-2023-10:27:18_1T27IVUq6wP5ns9RIHYt5-Group77.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.626625%",
+        "left": "65.48480565371024%",
+        "width": "17.387367491166078%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-12-2023-10:27:21_HBQIp-gH7kzCkHP0_BJXO-layer1.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.858625%",
+        "left": "41.20035335689046%",
+        "width": "17.142226148409893%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-12-2023-10:27:25_HkUnAX5dSzrxPqmjdejTp-logo.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.125%",
+        "left": "45.0839222614841%",
+        "color": "#605143",
+        "width": "9.372791519434628%",
+        "height": "2.390625%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "UNIVERSITY LOGO",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhwvg31mwk9jfh7kwgq3615v-1702849154119.png",
+  "isDefault": true,
+  "createdAt": "2023-12-17T21:39:14.102Z",
+  "updatedAt": "2025-03-19T10:59:59.951Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "formal",
+    "category": "completion"
+  },
+  "id": "01hhwvg31mwk9jfh7kwgq3615v",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2627,
+  "categoryOrder": 881
+}

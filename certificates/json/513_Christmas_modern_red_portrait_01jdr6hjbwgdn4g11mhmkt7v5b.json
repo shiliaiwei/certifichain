@@ -1,0 +1,318 @@
+{
+  "name": "513_Christmas_modern_red_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/28-11-2024-02:35:25_513_christmas_modern_red_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.311013767209012%",
+        "left": "9.557522123893806%",
+        "color": "#00110e",
+        "width": "80%",
+        "height": "auto",
+        "fontSize": "64em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.73216520650814%",
+        "left": "9.774336283185841%",
+        "color": "#00110e",
+        "width": "19.646017699115045%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.6145181476846%",
+        "left": "9.91150442477876%",
+        "color": "#00110e",
+        "width": "28.31858407079646%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.18272841051314%",
+        "left": "9.893805309734514%",
+        "color": "#00110e",
+        "width": "66.54867256637168%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "As a token of appreciation, you are awarded an extra day of paid leave. Wishing you a joyful holiday season!",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.784730913642054%",
+        "left": "9.778761061946902%",
+        "color": "#00110e",
+        "width": "46.902654867256636%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.37859824780977%",
+        "left": "9.893805309734514%",
+        "color": "#00110e",
+        "width": "23.53982300884956%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Joshua Anderson",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "39.79818523153942%",
+        "left": "9.734513274336283%",
+        "width": "61.59292035398231%",
+        "height": "0.1251564455569462%",
+        "backgroundColor": "#a82923"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.887359198998748%",
+        "left": "9.734513274336283%",
+        "color": "#00110e",
+        "width": "68.14159292035397%",
+        "height": "auto",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HAPPY HOLIDAYS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.80225281602002%",
+        "left": "9.787610619469028%",
+        "color": "#00110e",
+        "width": "63.36283185840708%",
+        "height": "auto",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Winner of the Holiday Decoration Contest",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "63.07728410513141%",
+        "left": "9.91150442477876%",
+        "width": "20.17699115044248%",
+        "height": "0.1251564455569462%",
+        "backgroundColor": "#a82923"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.9674593241552%",
+        "left": "9.91150442477876%",
+        "color": "#00110e",
+        "width": "16.817375%",
+        "height": "6.890459363957597%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jessica Brown",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.08010012515645%",
+        "left": "9.85840707964602%",
+        "color": "#00110e",
+        "width": "18.230088495575224%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Vice President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.22277847309135%",
+        "left": "9.84070796460177%",
+        "color": "#00110e",
+        "width": "19.646017699115045%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Account Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "77.34511889862328%",
+        "left": "9.91150442477876%",
+        "width": "20%",
+        "height": "0.1251564455569462%",
+        "backgroundColor": "#a82923"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.40050062578223%",
+        "left": "9.91150442477876%",
+        "width": "11.858407079646017%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-11:34:16_3AoXpGKkSCsV1wwcZUKHo-Group 18973.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "56.57071339173968%",
+        "left": "9.85840707964602%",
+        "width": "16.63716814159292%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-07-2024-11:34:40_rhKMbp5Vy-45hahA2DJv1-Vector 68.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.893304130162703%",
+        "left": "15.575221238938052%",
+        "color": "#00110e",
+        "width": "31.68141592920354%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PUREFLOW INTEGRATIVE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.632040050062578%",
+        "left": "9.734513274336283%",
+        "width": "4.070796460176991%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/28-11-2024-02:18:43_vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.50187734668335%",
+        "left": "9.557522123893806%",
+        "color": "#00110e",
+        "width": "68.14159292035397%",
+        "height": "auto",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE GIFT",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jdr6hjbwgdn4g11mhmkt7v5b-1732757735816.png",
+  "isDefault": true,
+  "createdAt": "2024-11-28T01:35:35.806Z",
+  "updatedAt": "2025-03-19T11:00:32.753Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "modern",
+    "category": "recognition"
+  },
+  "id": "01jdr6hjbwgdn4g11mhmkt7v5b",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1998,
+  "categoryOrder": 565
+}

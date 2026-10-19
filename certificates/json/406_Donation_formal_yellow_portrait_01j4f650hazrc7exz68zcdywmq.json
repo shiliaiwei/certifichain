@@ -1,0 +1,207 @@
+{
+  "name": "406_Donation_formal_yellow_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/04-08-2024-07:13:53_406_Donation_formal_yellow_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.921875%",
+        "left": "9.74077738515901%",
+        "color": "#3f1919",
+        "width": "80.05742049469966%",
+        "height": "8.4961%",
+        "fontSize": "64em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.63775%",
+        "left": "10.972014134275618%",
+        "color": "#3f1919",
+        "width": "27.915194346289752%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.858375%",
+        "left": "10.554434628975265%",
+        "color": "#3f1919",
+        "width": "28.751590106007068%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.49125%",
+        "left": "10.092773851590106%",
+        "color": "#5e3636",
+        "width": "79.28325%",
+        "height": "10.60070671378092%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HAS  CONTRIBUTED $3,000 TO HAPPY PAWS \nRESCUE TO ENHANCE LIVING CONDITIONS \nFOR SHELTER ANIMALS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.5517625%",
+        "left": "19.259363957597174%",
+        "color": "#3f1919",
+        "width": "60.34540636042402%",
+        "height": "9.292975%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.709%",
+        "left": "60.58833922261484%",
+        "color": "#5e3636",
+        "width": "24.268374558303886%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MS. JENNIFER LEE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.809625%",
+        "left": "32.90971731448764%",
+        "color": "#5e3636",
+        "width": "33.65035335689046%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE VERIFIES THAT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.5185%",
+        "left": "60.912720848056544%",
+        "color": "#5e3636",
+        "width": "23.943375%",
+        "height": "9.540636042402827%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "PRESIDENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.118125%",
+        "left": "20.518197879858658%",
+        "color": "#3f1919",
+        "width": "60.057625%",
+        "height": "39.75265017667844%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF DONATION",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.84575%",
+        "left": "43.96113074204947%",
+        "width": "11.546219081272085%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-07:07:16_vwufXNZUoXxqOuxrgIjUb-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.98725%",
+        "left": "60.58833922261484%",
+        "width": "25.081448763250886%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-07:07:37_ZUcMhJ_YTWvrz9BjRPQSH-Vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j4f650hazrc7exz68zcdywmq-1722791668126.png",
+  "isDefault": true,
+  "createdAt": "2024-08-04T17:14:18.028Z",
+  "updatedAt": "2025-03-19T11:00:25.029Z",
+  "metadata": {
+    "lang": "en",
+    "color": "yellow",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j4f650hazrc7exz68zcdywmq",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2154,
+  "categoryOrder": 649
+}

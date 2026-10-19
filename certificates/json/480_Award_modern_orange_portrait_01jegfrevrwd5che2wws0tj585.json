@@ -1,0 +1,267 @@
+{
+  "name": "480_Award_modern_orange_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/07-12-2024-12:04:54_480_award_modern_orange_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.61181875%",
+        "left": "32.50883392226148%",
+        "color": "#da5d05",
+        "width": "59.01060070671378%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.37575%",
+        "left": "32.50883392226148%",
+        "color": "#da5d05",
+        "width": "56.625%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.374999999999996%",
+        "left": "32.50883392226148%",
+        "color": "#313d4f",
+        "width": "54.77031802120141%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This award is proudly presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.375%",
+        "left": "32.50883392226148%",
+        "color": "#313d4f",
+        "width": "22.261484098939928%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Lachlan Ford",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.575%",
+        "left": "1.7736749116607775%",
+        "color": "#313d4f",
+        "width": "24.375%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.7875%",
+        "left": "32.50883392226148%",
+        "color": "#313d4f",
+        "width": "52.473498233215544%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For his outstanding performance \nin academic studies, placing him \namong the top students. Your \ncontinuous pursuit of excellence \nhas earned you this honor.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.5525375%",
+        "left": "1.76678445229682%",
+        "color": "#313d4f",
+        "width": "24.375%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.625%",
+        "left": "3.0035335689045937%",
+        "color": "#313d4f",
+        "width": "24.204946996466433%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "www.summit.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.1875%",
+        "left": "32.54416961130742%",
+        "color": "#313d4f",
+        "width": "14.75%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.4%",
+        "left": "32.50883392226148%",
+        "color": "#313d4f",
+        "width": "29.681978798586574%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.175%",
+        "left": "32.59717314487632%",
+        "color": "#313d4f",
+        "width": "25.795053003533567%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Phoenix Rowan",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.684592920353984%",
+        "left": "3.75%",
+        "width": "20.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/07-12-2024-11:53:34_group_19867.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.625%",
+        "left": "77.3851590106007%",
+        "width": "15.01766784452297%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/07-12-2024-11:53:58_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.2373%",
+        "left": "32.50883392226148%",
+        "width": "18.90459363957597%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/07-12-2024-11:54:27_vector_775.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.386525%",
+        "left": "32.50883392226148%",
+        "width": "17.491166077738516%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/07-12-2024-11:54:48_vector_776.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.625%",
+        "left": "32.561837455830386%",
+        "color": "#da5d05",
+        "width": "56.625%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of recognition",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jegfrevrwd5che2wws0tj585-1755525447569.png",
+  "isDefault": true,
+  "createdAt": "2024-12-07T11:58:25.146Z",
+  "updatedAt": "2025-08-18T13:57:30.799Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "modern",
+    "category": "recognition"
+  },
+  "id": "01jegfrevrwd5che2wws0tj585",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1971,
+  "categoryOrder": 541
+}

@@ -1,0 +1,282 @@
+{
+  "name": "258_Appreciation_professional_violet_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/13-10-2023-12:11:41_65_CPD_professional_violet_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.434625000000004%",
+        "left": "15.469028268551236%",
+        "color": "#170e88",
+        "width": "71.22349823321554%",
+        "height": "8.4961%",
+        "fontSize": "66em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.22162500000001%",
+        "left": "58.3190812720848%",
+        "color": "#010101",
+        "width": "29.611660777385158%",
+        "height": "1.4599625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.023374999999994%",
+        "left": "15.627756183745584%",
+        "color": "#010101",
+        "width": "24.15671378091873%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.07325%",
+        "left": "14.985159010600707%",
+        "color": "#010101",
+        "width": "70.46855123674911%",
+        "height": "9.5%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "For displaying his excellent organizational skills and outstanding committment to the company.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.511725%",
+        "left": "14.641519434628975%",
+        "color": "#170e88",
+        "width": "67.75759717314487%",
+        "height": "4.6464875%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " CERTIFICATE OF APPRECIATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.138625%",
+        "left": "60.53250883392226%",
+        "color": "#110e3a",
+        "width": "25.18356890459364%",
+        "height": "4.75%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Publishing company",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.139625%",
+        "left": "17.36487632508834%",
+        "color": "#010101",
+        "width": "17.126766784452297%",
+        "height": "4.75%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Robert Stewart",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "58.537125%",
+        "left": "16.549295774647888%",
+        "width": "22.66872791519435%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#170e88"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.836%",
+        "left": "28.171201413427564%",
+        "color": "#010101",
+        "width": "43.12756183745583%",
+        "height": "5.875%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.788125%",
+        "left": "13.114204946996466%",
+        "color": "#010101",
+        "width": "26.70335689045936%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Publishing company director",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "81.9365%",
+        "left": "19.8943661971831%",
+        "width": "12.421325088339222%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#170e88"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.996125%",
+        "left": "18.40636042402827%",
+        "width": "16.12053003533569%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/12-10-2023-11:52:23_uelRaVSNQ7G3SQ7b1iJL4-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "61.414%",
+        "left": "38.33922261484099%",
+        "width": "23.76183745583039%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-07:01:51_1rzNsE6IBNnJnOyE4Ceau-Group 18726.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.160125%",
+        "left": "70.73003533568905%",
+        "width": "4.789646643109541%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-07:04:52_K_IzzrdABM424IckQyL1q-Group.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "58.537125%",
+        "left": "61.96713780918728%",
+        "width": "22.66872791519435%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#170e88"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.713875%",
+        "left": "41.11148409893993%",
+        "color": "#010101",
+        "width": "18.21590106007067%",
+        "height": "5.875%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED\n2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.788125%",
+        "left": "59.77314487632508%",
+        "color": "#010101",
+        "width": "26.70335689045936%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hr78gk1ap6cpgqh219b2ys8f-1709640816323.png",
+  "isDefault": true,
+  "createdAt": "2024-03-05T12:13:17.229Z",
+  "updatedAt": "2025-03-19T11:00:08.398Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "appreciation"
+  },
+  "id": "01hr78gk1ap6cpgqh219b2ys8f",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2483,
+  "categoryOrder": 134
+}

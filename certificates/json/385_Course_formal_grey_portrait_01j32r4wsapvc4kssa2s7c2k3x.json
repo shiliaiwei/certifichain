@@ -1,0 +1,406 @@
+{
+  "name": "385_Course_formal_grey_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/18-07-2024-01:02:34_385_Course_formal_grey_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "26.51275%",
+        "left": "8.595123674911662%",
+        "color": "#4c4242",
+        "width": "80.63445229681979%",
+        "height": "8.6289%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.628875%",
+        "left": "35.386749116607774%",
+        "color": "#4c4242",
+        "width": "24.877875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.629875%",
+        "left": "9.174858657243815%",
+        "color": "#4c4242",
+        "width": "20.84399293286219%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.694375%",
+        "left": "30.04487632508834%",
+        "color": "#4c4242",
+        "width": "39.380035335689044%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is honored to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.583012500000001%",
+        "left": "4.323127208480566%",
+        "color": "#4c4242",
+        "width": "90.877%",
+        "height": "22.791519434628977%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COURSE COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.314%",
+        "left": "10.90851590106007%",
+        "color": "#4c4242",
+        "width": "34.93409893992933%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Dashiell Kensington",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.74225%",
+        "left": "34.935335689045935%",
+        "color": "#4c4242",
+        "width": "25.32720848056537%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Reference number",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.914%",
+        "left": "9.885671378091873%",
+        "color": "#4c4242",
+        "width": "36.796113074204946%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certification Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.74225%",
+        "left": "10.908551236749117%",
+        "color": "#4c4242",
+        "width": "17.377%",
+        "height": "3.7102473498233217%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.974625%",
+        "left": "34.51448763250883%",
+        "color": "#4c4242",
+        "width": "25.31060070671378%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Completed Hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "67.974625%",
+        "left": "10.058250883392224%",
+        "color": "#4c4242",
+        "width": "19.7547703180212%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Gained Points",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.19625%",
+        "left": "15.76303886925795%",
+        "color": "#4c4242",
+        "width": "7.876949999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "5/5",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.19525%",
+        "left": "43.231802120141346%",
+        "color": "#4c4242",
+        "width": "7.876949999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "270",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.776375%",
+        "left": "3.9849999999999994%",
+        "color": "#4c4242",
+        "width": "90.877%",
+        "height": "22.791519434628977%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Financial Accounting Fundamentals",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.314%",
+        "left": "58.753886925795065%",
+        "color": "#4c4242",
+        "width": "23.627%",
+        "height": "8.480565371024735%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Imogen Leclair",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.09275%",
+        "left": "58.441166077738515%",
+        "color": "#4c4242",
+        "width": "24.252%",
+        "height": "7.420494699646643%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Principal",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "36.152375%",
+        "left": "35.38732394366197%",
+        "width": "29.596466431095404%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#4c4242"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.11625%",
+        "left": "19.19310954063604%",
+        "width": "18.17862190812721%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:43:10_AjYZ6M9yzduAPO_eJN7iV-Group 19177.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "57.64549999999999%",
+        "left": "69.30494699646643%",
+        "width": "20.94876325088339%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:43:29_snux8B_Ajar2mtemXQKqB-Group 19183.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.836875%",
+        "left": "60.80918727915194%",
+        "width": "18.48356890459364%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:43:58_zWIGxBbXPURmXCo2mHopO-Group 19178.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.78712500000001%",
+        "left": "71.54381625441695%",
+        "color": "#4c4242",
+        "width": "16.823109540636043%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED\n2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.1065%",
+        "left": "24.532155477031804%",
+        "color": "#4c4242",
+        "width": "49.78197879858657%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In acknowledgment of completing",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.5%",
+        "left": "4.535724381625442%",
+        "color": "#4c4242",
+        "width": "90.877%",
+        "height": "22.791519434628977%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j32r4wsapvc4kssa2s7c2k3x-1721300579156.png",
+  "isDefault": true,
+  "createdAt": "2024-07-18T11:02:59.116Z",
+  "updatedAt": "2025-03-19T11:00:22.736Z",
+  "metadata": {
+    "lang": "en",
+    "color": "grey",
+    "style": "formal",
+    "category": "course"
+  },
+  "id": "01j32r4wsapvc4kssa2s7c2k3x",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2196,
+  "categoryOrder": 92
+}

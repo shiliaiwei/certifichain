@@ -1,0 +1,234 @@
+{
+  "name": "399_Donation_professional_red_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/04-08-2024-12:26:59_399_Donation_professional_red_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.059625%",
+        "left": "14.026678445229681%",
+        "color": "#1c0b0b",
+        "width": "71.75353356890459%",
+        "height": "8.4961%",
+        "fontSize": "64em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.32715%",
+        "left": "32.59028268551237%",
+        "color": "#5e3636",
+        "width": "34.45229681978799%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.903375%",
+        "left": "37.56007067137809%",
+        "color": "#5e3636",
+        "width": "24.686749116607775%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.57325%",
+        "left": "16.864505300353358%",
+        "color": "#5e3636",
+        "width": "66.07773851590106%",
+        "height": "9.9580125%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has graciously supported arts programs \nin schools through a generous \ncontribution of $4,000.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.048825%",
+        "left": "4.171272084805653%",
+        "color": "#1c0b0b",
+        "width": "88.807625%",
+        "height": "12.190812720848058%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.438%",
+        "left": "67.3035335689046%",
+        "color": "#5e3636",
+        "width": "20.936395759717314%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Mr. Eric Hill",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.212014134275616%",
+        "left": "35.28175%",
+        "color": "#5e3636",
+        "width": "29.057625000000005%",
+        "height": "4.240282685512367%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Declares that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.6015%",
+        "left": "63.856713780918724%",
+        "color": "#5e3636",
+        "width": "27.829681978798586%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Program Supervisor",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "59.211000000000006%",
+        "left": "38.790459363957595%",
+        "width": "21.887455830388692%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-12:17:48_Ekv_x_Jxw7B5BohHSFlMQ-Capa 1.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.32525%",
+        "left": "45.47667844522969%",
+        "color": "#100032",
+        "width": "8.6796875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Verified \nDonor",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.034125%",
+        "left": "9.90220848056537%",
+        "width": "25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-12:19:26_kEyiFuOWCZh8PDff_V3Xj-Group 19258.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.888625%",
+        "left": "67.46625441696112%",
+        "width": "20.609187279151943%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-12:19:56_ltdRaQaISVPrc8ETTUk_z-Group 19238.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.125%",
+        "left": "5.331448763250883%",
+        "color": "#1c0b0b",
+        "width": "88.807625%",
+        "height": "12.190812720848058%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF APPRECIATION",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j4d5n20tt4ehme5r2jphn5c3-1722724026403.png",
+  "isDefault": true,
+  "createdAt": "2024-08-03T22:27:06.396Z",
+  "updatedAt": "2025-03-19T11:00:24.115Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j4d5n20tt4ehme5r2jphn5c3",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2168,
+  "categoryOrder": 663
+}

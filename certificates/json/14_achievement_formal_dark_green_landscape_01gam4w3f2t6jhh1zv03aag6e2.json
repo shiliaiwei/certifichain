@@ -1,0 +1,336 @@
+{
+  "name": "14_achievement_formal_dark_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-08-22-10:15:00_Achievement Formal Horizontal background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.54081272084805%",
+        "left": "14.000000000000002%",
+        "color": "#f0d59f",
+        "width": "38.75%",
+        "height": "12.493091872791519%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Satisfy, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.22985865724382%",
+        "left": "12.918875%",
+        "color": "#f0d59f",
+        "width": "40.90825%",
+        "height": "5.830388692579505%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.765316901408454%",
+        "left": "67.0625%",
+        "color": "#f0d59f",
+        "width": "14.000000000000002%",
+        "height": "8.657243816254418%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Mundy",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.17544169611307%",
+        "left": "13.3125%",
+        "color": "#f0d59f",
+        "width": "40.125%",
+        "height": "8.327349823321557%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of your outstanding performance in achieving a high, academic standing in the field of psychology, we hereby grant you this certificate of academic achievement. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.523851590106%",
+        "left": "26.86075%",
+        "color": "#f0d59f",
+        "width": "13.028375%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE NO:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.2482332155477%",
+        "left": "26.3125%",
+        "color": "#f0d59f",
+        "width": "14.124999999999998%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "PRESENTED THIS ON:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.47632508833922%",
+        "left": "21.187%",
+        "color": "#f0d59f",
+        "width": "24.375%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.777385159010606%",
+        "left": "17.1865%",
+        "color": "#f0d59f",
+        "width": "32.375%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.467844522968196%",
+        "left": "24.309625%",
+        "color": "#f0d59f",
+        "width": "18.125%",
+        "height": "3.6081095406360424%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.866961130742048%",
+        "left": "69.59375%",
+        "color": "#f0d59f",
+        "width": "9.375%",
+        "height": "2.4734982332155475%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JUDE ROGERS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.57402826855123%",
+        "left": "67.6875%",
+        "color": "#f0d59f",
+        "width": "12.75%",
+        "height": "3.356890459363958%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MATHEW MUNDY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.54187279151944%",
+        "left": "68.15625%",
+        "color": "#f0d59f",
+        "width": "12.25%",
+        "height": "2.220901060070671%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Assossiate Professor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.24770318021203%",
+        "left": "68.6855%",
+        "color": "#f0d59f",
+        "width": "10.75%",
+        "height": "2.2968197879858656%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director of Education",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.014084507042252%",
+        "left": "68.21875%",
+        "color": "#f0d59f",
+        "width": "12.125%",
+        "height": "9.717314487632509%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Rogers",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "50.8833922261484%",
+        "left": "14.8125%",
+        "width": "37.375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "70.49063604240283%",
+        "left": "68.375%",
+        "width": "11.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "28.975265017667844%",
+        "left": "68.375%",
+        "width": "11.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.20070671378092%",
+        "left": "24.5625%",
+        "color": "#f0d59f",
+        "width": "17.625%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "39.77879858657244%",
+        "left": "68.473625%",
+        "width": "11.1777375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-22-12:35:51_Award Badges-24.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12722-1660681065445.png",
+  "isDefault": true,
+  "createdAt": "2022-08-16T20:17:43.906Z",
+  "updatedAt": "2025-03-19T10:59:41.261Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01gam4w3f2t6jhh1zv03aag6e2",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2983,
+  "categoryOrder": 321
+}

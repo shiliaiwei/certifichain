@@ -1,0 +1,363 @@
+{
+  "name": "26_webinar_professional_navy_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-08-22-12:25:16_Professional certificate.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.78498233215548%",
+        "left": "19.375%",
+        "color": "#ffffff",
+        "width": "60.875%",
+        "height": "13.881678445229683%",
+        "fontSize": "48em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "MonteCarlo, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.71325088339223%",
+        "left": "28.653375000000004%",
+        "color": "#c3c6de",
+        "width": "30.25%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.761307420494695%",
+        "left": "23.125%",
+        "color": "#c3c6de",
+        "width": "53.37499999999999%",
+        "height": "13.250883392226148%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sem sodales sed integer eget id sed nisi. Arcu, adipiscing nunc hendrerit nisl mi, nunc. Fusce aliquam lobortis massa lacus, erat dui sed facilisi aliquam. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.71325088339223%",
+        "left": "70.32743142144639%",
+        "color": "#c3c6de",
+        "width": "16.625%",
+        "height": "3.3306713780918726%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.35600706713781%",
+        "left": "38.875%",
+        "color": "#ffffff",
+        "width": "21.875%",
+        "height": "5.477031802120141%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.71325088339223%",
+        "left": "63.089650872817955%",
+        "color": "#c3c6de",
+        "width": "7.278325%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issue date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.71325088339223%",
+        "left": "19.625%",
+        "color": "#c3c6de",
+        "width": "8.903325%",
+        "height": "2.7757773851590106%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.53144876325088%",
+        "left": "23.044875%",
+        "color": "#c3c6de",
+        "width": "13.875000000000002%",
+        "height": "5.551572438162545%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Chief Financial Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.2160777385159%",
+        "left": "37.5%",
+        "color": "#c3c6de",
+        "width": "24.625%",
+        "height": "3.3306713780918726%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.02420494699646%",
+        "left": "22.03125%",
+        "color": "#ffffff",
+        "width": "15.903375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Michael O'neal",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "73.03851590106008%",
+        "left": "23.358%",
+        "width": "13.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "73.03992932862191%",
+        "left": "63.422374999999995%",
+        "width": "13.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "49.46855123674912%",
+        "left": "24.9375%",
+        "width": "50%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#7e8090"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.27031802120142%",
+        "left": "22.03125%",
+        "color": "#ffffff",
+        "width": "15.903375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "O'neal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.27031802120142%",
+        "left": "62.09525%",
+        "color": "#ffffff",
+        "width": "15.903375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Silver",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.53144876325088%",
+        "left": "63.108875%",
+        "color": "#c3c6de",
+        "width": "13.875000000000002%",
+        "height": "5.551572438162545%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "10.247349823321555%",
+        "left": "43.101125%",
+        "width": "13.422875000000001%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-08-22-12:11:38_Group 256.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.02544169611306%",
+        "left": "62.09525%",
+        "color": "#ffffff",
+        "width": "15.903375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Alex Silver",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.93144876325088%",
+        "left": "44.30475%",
+        "width": "11.01465%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-08-22-12:22:26_Capa 1.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.55123674911661%",
+        "left": "46.875%",
+        "color": "#604c3f",
+        "width": "5.875%",
+        "height": "6.662703180212015%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Verified Certificate\n2022",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.851590106007066%",
+        "left": "38.3125%",
+        "color": "#ffffff",
+        "width": "23%",
+        "height": "4.164363957597173%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF COMPLETION",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12911-1661005441488.png",
+  "isDefault": true,
+  "createdAt": "2022-08-20T10:42:00.526Z",
+  "updatedAt": "2025-03-19T10:59:44.309Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01gaxdgspex8sf4sq78y3k92fm",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2932,
+  "categoryOrder": 928
+}

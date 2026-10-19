@@ -1,0 +1,270 @@
+{
+  "name": "131_achievement_formal_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-11-2023-01:40:22_131_achievement_formal_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "44.45025%",
+        "left": "23.79434628975265%",
+        "color": "#445d7d",
+        "width": "52.033249999999995%",
+        "height": "11.925795053003533%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.2207%",
+        "left": "11.053445229681978%",
+        "color": "#445d7d",
+        "width": "34.00371024734983%",
+        "height": "1.5918%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.219725%",
+        "left": "61.7773851590106%",
+        "color": "#445d7d",
+        "width": "27.691519434628976%",
+        "height": "1.5918%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.49025%",
+        "left": "14.084611307420495%",
+        "color": "#445d7d",
+        "width": "19.24225%",
+        "height": "3.7102473498233217%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Pauline Dennis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.42975%",
+        "left": "17.07984098939929%",
+        "color": "#445d7d",
+        "width": "65.46219081272085%",
+        "height": "9.9580125%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For dedication. For special contribution to the organization of the 'Animal Friend of Man' charity event",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.319375%",
+        "left": "28.060777385159014%",
+        "color": "#445d7d",
+        "width": "43.501590106007065%",
+        "height": "3.3193374999999996%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is granted to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.599625%",
+        "left": "11.515812720848057%",
+        "color": "#445d7d",
+        "width": "76.4385%",
+        "height": "11.130742049469964%",
+        "fontSize": "71em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.486375%",
+        "left": "8.962226148409894%",
+        "color": "#445d7d",
+        "width": "29.48727915194346%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director of a pet kennel",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.49025%",
+        "left": "67.41519434628975%",
+        "color": "#445d7d",
+        "width": "19.24225%",
+        "height": "3.7102473498233217%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jack Reynolds",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.736375%",
+        "left": "65.29505300353357%",
+        "color": "#445d7d",
+        "width": "23.480212014134274%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director of the charity",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.401375%",
+        "left": "43.32067137809187%",
+        "width": "12.825759717314488%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-11-2023-01:22:39_MYHQd42jIRV60zYhzbAnH-logo.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.580125%",
+        "left": "45.92120141342756%",
+        "color": "#445d7d",
+        "width": "7.627544169611307%",
+        "height": "3.1836%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.625%",
+        "left": "11.59243816254417%",
+        "color": "#445d7d",
+        "width": "76.4385%",
+        "height": "11.130742049469964%",
+        "fontSize": "71em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.4385%",
+        "left": "68.05159010600707%",
+        "width": "17.963250883392227%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-11-2023-01:37:15_ACUEbOIiNi9cd1w7PVaVb-path38.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.49125%",
+        "left": "17.096395759717314%",
+        "width": "13.217756183745582%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-11-2023-01:37:42_G4iGS-lJFsZSmYbA6OaBf-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hewkzdpa9v79dm5tv2ehamtf-1699620097927.png",
+  "isDefault": true,
+  "createdAt": "2023-11-10T12:40:42.445Z",
+  "updatedAt": "2025-03-19T10:59:56.093Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01hewkzdpa9v79dm5tv2ehamtf",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2737,
+  "categoryOrder": 271
+}

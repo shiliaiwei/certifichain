@@ -1,0 +1,301 @@
+{
+  "name": "77_recognition_modern_grey_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-09-2023-10:00:24_77_recognition_modern_grey_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "29.99116607773852%",
+        "left": "43.07325%",
+        "color": "#0b1937",
+        "width": "49.90825%",
+        "height": "13.250883392226148%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Birthstone, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.915194346289752%",
+        "left": "3.578125%",
+        "color": "#ffffff",
+        "width": "28.381875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.08657243816255%",
+        "left": "70.535625%",
+        "color": "#0b1937",
+        "width": "17.67875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.139575971731449%",
+        "left": "45.1055%",
+        "color": "#0b1937",
+        "width": "9.9130875%",
+        "height": "7.950530035335689%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY\nNAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.70671378091873%",
+        "left": "43.714875%",
+        "color": "#0b1937",
+        "width": "27.336%",
+        "height": "7.950530035335689%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For outstanding service and successful completion of",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.291519434628974%",
+        "left": "4.99025%",
+        "color": "#ffffff",
+        "width": "25.557625%",
+        "height": "7.6855123674911665%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.06325088339221%",
+        "left": "43.640625%",
+        "color": "#0b1937",
+        "width": "16.568375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "High School Principal 16",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.877031802120143%",
+        "left": "43.714875%",
+        "color": "#0b1937",
+        "width": "17.381875%",
+        "height": "6.36042402826855%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.02650176678445%",
+        "left": "43.640625%",
+        "color": "#0b1937",
+        "width": "11.4921875%",
+        "height": "5.30035335689046%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Birthstone, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Emily Thompson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.812720848056536%",
+        "left": "1.17775%",
+        "color": "#ffffff",
+        "width": "33.182625%",
+        "height": "7.6855123674911665%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.01060070671378%",
+        "left": "43.714875%",
+        "color": "#0b1937",
+        "width": "40.131875%",
+        "height": "4.770318021201414%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Acting Course 'Monologue Mastery'",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.06325088339221%",
+        "left": "74.25%",
+        "color": "#0b1937",
+        "width": "8.6933625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified on",
+      "autoScale": false
+    },
+    {
+      "type": "vertical-line",
+      "style": {
+        "top": "6.8462897526501765%",
+        "left": "43.714875%",
+        "width": "0.5%",
+        "height": "6.890459363957597%",
+        "backgroundColor": "#f97ece"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "64.04593639575971%",
+        "left": "43.64089775561097%",
+        "width": "37.375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f97ece"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.78091872791519%",
+        "left": "43.64089775561097%",
+        "width": "10.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f97ece"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.78091872791519%",
+        "left": "74.25%",
+        "width": "10.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f97ece"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.7102473498233217%",
+        "left": "89.5%",
+        "color": "#ffffff",
+        "width": "10.25%",
+        "height": "5.30035335689046%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01haxygs74yw6zrkzphv83evhe-1695803903844.png",
+  "isDefault": true,
+  "createdAt": "2023-09-22T08:01:24.198Z",
+  "updatedAt": "2025-03-19T10:59:49.098Z",
+  "metadata": {
+    "lang": "en",
+    "color": "pink",
+    "style": "modern",
+    "category": "recognition"
+  },
+  "id": "01haxygs74yw6zrkzphv83evhe",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2843,
+  "categoryOrder": 708
+}

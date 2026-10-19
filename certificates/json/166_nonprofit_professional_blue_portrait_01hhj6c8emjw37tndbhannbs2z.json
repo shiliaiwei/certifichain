@@ -1,0 +1,309 @@
+{
+  "name": "166_nonprofit_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/13-12-2023-07:17:33_166_nonprofit_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.71175%",
+        "left": "12.152756183745582%",
+        "color": "#22257b",
+        "width": "75.20371024734983%",
+        "height": "7.8333375%",
+        "fontSize": "81em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.14925%",
+        "left": "35.4339222614841%",
+        "color": "#343434",
+        "width": "28.92367491166078%",
+        "height": "1.7257000000000002%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.5642374999999995%",
+        "left": "64.47279151943462%",
+        "color": "#343434",
+        "width": "29.728621908127213%",
+        "height": "2.7864625%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.4461875%",
+        "left": "17.393003533568905%",
+        "color": "#22257b",
+        "width": "65.04469964664311%",
+        "height": "10.3541625%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Grant Seeking Essentials Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.133625%",
+        "left": "35.206890459363954%",
+        "color": "#343434",
+        "width": "29.097879858657244%",
+        "height": "1.991325%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.696125%",
+        "left": "26.753180212014133%",
+        "color": "#343434",
+        "width": "46.321731448763245%",
+        "height": "3.9826374999999996%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "who has successfully completed the \u2028                    Grant Seeking Essentials Course",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.599%",
+        "left": "18.2113074204947%",
+        "color": "#343434",
+        "width": "21.498409893992932%",
+        "height": "1.991325%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Benjamin Foster",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.382%",
+        "left": "23.28851590106007%",
+        "color": "#343434",
+        "width": "11.346678445229683%",
+        "height": "1.991325%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Founder",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.090275%",
+        "left": "12.762561837455829%",
+        "color": "#343434",
+        "width": "17.12554770318021%",
+        "height": "5.5729125%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Philanthropy Primer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.585125%",
+        "left": "61.29646643109541%",
+        "color": "#343434",
+        "width": "19.221201413427565%",
+        "height": "1.991325%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Isabella Walsh",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.368%",
+        "left": "60.478091872791516%",
+        "color": "#343434",
+        "width": "20.86024734982332%",
+        "height": "2.7864625%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "3.883675%",
+        "left": "5.673339222614842%",
+        "width": "5.589911660777385%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-06:56:40_9__1NZ8jpPz6TsdZpfGJa-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "62.14925%",
+        "left": "18.55618374558304%",
+        "width": "20.784275618374558%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-06:58:06_rLE9Ep6AE9jx8GAQADBra-Vector 758.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "61.725750000000005%",
+        "left": "60.092756183745585%",
+        "width": "19.55724381625442%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-06:58:10_AhUtIhYihlYvhGwH1HemR-Vector 757.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.401%",
+        "left": "45.42844522968198%",
+        "width": "8.971342756183745%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-06:58:13_7gyJDXDHoMrKE6-KW1XZe-Group 413.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.64925%",
+        "left": "13.028169014084506%",
+        "width": "73.5816254416961%",
+        "height": "0.5%",
+        "backgroundColor": "#3a3fca"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "72.901%",
+        "left": "17.781690140845072%",
+        "width": "22.713074204947%",
+        "height": "0.5%",
+        "backgroundColor": "#3a3fca"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "72.885375%",
+        "left": "59.63992932862191%",
+        "width": "22.889752650176682%",
+        "height": "0.5%",
+        "backgroundColor": "#3a3fca"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.513875%",
+        "left": "41.61872791519435%",
+        "color": "#343434",
+        "width": "16.551342756183747%",
+        "height": "2.5%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhj6c8emjw37tndbhannbs2z-1702491636473.png",
+  "isDefault": true,
+  "createdAt": "2023-12-13T18:17:44.151Z",
+  "updatedAt": "2025-03-19T10:59:59.454Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hhj6c8emjw37tndbhannbs2z",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2637,
+  "categoryOrder": 231
+}

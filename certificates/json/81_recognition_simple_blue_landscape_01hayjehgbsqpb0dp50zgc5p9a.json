@@ -1,0 +1,264 @@
+{
+  "name": "81_recognition_simple_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-09-2023-03:47:30_81_recognition_simple_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.37031802120141%",
+        "left": "32.830125%",
+        "color": "#405ca4",
+        "width": "55.53325%",
+        "height": "14.575971731448764%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.927561837455833%",
+        "left": "41.043%",
+        "color": "#212121",
+        "width": "35.506875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.20600706713782%",
+        "left": "69.193375%",
+        "color": "#212121",
+        "width": "21.80375%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.243816254416956%",
+        "left": "32.830125%",
+        "color": "#212121",
+        "width": "41.65825%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For outstanding dedication to the highest standards and completion of the course:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.266784452296818%",
+        "left": "32.830125%",
+        "color": "#405ca4",
+        "width": "58.557625%",
+        "height": "15.371024734982333%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.19787985865725%",
+        "left": "32.830125%",
+        "color": "#212121",
+        "width": "14.068375%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Marketing Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.86572438162544%",
+        "left": "32.830125%",
+        "color": "#212121",
+        "width": "23.631875%",
+        "height": "4.593639575971731%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This award is given to",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "52.472084805653715%",
+        "left": "32.830125%",
+        "width": "55.00000000000001%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#dbc5be"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "89.88798586572439%",
+        "left": "32.7930174563591%",
+        "width": "16.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#dbc5be"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.7243816254417%",
+        "left": "32.830125%",
+        "color": "#212121",
+        "width": "38.182625%",
+        "height": "5.30035335689046%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Email Marketing in Gmail",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "89.88798586572439%",
+        "left": "69.193375%",
+        "width": "16.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#dbc5be"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.19787985865725%",
+        "left": "69.193375%",
+        "color": "#212121",
+        "width": "13.568375%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate issue date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.20600706713782%",
+        "left": "32.80275%",
+        "color": "#212121",
+        "width": "15.693374999999998%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Edward Wilcox",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.927561837455833%",
+        "left": "32.830125%",
+        "color": "#212121",
+        "width": "7.7568375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Serial No:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.829010600706713%",
+        "left": "32.80275%",
+        "width": "15.8945%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-04-2024-04:52:12_k2fAnq3tzf181sMpHIhMF-logo-recognition.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hayjehgbsqpb0dp50zgc5p9a-1713797658622.png",
+  "isDefault": true,
+  "createdAt": "2023-09-22T13:49:42.285Z",
+  "updatedAt": "2025-03-19T10:59:49.557Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01hayjehgbsqpb0dp50zgc5p9a",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2835,
+  "categoryOrder": 700
+}

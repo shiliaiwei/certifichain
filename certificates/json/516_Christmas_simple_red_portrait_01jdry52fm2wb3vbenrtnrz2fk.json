@@ -1,0 +1,297 @@
+{
+  "name": "516_Christmas_simple_red_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/28-11-2024-09:28:07_516_christmas_simple_red_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.45744680851064%",
+        "left": "14.746558197747184%",
+        "color": "#ffca60",
+        "width": "70%",
+        "height": "18.879681978798583%",
+        "fontSize": "48em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "EB Garamond, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.15894868585732%",
+        "left": "5.858407079646017%",
+        "color": "#ffca60",
+        "width": "87.61061946902655%",
+        "height": "auto",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "EB Garamond, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CHRISTMAS CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.56570713391739%",
+        "left": "19.115044247787612%",
+        "color": "#ffca60",
+        "width": "61.41592920353982%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "IN RECOGNITION OF YOUR OUTSTANDING SERVICE AND DEDICATION THROUGHOUT THE YEAR.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.47684605757196%",
+        "left": "16.10619469026549%",
+        "color": "#ffca60",
+        "width": "22.477876106194692%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ELLINGTON DREW",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.01752190237796%",
+        "left": "67.10398230088495%",
+        "color": "#ffca60",
+        "width": "11%",
+        "height": "4.996678445229682%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.04755944931165%",
+        "left": "55.2212389380531%",
+        "color": "#ffca60",
+        "width": "15.221238938053098%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTFICATE ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.01939924906134%",
+        "left": "28.057522123893808%",
+        "color": "#ffca60",
+        "width": "21.061946902654867%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.99123904881101%",
+        "left": "70.4424778761062%",
+        "color": "#ffca60",
+        "width": "15.752212389380531%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.13016270337923%",
+        "left": "20.26991150442478%",
+        "color": "#ffca60",
+        "width": "14.159292035398233%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HR  MANAGER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.04881101376721%",
+        "left": "40.00442477876106%",
+        "color": "#ffca60",
+        "width": "20%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.35168961201502%",
+        "left": "64.61946902654869%",
+        "color": "#ffca60",
+        "width": "16.10619469026549%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ROWAN SAGE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.07884856070088%",
+        "left": "13.243362831858404%",
+        "color": "#ffca60",
+        "width": "13.982300884955754%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ISSUING DATE:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.69837296620776%",
+        "left": "21.480088495575224%",
+        "color": "#ffca60",
+        "width": "56.46017699115045%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "WISHING YOU A JOYFUL HOLIDAY SEASON AND CONTINUED SUCCESS IN THE COMING YEAR !",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.63892365456822%",
+        "left": "18.230088495575224%",
+        "width": "21.415929203539825%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/28-11-2024-09:04:58_group_19906.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.5907384230288%",
+        "left": "64.60176991150442%",
+        "width": "19.29203539823009%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/28-11-2024-09:05:07_clip_path_group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.155193992490613%",
+        "left": "28.84955752212389%",
+        "color": "#ffca60",
+        "width": "42.17772215269087%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "PRIMSMPATH SOLUTIONS COMPANY",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jdry52fm2wb3vbenrtnrz2fk-1732782492167.png",
+  "isDefault": true,
+  "createdAt": "2024-11-28T08:28:12.150Z",
+  "updatedAt": "2025-03-19T11:00:33.034Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01jdry52fm2wb3vbenrtnrz2fk",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1992,
+  "categoryOrder": 559
+}

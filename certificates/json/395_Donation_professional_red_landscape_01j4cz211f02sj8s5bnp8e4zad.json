@@ -1,0 +1,252 @@
+{
+  "name": "395_Donation_professional_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/03-08-2024-10:30:26_395_Donation_professional_red_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "29.24028268551237%",
+        "left": "24.746125%",
+        "color": "#4c4242",
+        "width": "50.5%",
+        "height": "10.60070671378092%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.68851590106006%",
+        "left": "67.747125%",
+        "color": "#8b1a1a",
+        "width": "25.251999999999995%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.06713780918728%",
+        "left": "9.5273625%",
+        "color": "#4c4242",
+        "width": "80.9375%",
+        "height": "25.97173144876325%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Of Appreciation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.790106007067138%",
+        "left": "38.309625%",
+        "color": "#4c4242",
+        "width": "23.625%",
+        "height": "4.5053003533568905%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Recognizes",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.29098939929328%",
+        "left": "7.750024999999999%",
+        "color": "#8b1a1a",
+        "width": "24.375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.02826855123675%",
+        "left": "10.561525%",
+        "color": "#4c4242",
+        "width": "18.752%",
+        "height": "4.240282685512367%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Angela Scott",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.109540636042404%",
+        "left": "20.621125%",
+        "color": "#4c4242",
+        "width": "58.75%",
+        "height": "9.010600706713781%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "His munificent donation for scholarship funds, \nproviding financial support to students.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.65371024734982%",
+        "left": "20.621125%",
+        "color": "#8b1a1a",
+        "width": "58.75%",
+        "height": "9.010600706713781%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Munificent $1,000 donation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.02826855123675%",
+        "left": "70.998%",
+        "color": "#4c4242",
+        "width": "18.752%",
+        "height": "4.240282685512367%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Maria Walker",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.15194346289752%",
+        "left": "5.999025%",
+        "color": "#4c4242",
+        "width": "27.876999999999995%",
+        "height": "9.010600706713781%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Donor Relations Specialist",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.15194346289752%",
+        "left": "66.434625%",
+        "color": "#4c4242",
+        "width": "27.876999999999995%",
+        "height": "9.010600706713781%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director of Development",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.01766784452296%",
+        "left": "13.163125%",
+        "width": "13.548875000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-2024-10:29:16_5A5izDe6k7toTDVch-_7n-Group 19222.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.57809187279152%",
+        "left": "43.75825%",
+        "width": "12.4755875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-2024-10:29:37_N07l3oBoh83i3c3u9LJ9r-Group 19172.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.66431095406361%",
+        "left": "71.542%",
+        "width": "17.662125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-2024-10:29:48_nim8x4jYLUmHPRz4H_8vk-Group 19075.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j4cz211f02sj8s5bnp8e4zad-1722717120433.png",
+  "isDefault": true,
+  "createdAt": "2024-08-03T20:31:51.345Z",
+  "updatedAt": "2025-03-19T11:00:23.661Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j4cz211f02sj8s5bnp8e4zad",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2177,
+  "categoryOrder": 672
+}

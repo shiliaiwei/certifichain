@@ -1,0 +1,272 @@
+{
+  "name": "381_Course_simple_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-07-2024-09:13:02_381_Course_simple_green_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.727561837455827%",
+        "left": "18.920375%",
+        "color": "#352d27",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.03780918727917%",
+        "left": "74.934625%",
+        "color": "#427335",
+        "width": "22.87975%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.4452296819787986%",
+        "left": "2.106425%",
+        "color": "#427335",
+        "width": "21.673875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.67685512367491%",
+        "left": "12.684624999999999%",
+        "color": "#352d27",
+        "width": "75.127%",
+        "height": "9.540636042402827%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "HAS SUCESSFULLY COMPLETED ADVANCED EXCEL FOR BUSINESS\nCOURSE AT THE OFFICE PRODUCTIVITY SCHOOL",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.10565371024735%",
+        "left": "34.5615%",
+        "color": "#555a3e",
+        "width": "30.502000000000002%",
+        "height": "3.9752650176678443%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "IS PROUDLY PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.44876325088339%",
+        "left": "40.90525%",
+        "color": "#352d27",
+        "width": "17.627%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DR. KIMBERLY KING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.51095406360425%",
+        "left": "34.09175%",
+        "color": "#352d27",
+        "width": "31.251999999999995%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "PRESIDENT OF THE INSTITUTION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.482720848056536%",
+        "left": "0%",
+        "color": "#352d27",
+        "width": "99.749%",
+        "height": "26.501766784452297%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING COURSE CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "38.335159010600705%",
+        "left": "37.281795511221944%",
+        "width": "25.124999999999996%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#427335"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.00706713780919%",
+        "left": "28.5605%",
+        "color": "#ffffff",
+        "width": "42.627%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "RANKING IN THE TOP 5% OF THE CLASS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.60424028268551%",
+        "left": "28.5605%",
+        "color": "#ffffff",
+        "width": "42.627%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TOTAL SCORE : 99 POINTS",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.80565371024736%",
+        "left": "42.51870324189526%",
+        "width": "14.499999999999998%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#427335"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.43533568904596%",
+        "left": "2.247075%",
+        "color": "#427335",
+        "width": "22.377%",
+        "height": "3.53356890459364%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "WWW.YOURCOURSE.COM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.9738869257950533%",
+        "left": "76.0605%",
+        "color": "#427335",
+        "width": "22.377%",
+        "height": "3.53356890459364%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OFFICE PRODUCTIVITY SCHOOL",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.44310954063604%",
+        "left": "45.09625%",
+        "width": "9.2412125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-07-2024-09:13:44_Fn0fcB2pm09agYvn9kP5M-Group 19203.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j311xw9scyv4mv7kpbcrgtp9-1721244230554.png",
+  "isDefault": true,
+  "createdAt": "2024-07-17T19:15:26.139Z",
+  "updatedAt": "2025-03-19T11:00:22.302Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "course"
+  },
+  "id": "01j311xw9scyv4mv7kpbcrgtp9",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2205,
+  "categoryOrder": 97
+}

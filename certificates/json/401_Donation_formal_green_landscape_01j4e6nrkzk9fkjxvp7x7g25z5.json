@@ -1,0 +1,290 @@
+{
+  "name": "401_Donation_formal_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/04-08-2024-10:01:14_401_Donation_formal_green_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.21572438162544%",
+        "left": "22.608875%",
+        "color": "#41452f",
+        "width": "54.40725%",
+        "height": "13.250883392226148%",
+        "fontSize": "48em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.1273851590106%",
+        "left": "38.158125%",
+        "color": "#41452f",
+        "width": "23.677125%",
+        "height": "4.240282685512367%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.72632508833922%",
+        "left": "35.495625%",
+        "color": "#41452f",
+        "width": "29.003125%",
+        "height": "4.593639575971731%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.759611307420492%",
+        "left": "15.718250000000001%",
+        "color": "#41452f",
+        "width": "68.1875%",
+        "height": "10.070671378091872%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DONOR RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.060070671378085%",
+        "left": "16.124%",
+        "color": "#41452f",
+        "width": "67.377%",
+        "height": "13.604240282685511%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of his kind-hearted donation in the amount of 100 laptops \nto reduce the digital divide by providing technology to students.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.12385159010601%",
+        "left": "13.876875%",
+        "color": "#41452f",
+        "width": "21.53325%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "RACHEL HARRIS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.36413427561838%",
+        "left": "12.1889875%",
+        "color": "#41452f",
+        "width": "24.909375%",
+        "height": "9.540636042402827%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "EXECUTIVE DIRECTOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.01431095406359%",
+        "left": "36.8115%",
+        "color": "#41452f",
+        "width": "26.002%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.37314487632509%",
+        "left": "23.3115%",
+        "color": "#ffffff",
+        "width": "53.002%",
+        "height": "4.770318021201414%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "FUTURE INNOVATORS NETWORK FOUNDATION ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.302296819787983%",
+        "left": "15.71775%",
+        "color": "#41452f",
+        "width": "68.1875%",
+        "height": "10.070671378091872%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.36413427561838%",
+        "left": "67.1875%",
+        "color": "#41452f",
+        "width": "15.28325%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "BOARD CHAIR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.12385159010601%",
+        "left": "64.0625%",
+        "color": "#41452f",
+        "width": "21.53325%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SELENE REED",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "82.24381625441696%",
+        "left": "17.331670822942645%",
+        "width": "14.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#76866a"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "81.88975265017667%",
+        "left": "67.1875%",
+        "width": "14.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#76866a"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.44169611307422%",
+        "left": "19.542%",
+        "width": "10.203125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-09:58:04_8I7FLDuAXrQXqphzYVbSN-Group 19211.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.123674911660777%",
+        "left": "46.276875%",
+        "width": "7.0673875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-09:58:30_SLSx51Qz9qs3DTrH8-Jbp-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.73498233215548%",
+        "left": "68.337875%",
+        "width": "12.983375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-09:58:48_u9pYVSDtNGGfHznOoLvnc-Group 19210.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j4e6nrkzk9fkjxvp7x7g25z5-1722758663193.png",
+  "isDefault": true,
+  "createdAt": "2024-08-04T08:04:12.545Z",
+  "updatedAt": "2025-03-19T11:00:24.255Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j4e6nrkzk9fkjxvp7x7g25z5",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2165,
+  "categoryOrder": 660
+}

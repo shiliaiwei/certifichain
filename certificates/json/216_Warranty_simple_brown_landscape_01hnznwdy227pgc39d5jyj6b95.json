@@ -1,0 +1,324 @@
+{
+  "name": "216_Warranty_simple_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-02-2024-06:00:03_216_Warranty_simple_brown_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.966431095406364%",
+        "left": "6.742187500000001%",
+        "color": "#62533c",
+        "width": "59.15725%",
+        "height": "12.985865724381625%",
+        "fontSize": "45em",
+        "fontStyle": "italic",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.07014134275618%",
+        "left": "29.722625%",
+        "color": "#1e1e1e",
+        "width": "22.12975%",
+        "height": "2.9151943462897525%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.714487632508835%",
+        "left": "6.742187500000001%",
+        "color": "#1e1e1e",
+        "width": "25.25%",
+        "height": "7.950530035335689%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is issued to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.56890459363959%",
+        "left": "7.094725%",
+        "color": "#3e2f25",
+        "width": "15.003125%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brandon Brooks",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.91943462897527%",
+        "left": "7.09375%",
+        "color": "#1e1e1e",
+        "width": "11.3015625%",
+        "height": "7.420494699646643%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Valid until:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.430212014134277%",
+        "left": "6.742187500000001%",
+        "color": "#1e1e1e",
+        "width": "24.298875%",
+        "height": "12.7208480565371%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOUR COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.867208480565369%",
+        "left": "6.742187500000001%",
+        "color": "#62533c",
+        "width": "72.0625%",
+        "height": "22.261484098939928%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "GUARANTEE CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.630035335689044%",
+        "left": "6.743162500000001%",
+        "color": "#1e1e1e",
+        "width": "40.752%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate confirms that the spark plugs have been replaced in the BMW N45.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.2404593639576%",
+        "left": "64.088875%",
+        "color": "#1e1e1e",
+        "width": "30.252000000000002%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "You can read more about warranty cases on our website: www.yourwebsite.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.07014134275618%",
+        "left": "7.09375%",
+        "color": "#1e1e1e",
+        "width": "19.125%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.82985865724382%",
+        "left": "29.723625%",
+        "color": "#1e1e1e",
+        "width": "11.3015625%",
+        "height": "7.420494699646643%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ID number:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.6856890459364%",
+        "left": "7.09375%",
+        "color": "#3e2f25",
+        "width": "15.003125%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Repairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.56749116607774%",
+        "left": "40.623%",
+        "color": "#3e2f25",
+        "width": "15.003125%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Isaac Lopez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.6856890459364%",
+        "left": "40.848625%",
+        "color": "#3e2f25",
+        "width": "15.003125%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Customer",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "30.714487632508835%",
+        "left": "75.40725%",
+        "width": "17.84575%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-02-2024-05:56:22_2cmZYeC-Fv7C45GeOtGnD-Group 18726.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.01766784452297%",
+        "left": "78.119125%",
+        "color": "#46352e",
+        "width": "12.4248%",
+        "height": "12.7208480565371%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "QUALITY\nGUARANTEE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.85512367491167%",
+        "left": "7.453612500000001%",
+        "width": "10.582025%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-02-2024-05:58:46_IWSJbiR2sVsRAqgWNPCRE-layer101.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.79505300353357%",
+        "left": "38.17575%",
+        "width": "11.074225%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-02-2024-05:59:21_FAVhrohACWmqRF57Cf3cA-Meryl_Streep_Signature 1.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hnznwdy227pgc39d5jyj6b95-1707238910129.png",
+  "isDefault": true,
+  "createdAt": "2024-02-06T17:01:37.604Z",
+  "updatedAt": "2025-03-19T11:00:05.415Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01hnznwdy227pgc39d5jyj6b95",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2542,
+  "categoryOrder": 822
+}

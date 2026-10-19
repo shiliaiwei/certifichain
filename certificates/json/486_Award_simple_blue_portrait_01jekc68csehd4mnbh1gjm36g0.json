@@ -1,0 +1,252 @@
+{
+  "name": "486_Award_simple_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-12-2024-03:02:16_486_award_simple_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.3691375%",
+        "left": "14.13427561837456%",
+        "color": "#044856",
+        "width": "71.90812720848056%",
+        "height": "auto",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.85498125%",
+        "left": "28.4452296819788%",
+        "color": "#313d4f",
+        "width": "43.46289752650176%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.5%",
+        "left": "16.431095406360424%",
+        "color": "#044856",
+        "width": "67.49116607773851%",
+        "height": "auto",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OUTSTANDING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40%",
+        "left": "10.923498233215549%",
+        "color": "#313d4f",
+        "width": "75.048875%",
+        "height": "7.950530035335689%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Elowen Brooke has been recognized as the Most Valuable Player for the 2024 season. His outstanding athleticism, leadership, and dedication have set him apart as a key player in the team\u2019s success, and this award honors his exceptional performance.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.75%",
+        "left": "13.427561837455832%",
+        "color": "#071f37",
+        "width": "23.674911660777383%",
+        "height": "auto",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "BRIELLE WREN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.125%",
+        "left": "31.908127208480565%",
+        "color": "#313d4f",
+        "width": "36.21908127208481%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.375%",
+        "left": "32.7065371024735%",
+        "color": "#313d4f",
+        "width": "34.55275%",
+        "height": "8.480565371024735%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.875%",
+        "left": "10.777385159010601%",
+        "color": "#313d4f",
+        "width": "28.975265017667844%",
+        "height": "auto",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sports Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.875%",
+        "left": "63.957597173144876%",
+        "color": "#313d4f",
+        "width": "19%",
+        "height": "auto",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head Coach",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.7722625%",
+        "left": "63.28621908127209%",
+        "color": "#071f37",
+        "width": "20.49469964664311%",
+        "height": "auto",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MAISIE JUNE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.186725%",
+        "left": "16.96113074204947%",
+        "width": "16.607773851590103%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-12-2024-02:45:36_group_19756.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.65235%",
+        "left": "65.7243816254417%",
+        "width": "17.314487632508836%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-12-2024-02:47:02_clip_path_group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.875%",
+        "left": "33.03886925795053%",
+        "width": "33.39222614840989%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-12-2024-02:47:34_group_19858.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.125%",
+        "left": "11.307420494699647%",
+        "color": "#044856",
+        "width": "77.73851590106007%",
+        "height": "auto",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ACHIEVEMENT AWARD",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jekc68csehd4mnbh1gjm36g0-1733670176389.png",
+  "isDefault": true,
+  "createdAt": "2024-12-08T14:53:46.266Z",
+  "updatedAt": "2025-03-19T11:00:34.447Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01jekc68csehd4mnbh1gjm36g0",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1960,
+  "categoryOrder": 530
+}

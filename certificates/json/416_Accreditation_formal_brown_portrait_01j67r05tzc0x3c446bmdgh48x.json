@@ -1,0 +1,252 @@
+{
+  "name": "416_Accreditation_formal_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-08-2024-06:14:38_416_Accreditation_formal_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "13.805309734513274%",
+        "left": "1.125%",
+        "color": "#f3eae1",
+        "width": "2%",
+        "height": "10.619469026548673%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.61279375%",
+        "left": "50%",
+        "color": "#323d34",
+        "width": "38.16254416961131%",
+        "height": "2%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.6957%",
+        "left": "54.77031802120141%",
+        "color": "#323d34",
+        "width": "28.621908127208478%",
+        "height": "2.6543000000000063%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.5%",
+        "left": "6.501766784452297%",
+        "color": "#323d34",
+        "width": "30.565371024734983%",
+        "height": "2.920900000000003%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Elizabeth Thompson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.25%",
+        "left": "6.224204946996468%",
+        "color": "#323d34",
+        "width": "87.057625%",
+        "height": "13.780918727915195%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Accredited Institution",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.25%",
+        "left": "6.978798586572438%",
+        "color": "#323d34",
+        "width": "86.04240282685512%",
+        "height": "8.374999999999993%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This accreditation remains valid provided that the institution continues to meet the standards and requirements established by \nthe AHLA.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.375%",
+        "left": "3.0035335689045937%",
+        "color": "#323d34",
+        "width": "37.63250883392226%",
+        "height": "2.7871125000000063%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director of Accreditation",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.875%",
+        "left": "35.07067137809187%",
+        "width": "29.858657243816257%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-05:38:31_logo.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.5160125%",
+        "left": "8.480565371024735%",
+        "width": "26.67844522968198%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-05:39:03_Group 19424.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.191375%",
+        "left": "38.35689045936396%",
+        "width": "23.32155477031802%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-08-2024-05:39:49_Group 19406.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.625%",
+        "left": "46.5088074204947%",
+        "color": "#323d34",
+        "width": "7.124999999999999%",
+        "height": "3.982300884955752%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.25%",
+        "left": "40.85786219081272%",
+        "color": "#323d34",
+        "width": "18.25%",
+        "height": "2.831858407079646%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AHLA Accredited",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.625%",
+        "left": "6.28233215547703%",
+        "color": "#323d34",
+        "width": "87.057625%",
+        "height": "13.780918727915195%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.375%",
+        "left": "5.282685512367492%",
+        "color": "#323d34",
+        "width": "89.04593639575972%",
+        "height": "18.580125000000002%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Riverside Institute of Technology is hereby recognized by the \nAssociation of Higher Learning Accreditation (AHLA) as meeting the distinguished criteria for Academic Excellence Accreditation, demonstrating a commitment to outstanding educational standards \nand academic integrity.",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j67r05tzc0x3c446bmdgh48x-1724689422199.png",
+  "isDefault": true,
+  "createdAt": "2024-08-26T16:23:42.177Z",
+  "updatedAt": "2025-03-19T11:00:26.018Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j67r05tzc0x3c446bmdgh48x",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2134,
+  "categoryOrder": 631
+}

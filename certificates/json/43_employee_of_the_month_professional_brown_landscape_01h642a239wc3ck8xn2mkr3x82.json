@@ -1,0 +1,336 @@
+{
+  "name": "43_employee_of_the_month_professional_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-07-2023-03:42:16_43_employee_of_the_month_professional_brown_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.04593639575972%",
+        "left": "21.670875%",
+        "color": "#f7dba7",
+        "width": "56.0215%",
+        "height": "10.60070671378092%",
+        "fontSize": "54em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Whisper, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.027738515901063%",
+        "left": "22.63275%",
+        "color": "#f7dba7",
+        "width": "54.099625%",
+        "height": "8.303886925795052%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE OF THE MONTH",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.3356890459364%",
+        "left": "37.4575%",
+        "color": "#f7dba7",
+        "width": "24.71%",
+        "height": "2.9151943462897525%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.21554770318021%",
+        "left": "24.559125%",
+        "color": "#f7dba7",
+        "width": "50.506874999999994%",
+        "height": "7.1554770318021195%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "We pause to reflect on the sheer fortune that has brought someone as remarkable as you into our fold. Your exceptional efforts and unwavering commitment to excellence have not gone unnoticed, and it is with great pleasure that we bestow upon you this well-deserved award.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.31148409893993%",
+        "left": "57.76662499999999%",
+        "color": "#f7dba7",
+        "width": "13.834%",
+        "height": "2.65017667844523%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SOPHIA WHITE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.897173144876326%",
+        "left": "42.370125%",
+        "color": "#f7dba7",
+        "width": "14.625%",
+        "height": "5.830388692579505%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.40335689045936%",
+        "left": "58.516625%",
+        "color": "#f7dba7",
+        "width": "12.584000000000001%",
+        "height": "2.4734982332155475%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "General Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.190812720848058%",
+        "left": "20.171875%",
+        "color": "#f7dba7",
+        "width": "15.875%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.547703180212014%",
+        "left": "20.171875%",
+        "color": "#f7dba7",
+        "width": "13.625000000000002%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "54.946996466431095%",
+        "left": "26.059625000000004%",
+        "width": "50%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f7dba7"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.31148409893993%",
+        "left": "30.975625%",
+        "color": "#f7dba7",
+        "width": "13.834%",
+        "height": "2.65017667844523%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AIDEN MARTIN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.40335689045936%",
+        "left": "30.975625%",
+        "color": "#f7dba7",
+        "width": "13.834%",
+        "height": "2.385159010600707%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Operations Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "81.55918727915194%",
+        "left": "32.828625%",
+        "width": "10.375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f7dba7"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "81.56060070671379%",
+        "left": "59.74612499999999%",
+        "width": "10.375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f7dba7"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.49134275618376%",
+        "left": "62.00687500000001%",
+        "width": "5.6044875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-03:38:38_gmoezORBp6jKfE57hOlfE-Vector 28.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.54787985865724%",
+        "left": "34.027875%",
+        "width": "7.7255875000000005%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-03:39:13_jHsLLjhgfHNuTqeksvLGL-Group 5.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "15.01766784452297%",
+        "left": "47.75%",
+        "width": "4.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-03:40:29_X4j0Mc-kcp7zGaJWiEtpN-Group 4.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.342756183745582%",
+        "left": "47.75%",
+        "color": "#251605",
+        "width": "4.125%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "IMI",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.190812720848058%",
+        "left": "9.421875%",
+        "color": "#f7dba7",
+        "width": "10.625%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PRESENTED ON :",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.547703180212014%",
+        "left": "9.421875%",
+        "color": "#f7dba7",
+        "width": "10.625%",
+        "height": "2.65017667844523%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE NO :",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h642a239wc3ck8xn2mkr3x82-1690363578500.png",
+  "isDefault": true,
+  "createdAt": "2023-07-24T13:44:35.691Z",
+  "updatedAt": "2025-09-10T14:56:26.146Z",
+  "metadata": {
+    "lang": "en",
+    "color": "black",
+    "style": "professional",
+    "category": "employee_of_the_month"
+  },
+  "id": "01h642a239wc3ck8xn2mkr3x82",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2885,
+  "categoryOrder": 35
+}

@@ -1,0 +1,333 @@
+{
+  "name": "209_CE_professional_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/04-02-2024-11:05:35_209_CE_professional_green_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "24.58125%",
+        "left": "11.982067137809187%",
+        "color": "#073419",
+        "width": "75.57650176678445%",
+        "height": "9.821875%",
+        "fontSize": "88em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.3805%",
+        "left": "52.40494699646644%",
+        "color": "#073419",
+        "width": "32.16431095406361%",
+        "height": "1.459375%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.875%",
+        "left": "19.220318021201415%",
+        "color": "#073419",
+        "width": "28.869257950530034%",
+        "height": "2.7859375%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.211%",
+        "left": "20.26060070671378%",
+        "color": "#073419",
+        "width": "58.87367491166078%",
+        "height": "1.8578125%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Completed a professional development course on",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.34375%",
+        "left": "9.490989399293287%",
+        "color": "#073419",
+        "width": "80.56095406360424%",
+        "height": "9.55625%",
+        "fontSize": "51em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CONTINUING EDUCATION CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.60625%",
+        "left": "37.17862190812721%",
+        "color": "#073419",
+        "width": "25.110424028268554%",
+        "height": "1.8578125%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.332875%",
+        "left": "41.263250883392224%",
+        "color": "#073419",
+        "width": "18.01024734982332%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jose Erickson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.996125%",
+        "left": "42.34646643109541%",
+        "color": "#073419",
+        "width": "15.77296819787986%",
+        "height": "1.8578125%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.484375%",
+        "left": "71.90812720848056%",
+        "color": "#073419",
+        "width": "16.247791519434628%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CE Certified",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.382875%",
+        "left": "9.372791519434628%",
+        "color": "#073419",
+        "width": "21.598939929328623%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CE Provider Logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.10625%",
+        "left": "10.270494699646642%",
+        "color": "#073419",
+        "width": "78.78321554770318%",
+        "height": "2.6546875%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Modern Educational Technologies in Primary School",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.0875%",
+        "left": "7.24160777385159%",
+        "color": "#073419",
+        "width": "25.790636042402827%",
+        "height": "1.8578125%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Verification Code: 48576948",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.0875%",
+        "left": "67.013074204947%",
+        "color": "#073419",
+        "width": "25.96731448763251%",
+        "height": "1.8578125%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The CE Certification Service",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "56.440625%",
+        "left": "37.90636042402827%",
+        "width": "23.85600706713781%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-02-2024-10:54:14_b3U-QaOD3YcM7fL9Ythy2-Group 18726.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.246875%",
+        "left": "43.609717314487625%",
+        "color": "#485d43",
+        "width": "12.1765625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CE \nPOINTS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.290625%",
+        "left": "46.59664310954064%",
+        "color": "#485d43",
+        "width": "6.475265017667844%",
+        "height": "4.3796875%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "3",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.170375%",
+        "left": "78.25865724381626%",
+        "width": "3.4761484098939928%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-02-2024-11:04:38_XZO3OdYZ5REnTIc1Lr1YE-Group77.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "84.44375%",
+        "left": "17.893109540636043%",
+        "width": "4.41696113074205%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-02-2024-11:04:42_IzEV8TNDt4KZurKHsHcx5-Group000.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.7625%",
+        "left": "44.03374558303887%",
+        "width": "11.861749116607774%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-02-2024-11:04:47_cThi6OTS7mQHzwCD64E18-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hnv2fdrb80nmhyjk217qp0wf-1707084355901.png",
+  "isDefault": true,
+  "createdAt": "2024-02-04T22:05:30.765Z",
+  "updatedAt": "2025-03-19T11:00:04.712Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hnv2fdrb80nmhyjk217qp0wf",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2551,
+  "categoryOrder": 29
+}

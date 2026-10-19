@@ -1,0 +1,270 @@
+{
+  "name": "323_Academic_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-05-2024-11:37:23_323_Academic_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "48.2773851590106%",
+        "left": "6.1953125%",
+        "color": "#27241f",
+        "width": "49.193375%",
+        "height": "13.51590106007067%",
+        "fontSize": "51em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "94.07438162544169%",
+        "left": "69.5635%",
+        "color": "#ffffff",
+        "width": "25.564500000000002%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.67685512367491%",
+        "left": "5.5566375%",
+        "color": "#ffffff",
+        "width": "25.912499999999998%",
+        "height": "4.5053003533568905%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.01766784452296%",
+        "left": "6.1953125%",
+        "color": "#27241f",
+        "width": "56.642625%",
+        "height": "21.20141342756184%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For outstanding academic performance in the\u2028\nWeb Analytics in Marketing major. For exhibiting\u2028\na unique pursuit of knowledge, demonstrating a high \nlevel of academic awareness and excellence in learning.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.007067137809187%",
+        "left": "6.1953125%",
+        "color": "#27241f",
+        "width": "35.24025%",
+        "height": "15.371024734982333%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Academic",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.67508833922262%",
+        "left": "79.330125%",
+        "color": "#27241f",
+        "width": "15.92775%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "University Rector ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.43816254416961%",
+        "left": "79.330125%",
+        "color": "#27241f",
+        "width": "13.67775%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Tracy Castillo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.04946996466431%",
+        "left": "6.1953125%",
+        "color": "#27241f",
+        "width": "29.5645%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.23674911660777%",
+        "left": "79.330125%",
+        "color": "#27241f",
+        "width": "15.302749999999998%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Janice Obrien",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.87650176678446%",
+        "left": "79.330125%",
+        "color": "#27241f",
+        "width": "15.92775%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculty",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.90459363957597%",
+        "left": "6.1953125%",
+        "color": "#27241f",
+        "width": "66.74025%",
+        "height": "15.371024734982333%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Achievement Award",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.004363957597173%",
+        "left": "78.584%",
+        "width": "15.829125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-05-2024-11:33:48_FksfW0hFW9DziM3M5VMpi-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.01766784452297%",
+        "left": "79.096625%",
+        "color": "#966d29",
+        "width": "14.80375%",
+        "height": "6.890459363957597%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ACADEMIC\nEXCELLENCE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.48763250883393%",
+        "left": "79.330125%",
+        "width": "13.857375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-05-2024-11:36:01_TAhu7dJGL3EJULQn9bh3h-Vector 735.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "42.04946996466431%",
+        "left": "79.330125%",
+        "width": "13.286125000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-05-2024-11:36:22_CxEwMIoXNbX9qHFDrh4Kj-Vector 736.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hywpmh7nydb648c185h38j0r-1716802700542.png",
+  "isDefault": true,
+  "createdAt": "2024-05-27T09:38:20.536Z",
+  "updatedAt": "2025-03-19T11:00:16.494Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hywpmh7nydb648c185h38j0r",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2321,
+  "categoryOrder": 216
+}

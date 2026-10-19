@@ -1,0 +1,307 @@
+{
+  "name": "269_Appreciation_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/01-04-2024-03:16:44_269_Appreciation_professional_blue_landscape-background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "32.45371024734982%",
+        "left": "7.109375%",
+        "color": "#25373e",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.95406360424029%",
+        "left": "62.892625%",
+        "color": "#25373e",
+        "width": "22.87975%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.95406360424029%",
+        "left": "35.94825%",
+        "color": "#25373e",
+        "width": "18.801625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.92420494699647%",
+        "left": "7.0859375%",
+        "color": "#25373e",
+        "width": "54.376999999999995%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For superior knowledge and outstanding performance\nin participating in the conference panel:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.225159010600707%",
+        "left": "7.111325%",
+        "color": "#25373e",
+        "width": "35.5625%",
+        "height": "44.522968197879855%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.630212014134276%",
+        "left": "7.0859375%",
+        "color": "#25373e",
+        "width": "20.878125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.002473498233215%",
+        "left": "7.0859375%",
+        "color": "#ffffff",
+        "width": "61.002%",
+        "height": "11.130742049469964%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "'Basics and Structure of Financial Management'",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.06572438162544%",
+        "left": "7.0859375%",
+        "color": "#25373e",
+        "width": "12.878125%",
+        "height": "3.8869257950530036%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Phillip Holt",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.95406360424029%",
+        "left": "7.111325%",
+        "color": "#25373e",
+        "width": "19.378125%",
+        "height": "7.420494699646643%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "48.2856890459364%",
+        "left": "7.480475%",
+        "width": "62.25000000000001%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#25373e"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.06572438162544%",
+        "left": "35.94825%",
+        "color": "#25373e",
+        "width": "10.8015625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.0643109540636%",
+        "left": "62.892625%",
+        "color": "#25373e",
+        "width": "12.6765%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "52.69151943462897%",
+        "left": "75.586%",
+        "width": "16.165%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/07-03-2024-01:57:32_PSNJLEYyoKkNbzUSIE8dP-OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.3434628975265%",
+        "left": "80.5425%",
+        "color": "#3a4c55",
+        "width": "6.251950000000001%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.63321554770318%",
+        "left": "78.1675%",
+        "color": "#3a4c55",
+        "width": "11.00195%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.615282685512367%",
+        "left": "7.111325%",
+        "color": "#25373e",
+        "width": "35.5625%",
+        "height": "44.522968197879855%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of Appreciation",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.2286925795053%",
+        "left": "73.6895%",
+        "width": "19.951125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-04-2024-03:19:39_wGRvy3Upq8rJL1yyWVl1A-Group 18812.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hrb74ae4gav92tbr9dj0n5zx-1711977910703.png",
+  "isDefault": true,
+  "createdAt": "2024-03-07T01:06:04.358Z",
+  "updatedAt": "2025-03-19T11:00:09.457Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "appreciation"
+  },
+  "id": "01hrb74ae4gav92tbr9dj0n5zx",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2462,
+  "categoryOrder": 117
+}

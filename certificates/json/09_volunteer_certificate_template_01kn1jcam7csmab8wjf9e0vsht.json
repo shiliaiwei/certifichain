@@ -1,0 +1,308 @@
+{
+  "name": "09_volunteer_certificate_template",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1123 794\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><rect x=\"5\" y=\"5\" width=\"1113\" height=\"784\" fill=\"#FFFFFC\"/><rect x=\"5\" y=\"5\" width=\"1113\" height=\"784\" stroke=\"#3D4A2C\" stroke-width=\"10\"/><line x1=\"63\" y1=\"211\" x2=\"1035\" y2=\"211\" stroke=\"#3D4A2C\" stroke-width=\"2\"/><line x1=\"295\" y1=\"126\" x2=\"1035\" y2=\"126\" stroke=\"#3D4A2C\" stroke-width=\"2\"/><line x1=\"294\" y1=\"212\" x2=\"294\" y2=\"41\" stroke=\"#3D4A2C\" stroke-width=\"2\"/><line x1=\"670.5\" y1=\"212\" x2=\"670.5\" y2=\"127\" stroke=\"#3D4A2C\"/></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.902299%",
+        "left": "5.336721%",
+        "color": "#3d4a2c",
+        "width": "51%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.35232%",
+        "left": "28.081321%",
+        "color": "#000000",
+        "width": "63.15120711562897%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF PARENTAL SUPPORT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.201322%",
+        "left": "5.972046%",
+        "color": "#1e2515",
+        "width": "33.03684879288437%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.283294%",
+        "left": "5.463787%",
+        "color": "#1e2515",
+        "width": "76.11181702668361%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of your invaluable contributions as a parent volunteer for the \nSpring Carnival.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.84491978609626%",
+        "left": "5.336721728081321%",
+        "color": "#1e2515",
+        "width": "57.433290978398986%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your efforts have enriched the event and its participants.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.607843137254903%",
+        "left": "29.860228716645487%",
+        "color": "#1e2515",
+        "width": "23.506988564167724%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded on 01.09.2025",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.607843137254903%",
+        "left": "65.0571791613723%",
+        "color": "#1e2515",
+        "width": "10.927573062261754%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.961294%",
+        "left": "39.008895%",
+        "color": "#1e2515",
+        "width": "14.73951715374841%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Event Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.930597%",
+        "left": "5.756035%",
+        "color": "#1e2515",
+        "width": "14.73951715374841%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Event Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.749281%",
+        "left": "38.881834%",
+        "color": "#1e2515",
+        "width": "15.628970775095299%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Robert Johnson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.606659%",
+        "left": "5.667091%",
+        "color": "#1e2515",
+        "width": "15.628970775095299%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sarah Miller",
+      "autoScale": false
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "77.200856%",
+        "left": "6.60737%",
+        "width": "11.30876747141042%",
+        "height": "8.19964349376114%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 125 39\"><path stroke=\"#373737\" stroke-linecap=\"round\" stroke-width=\"1.5\" d=\"M0.75 13.2497C1.11898 11.2759 4.89183 9.23379 12.5885 8.19305C24.9911 6.51598 28.2753 9.26172 30.9154 11.5951C37.6465 17.5439 37.0043 24.0765 30.2325 30.0083C29.6336 30.5328 20.0604 38.5436 14.0683 37.6859C2.62903 36.0487 6.67126 29.8253 8.37674 27.5064C10.9493 24.0085 22.4519 16.6582 43.2093 17.6048C56.1002 18.1927 59.5509 22.2807 61.7639 24.7398C62.742 25.8267 62.2366 24.3057 62.39 24.0382C62.83 23.2706 64.0622 21.8806 67.3416 21.4569C70.5916 21.037 70.9 23.3596 75.5945 22.4497C79.4838 21.6959 82.613 20.209 83.8473 19.1006C84.8831 18.1705 83.2916 16.6858 85.2702 15.8575C85.3185 15.8373 84.5836 18.2287 87.2622 16.9827C95.0755 13.3483 94.9383 8.488 92.4985 4.566C91.6841 3.2568 90.0682 2.01015 87.4899 0.83306C86.17 0.230477 86.9136 3.1076 86.9207 3.1496C87.6976 7.75721 90.9734 13.6762 111.736 15.6722C114.565 15.9441 120.806 16.0278 122.835 16.6385C125.867 17.5512 120.55 19.495 118.68 20.2126C114.753 21.7193 107.032 23.4605 107.98 25.3884C108.757 26.9713 114.589 27.6994 119.59 28.4992\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "73.796791%",
+        "left": "40.914871%",
+        "width": "10.673443456162643%",
+        "height": "12.299465240641712%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 115 95\"><path stroke=\"#373737\" stroke-linecap=\"round\" stroke-width=\"1.5\" d=\"M0.75 32.7284C1.08899 27.8124 4.55511 22.7262 11.626 20.1341C23.0203 15.9571 26.0375 22.7958 28.463 28.6072C34.6468 43.4237 34.0569 59.6939 27.8355 74.4677C27.2854 75.7742 18.4905 95.726 12.9856 93.59C2.47628 89.5122 60.3609 7.57871 61.9277 1.80316C64.2912 -6.90884 20.6876 41.2177 39.7574 43.5754C51.6002 45.0395 54.7703 55.2211 56.8034 61.3459C57.702 64.0529 57.2377 60.2647 57.3786 59.5985C57.7829 57.6867 58.9148 54.2249 61.9277 53.1695C64.9135 52.1236 65.1968 57.9083 69.5096 55.6422C73.0827 53.7647 75.9575 50.0614 77.0914 47.3009C78.043 44.9841 76.5809 41.2864 78.3986 39.2234C78.443 39.173 77.7678 45.1291 80.2287 42.0258M80.2287 42.0258C87.4068 32.9739 82.4701 51.794 80.2287 42.0258ZM80.2287 42.0258C79.4805 38.765 80.2287 42.0258 80.4379 1.80306C78.3986 39.2234 102.713 38.7618 79.915 7.57272C80.6287 19.0486 83.6381 33.7906 102.713 38.7618C105.311 39.439 111.045 39.6476 112.909 41.1686C115.695 43.4419 110.81 48.2832 109.092 50.0703C105.485 53.8231 98.3915 58.1597 99.2618 62.9614C99.9763 66.9037 105.334 68.7173 109.929 70.7092\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "75.22281639928698%",
+        "left": "74.84116899618806%",
+        "width": "8.259212198221093%",
+        "height": "11.58645276292335%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 94 94\"><path fill=\"#4C4B4B\" d=\"M49.2395 0H58.1911V4.47582H53.7153V8.95164H44.7622V22.382H35.8105V17.9047H40.2864V4.47582H49.2395V0Z\"/><path fill=\"#4C4B4B\" d=\"M0 0.00012207V31.3337H31.3337V0.00012207H0ZM26.8564 26.8565H4.47583V4.47594H26.8564V26.8565Z\"/><path fill=\"#4C4B4B\" d=\"M62.668 0V31.3336H94.0002V0H62.668ZM89.5229 26.8564H67.1438V4.47582H89.5244L89.5229 26.8564Z\"/><path fill=\"#4C4B4B\" d=\"M22.3811 8.95239H8.95215V22.3813H22.3811V8.95239Z\"/><path fill=\"#4C4B4B\" d=\"M85.0471 8.95239H71.6182V22.3813H85.0471V8.95239Z\"/><path fill=\"#4C4B4B\" d=\"M53.7151 13.429H49.2393V17.9048H53.7151V13.429Z\"/><path fill=\"#4C4B4B\" d=\"M53.7138 17.9047H58.1897V35.8094H53.7138V26.8563H49.238V31.3336H44.7607V22.3819H53.7138V17.9047Z\"/><path fill=\"#4C4B4B\" d=\"M35.8105 26.8556H40.2863V31.3329H44.7622V35.8087H40.2863V44.7603H44.7622V40.2845H49.2394V35.8087H53.7153V49.2376H44.7622V53.7134H40.2863V49.2376H35.8105V40.2845H26.8574V35.8087H35.8105V26.8556Z\"/><path fill=\"#4C4B4B\" d=\"M17.9038 35.8109H8.95215V40.2882H17.9038V35.8109Z\"/><path fill=\"#4C4B4B\" d=\"M58.1895 35.8109H67.1426V40.2867H62.6667V44.7626H58.1895V35.8109Z\"/><path fill=\"#4C4B4B\" d=\"M76.0954 35.8109H71.6182V40.2882H76.0954V35.8109Z\"/><path fill=\"#4C4B4B\" d=\"M0 40.286H8.95165V44.7618H13.4289V49.2391H8.95165V53.7149H4.47583V44.7618H0V40.286Z\"/><path fill=\"#4C4B4B\" d=\"M17.9043 40.2866H26.8559V44.7624H22.3801V49.2397H26.8559V53.7155H17.9043V40.2866Z\"/><path fill=\"#4C4B4B\" d=\"M76.0942 40.2866H80.5715V44.7624H85.0473V58.1913H80.5715V53.7155H71.617V58.1913H67.1426V49.2397H76.0942V40.2866Z\"/><path fill=\"#4C4B4B\" d=\"M31.3332 44.7611H26.8574V49.2384H31.3332V44.7611Z\"/><path fill=\"#4C4B4B\" d=\"M93.9997 44.7611H89.5225V49.2384H93.9997V44.7611Z\"/><path fill=\"#4C4B4B\" d=\"M31.3347 49.2375H35.8105V58.1892H26.8574V53.7134H31.3347V49.2375Z\"/><path fill=\"#4C4B4B\" d=\"M58.1902 49.2375H53.7129V53.7134H58.1902V49.2375Z\"/><path fill=\"#4C4B4B\" d=\"M4.47583 53.7148H0V58.1921H4.47583V53.7148Z\"/><path fill=\"#4C4B4B\" d=\"M13.428 53.7148H8.95215V58.1921H13.428V53.7148Z\"/><path fill=\"#4C4B4B\" d=\"M44.7622 53.7148H53.7153V58.1907H49.2395V67.1437H44.7622V76.0954H40.2864V67.1437H35.8105V58.1907H40.2864V62.6665H44.7622V53.7148Z\"/><path fill=\"#4C4B4B\" d=\"M62.6667 53.7148H58.1895V58.1921H62.6667V53.7148Z\"/><path fill=\"#4C4B4B\" d=\"M93.9997 53.7148H89.5225V58.1921H93.9997V53.7148Z\"/><path fill=\"#4C4B4B\" d=\"M58.1902 58.1899H53.7129V67.1416H58.1902V58.1899Z\"/><path fill=\"#4C4B4B\" d=\"M80.573 58.1899H76.0957V67.1416H80.573V58.1899Z\"/><path fill=\"#4C4B4B\" d=\"M89.5237 58.1899H85.0479V62.6658H89.5237V58.1899Z\"/><path fill=\"#4C4B4B\" d=\"M67.144 62.6658H71.6184V67.143H76.0956V76.0947H89.5231V80.5705H71.6184V89.5221H67.144V80.5705H62.6681V85.0478H58.1909V89.5221H62.6681V93.9994H40.2861V89.5221H53.7151V80.5705H58.1909V67.143H67.144V62.6658Z\"/><path fill=\"#4C4B4B\" d=\"M0 62.6658V93.9994H31.3337V62.6658H0ZM26.8564 89.5221H4.47583V67.143H26.8564V89.5221Z\"/><path fill=\"#4C4B4B\" d=\"M53.7151 67.1437H49.2393V71.6195H53.7151V67.1437Z\"/><path fill=\"#4C4B4B\" d=\"M89.5225 67.1437H80.5723V71.6195H89.5225V67.1437Z\"/><path fill=\"#4C4B4B\" d=\"M22.3811 71.6167H8.95215V85.0456H22.3811V71.6167Z\"/><path fill=\"#4C4B4B\" d=\"M93.9997 71.6167H89.5225V76.094H93.9997V71.6167Z\"/><path fill=\"#4C4B4B\" d=\"M35.8105 76.0953H40.2864V80.5712H44.7622V85.0484H35.8105V76.0953Z\"/><path fill=\"#4C4B4B\" d=\"M53.7124 76.0953H44.7607V80.5712H53.7124V76.0953Z\"/><path fill=\"#4C4B4B\" d=\"M85.0481 85.0477H80.5723V89.5235H85.0481V85.0477Z\"/><path fill=\"#4C4B4B\" d=\"M93.9997 85.0477H89.5225V89.5235H93.9997V85.0477Z\"/><path fill=\"#4C4B4B\" d=\"M76.0954 89.5228H71.6182V94.0001H76.0954V89.5228Z\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "9.269162%",
+        "left": "12.325286%",
+        "width": "3.430749682337993%",
+        "height": "4.81283422459893%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 37 37\"><path fill=\"#3D4A2C\" fill-rule=\"evenodd\" d=\"M26.359 1.63739C32.58 4.58425 37.0006 10.9691 37.0006 18.4998C37.0006 28.6508 28.6511 36.9997 18.5007 36.9997C15.39 36.9997 12.4431 36.181 9.9873 34.8713C10.9696 35.0352 12.1157 35.1987 13.098 35.1987C18.5007 35.1987 23.249 33.0703 26.85 29.4687C30.2881 26.0306 32.4163 21.1191 32.4163 15.8802C32.4163 10.4775 30.2878 5.72924 26.85 2.12817C26.6861 1.96427 26.5226 1.80074 26.3587 1.63684L26.359 1.63739Z\" clip-rule=\"evenodd\"/><path fill=\"#3D4A2C\" fill-rule=\"evenodd\" d=\"M29.7971 21.6102C28.8148 24.2296 27.5051 26.5215 25.5405 28.3225C22.4298 31.4333 18.0098 33.3978 13.0979 33.3978C10.4785 33.3978 7.85918 32.9065 5.56721 31.7607C2.29295 28.65 0.164529 24.23 0.000976562 19.3181C0.655828 20.3004 1.31066 21.1191 2.1294 21.9375C5.5675 25.5391 10.4789 27.6676 15.8814 27.6676C21.1201 27.6676 26.0324 25.5391 29.4699 21.9375C29.6338 21.9375 29.6338 21.7736 29.7973 21.6101L29.7971 21.6102Z\" clip-rule=\"evenodd\"/><path fill=\"#3D4A2C\" fill-rule=\"evenodd\" d=\"M18.5005 0.000389196H20.465C16.536 0.819143 13.0978 2.61976 10.3141 5.40307C6.87598 8.84117 4.74785 13.7526 4.74785 18.9915C4.74785 20.1377 4.74785 21.1199 5.07528 22.2658C4.42043 21.7745 3.92915 21.2835 3.27426 20.7922C1.96457 19.4825 0.982287 17.8453 0 16.2082C1.14613 7.03995 9.00433 0 18.4999 0L18.5005 0.000389196Z\" clip-rule=\"evenodd\"/><circle cx=\"19\" cy=\"15\" r=\"7\" fill=\"#BFBCB8\"/></svg>"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.144867%",
+        "left": "5.717916%",
+        "width": "18.297331639135958%",
+        "height": "0.35335689045936397%",
+        "backgroundColor": "#3d4a2c"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.10539215686275%",
+        "left": "39.04701435832275%",
+        "width": "18.297331639135958%",
+        "height": "0.35335689045936397%",
+        "backgroundColor": "#3d4a2c"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.163613%",
+        "left": "6.734435%",
+        "color": "#000000",
+        "width": "15.120711562897077%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Meadowfield \nPTA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.607843137254903%",
+        "left": "75.98475222363406%",
+        "color": "#1e2515",
+        "width": "13.722998729351971%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01kn1jcam7csmab8wjf9e0vsht-1774949618703.png",
+  "isDefault": true,
+  "createdAt": "2026-03-31T09:07:47.976Z",
+  "updatedAt": "2026-04-10T14:25:35.134Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "modern",
+    "category": "recognition"
+  },
+  "id": "01kn1jcam7csmab8wjf9e0vsht",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 106,
+  "categoryOrder": 3
+}

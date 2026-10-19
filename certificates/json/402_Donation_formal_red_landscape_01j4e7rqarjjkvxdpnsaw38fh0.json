@@ -1,0 +1,225 @@
+{
+  "name": "402_Donation_formal_red_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/04-08-2024-10:21:26_402_Donation_formal_red_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.007067137809187%",
+        "left": "14.464875%",
+        "color": "#4e1313",
+        "width": "68.28325%",
+        "height": "14.045936395759718%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Space Mono, monospace",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.79328621908128%",
+        "left": "68.74225%",
+        "color": "#4e1313",
+        "width": "22.506875%",
+        "height": "3.180212014134275%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.13957597173145%",
+        "left": "71.25%",
+        "color": "#4e1313",
+        "width": "17.67875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.84628975265018%",
+        "left": "11.9013375%",
+        "color": "#4e1313",
+        "width": "20.24225%",
+        "height": "9.540636042402827%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Mr. Nolan Hunells",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.12014134275618%",
+        "left": "37.71825%",
+        "color": "#4e1313",
+        "width": "24.1885%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.0565371024735%",
+        "left": "14.214875%",
+        "color": "#4e1313",
+        "width": "71.211%",
+        "height": "9.540636042402827%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In honor of the donation to the Ocean Guardians Network Foundation for the cause of removing plastic waste and protecting marine life.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.319787985865723%",
+        "left": "7.46485%",
+        "color": "#4e1313",
+        "width": "85.182625%",
+        "height": "24.91166077738516%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Space Mono, monospace",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF DONATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.93957597173144%",
+        "left": "16.67675%",
+        "color": "#4e1313",
+        "width": "10.6933625%",
+        "height": "3.0035335689045937%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.12720848056537%",
+        "left": "14.450625%",
+        "color": "#a2292d",
+        "width": "71.211%",
+        "height": "9.540636042402827%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Amount of donation: $7,000",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.04063604240282%",
+        "left": "11.7392625%",
+        "width": "20.40425%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-10:18:44_O0DjKXTYaC8XiPMizwjBq-Group 19230.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.73144876325088%",
+        "left": "43.902375%",
+        "width": "11.8359375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-10:19:39_0T2gr4J0tGmNBHDduXUfK-badge.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.07950530035336%",
+        "left": "44.792%",
+        "color": "#ffffff",
+        "width": "10.0576125%",
+        "height": "6.36042402826855%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFIED\nDONOR",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j4e7rqarjjkvxdpnsaw38fh0-1722759814022.png",
+  "isDefault": true,
+  "createdAt": "2024-08-04T08:23:18.105Z",
+  "updatedAt": "2025-03-19T11:00:24.359Z",
+  "metadata": {
+    "lang": "en",
+    "color": "red",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j4e7rqarjjkvxdpnsaw38fh0",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2163,
+  "categoryOrder": 658
+}

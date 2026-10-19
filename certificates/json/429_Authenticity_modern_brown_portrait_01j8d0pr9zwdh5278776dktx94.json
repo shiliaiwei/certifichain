@@ -1,0 +1,342 @@
+{
+  "name": "429_Authenticity_modern_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-09-2024-03:03:57_429_Authenticity_modern_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "21.75%",
+        "left": "7.420494699646643%",
+        "color": "#252321",
+        "width": "62.36749116607774%",
+        "height": "auto",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.26220625%",
+        "left": "8.12720848056537%",
+        "color": "#252321",
+        "width": "33.215547703180206%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.8042%",
+        "left": "50.53003533568905%",
+        "color": "#252321",
+        "width": "36.042402826855124%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.01025625%",
+        "left": "7.420494699646643%",
+        "color": "#252321",
+        "width": "84.09893992932862%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THE CERTIFICATE OFFICIALLY ATTESTS TO THE AUTHENCITY OF THE \nLANDSCAPE PAINTING DETAILED BELOW, THOROUGHLY VERIFYING IT AS \nAN ORIGINAL AND UNIQUE WORK OF ART CREATED BY THE LISTED ARTIST",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.68535%",
+        "left": "7.950530035335689%",
+        "color": "#252321",
+        "width": "10.247349823321555%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ARTIST:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.125%",
+        "left": "7.280830388692578%",
+        "color": "#252321",
+        "width": "88.125%",
+        "height": "auto",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.1318375%",
+        "left": "7.773851590106007%",
+        "color": "#252321",
+        "width": "38.69257950530035%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATION AND \nAUTHENTICATION COORDIANTOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.5%",
+        "left": "7.862190812720849%",
+        "color": "#252321",
+        "width": "33.745583038869256%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MS. SAMANTHA HUAN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.19785%",
+        "left": "7.950530035335689%",
+        "color": "#252321",
+        "width": "12.54416961130742%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OWNER:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.38965%",
+        "left": "50%",
+        "color": "#252321",
+        "width": "17.84452296819788%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DIMENSIONS:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.01465%",
+        "left": "50%",
+        "color": "#111842",
+        "width": "12.7208480565371%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "MEDIUM:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.8875%",
+        "left": "18.16254416961131%",
+        "color": "#252321",
+        "width": "24.38162544169611%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "ALEXANDER PORTER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.3931625%",
+        "left": "19.5773851590106%",
+        "color": "#252321",
+        "width": "22.968197879858657%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "GRACE KENSINGTON",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.59658125%",
+        "left": "67.84452296819788%",
+        "color": "#252321",
+        "width": "16.875%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "36 X 24 INCHES",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.575975%",
+        "left": "62.68551236749117%",
+        "color": "#252321",
+        "width": "16.875%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "OIL ON CANVAS",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "29.875%",
+        "left": "7.420494699646643%",
+        "width": "61.30742049469965%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-02:50:36_image 84.jpg"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "87.375%",
+        "left": "79.68197879858657%",
+        "width": "11.837455830388691%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-02:51:18_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "89.75%",
+        "left": "50.583038869257955%",
+        "width": "18.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-02:51:58_Group 19207.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11%",
+        "left": "7.351501766784452%",
+        "color": "#252321",
+        "width": "88.125%",
+        "height": "auto",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF AUTHENCITY",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j8d0pr9zwdh5278776dktx94-1727014082366.png",
+  "isDefault": true,
+  "createdAt": "2024-09-22T14:03:26.400Z",
+  "updatedAt": "2025-03-19T11:00:27.284Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "modern",
+    "category": "recognition"
+  },
+  "id": "01j8d0pr9zwdh5278776dktx94",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2106,
+  "categoryOrder": 603
+}

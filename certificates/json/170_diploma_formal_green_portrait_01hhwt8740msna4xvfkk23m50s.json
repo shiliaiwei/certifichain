@@ -1,0 +1,270 @@
+{
+  "name": "170_diploma_formal_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-12-2023-10:17:18_170_diploma_formal_green_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "41.870375%",
+        "left": "15.585247349823323%",
+        "color": "#526850",
+        "width": "68.37014134275618%",
+        "height": "8.4953125%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.3305%",
+        "left": "8.50482332155477%",
+        "color": "#526850",
+        "width": "31.00525%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.890625%",
+        "left": "61.96554770318021%",
+        "color": "#526850",
+        "width": "26.69840989399293%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.8875%",
+        "left": "31.204770318021204%",
+        "color": "#526850",
+        "width": "36.98321554770318%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "THIS DIPLOMA IS AWARDED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.7125%",
+        "left": "12.042756183745585%",
+        "color": "#526850",
+        "width": "75.38215547703182%",
+        "height": "8.4953125%",
+        "fontSize": "100em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "GRADUATION DIPLOMA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.8375%",
+        "left": "10.76083038869258%",
+        "color": "#526850",
+        "width": "26.453180212014132%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.665625%",
+        "left": "12.846731448763252%",
+        "color": "#526850",
+        "width": "73.628125%",
+        "height": "13.604240282685511%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "On graduation from a higher educational institution. \nFaculty of 'Nature Protection Activity'. Specialty 'Environmental Engineer'.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.007812500000001%",
+        "left": "38.55459363957597%",
+        "color": "#526850",
+        "width": "22.71643109540636%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "UNIVERSITY LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.133625%",
+        "left": "16.18374558303887%",
+        "color": "#526850",
+        "width": "15.678003533568905%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JACK PAYNE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.107875%",
+        "left": "62.71431095406361%",
+        "color": "#526850",
+        "width": "24.67314487632509%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "KATHERINE WARREN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.61875%",
+        "left": "64.56943462897526%",
+        "color": "#526850",
+        "width": "20.89434628975265%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "85.560875%",
+        "left": "44.62455830388692%",
+        "width": "11.106448763250883%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-12-2023-10:05:54_byoR8OvRsw06UlxGjTcbN-Group 391.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.410875%",
+        "left": "67.65459363957598%",
+        "color": "#526850",
+        "width": "15.390901060070671%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.411%",
+        "left": "16.258833922261484%",
+        "color": "#526850",
+        "width": "15.567579505300353%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhwt8740msna4xvfkk23m50s-1702847847570.png",
+  "isDefault": true,
+  "createdAt": "2023-12-17T21:17:27.555Z",
+  "updatedAt": "2025-03-19T10:59:59.855Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "completion"
+  },
+  "id": "01hhwt8740msna4xvfkk23m50s",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2629,
+  "categoryOrder": 883
+}

@@ -1,0 +1,252 @@
+{
+  "name": "320_Academic_professional_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-05-2024-05:37:02_320_Academic_professional_brown_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.021554770318026%",
+        "left": "25.0435%",
+        "color": "#333f51",
+        "width": "49.658%",
+        "height": "11.130742049469964%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.42544169611307%",
+        "left": "37.7885%",
+        "color": "#333f51",
+        "width": "23.756875%",
+        "height": "3.180212014134275%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.2399293286219%",
+        "left": "39.72175%",
+        "color": "#333f51",
+        "width": "20.301625%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.109540636042404%",
+        "left": "13.043875%",
+        "color": "#333f51",
+        "width": "75.084%",
+        "height": "13.51590106007067%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For outstanding academic performance in the International Law Major. The student\u2028has shown a unique pursuit of knowledge, demonstrating a high level of academic\u2028awareness and excellence in learning.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.42791519434629%",
+        "left": "19.683625%",
+        "color": "#333f51",
+        "width": "60.377%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The Department of International Relations is presenting this certificate:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.646148409893993%",
+        "left": "11.7421875%",
+        "color": "#333f51",
+        "width": "77.6875%",
+        "height": "27.56183745583039%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Recognition",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.6303886925795%",
+        "left": "18.391625%",
+        "color": "#333f51",
+        "width": "10.740625%",
+        "height": "7.773851590106007%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "James Carter",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.6303886925795%",
+        "left": "73.1045%",
+        "color": "#333f51",
+        "width": "10.740625%",
+        "height": "7.773851590106007%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Mark Young",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.2399293286219%",
+        "left": "14.829124999999998%",
+        "color": "#333f51",
+        "width": "17.865625%",
+        "height": "7.773851590106007%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.2399293286219%",
+        "left": "72.292%",
+        "color": "#333f51",
+        "width": "12.615625%",
+        "height": "4.063604240282685%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculty",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.68480565371026%",
+        "left": "18.86525%",
+        "width": "10.042975%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-05-2024-05:35:35_2s5vz6MZl4SR0rins8tEf-Vector 645.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.68480565371026%",
+        "left": "73.80275%",
+        "width": "9.344725%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-05-2024-05:35:57_NCCLAlV8LkwzTCOgNOL-K-Vector 646.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.657243816254415%",
+        "left": "42.522%",
+        "width": "14.288125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-05-2024-05:36:32_cSuPDbhxBGBe_p-ItULHD-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.07773851590106%",
+        "left": "45.296375%",
+        "color": "#966d29",
+        "width": "8.740625%",
+        "height": "4.240282685512367%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AWARD\n2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hybafet88vhk2d6wf4wb79qz-1716219560985.png",
+  "isDefault": true,
+  "createdAt": "2024-05-20T15:38:45.962Z",
+  "updatedAt": "2025-03-19T11:00:16.181Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hybafet88vhk2d6wf4wb79qz",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2327,
+  "categoryOrder": 222
+}

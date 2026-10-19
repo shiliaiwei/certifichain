@@ -1,0 +1,255 @@
+{
+  "name": "437_internship_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/11-10-2024-08:11:53_437_Internship_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.125%",
+        "left": "16.07773851590106%",
+        "color": "#0e4980",
+        "width": "68.125%",
+        "height": "auto",
+        "fontSize": "54em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.25%",
+        "left": "15.565371024734981%",
+        "color": "#0e4980",
+        "width": "68.90459363957598%",
+        "height": "auto",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32%",
+        "left": "28.621908127208478%",
+        "color": "#231f1b",
+        "width": "42.75%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "44%",
+        "left": "18.021201413427562%",
+        "width": "63.957597173144876%",
+        "height": "0.125%",
+        "backgroundColor": "#0e4980"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.375%",
+        "left": "9.677296819787989%",
+        "color": "#231f1b",
+        "width": "81%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "student of [ University Name ], has successfully completed a summer internship in the field of [ Field Name ] from \n[ Date ] to [ Date ] under guidance of [ Company Name ].",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.62500000000001%",
+        "left": "13.427561837455832%",
+        "color": "#231f1b",
+        "width": "73.4982332155477%",
+        "height": "auto",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "During the period of her/ his internship program with us, she/ he had been exposed to [ Enter gained skills ].",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.8457%",
+        "left": "13.886925795053001%",
+        "color": "#231f1b",
+        "width": "26.855123674911663%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Name and Surname",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.875%",
+        "left": "17.6678445229682%",
+        "color": "#231f1b",
+        "width": "19.125%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Authorized organ",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "87.5%",
+        "left": "17.03886925795053%",
+        "width": "20.375%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#231f1b"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.8582%",
+        "left": "60.24734982332155%",
+        "color": "#231f1b",
+        "width": "23.875%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Reference number",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.875%",
+        "left": "62.89752650176679%",
+        "color": "#231f1b",
+        "width": "18.5%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Issuance Date",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "87.5%",
+        "left": "62.014134275618375%",
+        "width": "20.375%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#231f1b"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.875%",
+        "left": "44.99999999999999%",
+        "width": "10.247349823321555%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-10-2024-08:04:28_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.875%",
+        "left": "32.685512367491164%",
+        "width": "34.62897526501767%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-10-2024-08:04:54_Group 19574.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.375%",
+        "left": "15.600706713780921%",
+        "color": "#0e4980",
+        "width": "68.90459363957598%",
+        "height": "auto",
+        "fontSize": "62em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "INTERNSHIP",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j9ycgrv0k6tv79mbm2d8wvjm-1728670360432.png",
+  "isDefault": true,
+  "createdAt": "2024-10-11T18:12:40.419Z",
+  "updatedAt": "2025-03-19T11:00:28.093Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01j9ycgrv0k6tv79mbm2d8wvjm",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2090,
+  "categoryOrder": 679
+}

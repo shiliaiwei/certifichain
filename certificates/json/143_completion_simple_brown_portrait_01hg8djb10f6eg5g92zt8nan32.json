@@ -1,0 +1,270 @@
+{
+  "name": "143_completion_simple_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-11-2023-01:51:48_144_completion_simple_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.5555%",
+        "left": "14.890070671378092%",
+        "color": "#6a4b2e",
+        "width": "69.68745583038869%",
+        "height": "8.6267375%",
+        "fontSize": "92em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.867999999999995%",
+        "left": "10.985971731448762%",
+        "color": "#6a4b2e",
+        "width": "77.45636042402828%",
+        "height": "4.5138875%",
+        "fontSize": "33em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Graduated from the Data Analyst course.\nAcquired knowledge: analyzing data using analytics services and BI-tools. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.09025%",
+        "left": "7.903886925795052%",
+        "color": "#6a4b2e",
+        "width": "20.408833922261483%",
+        "height": "1.859375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ADAM STONE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.921875%",
+        "left": "10.02648409893993%",
+        "color": "#6a4b2e",
+        "width": "36.70989399293286%",
+        "height": "1.7257000000000002%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.4705%",
+        "left": "51.14717314487633%",
+        "color": "#6a4b2e",
+        "width": "41.89982332155477%",
+        "height": "2.65625%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date : [certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.696125%",
+        "left": "15.871572438162545%",
+        "color": "#6a4b2e",
+        "width": "67.76607773851589%",
+        "height": "13.276%",
+        "fontSize": "100em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.571125%",
+        "left": "28.47102473498233%",
+        "color": "#6a4b2e",
+        "width": "42.56961130742049%",
+        "height": "1.859375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS CERTIFICATE IS AWARDED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.65275%",
+        "left": "7.881819787985867%",
+        "color": "#6a4b2e",
+        "width": "20.66148409893993%",
+        "height": "1.859375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of the Bank",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.8819375%",
+        "left": "16.23971731448763%",
+        "color": "#6a4b2e",
+        "width": "66.9856890459364%",
+        "height": "13.276%",
+        "fontSize": "100em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPLETION ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.859375%",
+        "left": "39.3256183745583%",
+        "color": "#6a4b2e",
+        "width": "20.857950530035335%",
+        "height": "2.65625%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.637125%",
+        "left": "72.18780918727916%",
+        "color": "#6a4b2e",
+        "width": "18.70583038869258%",
+        "height": "1.859375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Branch manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.105875%",
+        "left": "71.74116607773851%",
+        "color": "#6a4b2e",
+        "width": "20.043109540636042%",
+        "height": "1.859375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JACOB POWERS",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.36975%",
+        "left": "76.61095406360424%",
+        "width": "9.813021201413427%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2023-01:39:42_5eT_syKn5FgqutegBO3VY-Vector99.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.133625%",
+        "left": "13.750247349823322%",
+        "width": "8.674416961130742%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2023-01:39:47_mUKHxd6IRFv112akvatKy-Vector7.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.78475%",
+        "left": "44.405123674911664%",
+        "width": "10.875547703180212%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2023-01:40:11_TdrLyZL7wMPHqWzpvoRzN-Group 391.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hg8djb10f6eg5g92zt8nan32-1701338998512.png",
+  "isDefault": true,
+  "createdAt": "2023-11-27T12:55:17.283Z",
+  "updatedAt": "2025-03-19T10:59:57.239Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01hg8djb10f6eg5g92zt8nan32",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2683,
+  "categoryOrder": 907
+}

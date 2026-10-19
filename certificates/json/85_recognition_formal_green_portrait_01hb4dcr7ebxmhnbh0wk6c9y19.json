@@ -1,0 +1,291 @@
+{
+  "name": "85_recognition_formal_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-09-2023-10:16:36_85_recognition_formal_green_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.724625%",
+        "left": "14.764381625441697%",
+        "color": "#2e532a",
+        "width": "69.93851590106006%",
+        "height": "7.300775%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.04975%",
+        "left": "23.713604240282685%",
+        "color": "#2e532a",
+        "width": "21.756875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.42725%",
+        "left": "60.175441696113076%",
+        "color": "#2e532a",
+        "width": "28.390106007067136%",
+        "height": "2.9209%",
+        "fontSize": "22em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.127%",
+        "left": "13.149434628975264%",
+        "color": "#2e532a",
+        "width": "25.37826855123675%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Candidate of Biological Sciences",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.275375%",
+        "left": "15.614646643109541%",
+        "color": "#2e532a",
+        "width": "20.446466431095406%",
+        "height": "3.0527375%",
+        "fontSize": "23em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Gabriel Collins",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.8125%",
+        "left": "16.3565371024735%",
+        "color": "#2e532a",
+        "width": "67.05918727915194%",
+        "height": "9.9580125%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "With gratitude for successful defence of\nthe Biochemical Diagnostics of Fatigue Processes",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.211%",
+        "left": "32.13533568904594%",
+        "color": "#2e532a",
+        "width": "35.19911660777385%",
+        "height": "2.2568375%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE IS PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.7041%",
+        "left": "25.362367491166076%",
+        "color": "#2e532a",
+        "width": "48.746643109540635%",
+        "height": "7.625%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.453125%",
+        "left": "62.85742049469965%",
+        "width": "22.501590106007065%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2e532a"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.127%",
+        "left": "69.34628975265018%",
+        "color": "#2e532a",
+        "width": "10.049964664310956%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified on",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.9145%",
+        "left": "59.76978798586573%",
+        "color": "#2e532a",
+        "width": "16.609151943462898%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "44.94725%",
+        "left": "14.767137809187277%",
+        "width": "70.59134275618375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2e532a"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.94625%",
+        "left": "42.038515901060066%",
+        "width": "15.393109540636043%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2023-10:02:29_sLzk2cYud0l87zfvCOlmA-Group 461.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.95025%",
+        "left": "44.56996466431095%",
+        "color": "#7db778",
+        "width": "10.327402826855124%",
+        "height": "2.5224625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AWARD",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "87.336875%",
+        "left": "57.39982332155476%",
+        "width": "2%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2023-10:05:24_fYI__Cc6oXdDBt0fvNGsM-Rectangle 451.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.5%",
+        "left": "16.263321554770318%",
+        "color": "#2e532a",
+        "width": "66.94187279151944%",
+        "height": "21.875%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.17775%",
+        "left": "14.766448763250883%",
+        "width": "22.501590106007065%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2e532a"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hb4dcr7ebxmhnbh0wk6c9y19-1695804492377.png",
+  "isDefault": true,
+  "createdAt": "2023-09-24T20:16:47.345Z",
+  "updatedAt": "2025-03-19T10:59:50.031Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01hb4dcr7ebxmhnbh0wk6c9y19",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2826,
+  "categoryOrder": 691
+}

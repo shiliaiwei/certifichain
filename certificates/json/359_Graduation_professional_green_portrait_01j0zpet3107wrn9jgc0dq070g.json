@@ -1,0 +1,315 @@
+{
+  "name": "359_Graduation_professional_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-06-2024-12:03:56_359_Graduation_professional_green_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.95025%",
+        "left": "40.1874558303887%",
+        "color": "#2c302c",
+        "width": "29.080212014134275%",
+        "height": "2.2568375%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.875%",
+        "left": "8.756625441696112%",
+        "color": "#2c302c",
+        "width": "54.726148409893995%",
+        "height": "1.7255875%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.667%",
+        "left": "8.756625441696112%",
+        "color": "#2c302c",
+        "width": "33.65865724381625%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.058625%",
+        "left": "8.45434628975265%",
+        "color": "#2c302c",
+        "width": "78.97120141342756%",
+        "height": "15.92775%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of successful completion of the \nBachelor of Science in Finance\u2028and Accounting \nprogram. Through determination and hard work, \na high level\u2028of academic achievement and professional \ncompetence has been demonstrated.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.25%",
+        "left": "44.33939929328622%",
+        "color": "#2c302c",
+        "width": "37.86572438162544%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Finance and accounting",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.27875%",
+        "left": "8.759381625441696%",
+        "color": "#2c302c",
+        "width": "25.599116607773848%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Lucas Bradshaw",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.95025%",
+        "left": "8.756625441696112%",
+        "color": "#2c302c",
+        "width": "23.418197879858656%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Student Name:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.7861375%",
+        "left": "8.760759717314489%",
+        "color": "#2c302c",
+        "width": "69.1875%",
+        "height": "28.091872791519435%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.25%",
+        "left": "8.756625441696112%",
+        "color": "#2c302c",
+        "width": "31.804946996466434%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Completed specialty:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.111375%",
+        "left": "8.759381625441696%",
+        "color": "#2c302c",
+        "width": "27.938692579505304%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.2735%",
+        "left": "8.45434628975265%",
+        "color": "#2c302c",
+        "width": "48.162897526501766%",
+        "height": "3.3193374999999996%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "University of Massachusetts",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.278375%",
+        "left": "54.81590106007067%",
+        "color": "#2c302c",
+        "width": "25.0690812720848%",
+        "height": "3.18555%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Gary Williams",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.111375%",
+        "left": "54.81590106007067%",
+        "color": "#2c302c",
+        "width": "23.52173144876325%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.621125000000003%",
+        "left": "8.756625441696112%",
+        "color": "#2c302c",
+        "width": "36.30335689045936%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Economic Development",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.96975%",
+        "left": "54.81590106007067%",
+        "width": "19.249646643109543%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-06-2024-11:35:19_wROrkt9YT9ZwybYlzQvpS-Vector 245.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.902375%",
+        "left": "8.756625441696112%",
+        "width": "19.101943462897527%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-06-2024-11:39:10_D1XXlOerPhYVpPRBsyLRo-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.25%",
+        "left": "8.759381625441696%",
+        "color": "#2c302c",
+        "width": "69.1875%",
+        "height": "28.091872791519435%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "of Graduation",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0zpet3107wrn9jgc0dq070g-1719050659946.png",
+  "isDefault": true,
+  "createdAt": "2024-06-22T10:04:19.939Z",
+  "updatedAt": "2025-03-19T11:00:20.212Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0zpet3107wrn9jgc0dq070g",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2248,
+  "categoryOrder": 175
+}

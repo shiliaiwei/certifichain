@@ -1,0 +1,306 @@
+{
+  "name": "408_Accreditation_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-08-2024-02:29:00_408_Accreditation_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.23681875%",
+        "left": "17.84452296819788%",
+        "color": "#08274b",
+        "width": "66.07773851590106%",
+        "height": "5.973637500000002%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.011912499999994%",
+        "left": "62.22614840989399%",
+        "color": "#08274b",
+        "width": "24.877875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.688475%",
+        "left": "13.64929328621908%",
+        "color": "#08274b",
+        "width": "24.548875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.875%",
+        "left": "36.042402826855124%",
+        "color": "#08274b",
+        "width": "28.252%",
+        "height": "9.010600706713781%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Herebly attests that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.375%",
+        "left": "9.89399293286219%",
+        "color": "#08274b",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "64em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.5%",
+        "left": "16.07773851590106%",
+        "color": "#08274b",
+        "width": "19.6113074204947%",
+        "height": "2.6543000000000063%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Brittany Walker",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.5%",
+        "left": "10.070671378091872%",
+        "color": "#08274b",
+        "width": "31.62544169611308%",
+        "height": "2.6543000000000063%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Senior Certification Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.475%",
+        "left": "58.46289752650177%",
+        "color": "#08274b",
+        "width": "31.448763250883395%",
+        "height": "2.6543000000000063%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Senior Certification Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.75%",
+        "left": "62.36749116607774%",
+        "color": "#08274b",
+        "width": "23.627%",
+        "height": "8.480565371024735%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Henry Thompson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.34716875%",
+        "left": "20.318021201413426%",
+        "color": "#658bae",
+        "width": "59.54063604240283%",
+        "height": "3.375%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The EcoCert Accreditation Board",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.75%",
+        "left": "38.19469964664311%",
+        "color": "#08274b",
+        "width": "24%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.375%",
+        "left": "67.31448763250883%",
+        "width": "13.780918727915195%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-2024-02:18:03_Group 19367.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.25%",
+        "left": "16.96113074204947%",
+        "width": "17.6678445229682%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-2024-02:18:29_Group 19368.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.25%",
+        "left": "39.75265017667844%",
+        "width": "20.848056537102476%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-2024-02:18:51_OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.375%",
+        "left": "44.168648409894%",
+        "color": "#08274b",
+        "width": "11.875%",
+        "height": "6.371681415929204%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFIED\nSTANDARDS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.875%",
+        "left": "47.062720848056536%",
+        "color": "#08274b",
+        "width": "5.875%",
+        "height": "2.920353982300885%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.25%",
+        "left": "9.89399293286219%",
+        "color": "#08274b",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "64em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "of Accreditation",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j5djm9dmcmaz6veff901yj2a-1723811374527.png",
+  "isDefault": true,
+  "createdAt": "2024-08-16T12:29:34.518Z",
+  "updatedAt": "2025-03-19T11:00:25.220Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01j5djm9dmcmaz6veff901yj2a",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2148,
+  "categoryOrder": 645
+}

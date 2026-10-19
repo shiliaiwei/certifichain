@@ -1,0 +1,234 @@
+{
+  "name": "130_achievement_formal_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/09-11-2023-07:16:45_130_achievement_formal_brown_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "44.16961130742049%",
+        "left": "30.150375%",
+        "color": "#292929",
+        "width": "39.28325%",
+        "height": "11.130742049469964%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.26113074204947%",
+        "left": "37.796875%",
+        "color": "#292929",
+        "width": "22.881875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.50671378091873%",
+        "left": "38.961%",
+        "color": "#292929",
+        "width": "20.55375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.113074204946997%",
+        "left": "41.297375%",
+        "color": "#292929",
+        "width": "17.163125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.59717314487632%",
+        "left": "16.248%",
+        "color": "#292929",
+        "width": "67.086%",
+        "height": "7.950530035335689%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully defended a research work in aerodynamics on\n'Dynamics of Flight and Design of Aircraft by the Zhukovsky Method'",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.73498233215548%",
+        "left": "10.4043%",
+        "color": "#292929",
+        "width": "78.8135%",
+        "height": "11.395759717314489%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Achievement Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.63922261484099%",
+        "left": "16.6425%",
+        "color": "#292929",
+        "width": "13.381875%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Mark Wilkinson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.73109540636042%",
+        "left": "13.016624999999998%",
+        "color": "#3e3f43",
+        "width": "20.631875%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Aerodynamics professor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.282685512367486%",
+        "left": "35.980875%",
+        "color": "#292929",
+        "width": "27.663125%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to proudly certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.50671378091873%",
+        "left": "70.933625%",
+        "color": "#292929",
+        "width": "13.381875%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "John Butler",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.73109540636042%",
+        "left": "67.308625%",
+        "color": "#292929",
+        "width": "20.631875%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Commission",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "13.635989399293285%",
+        "left": "47.266625%",
+        "width": "3.9423875000000006%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/09-11-2023-07:16:54_1708fXrUkTl69doAeeXi7-Group 18759.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hetmxs6nd5n6ca4pygs952te-1699553945296.png",
+  "isDefault": true,
+  "createdAt": "2023-11-09T18:18:48.407Z",
+  "updatedAt": "2025-03-19T10:59:55.957Z",
+  "metadata": {
+    "lang": "en",
+    "color": "yellow",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01hetmxs6nd5n6ca4pygs952te",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2740,
+  "categoryOrder": 274
+}

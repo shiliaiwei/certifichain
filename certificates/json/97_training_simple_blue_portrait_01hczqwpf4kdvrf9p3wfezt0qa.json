@@ -1,0 +1,290 @@
+{
+  "name": "97_training_simple_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-10-2023-11:15:14_97_training_simple_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.13775%",
+        "left": "20.11519434628975%",
+        "color": "#307abe",
+        "width": "60.36060070671378%",
+        "height": "6.636725%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.7315%",
+        "left": "16.206113074204946%",
+        "color": "#272727",
+        "width": "24.002120141342758%",
+        "height": "1.4599625%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.3565%",
+        "left": "59.293639575971724%",
+        "color": "#272727",
+        "width": "22.875795053003532%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.2734375%",
+        "left": "41.325441696113074%",
+        "color": "#307abe",
+        "width": "16.592597173144878%",
+        "height": "4.1142625%",
+        "fontSize": "31em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SCHOOL",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.256875%",
+        "left": "25.23939929328622%",
+        "color": "#272727",
+        "width": "48.76325088339223%",
+        "height": "10.08985%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed a preparatory course in Fundamentals of Accounting while demonstrating a high level of professionalism and attention to detail.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.005875%",
+        "left": "39.02932862190813%",
+        "color": "#272727",
+        "width": "20.32349823321555%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.8145%",
+        "left": "15.84243816254417%",
+        "color": "#307abe",
+        "width": "68.5635%",
+        "height": "11.395759717314489%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "68.7285%",
+        "left": "14.964788732394366%",
+        "width": "26.668727915194346%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#307abe"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.36035%",
+        "left": "41.86590106007068%",
+        "color": "#272727",
+        "width": "15.510441696113075%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of Accounting",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.566375%",
+        "left": "10.161060070671377%",
+        "color": "#272727",
+        "width": "36.06731448763251%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Milo Wheeler | Chief Accountant",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.2315%",
+        "left": "37.845759717314486%",
+        "color": "#272727",
+        "width": "23.927561837455833%",
+        "height": "1.9902375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "www.yourcompany.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.7305%",
+        "left": "51.53074204946996%",
+        "color": "#272727",
+        "width": "39.247526501766785%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Grace Bennett | Company Director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.3145%",
+        "left": "44.4%",
+        "width": "10.821554770318022%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-10:59:17_xfVIu_fh3r_THNuSaXR6l-Group 391.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.109375%",
+        "left": "61.06042402826854%",
+        "width": "20.18957597173145%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-10:59:33_CgNQgl-OkKyBT1EgQEDum-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.544%",
+        "left": "16.01839222614841%",
+        "width": "24.35265017667845%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-10:59:47_V9NMEMQ8iXwcji12VURLc-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.25%",
+        "left": "15.530494699646644%",
+        "color": "#307abe",
+        "width": "68.5635%",
+        "height": "11.395759717314489%",
+        "fontSize": "80em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "69.002875%",
+        "left": "57.997526501766785%",
+        "width": "26.668727915194346%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#307abe"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hczqwpf4kdvrf9p3wfezt0qa-1697577327102.png",
+  "isDefault": true,
+  "createdAt": "2023-10-17T21:15:27.080Z",
+  "updatedAt": "2025-03-19T10:59:52.579Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "training"
+  },
+  "id": "01hczqwpf4kdvrf9p3wfezt0qa",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2775,
+  "categoryOrder": 393
+}

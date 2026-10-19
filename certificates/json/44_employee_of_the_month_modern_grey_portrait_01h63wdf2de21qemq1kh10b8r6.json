@@ -1,0 +1,309 @@
+{
+  "name": "44_employee_of_the_month_modern_grey_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-07-2023-02:01:06_44_employee_of_the_month_modern_grey_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.182625%",
+        "left": "34.82296819787986%",
+        "color": "#2e4057",
+        "width": "30.22173144876325%",
+        "height": "11.4160125%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.662125%",
+        "left": "18.742402826855123%",
+        "color": "#2e4057",
+        "width": "62.38409893992932%",
+        "height": "8.7607375%",
+        "fontSize": "78em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.141625%",
+        "left": "29.498409893992932%",
+        "color": "#2e4057",
+        "width": "40.62367491166078%",
+        "height": "3.5839875%",
+        "fontSize": "27em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF THE MONTH",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.173875%",
+        "left": "34.134805653710245%",
+        "color": "#2e4057",
+        "width": "31.599293286219083%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This award is proudly given to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.72075%",
+        "left": "25.24505300353357%",
+        "color": "#2e4057",
+        "width": "49.37756183745582%",
+        "height": "9.951175%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "It is with immense gratitude that we acknowledge the privilege of having you as part of our team. This prestigious award stands as a testament to your unwavering dedication and remarkable achievements over the past month.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.8515%",
+        "left": "63.29363957597174%",
+        "color": "#2e4057",
+        "width": "13.834%",
+        "height": "2.65017667844523%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Marie Lidwina",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.03325%",
+        "left": "37.111484098939926%",
+        "color": "#2e4057",
+        "width": "25.39752650176678%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your Company Name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.099625%",
+        "left": "62.168727915194346%",
+        "color": "#2e4057",
+        "width": "16.084%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Executive Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.59375%",
+        "left": "13.847173144876326%",
+        "color": "#2e4057",
+        "width": "19.87632508833922%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.59375%",
+        "left": "59.13621908127209%",
+        "color": "#2e4057",
+        "width": "28.68816254416961%",
+        "height": "1.5918%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "55.785125%",
+        "left": "21.47887323943662%",
+        "width": "56.71378091872792%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.8515%",
+        "left": "22.30971731448763%",
+        "color": "#2e4057",
+        "width": "13.834%",
+        "height": "2.65017667844523%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Larry Andreas",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.099625%",
+        "left": "21.18480565371025%",
+        "color": "#2e4057",
+        "width": "16.084%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Program Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.044%",
+        "left": "62.019787985865726%",
+        "width": "16.7347703180212%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2e4057"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.913125%",
+        "left": "45.81431095406361%",
+        "width": "7.6896466431095405%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-01:42:38_6FOPaijxCisezVYPjmYxi-Group 18496.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.877875%",
+        "left": "61.66766784452297%",
+        "width": "16.229575971731446%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-01:42:54_MyOgTsqTSgok23Itk9snR-Path 27.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.877875%",
+        "left": "20.225618374558305%",
+        "width": "15.234381625441697%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-01:43:07_p8dVnLcN3bIN_751_Cfo6-Path 28.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "16.17975%",
+        "left": "47.66325088339223%",
+        "width": "4.294116607773852%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-07-2023-01:44:11_p_SEwx4w4o3m23dc7Mune-path134.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.129875%",
+        "left": "21.03710247349823%",
+        "width": "16.7347703180212%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2e4057"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h63wdf2de21qemq1kh10b8r6-1690363383365.png",
+  "isDefault": true,
+  "createdAt": "2023-07-24T12:01:35.823Z",
+  "updatedAt": "2025-09-10T14:56:26.096Z",
+  "metadata": {
+    "lang": "en",
+    "color": "black",
+    "style": "modern",
+    "category": "employee_of_the_month"
+  },
+  "id": "01h63wdf2de21qemq1kh10b8r6",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2886,
+  "categoryOrder": 36
+}

@@ -1,0 +1,390 @@
+{
+  "name": "389_Course_modern_pink_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-07-2024-11:28:23_389_Course_modern_pink_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.31625441696113%",
+        "left": "6.4072249999999995%",
+        "color": "#0c2a48",
+        "width": "55.65624999999999%",
+        "height": "11.925795053003533%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.34505300353357%",
+        "left": "6.4082%",
+        "color": "#0c2a48",
+        "width": "25.754750000000005%",
+        "height": "4.240282685512367%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PROUDLY PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.171554770318025%",
+        "left": "6.406249999999999%",
+        "color": "#0c2a48",
+        "width": "19.55%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.9065371024735%",
+        "left": "63.15625%",
+        "color": "#0c2a48",
+        "width": "27.62975%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.349823321554766%",
+        "left": "6.406249999999999%",
+        "color": "#0c2a48",
+        "width": "44.377875%",
+        "height": "14.840989399293287%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HAS DEMONSTRATED PROFESSIONAL COMPETENCE BY COMPLETING THE DESIGN BASICS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.03074204946996%",
+        "left": "6.140625%",
+        "color": "#0c2a48",
+        "width": "21.834%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MR. RICHARD MILLER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "2.2968197879858656%",
+        "left": "6.410149999999999%",
+        "color": "#0c2a48",
+        "width": "58.17775%",
+        "height": "12.7208480565371%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.371024734982333%",
+        "left": "6.409175%",
+        "color": "#0c2a48",
+        "width": "58.17775%",
+        "height": "12.7208480565371%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF COURSE COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.37102473498233%",
+        "left": "6.3584000000000005%",
+        "color": "#0c2a48",
+        "width": "13.377%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DATE OF ISSUE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.37102473498233%",
+        "left": "29.059625%",
+        "color": "#0c2a48",
+        "width": "6.87695%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "POINTS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.37102473498233%",
+        "left": "46.373%",
+        "color": "#0c2a48",
+        "width": "6.87695%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HOURS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.9065371024735%",
+        "left": "46.374%",
+        "color": "#0c2a48",
+        "width": "6.87695%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "450",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.9065371024735%",
+        "left": "29.0605%",
+        "color": "#0c2a48",
+        "width": "6.87695%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "90/100",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.03074204946996%",
+        "left": "42.205125%",
+        "color": "#0c2a48",
+        "width": "21.834%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DR. KAREN SMITH",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.87279151943463%",
+        "left": "6.140625%",
+        "color": "#0c2a48",
+        "width": "27.583999999999996%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATION COORDINATOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.87279151943463%",
+        "left": "42.205125%",
+        "color": "#0c2a48",
+        "width": "27.583999999999996%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "PROGRAM DIRECTOR",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "43.418727915194346%",
+        "left": "6.359102244389027%",
+        "width": "41.375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#ffac98"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "91.16749116607774%",
+        "left": "6.140625%",
+        "width": "16.75%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#ffac98"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "91.16749116607774%",
+        "left": "42.205125%",
+        "width": "16.75%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#ffac98"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.01395759717313%",
+        "left": "75.74225%",
+        "width": "19.414%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-07-2024-11:26:08_HF-vkui0xnlbsVKYaawtU-Frame 19055.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.56183745583039%",
+        "left": "6.140625%",
+        "width": "11.1181625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-07-2024-11:26:44_G1sV6w8Hqe-pfvLk_NC09-Vector 670.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.85512367491167%",
+        "left": "42.205125%",
+        "width": "11.7041%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-07-2024-11:27:44_T2pivzsq0k2YUhzBIMiBV-Group 18965.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.37102473498233%",
+        "left": "63.15625%",
+        "color": "#0c2a48",
+        "width": "17.875%",
+        "height": "10.424028268551238%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "REFERENCE NUMBER",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j3bk92aa6n40a5qghyde6y6v-1721597462879.png",
+  "isDefault": true,
+  "createdAt": "2024-07-21T21:31:02.861Z",
+  "updatedAt": "2025-03-19T11:00:23.064Z",
+  "metadata": {
+    "lang": "en",
+    "color": "pink",
+    "style": "modern",
+    "category": "course"
+  },
+  "id": "01j3bk92aa6n40a5qghyde6y6v",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2189,
+  "categoryOrder": 88
+}

@@ -1,0 +1,288 @@
+{
+  "name": "91_recognition_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-09-2023-01:10:19_91_recognition_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.500530035335686%",
+        "left": "21.1875%",
+        "color": "#e5e6ed",
+        "width": "57.25%",
+        "height": "12.54416961130742%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.9713780918728%",
+        "left": "6.25%",
+        "color": "#e5e6ed",
+        "width": "32.875%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.35300353356891%",
+        "left": "45.776375%",
+        "color": "#e5e6ed",
+        "width": "13.125%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.9713780918728%",
+        "left": "73.038125%",
+        "color": "#e5e6ed",
+        "width": "18.375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.524734982332156%",
+        "left": "32.3125%",
+        "color": "#e5e6ed",
+        "width": "35%",
+        "height": "14.992826855123672%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.66819787985865%",
+        "left": "10.427275%",
+        "color": "#e5e6ed",
+        "width": "17.875%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Information logistician",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.60459363957598%",
+        "left": "24.875%",
+        "color": "#e5e6ed",
+        "width": "49.875%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "for the successful completion of a 32-hour course on the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.42862190812721%",
+        "left": "12.914%",
+        "color": "#e5e6ed",
+        "width": "12.903375%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Esther Palmer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.615017667844523%",
+        "left": "36.0625%",
+        "color": "#e5e6ed",
+        "width": "27.500000000000004%",
+        "height": "8.8339222614841%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is present to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.068551236749116%",
+        "left": "39.25%",
+        "color": "#e5e6ed",
+        "width": "21.125%",
+        "height": "4.770318021201414%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Basics of Logistics",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.724381625441698%",
+        "left": "23.75%",
+        "color": "#e5e6ed",
+        "width": "52.125%",
+        "height": "10.60070671378092%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.42862190812721%",
+        "left": "76.172875%",
+        "color": "#e5e6ed",
+        "width": "12.903375%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Rodger Horton",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.66819787985865%",
+        "left": "73.687%",
+        "color": "#e5e6ed",
+        "width": "17.875%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Logistics Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.24611307420496%",
+        "left": "75.674375%",
+        "width": "13.1035%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-09-2023-01:05:56_cxz6oOpx21amRLa2VWStu-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.24487632508834%",
+        "left": "10.6611375%",
+        "width": "17.640625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-09-2023-01:06:32_0VpMA5qa0ArIFwnfu9DrC-Group 502.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.08657243816255%",
+        "left": "41.75%",
+        "width": "3.4375000000000004%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-09-2023-01:07:02_XBCtkrDH3VW0mfeuiVHO7-Group 501.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hb8jwwt6r6fzvdn3p3w3yh76-1695727366556.png",
+  "isDefault": true,
+  "createdAt": "2023-09-26T11:09:56.936Z",
+  "updatedAt": "2025-03-19T10:59:50.549Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01hb8jwwt6r6fzvdn3p3w3yh76",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2815,
+  "categoryOrder": 681
+}

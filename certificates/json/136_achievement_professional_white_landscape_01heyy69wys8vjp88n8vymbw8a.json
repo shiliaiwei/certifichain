@@ -1,0 +1,261 @@
+{
+  "name": "136_achievement_professional_white_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/11-11-2023-11:26:49_136_achievement_professional_white_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "32.15547703180212%",
+        "left": "20.51075%",
+        "color": "#424554",
+        "width": "59.03325%",
+        "height": "16.96113074204947%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.15901060070671%",
+        "left": "52.787125%",
+        "color": "#424554",
+        "width": "23.631875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.15901060070671%",
+        "left": "24.402375%",
+        "color": "#424554",
+        "width": "20.17875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.52650176678445%",
+        "left": "9.233375%",
+        "color": "#424554",
+        "width": "81.15825%",
+        "height": "9.010600706713781%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For increasing NPS in customer service by 35% in the quarter.\nYour personal qualities, communication and stress resistance have not gone unnoticed!",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.259116607773851%",
+        "left": "14.96925%",
+        "color": "#424554",
+        "width": "69.682625%",
+        "height": "12.45583038869258%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Achievement ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.47296819787985%",
+        "left": "15.556625000000002%",
+        "color": "#424554",
+        "width": "17.818375%",
+        "height": "10.60070671378092%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Derick Bradford",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.56183745583039%",
+        "left": "38.096125%",
+        "color": "#424554",
+        "width": "23.432625%",
+        "height": "10.60070671378092%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.92226148409894%",
+        "left": "16.993125%",
+        "color": "#424554",
+        "width": "14.943375%",
+        "height": "2.385159010600707%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of call center",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.428727915194346%",
+        "left": "40.1895%",
+        "color": "#424554",
+        "width": "23.682625%",
+        "height": "3.9752650176678443%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Oswald, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "YOUR COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.92226148409894%",
+        "left": "66.9815%",
+        "color": "#424554",
+        "width": "14.943375%",
+        "height": "2.385159010600707%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company owner",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.64964664310953%",
+        "left": "65.544%",
+        "color": "#424554",
+        "width": "17.818375%",
+        "height": "10.60070671378092%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Derick Bradford",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.268639575971731%",
+        "left": "37.8125%",
+        "width": "3.613275%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-11-2023-11:22:38_imMI1QllZDD3lObjnj6W4-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.12844522968199%",
+        "left": "42.1645%",
+        "width": "15.725625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-11-2023-11:22:55_fZWGiL7-2e1d_XDjy-BrY-Group 18831.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.773851590106%",
+        "left": "41.312%",
+        "color": "#000000",
+        "width": "17.42975%",
+        "height": "4.240282685512367%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED 2023",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01heyy69wys8vjp88n8vymbw8a-1699698578799.png",
+  "isDefault": true,
+  "createdAt": "2023-11-11T10:17:42.562Z",
+  "updatedAt": "2025-03-19T10:59:56.520Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01heyy69wys8vjp88n8vymbw8a",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2728,
+  "categoryOrder": 262
+}

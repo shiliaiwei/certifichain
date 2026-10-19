@@ -1,0 +1,342 @@
+{
+  "name": "382_Course_simple_yellow_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-07-2024-11:01:49_382_Course_simple_yellow_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.330035335689047%",
+        "left": "18.50825%",
+        "color": "#251f1f",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.291519434628974%",
+        "left": "63.461875%",
+        "color": "#251f1f",
+        "width": "24.877875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.8939929328622%",
+        "left": "10.7236375%",
+        "color": "#251f1f",
+        "width": "24.548875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.109540636042404%",
+        "left": "14.9365%",
+        "color": "#251f1f",
+        "width": "69.752%",
+        "height": "10.070671378091872%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "for completing the \"Introduction to Python Programming\" course \nat Code Academy over a period of 6 weeks",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.683215547703178%",
+        "left": "35.835%",
+        "color": "#251f1f",
+        "width": "28.252%",
+        "height": "9.010600706713781%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is granted to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.12720848056537%",
+        "left": "8.5918%",
+        "color": "#251f1f",
+        "width": "82.627%",
+        "height": "13.074204946996467%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Completion",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.9464664310954%",
+        "left": "6.934575%",
+        "color": "#251f1f",
+        "width": "23.627%",
+        "height": "8.480565371024735%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Robert Wilson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.78091872791519%",
+        "left": "67.211%",
+        "color": "#251f1f",
+        "width": "17.377%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Reference number",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.2750883392226%",
+        "left": "11.372075%",
+        "color": "#251f1f",
+        "width": "14.752%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lead Instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.9464664310954%",
+        "left": "69.684625%",
+        "color": "#251f1f",
+        "width": "23.627%",
+        "height": "8.480565371024735%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Linda Harris",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.2750883392226%",
+        "left": "74.122125%",
+        "color": "#251f1f",
+        "width": "14.752%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Program Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.78091872791519%",
+        "left": "14.309625%",
+        "color": "#251f1f",
+        "width": "17.377%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Completing date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.78091872791519%",
+        "left": "38.434625%",
+        "color": "#251f1f",
+        "width": "7.876949999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.78091872791519%",
+        "left": "52.1865%",
+        "color": "#251f1f",
+        "width": "7.876949999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Points",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.36395759717315%",
+        "left": "52.184625%",
+        "color": "#251f1f",
+        "width": "7.876949999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "3",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.36395759717315%",
+        "left": "38.434625%",
+        "color": "#251f1f",
+        "width": "7.876949999999999%",
+        "height": "3.7102473498233217%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "270",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.58604240282685%",
+        "left": "14.284250000000002%",
+        "width": "8.9277375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-07-2024-10:59:04_Qoene3YV1gdBW2r9SsD90-Vector 683.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.1160777385159%",
+        "left": "75.962%",
+        "width": "10.832025%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-07-2024-10:59:21_98si80RQbdcki5XH6SjJw-Vector 684.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.46943462897526%",
+        "left": "43.016625%",
+        "width": "13.589875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-07-2024-10:59:53_ksEC3hlDvDob6mPF_hKMd-Group 18698.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j3182brn2dm6zps0xcc1fs3d-1721250164518.png",
+  "isDefault": true,
+  "createdAt": "2024-07-17T21:02:44.503Z",
+  "updatedAt": "2025-03-19T11:00:22.406Z",
+  "metadata": {
+    "lang": "en",
+    "color": "yellow",
+    "style": "simple",
+    "category": "course"
+  },
+  "id": "01j3182brn2dm6zps0xcc1fs3d",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2203,
+  "categoryOrder": 8
+}

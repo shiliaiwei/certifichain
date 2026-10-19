@@ -1,0 +1,306 @@
+{
+  "name": "384_Course_formal_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/18-07-2024-12:13:43_384_Course_formal_green_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.26113074204947%",
+        "left": "7.685550000000001%",
+        "color": "#3e5d31",
+        "width": "61.907250000000005%",
+        "height": "18.551236749116608%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.716254416961128%",
+        "left": "80.496125%",
+        "color": "#ffffff",
+        "width": "14.002875000000001%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.551625441696112%",
+        "left": "79.847625%",
+        "color": "#ffffff",
+        "width": "15.298875%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.164487632508845%",
+        "left": "7.685550000000001%",
+        "color": "#3e5d31",
+        "width": "75.127%",
+        "height": "9.540636042402827%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ADVANCED SEO STRATEGIES COURSE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.197526501766784%",
+        "left": "7.685550000000001%",
+        "color": "#364232",
+        "width": "30.502000000000002%",
+        "height": "3.9752650176678443%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.79929328621908%",
+        "left": "16.621125%",
+        "color": "#364232",
+        "width": "23.752%",
+        "height": "9.540636042402827%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Dr. Sarah Johnson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.829010600706713%",
+        "left": "7.375%",
+        "color": "#3e5d31",
+        "width": "36.872125%",
+        "height": "10.424028268551238%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": " CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.250883392226148%",
+        "left": "7.375%",
+        "color": "#3e5d31",
+        "width": "45.122125%",
+        "height": "20.671378091872793%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.81978798586572%",
+        "left": "7.375%",
+        "color": "#364232",
+        "width": "30.502000000000002%",
+        "height": "3.9752650176678443%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "for successfully completing",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.79929328621908%",
+        "left": "53.247125%",
+        "color": "#364232",
+        "width": "23.752%",
+        "height": "9.540636042402827%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Prof. James Carter",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.21908127208481%",
+        "left": "16.621125%",
+        "color": "#364232",
+        "width": "23.752%",
+        "height": "9.540636042402827%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.21908127208481%",
+        "left": "53.497125000000004%",
+        "color": "#364232",
+        "width": "21.502%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Program Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.25441696113074%",
+        "left": "7.06055%",
+        "color": "#ffffff",
+        "width": "33.127%",
+        "height": "4.770318021201414%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Hours: 48 hours completed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.25441696113074%",
+        "left": "60.498125%",
+        "color": "#3e5d31",
+        "width": "33.127%",
+        "height": "4.770318021201414%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Points: 975 out of 1000",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.74063604240283%",
+        "left": "7.685550000000001%",
+        "width": "7.5127%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:11:18_G5KsFEIolneKOv47CovLc-Group 19172.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.09540636042402%",
+        "left": "42.11225%",
+        "width": "10.511725%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:11:45_HsAjksrbYt7cxb57WW1Ob-Group 19173.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.9434628975265%",
+        "left": "82.246125%",
+        "width": "10.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/18-07-2024-12:12:01_UawVoOZ8SNL0TCbgNaEt0-Group 19007.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j32nf6agkp1xb7gffq87xe14-1721297770843.png",
+  "isDefault": true,
+  "createdAt": "2024-07-18T10:16:10.834Z",
+  "updatedAt": "2025-03-19T11:00:22.595Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "formal",
+    "category": "course"
+  },
+  "id": "01j32nf6agkp1xb7gffq87xe14",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2199,
+  "categoryOrder": 3
+}

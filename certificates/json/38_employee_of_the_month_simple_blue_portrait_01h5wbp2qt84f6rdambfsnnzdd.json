@@ -1,0 +1,306 @@
+{
+  "name": "38_employee_of_the_month_simple_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-07-2023-03:53:16_38_employee_of_the_month_simple_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.110375%",
+        "left": "10.069257950530035%",
+        "color": "#538aa9",
+        "width": "79.33144876325089%",
+        "height": "8.6289%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.2295%",
+        "left": "19.23922261484099%",
+        "color": "#000000",
+        "width": "60.12499999999999%",
+        "height": "6.890459363957597%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Brilliant minds go a long way and you\u2019re a perfect example. We are proud of how far you\u2019ve come and look forward to many more years of seeing you shine!",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.48725%",
+        "left": "13.606996466431095%",
+        "color": "#538aa9",
+        "width": "13.731236749116608%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Arun Newton",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.6015%",
+        "left": "11.769823321554771%",
+        "color": "#000000",
+        "width": "17.40420494699647%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "General Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.40825%",
+        "left": "29.153356890459364%",
+        "color": "#538aa9",
+        "width": "15.01766784452297%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.40825%",
+        "left": "46.33674911660778%",
+        "color": "#000000",
+        "width": "37.5%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.47075%",
+        "left": "32.28798586572438%",
+        "color": "#538aa9",
+        "width": "11.884381625441698%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issue date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.47075%",
+        "left": "46.33674911660778%",
+        "color": "#000000",
+        "width": "32.23286219081272%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.1875%",
+        "left": "21.84469964664311%",
+        "color": "#000000",
+        "width": "55.77526501766784%",
+        "height": "5.044925%",
+        "fontSize": "37em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOUR COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "18.058625%",
+        "left": "11.110070671378091%",
+        "color": "#538aa9",
+        "width": "77.25%",
+        "height": "22.791519434628977%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYEE OF THE MONTH",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.111375%",
+        "left": "12.560724381625441%",
+        "width": "15.821007067137808%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-07-2023-03:02:33_EpMDAtsQJ6OPgwERt7fVp-layer101.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.111375%",
+        "left": "67.99628975265017%",
+        "width": "15.271643109540637%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-07-2023-03:02:43_oMiHaywxTf4Ydnq3xcjUT-Meryl_Streep_Signature 1.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.872125%",
+        "left": "38.56007067137809%",
+        "width": "22.34982332155477%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-07-2023-03:14:14_CT7q38_jRHeW0QbppF_qx-Group 26.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.620125%",
+        "left": "34.7643109540636%",
+        "color": "#000000",
+        "width": "31.526148409893988%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.567875%",
+        "left": "41.21307420494699%",
+        "color": "#538aa9",
+        "width": "16.75132508833922%",
+        "height": "8.361325%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "BEST\nEMPLOYEE SEP 2023",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.48725%",
+        "left": "68.50159010600707%",
+        "color": "#538aa9",
+        "width": "14.261272084805654%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Zakir Michael",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.601625%",
+        "left": "67.81272084805654%",
+        "color": "#000000",
+        "width": "15.640176678445227%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Vice President",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h5wbp2qt84f6rdambfsnnzdd-1690362170573.png",
+  "isDefault": true,
+  "createdAt": "2023-07-21T13:54:31.300Z",
+  "updatedAt": "2025-09-10T14:56:25.510Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "employee_of_the_month"
+  },
+  "id": "01h5wbp2qt84f6rdambfsnnzdd",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2897,
+  "categoryOrder": 46
+}

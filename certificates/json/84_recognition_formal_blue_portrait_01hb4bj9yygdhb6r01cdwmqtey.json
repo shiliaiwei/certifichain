@@ -1,0 +1,272 @@
+{
+  "name": "84_recognition_formal_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/24-09-2023-09:44:39_84_recognition_formal_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "50.214875000000006%",
+        "left": "16.53118374558304%",
+        "color": "#2e5678",
+        "width": "66.40825%",
+        "height": "14.045936395759718%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.620125%",
+        "left": "34.645583038869255%",
+        "color": "#ffffff",
+        "width": "31.562014134275618%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.75875%",
+        "left": "63.116961130742055%",
+        "color": "#2e5678",
+        "width": "24.679858657243813%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.233375%",
+        "left": "10.223886925795052%",
+        "color": "#2e5678",
+        "width": "27.81590106007067%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "High School Principal 16",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.75975%",
+        "left": "13.780918727915195%",
+        "color": "#2e5678",
+        "width": "16.81067137809187%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Joseph Foster",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.642625%",
+        "left": "20.695406360424027%",
+        "color": "#2e5678",
+        "width": "58.077561837455825%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For outstanding professional achievement and outstanding contribution to the School System",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.434625%",
+        "left": "27.235335689045936%",
+        "color": "#2e5678",
+        "width": "45.15229681978799%",
+        "height": "2.6543%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "We hereby present this certificate to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.653375%",
+        "left": "19.434628975265017%",
+        "color": "#2e5678",
+        "width": "60.600706713780916%",
+        "height": "8.375%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.40725%",
+        "left": "12.852112676056338%",
+        "width": "22.914310954063602%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#d2e0ec"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.606875%",
+        "left": "68.13586572438163%",
+        "color": "#2e5678",
+        "width": "14.643604240282688%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified on",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.25975%",
+        "left": "29.254063604240283%",
+        "width": "7.426007067137809%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2023-09:28:10_gWOPzklxIouz4FFLeMRJQ-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.38575%",
+        "left": "41.78922261484099%",
+        "width": "16.04185512367491%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2023-09:28:58_ZAreWRVTw0oFFt-GZbqaZ-logo.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.599625%",
+        "left": "48.69558303886926%",
+        "width": "3.464558303886926%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-09-2023-09:29:17_NIy220yVr6xx-wX9ioBAa-Frame.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.682625%",
+        "left": "47.48515901060071%",
+        "color": "#a0c0db",
+        "width": "5.0068375%",
+        "height": "4.240282685512367%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "School logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.125%",
+        "left": "12.897526501766784%",
+        "color": "#2e5678",
+        "width": "73.67491166077738%",
+        "height": "16.25%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF RECOGNITION",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "84.682625%",
+        "left": "64.17720848056537%",
+        "width": "22.914310954063602%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#d2e0ec"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hb4bj9yygdhb6r01cdwmqtey-1695804390121.png",
+  "isDefault": true,
+  "createdAt": "2023-09-24T19:44:52.192Z",
+  "updatedAt": "2025-03-19T10:59:49.939Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01hb4bj9yygdhb6r01cdwmqtey",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2828,
+  "categoryOrder": 693
+}

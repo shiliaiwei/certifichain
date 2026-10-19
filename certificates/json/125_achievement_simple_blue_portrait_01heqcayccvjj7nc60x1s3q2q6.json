@@ -1,0 +1,252 @@
+{
+  "name": "125_achievement_simple_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-11-2023-12:50:48_125_achievement_simple_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "47.391625%",
+        "left": "22.093109540636043%",
+        "color": "#163852",
+        "width": "57.22455830388693%",
+        "height": "6.636725%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.17575%",
+        "left": "12.73881625441696%",
+        "color": "#163852",
+        "width": "20.006875%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.17475%",
+        "left": "67.50424028268552%",
+        "color": "#163852",
+        "width": "23.804593639575973%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.661125%",
+        "left": "42.77137809187279%",
+        "color": "#163852",
+        "width": "14.455883392226148%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Donald Kelly",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.622075%",
+        "left": "38.11696113074205%",
+        "color": "#163852",
+        "width": "23.236042402826854%",
+        "height": "3.0527375%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.215875%",
+        "left": "16.00939929328622%",
+        "color": "#163852",
+        "width": "67.28003533568905%",
+        "height": "9.9580125%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For high KPI's, good financial performance and successful closing of two real estate \nsales transactions.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.767625%",
+        "left": "40.61872791519434%",
+        "color": "#163852",
+        "width": "18.381875%",
+        "height": "4.063604240282685%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.375%",
+        "left": "14.243321554770317%",
+        "color": "#163852",
+        "width": "70.8135%",
+        "height": "13.780918727915195%",
+        "fontSize": "90em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.173875%",
+        "left": "38.410954063604244%",
+        "color": "#163852",
+        "width": "23.175265017667844%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Real Estate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.55375%",
+        "left": "14.80786219081272%",
+        "color": "#163852",
+        "width": "15.869310954063604%",
+        "height": "2.2568375%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID: ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.661125%",
+        "left": "71.47208480565371%",
+        "color": "#163852",
+        "width": "15.869310954063604%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.5205%",
+        "left": "41.36554770318021%",
+        "width": "17.26618374558304%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-11-2023-12:41:06_eVoR66xqmzffZffmYAFNx-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.25%",
+        "left": "14.32754416961131%",
+        "color": "#163852",
+        "width": "70.8135%",
+        "height": "13.780918727915195%",
+        "fontSize": "90em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "of achievement",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01heqcayccvjj7nc60x1s3q2q6-1699444259225.png",
+  "isDefault": true,
+  "createdAt": "2023-11-08T11:50:59.215Z",
+  "updatedAt": "2025-03-19T10:59:55.495Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "achievement"
+  },
+  "id": "01heqcayccvjj7nc60x1s3q2q6",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2749,
+  "categoryOrder": 282
+}

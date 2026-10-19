@@ -1,0 +1,252 @@
+{
+  "name": "288_Worskhop_professional_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-04-2024-04:46:10_288_Worskhop_professional_green_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.54063604240283%",
+        "left": "25.482%",
+        "color": "#242524",
+        "width": "49.157875%",
+        "height": "11.66077738515901%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.79823321554771%",
+        "left": "34.310125%",
+        "color": "#242524",
+        "width": "31.00525%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.5137809187279%",
+        "left": "37.974125%",
+        "color": "#242524",
+        "width": "23.677125%",
+        "height": "4.240282685512367%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.245229681978795%",
+        "left": "43.247125%",
+        "color": "#242524",
+        "width": "13.627%",
+        "height": "4.593639575971731%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.3714664310954054%",
+        "left": "10.6152375%",
+        "color": "#242524",
+        "width": "78.0625%",
+        "height": "38.16254416961131%",
+        "fontSize": "72em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Workshop Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.16042402826855%",
+        "left": "77.123%",
+        "color": "#242524",
+        "width": "12.75%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.86077738515901%",
+        "left": "10.6152375%",
+        "color": "#242524",
+        "width": "11.909375%",
+        "height": "3.180212014134275%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "David Grant",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.8833922261484%",
+        "left": "27.9365%",
+        "color": "#242524",
+        "width": "43.752%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For participation in the business seminar ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.74628975265017%",
+        "left": "8.3032%",
+        "color": "#242524",
+        "width": "16.53325%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Seminar organizer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.74628975265017%",
+        "left": "75.2305%",
+        "color": "#242524",
+        "width": "16.53325%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.30035335689046%",
+        "left": "15.4365%",
+        "color": "#242524",
+        "width": "68.752%",
+        "height": "5.565371024734982%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "How an expert can launch his educational product",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.44116607773852%",
+        "left": "10.7959%",
+        "width": "11.548825%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-04:43:27_555bdkxM0vgoEs5pMA__o-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.60848056537102%",
+        "left": "45.75%",
+        "width": "8.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-04:43:54_V-wMvzlf6bs91KxdkzpUB-Group 391.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.44116607773852%",
+        "left": "82.165%",
+        "width": "2.6650375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-04-2024-04:45:33_TjWJZW8czulYmSXxwtP_Q-Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01htz2wqmde9mrzcdq2xq2s32f-1712587693807.png",
+  "isDefault": true,
+  "createdAt": "2024-04-08T14:48:13.711Z",
+  "updatedAt": "2025-09-10T14:56:29.788Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "webinar"
+  },
+  "id": "01htz2wqmde9mrzcdq2xq2s32f",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2392,
+  "categoryOrder": 13
+}

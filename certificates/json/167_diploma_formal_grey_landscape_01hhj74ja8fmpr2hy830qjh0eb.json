@@ -1,0 +1,252 @@
+{
+  "name": "167_diploma_formal_grey_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/13-12-2023-07:30:44_167_diploma_formal_grey_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.25106007067138%",
+        "left": "27.999124999999996%",
+        "color": "#383838",
+        "width": "43.783%",
+        "height": "14.575971731448764%",
+        "fontSize": "69em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.64982332155478%",
+        "left": "9.258675%",
+        "color": "#383838",
+        "width": "24.50525%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.23268551236748%",
+        "left": "68.662375%",
+        "color": "#383838",
+        "width": "22.802125%",
+        "height": "4.240282685512367%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.16325088339222%",
+        "left": "14.39925%",
+        "color": "#383838",
+        "width": "14.286499999999998%",
+        "height": "8.480565371024735%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Matthew Lynch",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.37526501766785%",
+        "left": "22.602375%",
+        "color": "#383838",
+        "width": "54.335125%",
+        "height": "4.593639575971731%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully graduated from high school with honors.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.51484098939929%",
+        "left": "39.120625%",
+        "color": "#383838",
+        "width": "21.38025%",
+        "height": "4.240282685512367%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.6447703180212%",
+        "left": "8.1076375%",
+        "color": "#383838",
+        "width": "83.4375%",
+        "height": "11.130742049469964%",
+        "fontSize": "57em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "HIGH SCHOOL DIPLOMA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.98886925795053%",
+        "left": "13.008625000000002%",
+        "color": "#383838",
+        "width": "17.0365%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "High school principal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.98886925795053%",
+        "left": "71.74825%",
+        "color": "#383838",
+        "width": "16.6615%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Assistand Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.21060070671378%",
+        "left": "40.872375%",
+        "color": "#383838",
+        "width": "18.0365%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.11908127208481%",
+        "left": "72.951375%",
+        "color": "#383838",
+        "width": "14.286499999999998%",
+        "height": "8.480565371024735%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "James Holland",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.63233215547703%",
+        "left": "44.405375%",
+        "width": "11%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-12-2023-07:30:00_I9FhKfnGmrshb2-F_vbtD-Group 18752.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.73392226148411%",
+        "left": "46.423625%",
+        "color": "#e9e9e9",
+        "width": "6.6614625%",
+        "height": "5.30035335689046%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhj74ja8fmpr2hy830qjh0eb-1702492359291.png",
+  "isDefault": true,
+  "createdAt": "2023-12-13T18:31:00.682Z",
+  "updatedAt": "2025-03-19T10:59:59.501Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "formal",
+    "category": "completion"
+  },
+  "id": "01hhj74ja8fmpr2hy830qjh0eb",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2636,
+  "categoryOrder": 890
+}

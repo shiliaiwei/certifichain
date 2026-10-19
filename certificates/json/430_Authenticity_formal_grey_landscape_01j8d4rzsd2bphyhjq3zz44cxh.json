@@ -1,0 +1,289 @@
+{
+  "name": "430_Authenticity_formal_grey_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-09-2024-04:13:27_430_Authenticity_formal_grey_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "30.08849557522124%",
+        "left": "45.75%",
+        "color": "#252321",
+        "width": "30.375000000000004%",
+        "height": "auto",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.23008849557522%",
+        "left": "37.75%",
+        "color": "#252321",
+        "width": "22.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.90265486725663%",
+        "left": "37.75%",
+        "color": "#252321",
+        "width": "22.17475%",
+        "height": "4.5053003533568905%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.69911504424778%",
+        "left": "10.625%",
+        "color": "#252321",
+        "width": "82.377%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate officially attests to the authenticity of the painting described in detail below, thoroughly verifying \nand confirming it as an original and unique work of art created by the listed artist. It serves as a formal \nacknowledgment that this piece is a genuine expression of the artist\u2019s vision and craftsmanship, produced with the materials and techniques specified.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.38053097345133%",
+        "left": "10.625%",
+        "color": "#252321",
+        "width": "18.002%",
+        "height": "3.9752650176678443%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Barbara Scott",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.415929203539825%",
+        "left": "45.75%",
+        "color": "#252321",
+        "width": "14.124999999999998%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MEDIUM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.84070796460177%",
+        "left": "10.5%",
+        "color": "#252321",
+        "width": "86.5%",
+        "height": "auto",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AUTHENTICITY CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.4070796460177%",
+        "left": "45.748000000000005%",
+        "color": "#252321",
+        "width": "19.002%",
+        "height": "4.5053003533568905%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ARTIST",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.54867256637168%",
+        "left": "45.625%",
+        "color": "#252321",
+        "width": "14.000000000000002%",
+        "height": "auto",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OWNER",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.14159292035399%",
+        "left": "10.625%",
+        "width": "14.000000000000002%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#252321"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "21.432566371681414%",
+        "left": "10.5%",
+        "width": "30.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-04:08:10_image 78.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.90762831858407%",
+        "left": "10.625%",
+        "width": "14.000000000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-04:08:29_Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.76991150442477%",
+        "left": "81.375%",
+        "width": "8.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-04:09:14_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "79.36283185840708%",
+        "left": "66.375%",
+        "width": "11.375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-09-2024-04:09:44_Group 19491.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.415929203539825%",
+        "left": "61%",
+        "color": "#252321",
+        "width": "14.124999999999998%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Acrylic on Canvas",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.76106194690265%",
+        "left": "61.12499999999999%",
+        "color": "#252321",
+        "width": "14.124999999999998%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Isabella Moore",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.1858407079646%",
+        "left": "61.18749999999999%",
+        "color": "#252321",
+        "width": "14.124999999999998%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Benjamin Carter",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j8d4rzsd2bphyhjq3zz44cxh-1727018640727.png",
+  "isDefault": true,
+  "createdAt": "2024-09-22T15:14:33.903Z",
+  "updatedAt": "2025-03-19T11:00:27.335Z",
+  "metadata": {
+    "lang": "en",
+    "color": "grey",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j8d4rzsd2bphyhjq3zz44cxh",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2105,
+  "categoryOrder": 602
+}

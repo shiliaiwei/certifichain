@@ -1,0 +1,270 @@
+{
+  "name": "349_Graduation_professional_grey_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-06-2024-12:58:36_349_Graduation_professional_grey_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.30075%",
+        "left": "11.336342756183747%",
+        "color": "#292626",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.72075%",
+        "left": "37.08180212014135%",
+        "color": "#292626",
+        "width": "24.56113074204947%",
+        "height": "1.4599625%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.22075%",
+        "left": "34.990636042402826%",
+        "color": "#292626",
+        "width": "28.572261484098938%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.72075%",
+        "left": "14.214363957597174%",
+        "color": "#292626",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ROBIN OLIVER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.158249999999995%",
+        "left": "19.32208480565371%",
+        "color": "#292626",
+        "width": "58.490282685512376%",
+        "height": "2.5224625%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Indiana State University  |  Faculty of Journalism",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.142625%",
+        "left": "32.45777385159011%",
+        "color": "#292626",
+        "width": "31.106360424028274%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.31450000000001%",
+        "left": "9.793233215547703%",
+        "color": "#292626",
+        "width": "81.310777385159%",
+        "height": "10.08985%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successful graduation from the University with a degree in Journalism.\n In recognition of outstanding achievements in the field\n of journalism, professionalism and dedication \nto freedom of expression.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.574225%",
+        "left": "7.853904593639576%",
+        "color": "#292626",
+        "width": "81.432625%",
+        "height": "27.56183745583039%",
+        "fontSize": "71em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "GRADUATION ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.72075%",
+        "left": "70.21660777385159%",
+        "color": "#292626",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TAMMY BROWN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.0215%",
+        "left": "12.272243816254417%",
+        "color": "#292626",
+        "width": "19.25388692579505%",
+        "height": "2.2568375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.0215%",
+        "left": "66.59399293286221%",
+        "color": "#292626",
+        "width": "22.61077738515901%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.918%",
+        "left": "71.27879858657244%",
+        "width": "13.243975265017665%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-12:40:20_hL2RdrjgUvzm8N9Re5hYg-Vector 222.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.328625%",
+        "left": "16.531855123674912%",
+        "width": "10.731837455830389%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-12:40:39_XjB7jN2_iHHssi63A2Iyu-Vector 221.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.875%",
+        "left": "7.852526501766785%",
+        "color": "#292626",
+        "width": "81.432625%",
+        "height": "27.56183745583039%",
+        "fontSize": "71em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.542%",
+        "left": "38.293639575971724%",
+        "width": "20.551236749116605%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-12:58:04_WN-II4LqsmlNOlmm0Ick1-Frame.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0x760z8kkybhk4e2mnz326c-1718967534579.png",
+  "isDefault": true,
+  "createdAt": "2024-06-21T10:58:54.570Z",
+  "updatedAt": "2025-03-19T11:00:19.087Z",
+  "metadata": {
+    "lang": "en",
+    "color": "grey",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0x760z8kkybhk4e2mnz326c",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2268,
+  "categoryOrder": 194
+}

@@ -1,0 +1,392 @@
+{
+  "name": "30_course_simple_green_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-08-22-9:43:20_Training Certificate SIMPLE 4 background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.307746478873234%",
+        "left": "25.937500000000004%",
+        "color": "#0c4f2a",
+        "width": "53.625%",
+        "height": "14.715388692579506%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Satisfy, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.087809187279152%",
+        "left": "26.0625%",
+        "color": "#0f733c",
+        "width": "64.90825%",
+        "height": "13.957597173144876%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Training Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.19102112676056%",
+        "left": "25.687500000000004%",
+        "color": "#0c4f2a",
+        "width": "18.5%",
+        "height": "8.657243816254418%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Satisfy, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Blunt",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.662014134275616%",
+        "left": "25.937500000000004%",
+        "color": "#05391d",
+        "width": "50.875%",
+        "height": "5.274134275618375%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successfully completing the course of",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.95406360424029%",
+        "left": "1.7500000000000002%",
+        "color": "#ffffff",
+        "width": "13.25%",
+        "height": "3.53356890459364%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.78816254416961%",
+        "left": "25.937500000000004%",
+        "color": "#0c4f2a",
+        "width": "4.125%",
+        "height": "3.3306713780918726%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.678798586572434%",
+        "left": "25.937500000000004%",
+        "color": "#ffffff",
+        "width": "54.403375%",
+        "height": "11.130742049469964%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Team Leadership and Management Skills",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.78939929328622%",
+        "left": "60.875%",
+        "color": "#0c4f2a",
+        "width": "11%",
+        "height": "2.4734982332155475%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issued By:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.66431095406361%",
+        "left": "2.1875%",
+        "color": "#ffffff",
+        "width": "12.375%",
+        "height": "3.53356890459364%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.737809187279154%",
+        "left": "25.937500000000004%",
+        "color": "#05391d",
+        "width": "30.75%",
+        "height": "5.274134275618375%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "It is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.11768551236749%",
+        "left": "2.4375%",
+        "color": "#ffffff",
+        "width": "11.875%",
+        "height": "3.356890459363958%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.25653710247349%",
+        "left": "25.624999999999996%",
+        "color": "#05391d",
+        "width": "14.625%",
+        "height": "6.713780918727916%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "John Blunt",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.25653710247349%",
+        "left": "60.875%",
+        "color": "#05391d",
+        "width": "14.625%",
+        "height": "6.713780918727916%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Margaret Colbert",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.9148409893993%",
+        "left": "60.875%",
+        "color": "#05391d",
+        "width": "14.625%",
+        "height": "6.713780918727916%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified Instructor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.91625441696112%",
+        "left": "25.624999999999996%",
+        "color": "#05391d",
+        "width": "9.875%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.19102112676056%",
+        "left": "60.875%",
+        "color": "#0c4f2a",
+        "width": "13.750000000000002%",
+        "height": "8.606166077738516%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Satisfy, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Colbert",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "49.11660777385159%",
+        "left": "25.937500000000004%",
+        "width": "66.625%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#05391d"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "77.73851590106007%",
+        "left": "25.937500000000004%",
+        "width": "18.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#05391d"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "77.73851590106007%",
+        "left": "60.875%",
+        "width": "18.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#05391d"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "89.39929328621908%",
+        "left": "25.624999999999996%",
+        "width": "18.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#05391d"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "89.39929328621908%",
+        "left": "60.875%",
+        "width": "18.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#05391d"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.78816254416961%",
+        "left": "30.1875%",
+        "color": "#0c4f2a",
+        "width": "17%",
+        "height": "3.3306713780918726%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.243816254416961%",
+        "left": "5.1401375%",
+        "width": "6.468749999999999%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-08-22-9:43:31_Logo.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01gam3a8g8fy8xd1cqphs2jd5s-1675266366508.png",
+  "isDefault": true,
+  "createdAt": "2022-08-16T19:50:30.664Z",
+  "updatedAt": "2025-03-19T10:59:41.032Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "course"
+  },
+  "id": "01gam3a8g8fy8xd1cqphs2jd5s",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2988,
+  "categoryOrder": 123
+}

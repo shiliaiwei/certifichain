@@ -1,0 +1,316 @@
+{
+  "name": "263_Appreciation_professional_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-03-2024-01:52:59_263_Appreciation_professional_brown_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "41.168904593639574%",
+        "left": "10.465825%",
+        "color": "#56310f",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.64416961130743%",
+        "left": "12.4863375%",
+        "color": "#9f9993",
+        "width": "18.690375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.24028268551237%",
+        "left": "48.819375%",
+        "color": "#171717",
+        "width": "18.381875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.24028268551237%",
+        "left": "32.36725%",
+        "color": "#171717",
+        "width": "18.67875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.24028268551237%",
+        "left": "13.7725%",
+        "color": "#171717",
+        "width": "16.11725%",
+        "height": "3.180212014134275%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CRYSTAL GARCIA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.15150176678445%",
+        "left": "44.526375%",
+        "color": "#56310f",
+        "width": "13.913125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.812014134275614%",
+        "left": "38.96825%",
+        "color": "#171717",
+        "width": "21.6885%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.09770318021201%",
+        "left": "28.767499999999995%",
+        "color": "#171717",
+        "width": "43.961%",
+        "height": "8.8339222614841%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For the successful organization of the HR-Forum business conference. And the report on \"HR-Forum. Labor market trends-2024\".",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.377738515901058%",
+        "left": "38.099125%",
+        "color": "#171717",
+        "width": "23.267625%",
+        "height": "4.770318021201414%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OF APPRECIATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.64416961130743%",
+        "left": "50.81099999999999%",
+        "color": "#9f9993",
+        "width": "14.131875000000003%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.391784452296818%",
+        "left": "30.891124999999995%",
+        "color": "#56310f",
+        "width": "37.682625%",
+        "height": "16.696113074204945%",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "57.58056537102474%",
+        "left": "19.23825%",
+        "width": "61.3985%",
+        "height": "0.125%",
+        "backgroundColor": "#dbcfc4"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.24028268551237%",
+        "left": "70.138625%",
+        "color": "#171717",
+        "width": "16.24225%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MARELINE JOHNSON",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.86219081272085%",
+        "left": "73.849625%",
+        "color": "#9f9993",
+        "width": "8.8183625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.64416961130743%",
+        "left": "35.765625%",
+        "color": "#9f9993",
+        "width": "11.8818375%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded on",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.92526501766784%",
+        "left": "17.73725%",
+        "width": "8.9082%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-03-2024-01:56:06_CZ0LdT1MJDVDCzoMF-j7b-Vector 221.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.00123674911661%",
+        "left": "73.590875%",
+        "width": "9.3349625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-03-2024-01:56:26_v2MAt-y8bVS5ZEHojUlA2-Vector 222.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "13.063162544169613%",
+        "left": "41.769%",
+        "width": "2.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-03-2024-01:57:07_jQNYOw5q6_ks2bhm_1F-K-Group 499.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hr9xwkk9b01182g8xk90e4fs-1709730319986.png",
+  "isDefault": true,
+  "createdAt": "2024-03-06T13:05:19.979Z",
+  "updatedAt": "2025-03-19T11:00:08.862Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "appreciation"
+  },
+  "id": "01hr9xwkk9b01182g8xk90e4fs",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2471,
+  "categoryOrder": 124
+}

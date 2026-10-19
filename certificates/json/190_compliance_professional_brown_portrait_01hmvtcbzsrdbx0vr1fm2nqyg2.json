@@ -1,0 +1,324 @@
+{
+  "name": "190_compliance_professional_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/23-01-2024-07:47:36_190_compliance_professional_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.940625%",
+        "left": "15.036484098939928%",
+        "color": "#3f3a36",
+        "width": "68.60865724381625%",
+        "height": "8.3625%",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.3984375%",
+        "left": "70.70901060070672%",
+        "color": "#94755b",
+        "width": "25.892226148409897%",
+        "height": "1.725%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.7578125%",
+        "left": "8.64178445229682%",
+        "color": "#94755b",
+        "width": "26.02473498233216%",
+        "height": "2.390625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.4875%",
+        "left": "27.73957597173145%",
+        "color": "#94755b",
+        "width": "43.12950530035336%",
+        "height": "1.725%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to proudly certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.876625%",
+        "left": "9.942579505300353%",
+        "color": "#3f3a36",
+        "width": "78.86925795053004%",
+        "height": "7.3%",
+        "fontSize": "78em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.578125%",
+        "left": "9.907243816254416%",
+        "color": "#94755b",
+        "width": "13.588780918727913%",
+        "height": "2.390625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lily Johnston",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.862500000000004%",
+        "left": "17.60053003533569%",
+        "color": "#94755b",
+        "width": "63.33480565371025%",
+        "height": "1.725%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The quality management system complies with the requirements ISO 9001.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.9578125%",
+        "left": "8.679328621908128%",
+        "color": "#94755b",
+        "width": "13.160335689045935%",
+        "height": "1.725%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Action Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.878125%",
+        "left": "24.128798586572437%",
+        "color": "#3f3a36",
+        "width": "50.42402826855123%",
+        "height": "3.85%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF COMPLIANCE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.553125%",
+        "left": "72.87332155477031%",
+        "color": "#94755b",
+        "width": "15.472614840989399%",
+        "height": "2.390625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Madlyn Horton",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.871875%",
+        "left": "70.46166077738516%",
+        "color": "#94755b",
+        "width": "18.679328621908127%",
+        "height": "2.25625%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certification expert",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.896875%",
+        "left": "9.87190812720848%",
+        "color": "#94755b",
+        "width": "21.12190812720848%",
+        "height": "2.25625%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Head of Commission",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.9328125%",
+        "left": "76.09540636042402%",
+        "color": "#94755b",
+        "width": "15.189929328621906%",
+        "height": "2.390625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate NO:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.020375%",
+        "left": "38.191166077738515%",
+        "width": "23.158127208480565%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-07:36:20_ILpQ-BqOrx6yyMCVoNbQm-Group.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.984375%",
+        "left": "43.549116607773854%",
+        "color": "#452205",
+        "width": "12.36749116607774%",
+        "height": "4.9125%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.609375%",
+        "left": "43.49929328621908%",
+        "color": "#452205",
+        "width": "12.541961130742049%",
+        "height": "2.75%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "84.45625%",
+        "left": "75.35106007067138%",
+        "width": "14.196113074204947%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-07:39:07_XOOxzIImymll3h5ytiecD-Vector 652.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.09225%",
+        "left": "9.976819787985866%",
+        "width": "13.584363957597173%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/23-01-2024-07:39:09_k0hWOtVqskk7NKOIXRL5J-Vector 497.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hmvtcbzsrdbx0vr1fm2nqyg2-1706035654674.png",
+  "isDefault": true,
+  "createdAt": "2024-01-23T18:47:34.652Z",
+  "updatedAt": "2025-03-19T11:00:02.710Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hmvtcbzsrdbx0vr1fm2nqyg2",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2589,
+  "categoryOrder": 843
+}

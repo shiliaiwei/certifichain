@@ -1,0 +1,602 @@
+{
+  "name": "612_Stock_professional_grey_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-03-2025-01:10:23_612_stock_professional_grey_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "54.64601769911505%",
+        "left": "23.375%",
+        "color": "#000000",
+        "width": "19.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "35.39823008849557%",
+        "left": "28.875%",
+        "width": "42.375%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.902654867256636%",
+        "left": "9%",
+        "width": "32.625%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.72566371681416%",
+        "left": "58.5%",
+        "width": "32.625%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "16.283185840707965%",
+        "left": "77.125%",
+        "width": "13.875000000000002%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "16.283185840707965%",
+        "left": "8.875%",
+        "width": "13.875000000000002%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "85.6637168141593%",
+        "left": "8.875%",
+        "width": "21%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "85.6637168141593%",
+        "left": "40.75%",
+        "width": "21%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "85.6637168141593%",
+        "left": "70.125%",
+        "width": "21%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.94690265486726%",
+        "left": "44.875%",
+        "width": "12.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-03-2025-12:49:22_vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.353982300884958%",
+        "left": "25%",
+        "color": "#000",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "36em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "STOCK CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.63716814159292%",
+        "left": "9.25%",
+        "color": "#000",
+        "width": "13.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Number",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.867256637168142%",
+        "left": "43.25%",
+        "color": "#000",
+        "width": "13.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company Logo here",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.63716814159292%",
+        "left": "77.625%",
+        "color": "#000",
+        "width": "13.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Number of Shares",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.92920353982301%",
+        "left": "43.375%",
+        "color": "#000",
+        "width": "13.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Corporate Name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.61061946902655%",
+        "left": "18.75%",
+        "color": "#000",
+        "width": "13.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Incorporated in",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.61061946902655%",
+        "left": "68.25%",
+        "color": "#000",
+        "width": "13.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Contact Information",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.01769911504424%",
+        "left": "42.75%",
+        "color": "#000",
+        "width": "17%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Signature of Sherholder",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.04424778761062%",
+        "left": "72.133625%",
+        "color": "#000",
+        "width": "17%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of Transfer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.85840707964603%",
+        "left": "10.858624999999996%",
+        "color": "#000",
+        "width": "17%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Name of Sherholder",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.47787610619469%",
+        "left": "12.75%",
+        "color": "#000",
+        "width": "13.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Daniel R. Lawson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.47787610619469%",
+        "left": "73.875%",
+        "color": "#000",
+        "width": "13.25%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "April 10,2025",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.920353982300886%",
+        "left": "75.625%",
+        "color": "#000",
+        "width": "17%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "250 (Two Hundred Fifty)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.53982300884956%",
+        "left": "16.75%",
+        "color": "#000",
+        "width": "17%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "State of New York",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.23893805309734%",
+        "left": "66.625%",
+        "color": "#000",
+        "width": "17%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Phone: +1 (646) 555-9087",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.716814159292035%",
+        "left": "62.375%",
+        "color": "#000",
+        "width": "25.5%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Email: transfers@everestfinancial.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.38938053097345%",
+        "left": "37.125%",
+        "color": "#000",
+        "width": "25.5%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Everest Financial Group Inc.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.39823008849557%",
+        "left": "9%",
+        "color": "#000",
+        "width": "82.125%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certifies that _______________________________ is the owner of _____________________________________ shares of the total",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.008849557522126%",
+        "left": "9.067187500000003%",
+        "color": "#000",
+        "width": "82.125%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "authorized amount of _____________________________________, at a par value of __________________________________ per share.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.13274336283186%",
+        "left": "9.125%",
+        "color": "#000",
+        "width": "82.125%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "These shares are non-assessable, fully paid shares of the above-named corporation.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.0353982300885%",
+        "left": "9.25%",
+        "color": "#000",
+        "width": "82.125%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "appointed attorney or officer, and recorded in the corporate books.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.5575221238938%",
+        "left": "9.192187500000003%",
+        "color": "#000",
+        "width": "82.125%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The transfer of these shares must be made in accordance with the corporation\u2019s bylaws, duly authorized by an",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.94690265486725%",
+        "left": "60.5%",
+        "color": "#000",
+        "width": "20.875%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "$1.00 (One Dollar) per share.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.94690265486725%",
+        "left": "27%",
+        "color": "#000",
+        "width": "20.875%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "10,000,000 (Ten Million) shares",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.51327433628319%",
+        "left": "53.87499999999999%",
+        "color": "#000",
+        "width": "20.875%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "250 (Two Hundred Fifty)",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.920353982300886%",
+        "left": "8.875%",
+        "color": "#000",
+        "width": "13.625000000000002%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jp6by277rz6gjcfbwdr1hapq-1742127030409.png",
+  "isDefault": true,
+  "createdAt": "2025-03-12T23:44:44.777Z",
+  "updatedAt": "2025-03-20T08:12:07.828Z",
+  "metadata": {
+    "lang": "en",
+    "color": "grey",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01jp6by277rz6gjcfbwdr1hapq",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1741,
+  "categoryOrder": 526
+}

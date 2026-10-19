@@ -1,0 +1,444 @@
+{
+  "name": "1118_WorkExperience_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-01-2026-10:02:05_1118_workexperience_professional_blue_landscape-2.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "36.637168141592916%",
+        "left": "24.375%",
+        "color": "#eef7ff",
+        "width": "51%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "vertical-line",
+      "style": {
+        "top": "6.541001%",
+        "left": "40.75%",
+        "width": "0.125%",
+        "height": "7.256637168141593%",
+        "backgroundColor": "#f2cb82"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "48.321349557522126%",
+        "left": "23.125%",
+        "width": "53.5%",
+        "height": "0.35335689045936397%",
+        "backgroundColor": "#f2cb82"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.637256%",
+        "left": "10.5625%",
+        "color": "#eef7ff",
+        "width": "78.875%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "JOB EXPERIENCE CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.046725%",
+        "left": "30.125%",
+        "color": "#f4f9fe",
+        "width": "40%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.116664%",
+        "left": "21.25%",
+        "color": "#f4f9fe",
+        "width": "57.99999999999999%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Was employed by Sterling & Associates Legal Partners as Senior Paralegal in the \nCorporate Law Department from January 15, 2021 to November 30, 2025.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.8884%",
+        "left": "15.625%",
+        "color": "#96a3af",
+        "width": "69.75%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[ Recipient\u2019s Name ] consistently delivered high-quality work, met demanding deadlines, and \nmaintained strict confidentiality standards. Her professional competence, reliability, and dedication \nto legal excellence made her a valued member of our corporate law team.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.398273%",
+        "left": "8.5%",
+        "color": "#96a3af",
+        "width": "11.25%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Employee ID",
+      "autoScale": false
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "71.183942%",
+        "left": "43.125%",
+        "width": "5.5%",
+        "height": "7.787610619469026%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 52 62\"><path stroke=\"white\" stroke-linecap=\"round\" d=\"M0.532138 56.2039C0.432554 56.2039 0.332969 56.2039 3.97588 53.1061C7.61878 50.0083 15.0072 43.8128 20.6825 38.074C26.3578 32.3353 30.096 27.2411 32.7514 23.3261C35.4068 19.4111 36.8661 16.8296 38.234 13.5126C41.1851 6.3565 42.1037 1.59089 41.7666 0.778424C41.5996 0.375898 40.7554 0.502186 39.9622 0.592469C39.169 0.682752 38.2771 0.863315 35.3018 3.26402C32.3265 5.66472 27.2947 10.2801 22.8931 15.1397C18.4915 19.9992 14.8725 24.9631 12.4947 28.538C8.86009 34.0024 6.59206 40.1912 4.20429 47.1319C2.54362 51.9591 2.41738 56.2846 2.70984 59.73C2.81398 60.9568 3.58723 61.0004 4.33395 60.9933C5.97431 60.9777 8.40873 59.4027 11.8461 55.539C20.6096 45.6885 21.02 40.3286 21.3265 39.1721C21.7672 37.5085 19.691 42.5959 19.5774 43.525C19.5188 44.0044 19.5388 44.5082 20.1273 44.7666C23.6698 46.3226 27.9134 43.6884 31.2981 41.7805C32.0032 41.3831 32.6618 41.2097 33.0345 41.401C33.8469 41.8181 33.7004 43.3045 34.8326 44.0589C35.7035 44.6392 37.7552 44.3155 38.7969 44.8257C42.0893 46.4383 39.5309 50.9274 39.9576 51.8103C40.6092 51.8731 42.144 51.1536 44.1034 49.8886C46.0628 48.6235 48.4003 46.8348 50.8086 44.992\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "71.15044247787611%",
+        "left": "65.875%",
+        "width": "5.375%",
+        "height": "9.380530973451327%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 56 79\"><path stroke=\"white\" stroke-linecap=\"round\" d=\"M27.4297 41.414C27.4297 41.3473 27.533 40.6387 31.5066 34.385C35.149 28.6526 43.0111 18.3413 47.416 12.5549C52.5522 5.80787 54.4614 3.94893 55.3829 1.89315C55.7368 1.10364 55.2323 0.614804 54.6218 0.536126C49.8419 -0.0798664 45.1232 7.30216 40.5582 14.3229C36.9741 19.8351 31.5046 29.7425 26.5196 39.6593C21.5347 49.5762 17.376 59.314 14.8708 64.9377C10.7871 74.1044 6.61331 76.9633 3.91468 78.2177C2.9553 78.6636 1.81044 78.5225 0.907708 78.2002C0.451805 78.0375 0.377573 77.2333 0.688449 76.3649C0.999325 75.4965 1.79399 74.4238 6.94472 70.4879C12.0954 66.552 21.5782 59.7854 26.6517 55.9625C31.7252 52.1396 32.1022 51.4654 32.3906 50.781C32.9497 49.4544 33.0618 47.6953 32.6457 45.7827C31.6733 41.3132 23.4459 41.7666 12.4605 41.7431C6.98455 41.7314 3.34475 47.1114 1.312 50.7223C0.884148 51.4824 0.759793 52.1968 0.720332 52.8324C0.680871 53.468 0.815502 54.0459 2.05932 54.3436C5.56621 55.1829 11.2189 53.9167 18.8471 51.6537C29.3056 48.551 36.7771 44.8946 39.6038 44.4506C40.5865 44.2962 40.6964 45.09 40.7474 45.8116C40.9771 49.0636 39.3543 51.7966 39.265 53.7036C39.225 54.5573 39.7543 55.16 41.3853 55.4729C45.8755 55.7859 49.648 55.5769 51.2352 55.2602C51.9957 55.1525 52.6651 55.1525 53.3548 55.1525\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "72.058138%",
+        "left": "10.25%",
+        "width": "4.375%",
+        "height": "6.1946902654867255%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 47 48\"><path fill=\"#96A3AF\" d=\"M14.3584 0H13.0529V1.31187H14.3584V0Z\"/><path fill=\"#96A3AF\" d=\"M20.8866 0H19.5811V1.31187H20.8866V0Z\"/><path fill=\"#96A3AF\" d=\"M30.024 0H28.7185V1.31187H30.024V0Z\"/><path fill=\"#96A3AF\" d=\"M18.2731 2.62325V1.31138H16.9676V0H15.6621V1.31138V2.62325V3.93513H16.9676V2.62325H18.2731Z\"/><path fill=\"#96A3AF\" d=\"M31.3304 1.31073H30.0248V2.6226H31.3304V1.31073Z\"/><path fill=\"#96A3AF\" d=\"M33.9439 3.93447V5.24635H35.2494V3.93447V2.6226V1.31073H33.9439V2.6226V3.93447Z\"/><path fill=\"#96A3AF\" d=\"M13.0521 3.93547V2.6236H11.7466V3.93547V5.24734H13.0521V3.93547Z\"/><path fill=\"#96A3AF\" d=\"M33.9431 0H32.6376V1.31187H33.9431V0Z\"/><path fill=\"#96A3AF\" d=\"M31.3312 5.24746H32.6367V3.93559V2.62372H31.3312V3.93559V5.24746Z\"/><path fill=\"#96A3AF\" d=\"M15.6683 5.24725H14.3628V6.55912H15.6683V5.24725Z\"/><path fill=\"#96A3AF\" d=\"M20.8866 5.24725H19.5811V6.55912H20.8866V5.24725Z\"/><path fill=\"#96A3AF\" d=\"M14.3584 6.55878H13.0529V7.87065H14.3584V6.55878Z\"/><path fill=\"#96A3AF\" d=\"M26.1085 6.55878H24.803V7.87065H26.1085V6.55878Z\"/><path fill=\"#96A3AF\" d=\"M13.0521 7.87085H11.7466V9.18272H13.0521V7.87085Z\"/><path fill=\"#96A3AF\" d=\"M27.4219 7.87085H26.1164V9.18272H27.4219V7.87085Z\"/><path fill=\"#96A3AF\" d=\"M16.9676 9.18203V7.87065V6.55878H15.6621V7.87065V9.18203V10.4939H16.9676V9.18203Z\"/><path fill=\"#96A3AF\" d=\"M19.5803 9.18203V7.87065V6.55878H18.2748V7.87065V9.18203V10.4939H19.5803V9.18203Z\"/><path fill=\"#96A3AF\" d=\"M26.1085 9.18274H24.803V10.4946V11.8065H26.1085V10.4946V9.18274Z\"/><path fill=\"#96A3AF\" d=\"M10.4394 11.8049H9.13385V13.1167H10.4394V11.8049Z\"/><path fill=\"#96A3AF\" d=\"M26.1164 13.1167V14.4286H27.4219V13.1167V11.8049H26.1164V13.1167Z\"/><path fill=\"#96A3AF\" d=\"M36.5541 11.8058H35.2486V10.4939H33.9431V11.8058H32.6376V13.1176H33.9431V14.4295H35.2486H36.5541V13.1176V11.8058Z\"/><path fill=\"#96A3AF\" d=\"M1.30551 13.1179H0V14.4297H1.30551V13.1179Z\"/><path fill=\"#96A3AF\" d=\"M6.52738 13.1167V11.8049H5.22187V13.1167V14.4286H6.52738V13.1167Z\"/><path fill=\"#96A3AF\" d=\"M32.6367 13.1179H31.3312V14.4297H32.6367V13.1179Z\"/><path fill=\"#96A3AF\" d=\"M39.1649 13.1179H37.8594V14.4297H39.1649V13.1179Z\"/><path fill=\"#96A3AF\" d=\"M5.22238 15.7405V14.4286H3.91687V13.1167V11.8049H2.61137H1.30635V13.1167H2.61137V14.4286V15.7405H3.91687H5.22238Z\"/><path fill=\"#96A3AF\" d=\"M30.024 14.4301H28.7185V15.7419H30.024V14.4301Z\"/><path fill=\"#96A3AF\" d=\"M43.0831 15.7405V14.4286V13.1167V11.8049H41.7776V13.1167H40.4721V14.4286V15.7405V17.0524H41.7776V15.7405H43.0831Z\"/><path fill=\"#96A3AF\" d=\"M2.61186 15.741H1.30635V17.0529H2.61186V15.741Z\"/><path fill=\"#96A3AF\" d=\"M35.2494 6.55878H33.9439V7.87065H35.2494V6.55878Z\"/><path fill=\"#96A3AF\" d=\"M33.9431 7.87085H32.6376V9.18272H33.9431V7.87085Z\"/><path fill=\"#96A3AF\" d=\"M6.52738 15.741H5.22187V17.0529H6.52738V15.741Z\"/><path fill=\"#96A3AF\" d=\"M15.6683 15.7419V14.4301H14.3628V15.7419V17.0538V18.3652H15.6683V17.0538H16.9738V15.7419H15.6683Z\"/><path fill=\"#96A3AF\" d=\"M37.8542 17.0538V15.7419V14.4301H36.5487V15.7419H35.2432V17.0538H36.5487H37.8542Z\"/><path fill=\"#96A3AF\" d=\"M3.91821 17.0529H2.6127V18.3648H3.91821V17.0529Z\"/><path fill=\"#96A3AF\" d=\"M7.83372 18.3652V19.6771H9.13922H10.4442H11.7497H13.0553V18.3652V17.0538H11.7497V18.3652H10.4442H9.13922V17.0538H10.4442V15.7419V14.4301H9.13922H7.83372V15.7419V17.0538H6.52821V18.3652H7.83372Z\"/><path fill=\"#96A3AF\" d=\"M33.9422 18.3643H35.2477V17.0529H33.9422H32.6367V18.3643V19.6762H31.3312V20.988V22.2999H32.6367V20.988H33.9422V19.6762V18.3643Z\"/><path fill=\"#96A3AF\" d=\"M39.1601 18.3655H37.855H36.5495V19.6774H37.855H39.1601V20.9893H40.4656H41.7711V19.6774V18.3655H40.4656H39.1601Z\"/><path fill=\"#96A3AF\" d=\"M1.30551 19.6774V18.3655H0V19.6774V20.9893H1.30551V19.6774Z\"/><path fill=\"#96A3AF\" d=\"M15.6683 19.6761H14.3628V20.988H15.6683V19.6761Z\"/><path fill=\"#96A3AF\" d=\"M23.4966 19.6762V20.988H24.8021H26.1076H27.4132V19.6762V18.3643H28.7187H30.0237H31.3292V17.0529V15.741H30.0237V17.0529H28.7187H27.4132V15.741H26.1076V17.0529V18.3643H24.8021V19.6762H23.4966Z\"/><path fill=\"#96A3AF\" d=\"M35.2494 20.988H33.9439V22.2998V23.6117H35.2494V22.2998H36.5549V20.988V19.6761H35.2494V20.988Z\"/><path fill=\"#96A3AF\" d=\"M14.3576 22.3002V20.9883H13.0521H11.7466V22.3002H13.0521H14.3576Z\"/><path fill=\"#96A3AF\" d=\"M16.9686 22.2997V23.6116H18.2741V24.9235V26.2353V27.5472H19.5796V28.8591H20.8851H22.1906H23.4961V27.5472V26.2353H22.1906V27.5472H20.8851V26.2353H19.5796V24.9235V23.6116H20.8851H22.1906V24.9235H23.4961V26.2353H24.8016H26.1071V27.5472H27.4126V26.2353H28.7181V24.9235H27.4126V23.6116H26.1071V24.9235H24.8016V23.6116H23.4961V22.2997H22.1906H20.8851V20.9878V19.676V18.3641H22.1906V19.676H23.4961V18.3641H24.8016V17.0522V15.7403H23.4961V17.0522H22.1906V15.7403H23.4961V14.4285H24.8016V13.1166H23.4961V11.8047H22.1906V13.1166H20.8851V11.8047H22.1906V10.4929H23.4961V9.18098V7.86911V6.55724V5.24537H24.8016H26.1071H27.4126V6.55724H28.7181V7.86911H30.0236V9.18098H28.7181V10.4929H27.4126V11.8047H28.7181V13.1166H30.0236V11.8047H31.3291V10.4929V9.18098V7.86911V6.55724H30.0227V5.24537V3.93349V2.6226H28.7171V1.31073H27.4116H26.1061H24.8006V2.6226H26.1061V3.93447H24.8006H23.4951H22.1896V2.6226V1.31073H20.8841V2.6226H19.5786H18.2741V3.93447H16.9686V5.24635H18.2741H19.5796V3.93447H20.8851V5.24635H22.1906V6.55822V7.87009H20.8851V9.18196V10.4938H19.5796V11.8057H18.2741V10.4938H16.9686V11.8057H15.6631V10.4938H14.3576V11.8057H13.0521H11.7466V13.1176H13.0521H14.3576H15.6631H16.9686H18.2741V14.4295V15.7413V17.0532H16.9686V18.3651V19.6769V20.9888H15.6631V22.3007H16.9686V22.2997ZM19.5796 15.7408V14.429H20.8851V15.7408V17.0527H19.5796V15.7408ZM18.2741 18.3641H19.5796V19.676H18.2741V18.3641ZM19.5796 20.9878V22.2997H18.2741V20.9878H19.5796Z\"/><path fill=\"#96A3AF\" d=\"M28.7176 22.3002H30.0227V20.9883H28.7176H27.4121V22.3002H28.7176Z\"/><path fill=\"#96A3AF\" d=\"M1.30551 22.3002H0V23.612H1.30551V22.3002Z\"/><path fill=\"#96A3AF\" d=\"M14.3584 23.612H13.0529V24.9239H14.3584V26.2358H15.6639H16.9694V24.9239H15.6639V23.612V22.3002H14.3584V23.612Z\"/><path fill=\"#96A3AF\" d=\"M9.13922 24.9239H10.4442H11.7497V23.612V22.3002H10.4442V20.9883H9.13922H7.83372H6.52821V22.3002H7.83372V23.612H9.13922V24.9239Z\"/><path fill=\"#96A3AF\" d=\"M30.024 23.6124H28.7185V24.9242H30.024V23.6124Z\"/><path fill=\"#96A3AF\" d=\"M35.2477 23.612V24.9239H33.9422V26.2358H35.2477H36.5532V27.5477H37.8587V28.8595V30.1714V31.4833V32.7952H36.5532V34.107H35.2477V32.7952H36.5532V31.4833H35.2477H33.9422H32.6367V32.7952H33.9422V34.107H32.6367V35.4189H31.3312V36.7308V38.0426H32.6367V36.7308H33.9422V38.0426H32.6367V39.3545H33.9422V40.6664H32.6367V41.9783H33.9422V43.2901H35.2477V41.9783H36.5532V40.6664H37.8587V41.9783H36.5532V43.2901H37.8587V44.602H39.1642V45.9139H37.8587V44.602H36.5532V45.9139H35.2477V47.2258H36.5532H37.8587H39.1642H40.4697H41.7752H43.0807V45.9139H44.3863V44.602H43.0807H41.7752V45.9139H40.4697V44.602H41.7752V43.2901H40.4697H39.1642V41.9783V40.6664H40.4697V38.0426H41.7752H43.0807V36.7308H44.3863V35.4189H43.0807H41.7752V36.7308H40.4697V35.4189H41.7752V34.107H40.4697H39.1642V32.7952V31.4833V30.1714V28.8595H40.4697V30.1714V31.4833H41.7752V30.1714V28.8595H43.0807V27.5477H41.7752H40.4697H39.1642V26.2358H37.8587V24.9239H39.1642V26.2358H40.4697V24.9239H41.7752V23.612H40.4697V22.3002H39.1642H37.8587H36.5532V23.612H35.2477ZM39.1637 39.3535H35.2472V35.4179H39.1637V39.3535Z\"/><path fill=\"#96A3AF\" d=\"M32.6367 24.9242H33.9422V23.6124H32.6367H31.3312V24.9242V26.2361H32.6367V24.9242Z\"/><path fill=\"#96A3AF\" d=\"M43.084 24.9246H41.7785V26.2364H43.084V24.9246Z\"/><path fill=\"#96A3AF\" d=\"M9.14007 26.2362H7.83456V27.5481H9.14007V26.2362Z\"/><path fill=\"#96A3AF\" d=\"M31.3304 26.2362H30.0248V27.5481H31.3304V26.2362Z\"/><path fill=\"#96A3AF\" d=\"M26.1085 27.5474H24.803V28.8593H26.1085V27.5474Z\"/><path fill=\"#96A3AF\" d=\"M32.6367 28.8593H33.9422V27.5474H32.6367H31.3312V28.8593V30.1712H32.6367V28.8593Z\"/><path fill=\"#96A3AF\" d=\"M35.2494 28.8591H33.9439V30.171H35.2494V28.8591Z\"/><path fill=\"#96A3AF\" d=\"M19.5803 30.1713H18.2748V31.4831H19.5803V30.1713Z\"/><path fill=\"#96A3AF\" d=\"M22.1894 30.1713H20.8839V31.4831H22.1894V30.1713Z\"/><path fill=\"#96A3AF\" d=\"M24.8021 30.1713H23.4966V31.4831H24.8021V30.1713Z\"/><path fill=\"#96A3AF\" d=\"M20.8866 31.4828H19.5811V32.7947H20.8866V31.4828Z\"/><path fill=\"#96A3AF\" d=\"M23.4993 31.4828H22.1938V32.7947H23.4993V31.4828Z\"/><path fill=\"#96A3AF\" d=\"M6.52704 32.7956V31.4838V30.1719V28.86V27.5482H5.22153H3.91603V26.2368V24.9249H5.22153V26.2368H6.52704H7.83255V24.9249V23.613H6.52704H5.22153V22.3012V20.9893V19.6774V18.3655H3.91603V19.6774V20.9893V22.3012V23.613H2.61052H1.30551V24.9249H2.61052V26.2368H1.30551V24.9249H0V26.2368V27.5482H1.30551V28.86H0V30.1719V31.4838V32.7956V34.1075V35.4194H1.30551H2.61052H3.91603V34.1075H2.61052V32.7956H1.30551V31.4838V30.1719H2.61052H3.91603V28.86H5.22153V30.1719V31.4838V32.7956H3.91603V34.1075H5.22153H6.52704V35.4194H7.83255V34.1075H9.13805V32.7956H7.83255H6.52704Z\"/><path fill=\"#96A3AF\" d=\"M19.5836 34.1072V32.7953H18.2781V31.4834H16.9726V32.7953H15.6671V31.4834H16.9726V30.1716V28.8597V27.5478H15.6671H14.3616V28.8597H15.6671V30.1716H14.3616H13.0561H11.7506H10.4451V28.8597H11.7506H13.0561V27.5478H14.3616V26.2364H13.0561V24.9246H11.7506V26.2364V27.5478H10.4451H9.14007V28.8597V30.1716H7.83456V31.4834H9.14007V32.7953H10.4451V31.4834H11.7506V32.7953H13.0561V31.4834H14.3616V32.7953V34.1072H13.0561H11.7506V32.7953H10.4451V34.1072V35.419H11.7506H13.0561V36.7304H11.7506V38.0423H13.0561V39.3542H14.3616V38.0423V36.7304V35.419H15.6671V34.1072H16.9726V35.419H18.2781V34.1072H19.5836Z\"/><path fill=\"#96A3AF\" d=\"M27.4219 34.1069H28.7274V32.795H30.0324H31.3379V31.4831V30.1713H30.0324V31.4831H28.7274H27.4219V30.1713H26.1164V31.4831V32.795H27.4219V34.1069Z\"/><path fill=\"#96A3AF\" d=\"M32.6367 32.7949H31.3312V34.1067H32.6367V32.7949Z\"/><path fill=\"#96A3AF\" d=\"M26.1085 34.1067V32.7949H24.803V34.1067V35.4186H26.1085V34.1067Z\"/><path fill=\"#96A3AF\" d=\"M31.3304 34.1073H30.0248V35.4192H31.3304V34.1073Z\"/><path fill=\"#96A3AF\" d=\"M28.7274 36.7294H30.0324V35.418H28.7274H27.4219H26.1164V36.7294H27.4219H28.7274Z\"/><path fill=\"#96A3AF\" d=\"M16.9676 36.7292H15.6621V38.0411H16.9676H18.2731V36.7292H16.9676Z\"/><path fill=\"#96A3AF\" d=\"M37.855 36.7292H36.5495V38.0411H37.855V36.7292Z\"/><path fill=\"#96A3AF\" d=\"M19.5803 38.0419H18.2748V39.3537H19.5803V38.0419Z\"/><path fill=\"#96A3AF\" d=\"M43.084 39.3535H41.7785V40.6654H43.084V39.3535Z\"/><path fill=\"#96A3AF\" d=\"M13.0521 40.6655H11.7466V41.9774H13.0521V40.6655Z\"/><path fill=\"#96A3AF\" d=\"M18.281 40.6654V39.3535H16.9755V40.6654V41.9773V43.2891H18.281V41.9773V40.6654Z\"/><path fill=\"#96A3AF\" d=\"M31.3304 40.6655H30.0248V41.9774H31.3304V40.6655Z\"/><path fill=\"#96A3AF\" d=\"M15.6683 41.9777H14.3628V43.2896H15.6683V41.9777Z\"/><path fill=\"#96A3AF\" d=\"M20.8866 41.9777H19.5811V43.2896H20.8866V41.9777Z\"/><path fill=\"#96A3AF\" d=\"M14.3576 43.289H13.0521H11.7466V44.6009V45.9123H13.0521V44.6009H14.3576V43.289Z\"/><path fill=\"#96A3AF\" d=\"M19.5803 43.289H18.2748V44.6009H19.5803V43.289Z\"/><path fill=\"#96A3AF\" d=\"M27.4128 43.2896H28.7183V41.9777H27.4128H26.1073V43.2896V44.6015H24.8018V43.2896H23.4963V41.9777H24.8018H26.1073V40.6659H27.4128H28.7183H30.0238V39.354H28.7183H27.4128H26.1073V38.0421V36.7302H24.8018V35.4184H23.4963H22.1908V34.1065H20.8853H19.5798V35.4184H18.2748V36.7302H19.5803H20.8858V38.0421V39.354V40.6659V41.9777H22.1913V43.2896H20.8858V44.6015V45.9134H22.1913V44.6015H23.4968V45.9134H24.8023H26.1078H27.4133V44.6015L27.4128 43.2896ZM22.1908 39.354H23.4963V38.0421H22.1908V36.7302H23.4963V38.0421H24.8018V39.354V40.6659H23.4963H22.1908V39.354Z\"/><path fill=\"#96A3AF\" d=\"M16.9676 44.601H15.6621V45.9129H16.9676V44.601Z\"/><path fill=\"#96A3AF\" d=\"M15.6683 45.9121H14.3628V47.224H15.6683V45.9121Z\"/><path fill=\"#96A3AF\" d=\"M18.281 45.9121H16.9755V47.224H18.281H19.5865H20.8915V45.9121H19.5865H18.281Z\"/><path fill=\"#96A3AF\" d=\"M23.4993 45.9121H22.1938V47.224H23.4993V45.9121Z\"/><path fill=\"#96A3AF\" d=\"M44.3833 30.1713H43.0778V31.4831V32.795H44.3833V31.4831V30.1713Z\"/><path fill=\"#96A3AF\" d=\"M44.3833 26.2364H43.0778V27.5478H44.3833H45.6888V28.8597H46.9938V27.5478V26.2364V24.9246H45.6888V26.2364H44.3833Z\"/><path fill=\"#96A3AF\" d=\"M45.6888 24.9239V23.612H44.3833V22.3002H43.0778V23.612V24.9239H44.3833H45.6888Z\"/><path fill=\"#96A3AF\" d=\"M44.3895 17.0529H43.084H41.7785V18.3643H43.084V19.6762V20.988H44.3895V19.6762H45.695V18.3643H47V17.0529H45.695H44.3895Z\"/><path fill=\"#96A3AF\" d=\"M45.6896 32.7947H44.3841V34.1065H45.6896V35.4184V36.7298H46.9946V35.4184V34.1065V32.7947V31.4828H45.6896V32.7947Z\"/><path fill=\"#96A3AF\" d=\"M32.6367 41.9777H31.3312V43.2896H32.6367V41.9777Z\"/><path fill=\"#96A3AF\" d=\"M36.5487 43.289H35.2432V44.6009H36.5487V43.289Z\"/><path fill=\"#96A3AF\" d=\"M33.9392 44.6009V43.289H32.6337V44.6009H31.3282V43.289H30.0227V44.6009H28.7176V45.9123H27.4121V47.2241H28.7176H30.0227V45.9123H31.3282V47.2241H32.6337V45.9123H33.9392H35.2447V44.6009H33.9392Z\"/><path fill=\"#96A3AF\" d=\"M44.3833 40.6655H43.0778V41.9774H44.3833V40.6655Z\"/><path fill=\"#96A3AF\" d=\"M45.6896 41.9774H44.3841V43.2893H45.6896V44.6011V45.9125H46.9946V44.6011V43.2893V41.9774V40.6655H45.6896V41.9774Z\"/><path fill=\"#96A3AF\" d=\"M10.4431 0.000244141H0V10.4947H10.4436L10.4431 0.000244141ZM9.13805 9.18237H1.30551V1.31163H9.13805V9.18237Z\"/><path fill=\"#96A3AF\" d=\"M7.83472 2.6236H2.6127V7.8706H7.83472V2.6236Z\"/><path fill=\"#96A3AF\" d=\"M0 47.5011H10.4436V37.0067H0V47.5011ZM1.30551 38.3185H9.13805V46.1893H1.30551V38.3185Z\"/><path fill=\"#96A3AF\" d=\"M7.83472 39.6306H2.6127V44.8776H7.83472V39.6306Z\"/><path fill=\"#96A3AF\" d=\"M36.5495 0V10.4945H46.9931V0H36.5495ZM45.6876 9.18213H37.855V1.31138H45.6876V9.18213Z\"/><path fill=\"#96A3AF\" d=\"M44.3802 2.62372H39.1587V7.87072H44.3802V2.62372Z\"/></svg>"
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "6.526572%",
+        "left": "35.625%",
+        "width": "5.125%",
+        "height": "7.256637168141593%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 41 52\"><path fill=\"url(#paint0_linear_1_5802)\" d=\"M40.9534 0H11.6609V2.26661H40.9534V0Z\"/><path fill=\"url(#paint1_linear_1_5802)\" d=\"M40.9534 17.534H18.3947V17.5343H18.3945V37.8876L22.9274 40.671V22.067H27.4062V43.4181L31.9392 46.2013V22.067H36.4209V48.9513L40.9539 51.7317V17.5343H40.9534V17.534Z\"/><path fill=\"url(#paint2_linear_1_5802)\" d=\"M8.88772 5.08923C7.39772 5.08923 5.99559 5.45495 4.76264 6.10455C1.931 7.58826 0 10.559 0 13.9769C0 18.8877 3.98 22.8677 8.88772 22.8677C10.3202 22.8677 11.6712 22.5293 12.8677 21.9249C13.3572 21.7253 13.8105 21.4475 14.2066 21.0998C14.2156 21.0968 14.2217 21.0908 14.2307 21.0818C15.2671 20.1811 15.92 18.8516 15.92 17.3706C15.92 16.3911 15.6323 15.479 15.1374 14.7111H40.9538V12.4445H11.661V12.4954C11.4412 12.4656 11.2187 12.4445 10.9909 12.4445C8.29534 12.4445 6.10427 14.6112 6.06814 17.298C5.12837 16.4971 4.53297 15.3065 4.53297 13.9767C4.53297 11.571 6.48231 9.62192 8.88772 9.62192H16.6331H40.9544V5.08897L8.88772 5.08923Z\"/><defs><linearGradient id=\"paint0_linear_1_5802\" x1=\"5.14847\" x2=\"29.6251\" y1=\"31.9647\" y2=\"-3.70136\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#A4724F\"/><stop offset=\"1\" stop-color=\"#EFBC9C\"/></linearGradient><linearGradient id=\"paint1_linear_1_5802\" x1=\"23.0664\" x2=\"47.5431\" y1=\"44.2616\" y2=\"8.59541\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#A4724F\"/><stop offset=\"1\" stop-color=\"#EFBC9C\"/></linearGradient><linearGradient id=\"paint2_linear_1_5802\" x1=\"6.70509\" x2=\"31.182\" y1=\"33.033\" y2=\"-2.63337\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#A4724F\"/><stop offset=\"1\" stop-color=\"#EFBC9C\"/></linearGradient></defs></svg>"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.02678%",
+        "left": "30.625%",
+        "color": "#f4f9fe",
+        "width": "40%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Solicitors & Legal Consultants Tower 42, 25 Old Broad Street, \nLondon EC2N 1HQ SRA Regulated: 485729",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.346605%",
+        "left": "41.75%",
+        "color": "#f4f9fe",
+        "width": "22.625%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "STERLING & ASSOCIATES \nLegal Partners",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.418237%",
+        "left": "26.125%",
+        "color": "#96a3af",
+        "width": "11.25%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Department",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.334429%",
+        "left": "43.5%",
+        "color": "#96a3af",
+        "width": "11.25%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Total Service",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.321358%",
+        "left": "60.625%",
+        "color": "#96a3af",
+        "width": "14.625%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate Number",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.412333%",
+        "left": "79.25%",
+        "color": "#96a3af",
+        "width": "14.625%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of Issuance",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.199619%",
+        "left": "59.9375%",
+        "color": "#f4f9fe",
+        "width": "15.75%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "SALP-2025-8362",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.304433%",
+        "left": "41.1875%",
+        "color": "#f4f9fe",
+        "width": "15.75%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "4 years 10 months",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.081292%",
+        "left": "24%",
+        "color": "#f4f9fe",
+        "width": "15.75%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Corporate Law",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.07789%",
+        "left": "6.5%",
+        "color": "#f4f9fe",
+        "width": "15.75%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "SALP-PL-2021-0247",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.37733%",
+        "left": "49.0625%",
+        "color": "#f4f9fe",
+        "width": "15.75%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Robert Sterling, Esq.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.4070796460177%",
+        "left": "70.875%",
+        "color": "#f4f9fe",
+        "width": "15.75%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Catherine Morrison",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.951964%",
+        "left": "15.75%",
+        "color": "#f4f9fe",
+        "width": "25.25%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Email:\u00a0confidential.hr@sterling-associates.co.uk\nTel: +44 20 7628 9400 \nVerification Reference: SALP8362",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.551952%",
+        "left": "49.1875%",
+        "color": "#96a3af",
+        "width": "14.625%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Senior Partner",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.517978%",
+        "left": "71%",
+        "color": "#96a3af",
+        "width": "17.25%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HR & Compliance Manager",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01kfef9zk0hcve51mxc13pxa2w-1768939342676.png",
+  "isDefault": true,
+  "createdAt": "2026-01-20T19:50:02.082Z",
+  "updatedAt": "2026-01-22T15:27:14.312Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01kfef9zk0hcve51mxc13pxa2w",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 396,
+  "categoryOrder": 152
+}

@@ -1,0 +1,281 @@
+{
+  "name": "370_Scholarship_modern_orange_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-07-2024-02:06:10_370_Scholarship_modern_orange_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "30.742049469964666%",
+        "left": "23.53325%",
+        "color": "#4f4f4f",
+        "width": "56.40825%",
+        "height": "13.250883392226148%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.99416961130741%",
+        "left": "60.840875%",
+        "color": "#4f4f4f",
+        "width": "23.631875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.72915194346289%",
+        "left": "25.142624999999995%",
+        "color": "#4f4f4f",
+        "width": "29.428750000000004%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.46289752650176%",
+        "left": "23.9395%",
+        "color": "#4f4f4f",
+        "width": "60.53325%",
+        "height": "12.7208480565371%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This scholarship celebrates students in acknowledgment\nof their exceptional contributions to the community through committed volunteer efforts",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.85452296819788%",
+        "left": "23.8145%",
+        "color": "#4f4f4f",
+        "width": "55.432625%",
+        "height": "31.09540636042403%",
+        "fontSize": "39em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Scholarship Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.501766784452297%",
+        "left": "23.6895%",
+        "color": "#4f4f4f",
+        "width": "19.807625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.40459363957598%",
+        "left": "23.9395%",
+        "color": "#4f4f4f",
+        "width": "13.193375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Ethan Mitchell",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.70618374558303%",
+        "left": "64.96259351620948%",
+        "width": "16.75%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#fd8d08"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.840989399293287%",
+        "left": "23.53325%",
+        "color": "#fd8d08",
+        "width": "55.432625%",
+        "height": "31.09540636042403%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Promiran University",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.70618374558303%",
+        "left": "25%",
+        "width": "16.75%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#fd8d08"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.063074204947%",
+        "left": "64.152375%",
+        "color": "#4f4f4f",
+        "width": "13.193375%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Elowen Sinclair",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.33568904593639%",
+        "left": "64.152375%",
+        "color": "#4f4f4f",
+        "width": "17.443375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Rector of the University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.68498233215547%",
+        "left": "23.9395%",
+        "color": "#4f4f4f",
+        "width": "22.068375%",
+        "height": "5.830388692579505%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Rector of Promiran University",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.08427561837455%",
+        "left": "8.125%",
+        "width": "9.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:02:04_MPNPAtrPJNxQ_3EiZCOYl-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.191978798586573%",
+        "left": "8.875%",
+        "width": "8.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:02:25_MOUhYInl0koB6h_P2SlOa-Hope.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.40989399293287%",
+        "left": "63.9395%",
+        "width": "15.307625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:03:21_Q8O7lS2KO1Qgnpsd-ollw-Vector 64.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.38427561837456%",
+        "left": "24.63225%",
+        "width": "17.65725%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:04:02_uecdW32HrX35fsnRNlRxU-Vector 63.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2czevxc3qe92xp3rqmxmn92-1720570072107.png",
+  "isDefault": true,
+  "createdAt": "2024-07-10T00:07:28.431Z",
+  "updatedAt": "2025-03-19T11:00:21.213Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2czevxc3qe92xp3rqmxmn92",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2227,
+  "categoryOrder": 154
+}

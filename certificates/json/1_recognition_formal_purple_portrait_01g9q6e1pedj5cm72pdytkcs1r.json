@@ -1,0 +1,326 @@
+{
+  "name": "1_recognition_formal_purple_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/05-08-22-4:23:37_Formal.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "18.5%",
+        "left": "23.586572438162545%",
+        "color": "#4a314d",
+        "width": "52.29681978798587%",
+        "height": "5.5625%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "EB Garamond, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Recognition",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.93749999999999%",
+        "left": "23.32155477031802%",
+        "color": "#4a314d",
+        "width": "52.82685512367491%",
+        "height": "6%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "FOR ACHIEVEMENT AND EXCELLENCE IN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.9375%",
+        "left": "14.885865724381626%",
+        "color": "#4a314d",
+        "width": "70.40636042402826%",
+        "height": "12.0986375%",
+        "fontSize": "87em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ephesis, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.21875%",
+        "left": "62.46554770318021%",
+        "color": "#4a314d",
+        "width": "16.519434628975265%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.846625%",
+        "left": "18.414664310954066%",
+        "color": "#4a314d",
+        "width": "19.081272084805654%",
+        "height": "1.9472625000000001%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.1875%",
+        "left": "40.988692579505305%",
+        "color": "#4a314d",
+        "width": "18.19787985865724%",
+        "height": "2.375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.705125%",
+        "left": "18.021201413427562%",
+        "color": "#4a314d",
+        "width": "64.13427561837456%",
+        "height": "5.1455125%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "EB Garamond, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Marketing & Communication",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "75.5645%",
+        "left": "61.00795053003534%",
+        "width": "19.081272084805654%",
+        "height": "0.125%",
+        "backgroundColor": "#4a314d"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "75.5645%",
+        "left": "18.295936395759718%",
+        "width": "19.081272084805654%",
+        "height": "0.125%",
+        "backgroundColor": "#4a314d"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.84575%",
+        "left": "62.06802120141342%",
+        "color": "#4a314d",
+        "width": "17.314487632508836%",
+        "height": "1.667975%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.40274314214463%",
+        "left": "16.824487632508838%",
+        "color": "#4a314d",
+        "width": "22.261484098939928%",
+        "height": "5.625%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ephesis, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Kobe James",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.40274314214463%",
+        "left": "57.29770318021201%",
+        "color": "#4a314d",
+        "width": "26.148409893992934%",
+        "height": "5.5625%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ephesis, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Philip Arenas",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.752%",
+        "left": "19.386395759717313%",
+        "color": "#4a314d",
+        "width": "17.137809187279153%",
+        "height": "3.3359374999999996%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "GENERAL MANAGER\nCOMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.752%",
+        "left": "62.863074204947%",
+        "color": "#4a314d",
+        "width": "15.01766784452297%",
+        "height": "3.3359374999999996%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DIRECTOR\nCOMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.21875%",
+        "left": "19.430565371024734%",
+        "color": "#4a314d",
+        "width": "17.04946996466431%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ISSUING DATE:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.875%",
+        "left": "19.563074204946997%",
+        "color": "#4a314d",
+        "width": "16.784452296819786%",
+        "height": "2.5%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "KOBE JAMES",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.875%",
+        "left": "61.97968197879858%",
+        "color": "#4a314d",
+        "width": "16.784452296819786%",
+        "height": "2.5%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PHILIP ARENAS",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.499025%",
+        "left": "40.00865724381626%",
+        "width": "19.44982332155477%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-08-22-4:23:49_Group 211.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12392-1659709623765.png",
+  "isDefault": true,
+  "createdAt": "2022-08-05T14:27:01.966Z",
+  "updatedAt": "2025-03-19T10:59:39.237Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01g9q6e1pedj5cm72pdytkcs1r",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3024,
+  "categoryOrder": 712
+}

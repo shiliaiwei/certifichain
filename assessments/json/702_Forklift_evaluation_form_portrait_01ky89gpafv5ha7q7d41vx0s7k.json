@@ -1,0 +1,1147 @@
+{
+  "name": "702_Forklift_evaluation_form_portrait",
+  "background": {
+    "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 595 842\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><rect x=\"2.5\" y=\"2.5\" width=\"590\" height=\"837\" fill=\"#FFFDF9\"/><rect x=\"2.5\" y=\"2.5\" width=\"590\" height=\"837\" stroke=\"#1A165C\" stroke-width=\"5\"/><rect x=\"13.5\" y=\"13.5\" width=\"569\" height=\"815\" stroke=\"#FB5D04\"/><path d=\"M60 191.8H200.333\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M227.333 191.8H367.667\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M395 191.8H535.333\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M60 223.8H200.333\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M227.333 223.8H367.667\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M395 223.8H535.333\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M286.5 264.6H60V280.1H286.5V264.6Z\" fill=\"#1A165C\"/><path d=\"M252.5 293.1C255.261 293.1 257.5 290.861 257.5 288.1C257.5 285.339 255.261 283.1 252.5 283.1C249.739 283.1 247.5 285.339 247.5 288.1C247.5 290.861 249.739 293.1 252.5 293.1Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 293.1C273.261 293.1 275.5 290.861 275.5 288.1C275.5 285.339 273.261 283.1 270.5 283.1C267.739 283.1 265.5 285.339 265.5 288.1C265.5 290.861 267.739 293.1 270.5 293.1Z\" stroke=\"#DCD9EC\"/><path d=\"M252.5 306.7C255.261 306.7 257.5 304.461 257.5 301.7C257.5 298.939 255.261 296.7 252.5 296.7C249.739 296.7 247.5 298.939 247.5 301.7C247.5 304.461 249.739 306.7 252.5 306.7Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 306.7C273.261 306.7 275.5 304.461 275.5 301.7C275.5 298.939 273.261 296.7 270.5 296.7C267.739 296.7 265.5 298.939 265.5 301.7C265.5 304.461 267.739 306.7 270.5 306.7Z\" stroke=\"#DCD9EC\"/><path d=\"M286.5 310.3H60V325.8H286.5V310.3Z\" fill=\"#1A165C\"/><path d=\"M252.5 338.8C255.261 338.8 257.5 336.561 257.5 333.8C257.5 331.039 255.261 328.8 252.5 328.8C249.739 328.8 247.5 331.039 247.5 333.8C247.5 336.561 249.739 338.8 252.5 338.8Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 338.8C273.261 338.8 275.5 336.561 275.5 333.8C275.5 331.039 273.261 328.8 270.5 328.8C267.739 328.8 265.5 331.039 265.5 333.8C265.5 336.561 267.739 338.8 270.5 338.8Z\" stroke=\"#DCD9EC\"/><path d=\"M252.5 352.4C255.261 352.4 257.5 350.161 257.5 347.4C257.5 344.639 255.261 342.4 252.5 342.4C249.739 342.4 247.5 344.639 247.5 347.4C247.5 350.161 249.739 352.4 252.5 352.4Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 352.4C273.261 352.4 275.5 350.161 275.5 347.4C275.5 344.639 273.261 342.4 270.5 342.4C267.739 342.4 265.5 344.639 265.5 347.4C265.5 350.161 267.739 352.4 270.5 352.4Z\" stroke=\"#DCD9EC\"/><path d=\"M286.5 356H60V371.5H286.5V356Z\" fill=\"#1A165C\"/><path d=\"M252.5 384.5C255.261 384.5 257.5 382.261 257.5 379.5C257.5 376.739 255.261 374.5 252.5 374.5C249.739 374.5 247.5 376.739 247.5 379.5C247.5 382.261 249.739 384.5 252.5 384.5Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 384.5C273.261 384.5 275.5 382.261 275.5 379.5C275.5 376.739 273.261 374.5 270.5 374.5C267.739 374.5 265.5 376.739 265.5 379.5C265.5 382.261 267.739 384.5 270.5 384.5Z\" stroke=\"#DCD9EC\"/><path d=\"M252.5 398.1C255.261 398.1 257.5 395.861 257.5 393.1C257.5 390.339 255.261 388.1 252.5 388.1C249.739 388.1 247.5 390.339 247.5 393.1C247.5 395.861 249.739 398.1 252.5 398.1Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 398.1C273.261 398.1 275.5 395.861 275.5 393.1C275.5 390.339 273.261 388.1 270.5 388.1C267.739 388.1 265.5 390.339 265.5 393.1C265.5 395.861 267.739 398.1 270.5 398.1Z\" stroke=\"#DCD9EC\"/><path d=\"M286.5 401.7H60V417.2H286.5V401.7Z\" fill=\"#1A165C\"/><path d=\"M252.5 430.2C255.261 430.2 257.5 427.961 257.5 425.2C257.5 422.439 255.261 420.2 252.5 420.2C249.739 420.2 247.5 422.439 247.5 425.2C247.5 427.961 249.739 430.2 252.5 430.2Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 430.2C273.261 430.2 275.5 427.961 275.5 425.2C275.5 422.439 273.261 420.2 270.5 420.2C267.739 420.2 265.5 422.439 265.5 425.2C265.5 427.961 267.739 430.2 270.5 430.2Z\" stroke=\"#DCD9EC\"/><path d=\"M252.5 443.8C255.261 443.8 257.5 441.561 257.5 438.8C257.5 436.039 255.261 433.8 252.5 433.8C249.739 433.8 247.5 436.039 247.5 438.8C247.5 441.561 249.739 443.8 252.5 443.8Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 443.8C273.261 443.8 275.5 441.561 275.5 438.8C275.5 436.039 273.261 433.8 270.5 433.8C267.739 433.8 265.5 436.039 265.5 438.8C265.5 441.561 267.739 443.8 270.5 443.8Z\" stroke=\"#DCD9EC\"/><path d=\"M286.5 447.4H60V462.9H286.5V447.4Z\" fill=\"#1A165C\"/><path d=\"M252.5 475.9C255.261 475.9 257.5 473.661 257.5 470.9C257.5 468.139 255.261 465.9 252.5 465.9C249.739 465.9 247.5 468.139 247.5 470.9C247.5 473.661 249.739 475.9 252.5 475.9Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 475.9C273.261 475.9 275.5 473.661 275.5 470.9C275.5 468.139 273.261 465.9 270.5 465.9C267.739 465.9 265.5 468.139 265.5 470.9C265.5 473.661 267.739 475.9 270.5 475.9Z\" stroke=\"#DCD9EC\"/><path d=\"M252.5 489.5C255.261 489.5 257.5 487.261 257.5 484.5C257.5 481.739 255.261 479.5 252.5 479.5C249.739 479.5 247.5 481.739 247.5 484.5C247.5 487.261 249.739 489.5 252.5 489.5Z\" stroke=\"#DCD9EC\"/><path d=\"M270.5 489.5C273.261 489.5 275.5 487.261 275.5 484.5C275.5 481.739 273.261 479.5 270.5 479.5C267.739 479.5 265.5 481.739 265.5 484.5C265.5 487.261 267.739 489.5 270.5 489.5Z\" stroke=\"#DCD9EC\"/><path d=\"M535 264.6H308.5V280.1H535V264.6Z\" fill=\"#1A165C\"/><path d=\"M501 293.1C503.761 293.1 506 290.861 506 288.1C506 285.339 503.761 283.1 501 283.1C498.239 283.1 496 285.339 496 288.1C496 290.861 498.239 293.1 501 293.1Z\" stroke=\"#DCD9EC\"/><path d=\"M519 293.1C521.761 293.1 524 290.861 524 288.1C524 285.339 521.761 283.1 519 283.1C516.239 283.1 514 285.339 514 288.1C514 290.861 516.239 293.1 519 293.1Z\" stroke=\"#DCD9EC\"/><path d=\"M501 306.7C503.761 306.7 506 304.461 506 301.7C506 298.939 503.761 296.7 501 296.7C498.239 296.7 496 298.939 496 301.7C496 304.461 498.239 306.7 501 306.7Z\" stroke=\"#DCD9EC\"/><path d=\"M519 306.7C521.761 306.7 524 304.461 524 301.7C524 298.939 521.761 296.7 519 296.7C516.239 296.7 514 298.939 514 301.7C514 304.461 516.239 306.7 519 306.7Z\" stroke=\"#DCD9EC\"/><path d=\"M535 310.3H308.5V325.8H535V310.3Z\" fill=\"#1A165C\"/><path d=\"M501 338.8C503.761 338.8 506 336.561 506 333.8C506 331.039 503.761 328.8 501 328.8C498.239 328.8 496 331.039 496 333.8C496 336.561 498.239 338.8 501 338.8Z\" stroke=\"#DCD9EC\"/><path d=\"M519 338.8C521.761 338.8 524 336.561 524 333.8C524 331.039 521.761 328.8 519 328.8C516.239 328.8 514 331.039 514 333.8C514 336.561 516.239 338.8 519 338.8Z\" stroke=\"#DCD9EC\"/><path d=\"M501 352.4C503.761 352.4 506 350.161 506 347.4C506 344.639 503.761 342.4 501 342.4C498.239 342.4 496 344.639 496 347.4C496 350.161 498.239 352.4 501 352.4Z\" stroke=\"#DCD9EC\"/><path d=\"M519 352.4C521.761 352.4 524 350.161 524 347.4C524 344.639 521.761 342.4 519 342.4C516.239 342.4 514 344.639 514 347.4C514 350.161 516.239 352.4 519 352.4Z\" stroke=\"#DCD9EC\"/><path d=\"M535 356H308.5V371.5H535V356Z\" fill=\"#1A165C\"/><path d=\"M501 384.5C503.761 384.5 506 382.261 506 379.5C506 376.739 503.761 374.5 501 374.5C498.239 374.5 496 376.739 496 379.5C496 382.261 498.239 384.5 501 384.5Z\" stroke=\"#DCD9EC\"/><path d=\"M519 384.5C521.761 384.5 524 382.261 524 379.5C524 376.739 521.761 374.5 519 374.5C516.239 374.5 514 376.739 514 379.5C514 382.261 516.239 384.5 519 384.5Z\" stroke=\"#DCD9EC\"/><path d=\"M501 398.1C503.761 398.1 506 395.861 506 393.1C506 390.339 503.761 388.1 501 388.1C498.239 388.1 496 390.339 496 393.1C496 395.861 498.239 398.1 501 398.1Z\" stroke=\"#DCD9EC\"/><path d=\"M519 398.1C521.761 398.1 524 395.861 524 393.1C524 390.339 521.761 388.1 519 388.1C516.239 388.1 514 390.339 514 393.1C514 395.861 516.239 398.1 519 398.1Z\" stroke=\"#DCD9EC\"/><path d=\"M535 401.7H308.5V417.2H535V401.7Z\" fill=\"#1A165C\"/><path d=\"M501 430.2C503.761 430.2 506 427.961 506 425.2C506 422.439 503.761 420.2 501 420.2C498.239 420.2 496 422.439 496 425.2C496 427.961 498.239 430.2 501 430.2Z\" stroke=\"#DCD9EC\"/><path d=\"M519 430.2C521.761 430.2 524 427.961 524 425.2C524 422.439 521.761 420.2 519 420.2C516.239 420.2 514 422.439 514 425.2C514 427.961 516.239 430.2 519 430.2Z\" stroke=\"#DCD9EC\"/><path d=\"M501 443.8C503.761 443.8 506 441.561 506 438.8C506 436.039 503.761 433.8 501 433.8C498.239 433.8 496 436.039 496 438.8C496 441.561 498.239 443.8 501 443.8Z\" stroke=\"#DCD9EC\"/><path d=\"M519 443.8C521.761 443.8 524 441.561 524 438.8C524 436.039 521.761 433.8 519 433.8C516.239 433.8 514 436.039 514 438.8C514 441.561 516.239 443.8 519 443.8Z\" stroke=\"#DCD9EC\"/><path d=\"M535 447.4H308.5V462.9H535V447.4Z\" fill=\"#1A165C\"/><path d=\"M501 475.9C503.761 475.9 506 473.661 506 470.9C506 468.139 503.761 465.9 501 465.9C498.239 465.9 496 468.139 496 470.9C496 473.661 498.239 475.9 501 475.9Z\" stroke=\"#DCD9EC\"/><path d=\"M519 475.9C521.761 475.9 524 473.661 524 470.9C524 468.139 521.761 465.9 519 465.9C516.239 465.9 514 468.139 514 470.9C514 473.661 516.239 475.9 519 475.9Z\" stroke=\"#DCD9EC\"/><path d=\"M501 489.5C503.761 489.5 506 487.261 506 484.5C506 481.739 503.761 479.5 501 479.5C498.239 479.5 496 481.739 496 484.5C496 487.261 498.239 489.5 501 489.5Z\" stroke=\"#DCD9EC\"/><path d=\"M519 489.5C521.761 489.5 524 487.261 524 484.5C524 481.739 521.761 479.5 519 479.5C516.239 479.5 514 481.739 514 484.5C514 487.261 516.239 489.5 519 489.5Z\" stroke=\"#DCD9EC\"/><path d=\"M60 531H535\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M60 547H535\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M535 573H60V706H535V573Z\" stroke=\"#1A165C\" stroke-width=\"1.4\"/><path d=\"M535 573.1H60V592.1H535V573.1Z\" fill=\"#1A165C\"/><path d=\"M82 600.1H72V610.1H82V600.1Z\" stroke=\"#DCD9EC\"/><path d=\"M82 617.1H72V627.1H82V617.1Z\" stroke=\"#DCD9EC\"/><path d=\"M72 657.1H523\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M72 678.1H287.5\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M307.5 678.1H523\" stroke=\"#CDCDCD\" stroke-width=\"0.5\"/><path d=\"M535 728H60V782H535V728Z\" fill=\"#1A165C\"/></svg>",
+    "type": "svg"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "21.26092384519351%",
+        "left": "9.876543209876543%",
+        "color": "#1a165c",
+        "width": "24.691358024691358%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.125%",
+        "left": "9.717314487632509%",
+        "color": "#1a165c",
+        "width": "44.69964664310954%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "FORKLIFT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.38951310861424%",
+        "left": "57.38977072310405%",
+        "color": "#ffffff",
+        "width": "34.92063492063492%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.11381523096131%",
+        "left": "21.164021164021165%",
+        "color": "#ffffff",
+        "width": "25.925925925925924%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.125%",
+        "left": "9.664310954063604%",
+        "color": "#1a165c",
+        "width": "44.69964664310954%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EVALUATION FORM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.23578027465668%",
+        "left": "37.91887125220458%",
+        "color": "#1a165c",
+        "width": "15.371024734982333%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[trainer.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.2839%",
+        "left": "10.0233%",
+        "color": "#1a165c",
+        "width": "15.371024734982333%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[evaluation.date]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.0784%",
+        "left": "38.178%",
+        "color": "#1a165c",
+        "width": "18.90459363957597%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[employer.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.968789013732835%",
+        "left": "66.63483245149912%",
+        "color": "#1a165c",
+        "width": "18.90459363957597%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[job.title]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.22347066167291%",
+        "left": "66.19047619047619%",
+        "color": "#1a165c",
+        "width": "18.90459363957597%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[equipment.operated]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.9805%",
+        "left": "9.89399%",
+        "color": "#1a165c",
+        "width": "7.420494699646643%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "RATING:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60%",
+        "left": "9.89399293286219%",
+        "color": "#1a165c",
+        "width": "36.92579505300353%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ADDITIONAL COMMENTS AND RECOMMENDATIONS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.5%",
+        "left": "12.1894%",
+        "color": "#ffffff",
+        "width": "36.92579505300353%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "FINAL EVALUATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.112500000000002%",
+        "left": "9.89399293286219%",
+        "color": "#1a165c",
+        "width": "44.69964664310954%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PRACTICAL OPERATOR COMPETENCY ASSESSMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.3466%",
+        "left": "12.8975%",
+        "color": "#c8c3e0",
+        "width": "9.010600706713781%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CREDENTIAL ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.59814375%",
+        "left": "12.897526501766784%",
+        "color": "#c8c3e0",
+        "width": "4.593639575971731%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "EVAL ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.38951310861424%",
+        "left": "49.982363315696645%",
+        "color": "#c8c3e0",
+        "width": "7.420494699646643%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DATE ISSUED:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.51310861423221%",
+        "left": "49.982363315696645%",
+        "color": "#c8c3e0",
+        "width": "7.420494699646643%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PROVIDER:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.6287125%",
+        "left": "17.491166077738516%",
+        "color": "#ffffff",
+        "width": "13.427561837455832%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[eval.id]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.9707%",
+        "left": "11.8375%",
+        "color": "#646464",
+        "width": "16.784452296819786%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[evaluation.date]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76%",
+        "left": "12.155477031802123%",
+        "color": "#646464",
+        "width": "16.784452296819786%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[equipment.operated]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.25%",
+        "left": "14.8382%",
+        "color": "#231d40",
+        "width": "30.565371024734983%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Not yet qualified \u2013 additional training required",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.25%",
+        "left": "14.787985865724382%",
+        "color": "#231d40",
+        "width": "30.565371024734983%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Qualified to operate the equipment listed below",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.8838%",
+        "left": "11.1294%",
+        "color": "#231d40",
+        "width": "21.20141342756184%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Backs out slowly, forks fully clear",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.00000000000001%",
+        "left": "11.07773851590106%",
+        "color": "#231d40",
+        "width": "21.20141342756184%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Confirms clearance before lowering",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.5%",
+        "left": "11.130742049469964%",
+        "color": "#231d40",
+        "width": "21.20141342756184%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Keeps load within stability triangle",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.975%",
+        "left": "11.07773851590106%",
+        "color": "#231d40",
+        "width": "21.20141342756184%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Does not exceed rated load capacity",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.875%",
+        "left": "11.07773851590106%",
+        "color": "#231d40",
+        "width": "21.20141342756184%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sounds horn at blind corners",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.375%",
+        "left": "11.1307%",
+        "color": "#231d40",
+        "width": "21.20141342756184%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Maintains safe speed and distance",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.625%",
+        "left": "11.07773851590106%",
+        "color": "#231d40",
+        "width": "21.20141342756184%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Confirms load stability before lifting",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.002%",
+        "left": "11.1307%",
+        "color": "#231d40",
+        "width": "21.20141342756184%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Squares up, forks level and spaced",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.25%",
+        "left": "11.07773851590106%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Reports damage or defects immediately",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.5%",
+        "left": "11.1837%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Completes daily pre-use inspection",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.4769%",
+        "left": "53.0201%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lowers forks, neutralizes controls",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.1006%",
+        "left": "53.0726%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sets brake, blocks wheels on incline",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.025%",
+        "left": "53.07420494699646%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Powers down before refueling",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.60371125%",
+        "left": "53.07420494699646%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Wears PPE during handling",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.426855%",
+        "left": "53.07420494699646%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sounds warning at blind spots",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.82871125%",
+        "left": "53.12720848056537%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Maintains right-of-way with pedestrians",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.0162125%",
+        "left": "53.07420494699646%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Approaches ramps straight-on",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.47871125000001%",
+        "left": "53.18021201413428%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Confirms dock plate and restraints",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.00000000000001%",
+        "left": "53.07420494699646%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Uses only an approved platform",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.99999999999999%",
+        "left": "53.12720848056537%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Confirms fall-protection is in use",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.119924999999995%",
+        "left": "17.6678445229682%",
+        "color": "#231d40",
+        "width": "29.50530035335689%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "P = Pass \u00b7 F = Fail \u00b7 leave blank if not applicable",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.625%",
+        "left": "9.89399293286219%",
+        "color": "#646464",
+        "width": "75.26501766784452%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Observe the operator during practical evaluation. Rate each behavior and record the final competency decision below.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.5957%",
+        "left": "11.306%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Pre-Use / Pre-Operational Inspection",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.125%",
+        "left": "11.2522%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Picking Up the Load",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.5%",
+        "left": "11.307420494699647%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Traveling",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48%",
+        "left": "11.007067137809187%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Load Handling",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.4278%",
+        "left": "11.2536%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Putting Down a Load",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.65%",
+        "left": "52.8793%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Parking / Shutdown",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.1%",
+        "left": "52.95053003533569%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Refueling / Battery Recharging",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.5287125%",
+        "left": "53.18021201413428%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Pedestrians / Workplace Awareness",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.97685%",
+        "left": "52.89752650176678%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Ramps, Docks & Trailers",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.45371250000001%",
+        "left": "52.95053003533569%",
+        "color": "#ffffff",
+        "width": "23.14487632508834%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Lifting Personnel",
+      "autoScale": false
+    },
+    {
+      "type": "svg",
+      "style": {
+        "top": "5.975000000000001%",
+        "left": "68.37455830388693%",
+        "width": "23.674911660777386%",
+        "height": "8%"
+      },
+      "value": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100%\" height=\"100%\" fill=\"none\" viewBox=\"0 0 134 49\"><path fill=\"#1A165C\" d=\"M66.9402 23.8778H61.4027L60.4864 26.527H57.5584L62.558 12.6037H65.8048L70.8044 26.527H67.8564L66.9402 23.8778ZM66.1833 21.6469L64.1714 15.8306L62.1596 21.6469H66.1833ZM77.4737 26.6665C76.5043 26.6665 75.6279 26.5005 74.8444 26.1685C74.0742 25.8365 73.4634 25.3585 73.0119 24.7343C72.5604 24.1102 72.328 23.3732 72.3147 22.5233H75.3025C75.3424 23.0943 75.5416 23.5458 75.9001 23.8778C76.2719 24.2098 76.7765 24.3758 77.4139 24.3758C78.0646 24.3758 78.5759 24.2231 78.9477 23.9177C79.3195 23.5989 79.5054 23.1873 79.5054 22.6827C79.5054 22.271 79.3793 21.9324 79.127 21.6668C78.8747 21.4012 78.556 21.1954 78.1709 21.0493C77.799 20.89 77.2812 20.7173 76.6172 20.5314C75.7142 20.2658 74.9772 20.0069 74.4062 19.7546C73.8485 19.489 73.3638 19.0973 72.9521 18.5794C72.5537 18.0482 72.3545 17.3444 72.3545 16.468C72.3545 15.6447 72.5604 14.9276 72.972 14.3167C73.3837 13.7059 73.9613 13.2411 74.705 12.9224C75.4486 12.5904 76.2985 12.4244 77.2546 12.4244C78.6888 12.4244 79.8507 12.7763 80.7404 13.4801C81.6434 14.1707 82.1414 15.14 82.2343 16.3883H79.1668C79.1403 15.9102 78.9344 15.5185 78.5493 15.2131C78.1775 14.8944 77.6795 14.735 77.0554 14.735C76.511 14.735 76.0727 14.8745 75.7408 15.1533C75.4221 15.4322 75.2627 15.8372 75.2627 16.3684C75.2627 16.7402 75.3822 17.0523 75.6212 17.3046C75.8735 17.5436 76.179 17.7428 76.5375 17.9021C76.9093 18.0482 77.4272 18.2208 78.0912 18.42C78.9942 18.6856 79.7312 18.9512 80.3022 19.2168C80.8732 19.4824 81.3645 19.8808 81.7762 20.4119C82.1878 20.9431 82.3937 21.6403 82.3937 22.5034C82.3937 23.247 82.2011 23.9376 81.816 24.575C81.4309 25.2124 80.8666 25.7236 80.1229 26.1087C79.3793 26.4806 78.4962 26.6665 77.4737 26.6665ZM94.9501 16.9261C94.9501 17.6697 94.7708 18.3669 94.4123 19.0176C94.067 19.6683 93.5159 20.1928 92.759 20.5912C92.0153 20.9896 91.0725 21.1888 89.9305 21.1888H87.6V26.527H84.8113V12.6236H89.9305C91.0061 12.6236 91.9224 12.8095 92.6793 13.1814C93.4362 13.5532 94.0006 14.0644 94.3724 14.7151C94.7575 15.3658 94.9501 16.1028 94.9501 16.9261ZM89.811 18.9379C90.5812 18.9379 91.1522 18.7653 91.524 18.42C91.8958 18.0615 92.0817 17.5635 92.0817 16.9261C92.0817 15.5716 91.3248 14.8944 89.811 14.8944H87.6V18.9379H89.811Z\"/><path fill=\"#1A165C\" d=\"M63.3557 37.1915H59.0233L57.801 39.446H56.796L61.9161 30.075H62.989L64.7817 39.446H63.7767L63.3557 37.1915ZM63.2063 36.431L62.242 31.2566L59.4307 36.431H63.2063ZM66.5247 35.7383C66.6605 34.9687 66.9322 34.2987 67.3396 33.7283C67.7561 33.1489 68.2631 32.7052 68.8607 32.3974C69.4582 32.0805 70.1056 31.922 70.8028 31.922C71.7172 31.922 72.428 32.1484 72.935 32.6011C73.4511 33.0538 73.7272 33.6695 73.7634 34.4481H72.7449C72.7177 33.9139 72.5185 33.4974 72.1473 33.1987C71.7851 32.8908 71.2917 32.7369 70.667 32.7369C69.8974 32.7369 69.2183 32.9995 68.6298 33.5246C68.0503 34.0407 67.6746 34.7786 67.5026 35.7383C67.4573 35.9647 67.4347 36.2227 67.4347 36.5124C67.4347 37.2368 67.6293 37.7936 68.0187 38.1829C68.417 38.5632 68.9422 38.7533 69.5941 38.7533C70.2278 38.7533 70.7801 38.6039 71.2509 38.3051C71.7218 37.9973 72.0703 37.5718 72.2967 37.0285H73.3153C73.0074 37.7891 72.514 38.4002 71.8349 38.862C71.1559 39.3237 70.3637 39.5546 69.4582 39.5546C68.5438 39.5546 67.8104 39.292 67.2581 38.7669C66.7149 38.2418 66.4432 37.522 66.4432 36.6075C66.4432 36.3268 66.4704 36.0371 66.5247 35.7383ZM74.8538 35.7247C74.9896 34.9642 75.2612 34.2987 75.6686 33.7283C76.0761 33.1489 76.574 32.7052 77.1625 32.3974C77.7601 32.0805 78.3984 31.922 79.0775 31.922C79.7837 31.922 80.3631 32.085 80.8159 32.411C81.2686 32.7369 81.5628 33.1534 81.6986 33.6604L81.9838 32.0307H82.9345L81.6307 39.446H80.68L80.9652 37.8026C80.6574 38.3097 80.2138 38.7307 79.6343 39.0657C79.0639 39.3916 78.4256 39.5546 77.7194 39.5546C77.1308 39.5546 76.6148 39.4324 76.1711 39.1879C75.7275 38.9435 75.3834 38.5994 75.139 38.1558C74.8945 37.703 74.7723 37.1734 74.7723 36.5668C74.7723 36.3042 74.7994 36.0235 74.8538 35.7247ZM81.3319 35.7383C81.3772 35.4848 81.3998 35.2585 81.3998 35.0593C81.3998 34.353 81.1871 33.7917 80.7615 33.3752C80.336 32.9587 79.7837 32.7505 79.1046 32.7505C78.5795 32.7505 78.0861 32.8682 77.6243 33.1036C77.1716 33.339 76.7868 33.683 76.4699 34.1357C76.153 34.5794 75.9402 35.1091 75.8316 35.7247C75.7863 35.9964 75.7637 36.2272 75.7637 36.4174C75.7637 37.1326 75.9719 37.6985 76.3884 38.115C76.814 38.5224 77.3663 38.7262 78.0453 38.7262C78.5523 38.7262 79.0367 38.6039 79.4985 38.3595C79.9693 38.115 80.3631 37.7664 80.68 37.3137C81.006 36.861 81.2233 36.3359 81.3319 35.7383ZM84.0183 35.7247C84.1541 34.9642 84.4258 34.2987 84.8332 33.7283C85.2406 33.1489 85.7431 32.7052 86.3407 32.3974C86.9383 32.0805 87.5766 31.922 88.2556 31.922C88.9075 31.922 89.4643 32.0805 89.9261 32.3974C90.3969 32.7143 90.7138 33.1262 90.8768 33.6332L91.6237 29.396H92.5744L90.7953 39.446H89.8446L90.1434 37.7891C89.8175 38.3051 89.3693 38.7307 88.7989 39.0657C88.2285 39.3916 87.5947 39.5546 86.8975 39.5546C86.0012 39.5546 85.2814 39.2875 84.7381 38.7533C84.2039 38.2101 83.9368 37.4812 83.9368 36.5668C83.9368 36.3042 83.964 36.0235 84.0183 35.7247ZM90.4965 35.7383C90.5418 35.4848 90.5644 35.2585 90.5644 35.0593C90.5644 34.353 90.3516 33.7917 89.9261 33.3752C89.5006 32.9587 88.9483 32.7505 88.2692 32.7505C87.7441 32.7505 87.2506 32.8682 86.7889 33.1036C86.3362 33.339 85.9514 33.683 85.6345 34.1357C85.3176 34.5794 85.1048 35.1091 84.9962 35.7247C84.9509 35.9964 84.9283 36.2272 84.9283 36.4174C84.9283 37.1326 85.1365 37.6985 85.553 38.115C85.9785 38.5224 86.5308 38.7262 87.2099 38.7262C87.7169 38.7262 88.2013 38.6039 88.6631 38.3595C89.1339 38.115 89.5277 37.7664 89.8446 37.3137C90.1706 36.861 90.3879 36.3359 90.4965 35.7383ZM97.5017 31.922C98.1264 31.922 98.6606 32.0443 99.1043 32.2887C99.5479 32.5241 99.8829 32.8501 100.109 33.2666C100.345 33.683 100.462 34.1584 100.462 34.6926C100.462 34.937 100.444 35.1543 100.408 35.3445C100.354 35.6161 100.299 35.8605 100.245 36.0778H94.0928C94.0657 36.2499 94.0521 36.4128 94.0521 36.5668C94.0521 37.2639 94.2603 37.8026 94.6768 38.1829C95.1024 38.5632 95.6411 38.7533 96.293 38.7533C96.9177 38.7533 97.4655 38.6039 97.9363 38.3051C98.4071 38.0064 98.7512 37.6035 98.9685 37.0964H99.987C99.6792 37.8208 99.1858 38.4138 98.5067 38.8755C97.8367 39.3283 97.0535 39.5546 96.1572 39.5546C95.2337 39.5546 94.4912 39.292 93.9299 38.7669C93.3776 38.2327 93.1014 37.5084 93.1014 36.5939C93.1014 36.3223 93.1286 36.0371 93.1829 35.7383C93.3187 34.9687 93.5903 34.2942 93.9978 33.7147C94.4143 33.1353 94.9258 32.6916 95.5324 32.3838C96.1391 32.076 96.7955 31.922 97.5017 31.922ZM99.4302 35.3716C99.4755 35.1181 99.4981 34.9053 99.4981 34.7333C99.4981 34.0905 99.2944 33.597 98.887 33.253C98.4795 32.9089 97.9589 32.7369 97.3251 32.7369C96.8634 32.7369 96.4197 32.8365 95.9942 33.0357C95.5687 33.2349 95.1974 33.5337 94.8805 33.932C94.5637 34.3304 94.3464 34.8103 94.2287 35.3716H99.4302ZM111.586 31.8949C112.329 31.8949 112.922 32.0986 113.365 32.506C113.818 32.9135 114.044 33.511 114.044 34.2987C114.044 34.5432 114.017 34.8103 113.963 35.1L113.189 39.446H112.252L113.012 35.2087C113.058 34.937 113.08 34.7107 113.08 34.5296C113.08 33.9411 112.922 33.4929 112.605 33.1851C112.288 32.8772 111.84 32.7233 111.26 32.7233C110.617 32.7233 110.052 32.927 109.563 33.3345C109.083 33.7419 108.748 34.3304 108.558 35.1L107.77 39.446H106.833L107.593 35.2087C107.639 34.937 107.661 34.7107 107.661 34.5296C107.661 33.9411 107.503 33.4929 107.186 33.1851C106.869 32.8772 106.425 32.7233 105.855 32.7233C105.167 32.7233 104.574 32.9497 104.076 33.4024C103.578 33.846 103.247 34.4889 103.084 35.3309L102.365 39.446H101.414L102.718 32.0307H103.668L103.438 33.3209C103.745 32.8591 104.139 32.506 104.619 32.2616C105.108 32.0171 105.624 31.8949 106.167 31.8949C106.81 31.8949 107.344 32.0488 107.77 32.3566C108.195 32.6645 108.463 33.1172 108.571 33.7147C108.87 33.1262 109.291 32.678 109.834 32.3702C110.378 32.0533 110.962 31.8949 111.586 31.8949ZM116.78 32.0307L118.179 38.3187L121.724 32.0307H122.715L116.4 42.9363H115.395L117.46 39.3916L115.721 32.0307H116.78Z\"/><mask id=\"mask0_24009_19870\" width=\"49\" height=\"49\" x=\"0\" y=\"0\" maskUnits=\"userSpaceOnUse\" style=\"mask-type:luminance\"><path fill=\"white\" d=\"M0 0H48.8919V48.1265H0V0Z\"/></mask><g mask=\"url(#mask0_24009_19870)\"><mask id=\"mask1_24009_19870\" width=\"49\" height=\"48\" x=\"0\" y=\"0\" maskUnits=\"userSpaceOnUse\" style=\"mask-type:luminance\"><path fill=\"white\" d=\"M20.121 3.46757C19.463 4.52839 19.463 5.79399 20.0203 6.85817C20.3291 7.48258 20.7823 7.97271 21.3866 8.3252C23.055 9.33567 25.2304 8.7784 26.2409 7.06295C26.4423 6.76082 26.543 6.40162 26.6471 6.04913H32.9214C33.0187 6.53926 33.1698 7.0126 33.3746 7.4658C33.6968 8.10028 34.1366 8.64076 34.6905 9.08389L30.2223 16.5499C29.1447 16.0565 28.0167 15.8047 26.8317 15.7912C22.632 15.7912 19.1911 18.9804 18.7882 23.0794H10.1069C10.0029 22.5725 9.8518 22.0656 9.65374 21.6627C9.35161 21.0551 8.89505 20.4978 8.38814 20.0446L11.6277 14.6297C11.9735 14.7304 12.3293 14.7808 12.6885 14.7808C14.6624 14.7808 16.2302 13.2164 16.2302 11.2391C16.2201 10.6919 16.1026 10.1716 15.8743 9.67137C15.2667 8.50984 14.0548 7.69743 12.6885 7.69743C10.7146 7.69743 9.14683 9.26517 9.14683 11.2391C9.1569 11.7863 9.27439 12.31 9.49931 12.8068C9.69067 13.1627 9.92566 13.4816 10.2076 13.7703L6.97147 19.1852C6.4142 18.9838 5.75622 18.8294 5.09824 18.8294C4.76589 18.8294 4.4369 18.8629 4.11127 18.9301C3.78564 18.9939 3.46672 19.0912 3.16123 19.2188C2.85238 19.3464 2.56032 19.5041 2.28504 19.6888C2.00977 19.8768 1.75463 20.0849 1.51964 20.3199C1.28465 20.5582 1.07315 20.8134 0.888515 21.0887C0.703879 21.3673 0.549455 21.6594 0.421887 21.9682C0.29432 22.2737 0.200322 22.5926 0.133182 22.9182C0.0693977 23.2439 0.0391846 23.5729 0.0391846 23.9052C0.0391846 24.7176 0.240606 25.4729 0.54274 26.1309C0.750876 26.5606 1.01273 26.95 1.33164 27.3025C1.64721 27.655 2.00977 27.9538 2.41261 28.2056C2.81545 28.4574 3.24515 28.6453 3.70171 28.7763C4.15827 28.9038 4.62154 28.9676 5.09824 28.9643C5.75622 28.9643 6.41084 28.8166 6.96811 28.6118L10.2076 34.0267C9.4926 34.7182 9.14011 35.5608 9.14347 36.5545C9.15354 37.1017 9.27104 37.6254 9.49931 38.1223C10.0566 39.2872 11.2718 40.0962 12.6885 40.0962C14.6591 40.0962 16.2268 38.5318 16.2268 36.5545C16.2167 36.0073 16.0992 35.487 15.8743 34.9868C15.2667 33.8253 14.0515 33.0129 12.6851 33.0129C12.3293 33.0129 11.9265 33.0666 11.6243 33.1639L8.38478 27.7524C9.33818 26.9534 9.91223 25.9429 10.1069 24.7143H18.8084C18.9091 25.7281 19.1642 26.6412 19.6208 27.4972C20.9334 30.1762 23.666 32.0024 26.8552 32.0024C28.0704 32.0024 29.232 31.7472 30.2458 31.2437L34.6972 38.7332C33.7539 39.5423 33.1329 40.6031 32.9247 41.7714L26.6001 41.7177C26.5497 41.4659 26.449 41.1637 26.3483 40.9086C26.2979 40.8045 26.2442 40.7575 26.2442 40.7072C25.2337 39.0354 23.0584 38.4781 21.3899 39.4416C21.0072 39.6699 20.6782 39.9586 20.403 40.3077C20.1311 40.6602 19.9296 41.0496 19.8021 41.4759C19.6745 41.9023 19.6309 42.3387 19.6711 42.7818C19.7081 43.225 19.8256 43.6446 20.0236 44.0441C20.074 44.1481 20.1243 44.1951 20.1243 44.2992C21.1382 45.9677 23.3135 46.5249 24.982 45.5615C25.8414 45.0545 26.3953 44.2455 26.6001 43.3357L32.9247 43.4365C33.0254 43.9434 33.1765 44.4503 33.3779 44.9068L33.529 45.2056C34.9423 47.6361 38.0308 48.3948 40.4579 46.9815C42.7373 45.6152 43.5967 42.7315 42.4318 40.3547L42.2808 40.0526C41.9249 39.4953 41.5221 38.9884 41.0185 38.6359L44.0029 33.0699C44.9631 33.3452 45.8728 33.2277 46.7322 32.7174C47.1183 32.4892 47.4439 32.2004 47.7192 31.8513C47.9945 31.4988 48.1925 31.1094 48.3201 30.6831C48.4477 30.2567 48.4913 29.8203 48.4544 29.3772C48.4141 28.9341 48.2966 28.5111 48.0985 28.1116C48.0482 28.0109 47.9978 27.9639 47.9978 27.8598C46.9873 26.1914 44.8086 25.6341 43.1402 26.5976C42.7575 26.8225 42.4285 27.1112 42.1566 27.4637C41.8813 27.8128 41.6799 28.2022 41.5557 28.6286C41.4281 29.0583 41.3845 29.4913 41.4214 29.9344C41.4583 30.3809 41.5792 30.8006 41.7739 31.2001C41.8276 31.3008 41.8779 31.3511 41.8779 31.4015C42.0794 31.7036 42.2841 32.0091 42.5863 32.2609L39.6019 37.8268C38.4303 37.4005 37.2687 37.4173 36.1105 37.8772L31.6591 30.3876C33.6297 28.9743 34.9457 26.5976 34.9457 23.9119C34.9457 22.596 34.6435 21.3841 34.0863 20.3199C33.5122 19.1281 32.683 18.1512 31.6054 17.3858L36.0602 9.89629C37.215 10.3596 38.3799 10.3763 39.5482 9.94665L42.5326 15.5126C42.2573 15.7678 42.0223 16.0531 41.8276 16.372C41.1662 17.4362 41.1662 18.7018 41.7235 19.7626C42.0324 20.3904 42.4889 20.8805 43.0898 21.2297C44.7616 22.2435 46.9336 21.6828 47.9475 19.9674C48.6054 18.9066 48.6054 17.6376 48.0482 16.5768C47.8702 16.2075 47.6319 15.8785 47.3365 15.5932C47.0444 15.3078 46.7087 15.0829 46.3327 14.9151C45.9567 14.7506 45.564 14.6532 45.1544 14.6264C44.7448 14.5961 44.3454 14.6431 43.9492 14.7573L40.9648 9.19131C41.4717 8.78511 41.8779 8.33191 42.2304 7.77464C43.1402 6.25726 43.1402 4.43775 42.3815 2.97072C41.9921 2.05425 41.371 1.34592 40.5083 0.845719C38.0811 -0.57095 34.996 0.238096 33.5793 2.61824C33.2302 3.17886 33.0086 3.78648 32.9214 4.43775L26.5967 4.49146C26.5363 4.22961 26.449 3.97783 26.3449 3.73277C26.0361 3.10501 25.5795 2.61488 24.9786 2.26239C24.7772 2.14489 24.5691 2.04754 24.3508 1.96697C24.1326 1.88976 23.9077 1.83269 23.6761 1.79912C23.4478 1.76555 23.2162 1.75548 22.9845 1.76555C22.7529 1.77897 22.5246 1.81255 22.2997 1.86962C22.0748 1.92333 21.8566 2.0039 21.6451 2.10125C21.4369 2.20196 21.2389 2.31946 21.0509 2.4571C20.8629 2.59474 20.6917 2.74916 20.5373 2.92373C20.3795 3.09493 20.2418 3.27957 20.121 3.47764V3.46757ZM10.7649 11.2592C10.7649 10.7523 10.9663 10.2488 11.3222 9.89293C11.6747 9.53709 12.1816 9.33567 12.6885 9.33567C13.4438 9.33567 14.1018 9.74187 14.4073 10.3998C14.5584 10.6516 14.6087 10.9538 14.6087 11.2592C14.6087 11.5144 14.5617 11.7594 14.461 11.9944C14.3637 12.2294 14.226 12.4376 14.0447 12.6188C13.8668 12.7968 13.6587 12.9378 13.4237 13.0351C13.1853 13.1325 12.9403 13.1795 12.6885 13.1828C11.9298 13.1828 11.2718 12.7766 10.9663 12.1187C10.8153 11.8669 10.7649 11.5614 10.7649 11.2592ZM12.6885 34.6511C13.4472 34.6511 14.1052 35.0573 14.4107 35.7153C14.5617 35.967 14.6121 36.2692 14.6121 36.5747C14.6121 36.8298 14.5617 37.0749 14.4644 37.3099C14.367 37.5449 14.2294 37.753 14.0481 37.9343C13.8668 38.1122 13.6587 38.2532 13.4237 38.3505C13.1887 38.4479 12.9436 38.4949 12.6885 38.4983C11.9298 38.4983 11.2752 38.092 10.9697 37.4341C10.8186 37.1823 10.7649 36.8768 10.7649 36.5747C10.7649 36.0678 10.9697 35.5642 11.3222 35.2084C11.678 34.8525 12.1816 34.6511 12.6885 34.6511ZM21.541 43.5573C21.541 43.507 21.4907 43.4532 21.4907 43.4532C21.0375 42.5435 21.3899 41.4827 22.2493 40.9254C22.7025 40.6736 23.1927 40.5729 23.7164 40.724C24.2132 40.865 24.6026 41.1503 24.8813 41.5834C24.8813 41.6371 24.9316 41.6874 24.9316 41.6874C25.3848 42.5972 25.0357 43.7117 24.1729 44.2153C23.2632 44.7726 22.0513 44.4671 21.541 43.5539V43.5573ZM40.4143 41.1805C40.4646 41.2309 40.4646 41.2812 40.515 41.3819C41.1763 42.7483 40.7164 44.3664 39.3837 45.125C39.0547 45.3164 38.7022 45.4406 38.3228 45.4943C37.9435 45.548 37.5709 45.5279 37.2016 45.4339C36.8323 45.3399 36.4932 45.1788 36.1878 44.9471C35.8823 44.7188 35.6305 44.4402 35.4358 44.1146C35.3854 44.0609 35.3854 44.0105 35.3351 43.9098C34.6737 42.5468 35.1336 40.9254 36.4664 40.1667C37.1277 39.7639 37.8831 39.6631 38.6418 39.8679C39.4038 40.0693 40.0081 40.5259 40.4143 41.1805ZM43.3013 30.6562C43.3013 30.6059 43.2476 30.5555 43.2476 30.5555C42.7978 29.6424 43.1469 28.5312 44.0063 28.0277C44.4595 27.7725 44.9496 27.6718 45.4767 27.8262C45.9735 27.9639 46.3596 28.2492 46.6382 28.6856C46.6382 28.736 46.6886 28.7863 46.6886 28.7863C47.1418 29.6995 46.7926 30.7603 45.9299 31.3142C45.715 31.4485 45.48 31.5324 45.2283 31.5727C44.9765 31.6096 44.7247 31.5962 44.4796 31.5358C44.2312 31.4753 44.0063 31.3679 43.8015 31.2135C43.5967 31.0624 43.4289 30.8744 43.3013 30.6562ZM5.09824 26.7889C3.96692 26.7889 3.02359 26.1813 2.51668 25.1708C2.31526 24.7646 2.21454 24.3584 2.21454 23.9052C2.21454 22.3408 3.5305 21.0182 5.1016 21.0182C6.23292 21.0182 7.17625 21.6258 7.68316 22.6396C7.88458 23.0424 7.98529 23.4487 7.98529 23.9019C7.98529 24.6605 7.68316 25.4226 7.12253 25.9261C6.61898 26.4834 5.86029 26.7855 5.09824 26.7855V26.7889ZM31.404 23.9019C31.404 25.1171 30.9508 26.2786 30.0914 27.1414C29.2286 28.0008 28.0671 28.454 26.8518 28.454C26.4289 28.454 26.0126 28.3936 25.603 28.2794C25.1935 28.1619 24.8074 27.9907 24.4482 27.7692C24.0856 27.5442 23.76 27.2757 23.4747 26.9635C23.186 26.6513 22.9476 26.3055 22.7563 25.9261C22.4474 25.285 22.2963 24.6102 22.2997 23.9019C22.2997 22.6866 22.7529 21.5251 23.6157 20.6623C24.4784 19.8029 25.6399 19.3497 26.8518 19.3497C27.2782 19.3497 27.6945 19.4068 28.104 19.5243C28.5136 19.6418 28.8963 19.813 29.2588 20.0345C29.6214 20.2595 29.9437 20.5247 30.2324 20.8402C30.5211 21.1524 30.7594 21.4982 30.9508 21.8776C31.2529 22.5389 31.404 23.1935 31.404 23.9019ZM45.9265 16.5164C46.2454 16.7245 46.4972 16.9931 46.6852 17.3254C46.9873 17.933 46.937 18.591 46.6349 19.1449C46.5039 19.3665 46.3361 19.5511 46.1313 19.7056C45.9299 19.8566 45.7016 19.964 45.4565 20.0245C45.2081 20.0883 44.9597 20.0983 44.7046 20.0614C44.4528 20.0245 44.2178 19.9372 44.0029 19.8063C43.684 19.5981 43.4289 19.3262 43.2443 18.9972C42.9421 18.3896 42.9891 17.7316 43.2946 17.1743C43.4222 16.9561 43.59 16.7681 43.7948 16.6171C43.9996 16.466 44.2245 16.3586 44.4729 16.2948C44.718 16.2344 44.9698 16.221 45.2215 16.2612C45.4733 16.2982 45.7083 16.3854 45.9265 16.5164ZM39.3971 2.70552C39.904 3.00765 40.2598 3.41385 40.5318 3.92077C40.7533 4.35382 40.8574 4.81374 40.8406 5.30051C40.8205 5.78728 40.6828 6.24048 40.4277 6.65339C40.233 6.98238 39.9846 7.26102 39.6757 7.4893C39.3702 7.71757 39.0345 7.87871 38.6653 7.97607C38.2926 8.07006 37.92 8.09021 37.5406 8.03649C37.1647 7.98278 36.8122 7.85857 36.4832 7.66386C35.9763 7.36173 35.6204 6.95888 35.3485 6.44861C34.8987 5.58921 34.9457 4.57874 35.4526 3.71934C35.6473 3.39035 35.8957 3.11172 36.2045 2.88344C36.51 2.65516 36.8457 2.49403 37.215 2.39667C37.5876 2.30267 37.9603 2.28253 38.3396 2.33624C38.7156 2.38996 39.0681 2.51417 39.3971 2.70552ZM22.7025 3.41385C23.2095 3.26279 23.713 3.3635 24.1696 3.61527C24.4885 3.82341 24.7403 4.09533 24.9283 4.42432C25.2304 5.03194 25.18 5.68992 24.8779 6.24719C24.6261 6.70039 24.2166 7.00588 23.713 7.10659C23.2095 7.25766 22.7025 7.15695 22.246 6.90517C21.9271 6.69704 21.6753 6.42847 21.4873 6.09613C21.1852 5.4885 21.2355 4.83052 21.5376 4.27325C21.8163 3.8402 22.2057 3.55485 22.7025 3.41385Z\"/></mask><g mask=\"url(#mask1_24009_19870)\"><path fill=\"#1A165C\" d=\"M0.0391846 -0.571018V48.3544H48.6054V-0.571018H0.0391846Z\"/></g></g></svg>"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.38935%",
+        "left": "69.43462897526503%",
+        "color": "#231d40",
+        "width": "25.4416961130742%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OSHA-Aligned Forklift Safety Training",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.0381%",
+        "left": "83.7456%",
+        "color": "#646464",
+        "width": "2.8268551236749118%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "P",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.085%",
+        "left": "86.7491%",
+        "color": "#646464",
+        "width": "2.8268551236749118%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "F",
+      "autoScale": false
+    },
+    {
+      "dir": "auto",
+      "type": "text",
+      "style": {
+        "top": "19.496029962546814%",
+        "left": "10.072239858906526%",
+        "color": "#1a165c",
+        "width": "15.167548500881834%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "OPERATOR NAME",
+      "autoScale": false
+    },
+    {
+      "dir": "auto",
+      "type": "text",
+      "style": {
+        "top": "19.455280898876406%",
+        "left": "37.91887125220458%",
+        "color": "#1a165c",
+        "width": "19.047619047619047%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EVALUATOR / TRAINER",
+      "autoScale": false
+    },
+    {
+      "dir": "auto",
+      "type": "text",
+      "style": {
+        "top": "19.455280898876406%",
+        "left": "66.13756613756614%",
+        "color": "#1a165c",
+        "width": "20.458553791887123%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EQUIPMENT OPERATED",
+      "autoScale": false
+    },
+    {
+      "dir": "auto",
+      "type": "text",
+      "style": {
+        "top": "23.353707865168538%",
+        "left": "66.57848324514991%",
+        "color": "#1a165c",
+        "width": "15.167548500881834%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JOB TITLE / ROLE",
+      "autoScale": false
+    },
+    {
+      "dir": "auto",
+      "type": "text",
+      "style": {
+        "top": "23.200599250936328%",
+        "left": "38.2716049382716%",
+        "color": "#1a165c",
+        "width": "18.871252204585538%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "EMPLOYER / COMPANY",
+      "autoScale": false
+    },
+    {
+      "dir": "auto",
+      "type": "text",
+      "style": {
+        "top": "23.325443196004993%",
+        "left": "10.052910052910052%",
+        "color": "#1a165c",
+        "width": "19.047619047619047%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DATE OF EVALUATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.48813982521847%",
+        "left": "55.73192239858906%",
+        "color": "#ffffff",
+        "width": "34.92063492063492%",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[issuer.name]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01ky89gpafv5ha7q7d41vx0s7k-1787059602449.png",
+  "isDefault": true,
+  "createdAt": "2026-07-23T20:08:51.311Z",
+  "updatedAt": "2026-08-18T13:26:44.855Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "category": "practical_assessment"
+  },
+  "id": "01ky89gpafv5ha7q7d41vx0s7k",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "assessment",
+  "galleryOrder": 24,
+  "categoryOrder": null
+}

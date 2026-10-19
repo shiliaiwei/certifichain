@@ -1,0 +1,241 @@
+{
+  "name": "422_Authorized_Distributor_professional_purple_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-09-2024-02:10:05_422_Authenticity_professional_purple_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "29.681415929203535%",
+        "left": "18%",
+        "color": "#ffffff",
+        "width": "63.87500000000001%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.54867256637169%",
+        "left": "37.561499999999995%",
+        "color": "#ffffff",
+        "width": "24.877875%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.53982300884955%",
+        "left": "39.1875%",
+        "color": "#ffffff",
+        "width": "21.5%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.371681415929204%",
+        "left": "7.000000000000001%",
+        "color": "#ffffff",
+        "width": "86%",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Authorized Distributor Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.54950442477876%",
+        "left": "67.75%",
+        "color": "#ffffff",
+        "width": "30.25%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[Authorized Name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.79700884955751%",
+        "left": "71.125%",
+        "color": "#ffffff",
+        "width": "23.5%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Authorized Position]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.53982300884956%",
+        "left": "25.624999999999996%",
+        "color": "#ffffff",
+        "width": "48.625%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to acknowledge",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.5929203539823%",
+        "left": "11%",
+        "color": "#ffffff",
+        "width": "78%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has been officially recognized as an Authorized Distributor for selected products under the [Brand Name] portfolio.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.596738281250005%",
+        "left": "23.03448275862069%",
+        "color": "#ffffff",
+        "width": "30.75%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "The full list of authorized products can be accessed via the QR code:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.53982300884955%",
+        "left": "3.375%",
+        "color": "#ffffff",
+        "width": "32%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[Authorized Name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.80530973451329%",
+        "left": "7.875%",
+        "color": "#ffffff",
+        "width": "23%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[Authorized Position]",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "56.28318584070796%",
+        "left": "56.75%",
+        "width": "7.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-02:08:48_qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.63716814159291%",
+        "left": "12.625%",
+        "width": "13.5%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-02:09:06_Group 19476.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.929203539823%",
+        "left": "75%",
+        "width": "15.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-09-2024-02:09:20_Group 19504.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01km05tk7nbfrjnb23ajvvbr7f-1773827607891.png",
+  "isDefault": true,
+  "createdAt": "2026-03-18T09:53:27.869Z",
+  "updatedAt": "2026-03-18T10:38:20.344Z",
+  "metadata": {
+    "lang": "en",
+    "color": "purple",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01km05tk7nbfrjnb23ajvvbr7f",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 112,
+  "categoryOrder": 37
+}

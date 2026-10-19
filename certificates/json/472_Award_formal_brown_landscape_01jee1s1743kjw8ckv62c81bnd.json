@@ -1,0 +1,263 @@
+{
+  "name": "472_Award_formal_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-12-2024-01:13:55_472_award_formal_brown_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.53982300884956%",
+        "left": "16%",
+        "color": "#cd861b",
+        "width": "68.125%",
+        "height": "auto",
+        "fontSize": "38em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.035398230088497%",
+        "left": "11.25%",
+        "color": "#cd861b",
+        "width": "77.625%",
+        "height": "auto",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARD CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "38.05309734513274%",
+        "left": "28.625%",
+        "color": "#5c636b",
+        "width": "42.75%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.04424778761062%",
+        "left": "15.687499999999998%",
+        "color": "#5c636b",
+        "width": "68.75%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For his remarkable contributions to our team\u2019s success as Employee of the Month. Your exceptional performance sets a high standard for excellence, \nand we are proud to honor you with this award.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.76991150442477%",
+        "left": "6.25%",
+        "color": "#5c636b",
+        "width": "23.875%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lara Marson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.01769911504424%",
+        "left": "8.625%",
+        "color": "#5c636b",
+        "width": "19.125%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Senior Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "80.17699115044248%",
+        "left": "8%",
+        "width": "20.375%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#5c636b"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "80%",
+        "left": "70.875%",
+        "width": "20.375%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#5c636b"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.89380530973452%",
+        "left": "71.5%",
+        "color": "#231f1b",
+        "width": "19.125%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.64601769911505%",
+        "left": "69.125%",
+        "color": "#5c636b",
+        "width": "23.875%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Martha Nabwire",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.6637168141593%",
+        "left": "39.125%",
+        "color": "#5c636b",
+        "width": "21.875%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.34513274336284%",
+        "left": "35.375%",
+        "color": "#5c636b",
+        "width": "29.5%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.98230088495575%",
+        "left": "47.625%",
+        "width": "4.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-01:12:16_group_19640.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.85840707964601%",
+        "left": "8.625%",
+        "width": "19.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-01:12:33_clip_path_group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.85840707964601%",
+        "left": "72.125%",
+        "width": "19.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-01:12:51_group_19753.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.433628318584071%",
+        "left": "42.6875%",
+        "width": "14.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-01:13:22_group_19845.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jee1s1743kjw8ckv62c81bnd-1733491295898.png",
+  "isDefault": true,
+  "createdAt": "2024-12-06T13:15:35.014Z",
+  "updatedAt": "2025-03-19T11:00:33.080Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01jee1s1743kjw8ckv62c81bnd",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1988,
+  "categoryOrder": 558
+}

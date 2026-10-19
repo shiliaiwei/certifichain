@@ -1,0 +1,369 @@
+{
+  "name": "205_CE_professional_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/02-02-2024-05:50:09_205_CE_professional_green_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "32.06875%",
+        "left": "22.586042402826855%",
+        "color": "#262626",
+        "width": "54.29770318021201%",
+        "height": "6.6375%",
+        "fontSize": "61em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.992187499999999%",
+        "left": "8.867049469964664%",
+        "color": "#262626",
+        "width": "33.4452296819788%",
+        "height": "1.459375%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.834375%",
+        "left": "66.16378091872792%",
+        "color": "#262626",
+        "width": "20.676625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.16875%",
+        "left": "31.576855123674914%",
+        "color": "#262626",
+        "width": "36.386925795052996%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "This certificate certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.490625%",
+        "left": "8.551236749116606%",
+        "color": "#262626",
+        "width": "81.59452296819788%",
+        "height": "9.55625%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CONTINUING EDUCATION CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.45625%",
+        "left": "36.15512367491166%",
+        "color": "#262626",
+        "width": "27.513250883392224%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.265625%",
+        "left": "16.409010600706715%",
+        "color": "#262626",
+        "width": "66.7226148409894%",
+        "height": "7.964062499999999%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed the advanced training course on 'Transportation Logistics'. Received qualification and permanent right to conduct professional activity.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.7015%",
+        "left": "38.985159010600704%",
+        "color": "#262626",
+        "width": "21.570318021201413%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Stephen Gardner",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.686%",
+        "left": "7.496696113074205%",
+        "color": "#262626",
+        "width": "22.630212014134273%",
+        "height": "2.521875%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CE Provider Logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.257875%",
+        "left": "11.042402826855122%",
+        "color": "#262626",
+        "width": "15.463780918727915%",
+        "height": "1.459375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "59.85625%",
+        "left": "34.83551236749117%",
+        "width": "28.869257950530034%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-02-2024-05:32:55_UmDrCIey6OY46BHrAOyaZ-Frame ma\u0142a.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.98675%",
+        "left": "38.64505300353357%",
+        "color": "#262626",
+        "width": "22.104770318021203%",
+        "height": "4.246875%",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "12 CE credits",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "53.085875%",
+        "left": "14.929328621908128%",
+        "width": "39.20724381625442%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-02-2024-05:34:10_XGFBU9CNTilgGhrR95U46-Frame 18705.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.196125%",
+        "left": "18.935512367491167%",
+        "color": "#262626",
+        "width": "33.083038869257955%",
+        "height": "3.053125%",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "46 academic hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.184375%",
+        "left": "28.257597173144873%",
+        "color": "#262626",
+        "width": "43.025618374558306%",
+        "height": "3.715625%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate may be used to validate the training requirements of a continuing education program.",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.746875%",
+        "left": "44.434628975265014%",
+        "width": "10.883392226148409%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-02-2024-05:38:10_ZiogE2gqE0LO3vhh1Sm94-Group 18923.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.242125%",
+        "left": "71.1351590106007%",
+        "width": "20.66042402826855%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-02-2024-05:38:23_zHO4qX-Uz_xs9nT_cjhh1-OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.159375%",
+        "left": "75.08833922261485%",
+        "color": "#3a4c55",
+        "width": "12.683303886925795%",
+        "height": "1.9921874999999998%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.864125%",
+        "left": "78.56678445229683%",
+        "color": "#3a4c55",
+        "width": "5.726590106007067%",
+        "height": "1.59375%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.185125%",
+        "left": "15.928657243816255%",
+        "width": "5.837014134275618%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-02-2024-05:38:56_2k5NtWlYMQ2PFcS3uaQ9b-Group 18747.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "53.014875%",
+        "left": "57.5839222614841%",
+        "width": "28.869257950530034%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-02-2024-05:32:55_UmDrCIey6OY46BHrAOyaZ-Frame ma\u0142a.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.14450000000001%",
+        "left": "59.87067137809186%",
+        "color": "#262626",
+        "width": "24.224911660777384%",
+        "height": "4.246875%",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Slab, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "4 CE points",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hnnbme9whjed568ff1j7q1wy-1706892627259.png",
+  "isDefault": true,
+  "createdAt": "2024-02-02T16:50:05.759Z",
+  "updatedAt": "2025-03-19T11:00:04.287Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hnnbme9whjed568ff1j7q1wy",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2559,
+  "categoryOrder": 33
+}

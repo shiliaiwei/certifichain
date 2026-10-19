@@ -1,0 +1,326 @@
+{
+  "name": "372_Scholarship_professional_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-07-2024-02:43:50_372_Scholarship_professional_brown_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.012190812720846%",
+        "left": "34.788125%",
+        "color": "#3d3d3d",
+        "width": "54.53224999999999%",
+        "height": "11.395759717314489%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.20247349823321%",
+        "left": "2.061525%",
+        "color": "#ffffff",
+        "width": "23.50525%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.20141342756184%",
+        "left": "3.2880875000000005%",
+        "color": "#ffffff",
+        "width": "21.052125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.020141342756176%",
+        "left": "34.659125%",
+        "color": "#3d3d3d",
+        "width": "57.03225%",
+        "height": "14.310954063604239%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of your exemplary academic achievements, demonstrated leadership, and significant contributions to the Michigan University community",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.928392226148409%",
+        "left": "34.788125%",
+        "color": "#3d3d3d",
+        "width": "54.67875%",
+        "height": "12.45583038869258%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Student Scholarship",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.933922261484096%",
+        "left": "34.660125%",
+        "color": "#3d3d3d",
+        "width": "38.3055%",
+        "height": "3.7102473498233217%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "A certificate is awarded on the basis of",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.64204946996466%",
+        "left": "34.538125%",
+        "color": "#3d3d3d",
+        "width": "11.8177125%",
+        "height": "3.53356890459364%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Ryan Lewis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.040247349823321%",
+        "left": "3.653325%",
+        "color": "#ffffff",
+        "width": "16.3125%",
+        "height": "14.310954063604239%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "ARCHITECTURE\nUNIVERSITY OF\nMICHIGAN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.373780918727917%",
+        "left": "34.788125%",
+        "color": "#3d3d3d",
+        "width": "54.67875%",
+        "height": "12.45583038869258%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.55583038869258%",
+        "left": "34.659125%",
+        "color": "#3d3d3d",
+        "width": "44.17975%",
+        "height": "6.36042402826855%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean's Excellence Scholarship To",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.886925795053%",
+        "left": "34.538653366583546%",
+        "width": "14.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#4c321f"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.53427561837456%",
+        "left": "75.4375%",
+        "width": "14.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#4c321f"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.44876325088339%",
+        "left": "75.090875%",
+        "color": "#3d3d3d",
+        "width": "11.8177125%",
+        "height": "3.53356890459364%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Nicholas Harris",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.86572438162544%",
+        "left": "34.538125%",
+        "color": "#3d3d3d",
+        "width": "21.192375%",
+        "height": "5.30035335689046%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Rector of Michigan University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.86572438162544%",
+        "left": "75.090875%",
+        "color": "#3d3d3d",
+        "width": "21.192375%",
+        "height": "5.30035335689046%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Commission Chairman",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.11572438162544%",
+        "left": "3.653325%",
+        "color": "#ffffff",
+        "width": "21.192375%",
+        "height": "5.30035335689046%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "www.youruniversity.com",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.76113074204947%",
+        "left": "3.653325%",
+        "width": "10.8525375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:40:45_2-0Ri9RRurDoTQCUhy9E1-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.113074204947%",
+        "left": "37.2685%",
+        "width": "10.105475%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:42:56_84MJaNss6Zc6xPneiIh50-Vector 76.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.90812720848056%",
+        "left": "77.955125%",
+        "width": "6.664062499999999%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:43:11_ISuzqIQKQBSQjRr4b9-ij-Vector 77.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2d1jzx0pnykncbm7b9we14r-1720572280750.png",
+  "isDefault": true,
+  "createdAt": "2024-07-10T00:44:40.738Z",
+  "updatedAt": "2025-03-19T11:00:21.397Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2d1jzx0pnykncbm7b9we14r",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2223,
+  "categoryOrder": 150
+}

@@ -1,0 +1,243 @@
+{
+  "name": "159_nonprofit_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/11-12-2023-05:56:42_159_nonprofit_professional_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.987875%",
+        "left": "9.415441696113074%",
+        "color": "#2f3c86",
+        "width": "79.8243816254417%",
+        "height": "7.699649999999999%",
+        "fontSize": "82em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.6059%",
+        "left": "33.34310954063604%",
+        "color": "#2f3c86",
+        "width": "32.6339222614841%",
+        "height": "1.7257000000000002%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.543375%",
+        "left": "15.7808480565371%",
+        "color": "#2f3c86",
+        "width": "30.692932862190816%",
+        "height": "2.7864625%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.273375%",
+        "left": "25.23303886925795%",
+        "color": "#2f3c86",
+        "width": "48.23321554770318%",
+        "height": "5.4427125%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.260375%",
+        "left": "36.01042402826855%",
+        "color": "#2f3c86",
+        "width": "26.236749116607772%",
+        "height": "1.991325%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.741375%",
+        "left": "23.039399293286216%",
+        "color": "#2f3c86",
+        "width": "16.212703180212014%",
+        "height": "1.991325%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of Issue",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.977375%",
+        "left": "14.02386925795053%",
+        "color": "#2f3c86",
+        "width": "70.56342756183746%",
+        "height": "3.9826374999999996%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "in recognition of your dedication and exceptional work \nas a volunteer at Nonprofit Management and Leadership",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.52775%",
+        "left": "59.72950530035336%",
+        "color": "#2f3c86",
+        "width": "17.689929328621908%",
+        "height": "1.991325%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Caleb Brooks",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.477375%",
+        "left": "48.71166077738516%",
+        "color": "#2f3c86",
+        "width": "11.236254416961131%",
+        "height": "2.65625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Eastern Community Center",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "73.727375%",
+        "left": "65.64575971731449%",
+        "color": "#2f3c86",
+        "width": "5.37643109540636%",
+        "height": "2.7864625%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.104125%",
+        "left": "30.589929328621913%",
+        "color": "#2f3c86",
+        "width": "38.33180212014135%",
+        "height": "3.3177125000000003%",
+        "fontSize": "34em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF APPRECIATION",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "62.604124999999996%",
+        "left": "57.94558303886925%",
+        "width": "21.2160777385159%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-12-2023-05:48:31_WGP0xG8PVf3HapR_tpjJ5-Vector 738.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.956625%",
+        "left": "40.62614840989399%",
+        "width": "7.045053003533569%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-12-2023-05:48:35_2lCTb958VyNKIriuScW-2-Vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhcwyhhqgwcw46y9476px27z-1702576906589.png",
+  "isDefault": true,
+  "createdAt": "2023-12-11T16:56:45.369Z",
+  "updatedAt": "2025-03-19T10:59:58.781Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hhcwyhhqgwcw46y9476px27z",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2651,
+  "categoryOrder": 245
+}

@@ -1,0 +1,219 @@
+{
+  "name": "0_basic_certificate_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-09-22-1:33:27_basic_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.734375%",
+        "left": "10.381890459363957%",
+        "color": "#3a3a3a",
+        "width": "78.70618374558303%",
+        "height": "9.73535%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.94825%",
+        "left": "31.802826855123673%",
+        "color": "#3a3a3a",
+        "width": "35.86289752650177%",
+        "height": "2.642575%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.4316375%",
+        "left": "12.281183745583037%",
+        "color": "#3a3a3a",
+        "width": "74.90759717314486%",
+        "height": "16.375%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOUR CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.597007481296757%",
+        "left": "28.181625441696113%",
+        "color": "#3a3a3a",
+        "width": "43.10547703180212%",
+        "height": "5.5625%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "48.25%",
+        "left": "14.045282685512369%",
+        "width": "71.73144876325088%",
+        "height": "0.125%",
+        "backgroundColor": "#3a3a3a"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.25%",
+        "left": "13.030035335689046%",
+        "color": "#3a3a3a",
+        "width": "73.40989399293287%",
+        "height": "7.5087874999999995%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\nUt enim ad minim veniam, quis nostrud exercitation.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.75%",
+        "left": "11.263250883392226%",
+        "color": "#3a3a3a",
+        "width": "24.469964664310954%",
+        "height": "2.75%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "82%",
+        "left": "14.045936395759718%",
+        "width": "19.257950530035338%",
+        "height": "0.125%",
+        "backgroundColor": "#3a3a3a"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.75%",
+        "left": "66.56360424028269%",
+        "color": "#3a3a3a",
+        "width": "19.346289752650176%",
+        "height": "2.780275%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date issue",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "82%",
+        "left": "66.78445229681978%",
+        "width": "19.257950530035338%",
+        "height": "0.125%",
+        "backgroundColor": "#3a3a3a"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.5%",
+        "left": "8.303886925795052%",
+        "color": "#3a3a3a",
+        "width": "30.3886925795053%",
+        "height": "2.780275%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.5%",
+        "left": "59.45229681978799%",
+        "color": "#3a3a3a",
+        "width": "33.56890459363957%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01gb2n27sqdf248k9e2jpbzf2m-1676375340454.png",
+  "isDefault": true,
+  "createdAt": "2022-08-22T11:30:04.215Z",
+  "updatedAt": "2025-03-19T10:59:45.707Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "simple",
+    "category": "course"
+  },
+  "id": "01gb2n27sqdf248k9e2jpbzf2m",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2906,
+  "categoryOrder": 104
+}

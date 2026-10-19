@@ -1,0 +1,315 @@
+{
+  "name": "155_nonprofit_professional_grey_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/11-12-2023-03:52:40_155_nonprofit_professional_grey_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "35.333375%",
+        "left": "13.919540636042402%",
+        "color": "#3d3d3d",
+        "width": "71.67014134275618%",
+        "height": "6.5052125%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.118%",
+        "left": "35.708657243816255%",
+        "color": "#000000",
+        "width": "28.091872791519435%",
+        "height": "1.7257000000000002%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.852375%",
+        "left": "34.34558303886925%",
+        "color": "#000000",
+        "width": "30.77402826855124%",
+        "height": "1.859375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.2465%",
+        "left": "29.729858657243813%",
+        "color": "#3d3d3d",
+        "width": "40.04964664310954%",
+        "height": "5.0451375%",
+        "fontSize": "27em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Strategies in Nonprofit Marketing Management",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.633625%",
+        "left": "19.41749116607774%",
+        "color": "#3d3d3d",
+        "width": "60.590812720848064%",
+        "height": "8.49305%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Nonprofit Essentials Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.31775%",
+        "left": "38.27420494699646%",
+        "color": "#3d3d3d",
+        "width": "22.963250883392227%",
+        "height": "1.460075%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.362875%",
+        "left": "70.65918727915194%",
+        "color": "#3d3d3d",
+        "width": "12.42148409893993%",
+        "height": "1.59375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HR Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.977375%",
+        "left": "67.67756183745584%",
+        "color": "#3d3d3d",
+        "width": "18.42862190812721%",
+        "height": "1.859375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Mason Turner",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.1805%",
+        "left": "34.074381625441696%",
+        "color": "#3d3d3d",
+        "width": "31.360424028268554%",
+        "height": "2.125%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "who successfully completed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.02425%",
+        "left": "14.006678445229682%",
+        "color": "#3d3d3d",
+        "width": "19.135335689045935%",
+        "height": "1.859375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Ethan Mitchell",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.49475%",
+        "left": "21.47632508833922%",
+        "color": "#3d3d3d",
+        "width": "4.574010600706713%",
+        "height": "1.59375%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.0885375%",
+        "left": "45.60017667844522%",
+        "color": "#3d3d3d",
+        "width": "14.063109540636043%",
+        "height": "2.65625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "BrightHorizon Strategies",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.82465%",
+        "left": "40.113427561837455%",
+        "width": "4.809575971731449%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-12-2023-02:53:20_3WMgzSitdDDadquGarUaf-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.324625%",
+        "left": "40.093816254416964%",
+        "width": "19.363427561837455%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-12-2023-02:53:23_8TS1jWhuSNkqYUOLcTG-A-Group 386.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.36375000000001%",
+        "left": "11.837420494699645%",
+        "width": "23.812367491166075%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-12-2023-02:53:26_botd7LhJvCOKUUuWADpml-Vector 726.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "62.25175000000001%",
+        "left": "65.23621908127208%",
+        "width": "23.564487632508836%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-12-2023-02:53:30_6apMpVakij5Cu_gytgI-G-Vector 727.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.135375%",
+        "left": "44.84081272084806%",
+        "color": "#ffffff",
+        "width": "9.82773851590106%",
+        "height": "1.7257000000000002%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.5035%",
+        "left": "47.68356890459364%",
+        "color": "#ffffff",
+        "width": "4.0586925795053%",
+        "height": "1.0625%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhcp33bvam218w0k2k740q6m-1702306686792.png",
+  "isDefault": true,
+  "createdAt": "2023-12-11T14:56:54.653Z",
+  "updatedAt": "2025-03-19T10:59:58.399Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01hhcp33bvam218w0k2k740q6m",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2659,
+  "categoryOrder": 253
+}

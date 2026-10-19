@@ -1,0 +1,280 @@
+{
+  "name": "106_training_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-10-2023-12:12:23_106_training_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "37.0113074204947%",
+        "left": "12.751999999999999%",
+        "color": "#424554",
+        "width": "55.03325%",
+        "height": "14.045936395759718%",
+        "fontSize": "53em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.08798586572438%",
+        "left": "35.752%",
+        "color": "#424554",
+        "width": "28.881875%",
+        "height": "3.180212014134275%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.09681978798586%",
+        "left": "50.243125%",
+        "color": "#424554",
+        "width": "20.42875%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.69929328621907%",
+        "left": "12.751999999999999%",
+        "color": "#424554",
+        "width": "16.86725%",
+        "height": "4.770318021201414%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Derick Bradford",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.45123674911661%",
+        "left": "17.497125%",
+        "color": "#424554",
+        "width": "17.913125%",
+        "height": "3.9752650176678443%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.17632508833922%",
+        "left": "12.752875%",
+        "color": "#424554",
+        "width": "22.1885%",
+        "height": "4.593639575971731%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.13886925795054%",
+        "left": "12.751999999999999%",
+        "color": "#424554",
+        "width": "56.836%",
+        "height": "13.604240282685511%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "For active participation in the business seminar 'Creating a Business in 2024. Franchising. Scaling.'",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.263197879858657%",
+        "left": "12.753%",
+        "color": "#424554",
+        "width": "77.307625%",
+        "height": "24.381625441696116%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.55795053003533%",
+        "left": "12.751999999999999%",
+        "color": "#424554",
+        "width": "15.913125%",
+        "height": "8.480565371024735%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company owner",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "49.82332155477032%",
+        "left": "12.718204488778055%",
+        "width": "53.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#424554"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.09681978798586%",
+        "left": "71.3145%",
+        "color": "#424554",
+        "width": "18.49225%",
+        "height": "9.010600706713781%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "William Wilkinson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.38127208480564%",
+        "left": "71.3145%",
+        "color": "#424554",
+        "width": "17.788125%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Business Analyst",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.87597173144876%",
+        "left": "35.752%",
+        "color": "#424554",
+        "width": "14.36725%",
+        "height": "4.593639575971731%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Date of issue:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.79151943462897%",
+        "left": "71.3145%",
+        "width": "6.12695%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-10-2023-12:09:15_eG70DVTOvYawy6jIj7Y8W-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.7321554770318%",
+        "left": "12.751999999999999%",
+        "width": "6.7548875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-10-2023-12:09:44_F2hPUmdNXn3tsPI2Ter3e-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "23.450000000000003%",
+        "left": "12.751999999999999%",
+        "width": "5.188475%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-10-2023-12:10:17_umOjXaW8DFe_xiD_egP83-Vector.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hd8vnytwbfcbnvpxkngeskfy-1697883290479.png",
+  "isDefault": true,
+  "createdAt": "2023-10-21T10:14:50.464Z",
+  "updatedAt": "2025-03-19T10:59:53.392Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "training"
+  },
+  "id": "01hd8vnytwbfcbnvpxkngeskfy",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2758,
+  "categoryOrder": 376
+}

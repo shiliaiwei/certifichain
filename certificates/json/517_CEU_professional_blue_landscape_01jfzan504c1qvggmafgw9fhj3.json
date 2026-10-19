@@ -1,0 +1,478 @@
+{
+  "name": "517_CEU_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/29-12-2024-02:44:31_517_ceu_professional_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "20.61946902654867%",
+        "left": "5.003124999999997%",
+        "color": "#2d0d56",
+        "width": "90.125%",
+        "height": "auto",
+        "fontSize": "38em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.787610619469026%",
+        "left": "29.25%",
+        "color": "#07162d",
+        "width": "64.125%",
+        "height": "auto",
+        "fontSize": "37em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Continuing Education Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.85840707964601%",
+        "left": "7.124999999999999%",
+        "color": "#060707",
+        "width": "11.375%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Kelly Hood",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "29.734513274336283%",
+        "left": "29.25%",
+        "width": "41.625%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#2d0d56"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "11.150442477876107%",
+        "left": "6.875000000000001%",
+        "width": "19%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/25-12-2024-05:32:54_group_18812.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.1637168141593%",
+        "left": "7.124999999999999%",
+        "width": "26.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/25-12-2024-05:33:00_group_19763.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.53539823008849%",
+        "left": "26%",
+        "width": "11.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/25-12-2024-05:33:09_signature.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "83.16814159292035%",
+        "left": "42.625%",
+        "width": "18%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/25-12-2024-05:33:23_ifc_cerp.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.10619469026548%",
+        "left": "7.124999999999999%",
+        "color": "#060707",
+        "width": "18%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEU Certification Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.53097345132744%",
+        "left": "42.625%",
+        "color": "#07162d",
+        "width": "48.75%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Elite Finance Academy is recognized by both IFC CERP and GFIA. Approval does not imply acceptance by any state or provincial financial certification board. Licensees should maintain this document in the event of an audit.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.16814159292035%",
+        "left": "62.74999999999999%",
+        "color": "#07162d",
+        "width": "27.625%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "IFC CERP is a service of the International Finance Council to assist financial professionals in identifying quality providers of continuing financial education.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.761061946902654%",
+        "left": "29.25%",
+        "color": "#07162d",
+        "width": "27.875%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AGD Subject Code: 301 Financial Analysis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.699115044247787%",
+        "left": "61.3%",
+        "color": "#07162d",
+        "width": "27.875%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AADH Course Code: FINTR-2024-03-5",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.68141592920354%",
+        "left": "24.15%",
+        "color": "#07162d",
+        "width": "51.87500000000001%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Earned 0.2 Continuing Education Units (CEUs)\u2028\nfor Attending this Live CE Course on March 15, 2024:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.009955752212385%",
+        "left": "17.25%",
+        "color": "#07162d",
+        "width": "17.5%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Beyond Numbers:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.991150442477874%",
+        "left": "34.75%",
+        "color": "#07162d",
+        "width": "49.875%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Advanced Techniques in Financial Risk Assessment",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.97345132743363%",
+        "left": "31.837499999999995%",
+        "color": "#07162d",
+        "width": "36.25%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "By Dr. Jessica Taylor, Ph.D., CFA, CFP",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.584070796460175%",
+        "left": "7.175000000000001%",
+        "color": "#07162d",
+        "width": "20.125%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Educational Method:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.94690265486725%",
+        "left": "7.137500000000001%",
+        "color": "#07162d",
+        "width": "8.375%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Topic(s):",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.584070796460175%",
+        "left": "65.375%",
+        "color": "#07162d",
+        "width": "13.125%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CEUs Earned:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.94690265486725%",
+        "left": "65.38749999999999%",
+        "color": "#07162d",
+        "width": "16.5%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Course Duration:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.599646017699115%",
+        "left": "27.3%",
+        "color": "#07162d",
+        "width": "11.875%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Live Lecture",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.96460176991151%",
+        "left": "15.5%",
+        "color": "#07162d",
+        "width": "45.125%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Financial Risk Analysis / Investment Strategies",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.601769911504434%",
+        "left": "78.786%",
+        "color": "#07162d",
+        "width": "3.125%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "0.2",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.962477876106206%",
+        "left": "81.9%",
+        "color": "#07162d",
+        "width": "7.625%",
+        "height": "auto",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2 Hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88%",
+        "left": "7.124999999999999%",
+        "color": "#07162d",
+        "width": "12.5%",
+        "height": "auto",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Provider ID# 500356",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.3716814159292%",
+        "left": "6.98125%",
+        "color": "#07162d",
+        "width": "25.25%",
+        "height": "auto",
+        "fontSize": "9em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Approval valid from 01/01/2023 to 12/31/2026",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "87.1924778761062%",
+        "left": "42.496125%",
+        "width": "18.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/29-12-2024-02:41:27_international_finance_councilcontinuing_education_recognition_program.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jfzan504c1qvggmafgw9fhj3-1735486719676.png",
+  "isDefault": true,
+  "createdAt": "2024-12-25T16:33:32.166Z",
+  "updatedAt": "2025-03-19T11:00:35.987Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01jfzan504c1qvggmafgw9fhj3",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1931,
+  "categoryOrder": 620
+}

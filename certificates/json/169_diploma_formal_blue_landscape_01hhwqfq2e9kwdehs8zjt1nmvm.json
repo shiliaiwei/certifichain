@@ -1,0 +1,234 @@
+{
+  "name": "169_diploma_formal_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-12-2023-09:29:04_169_diploma_formal_blue_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.012367491166074%",
+        "left": "26.660125%",
+        "color": "#47617a",
+        "width": "49.157875%",
+        "height": "11.66077738515901%",
+        "fontSize": "51em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.15194346289752%",
+        "left": "34.309375%",
+        "color": "#47617a",
+        "width": "31.00525%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.33568904593639%",
+        "left": "37.999125%",
+        "color": "#47617a",
+        "width": "23.677125%",
+        "height": "4.240282685512367%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.67137809187279%",
+        "left": "37.18825%",
+        "color": "#47617a",
+        "width": "25.503124999999997%",
+        "height": "4.593639575971731%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Diploma is presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.386484098939931%",
+        "left": "17.2835%",
+        "color": "#47617a",
+        "width": "65.3125%",
+        "height": "10.954063604240282%",
+        "fontSize": "52em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COLLEGE DIPLOMA",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.25795053003533%",
+        "left": "15.028125000000001%",
+        "color": "#47617a",
+        "width": "12.534375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "College Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.25795053003533%",
+        "left": "24.961%",
+        "color": "#47617a",
+        "width": "49.753125%",
+        "height": "4.593639575971731%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "For successful completion of the College of Art.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.004416961130744%",
+        "left": "45.8875%",
+        "color": "#47617a",
+        "width": "10.753125%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "College logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.74204946996467%",
+        "left": "15.365625%",
+        "color": "#47617a",
+        "width": "11.909375%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Austen Patrick",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.6713780918728%",
+        "left": "72.145375%",
+        "color": "#47617a",
+        "width": "11.909375%",
+        "height": "3.180212014134275%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Austen Patrick",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.18727915194346%",
+        "left": "70.807875%",
+        "color": "#47617a",
+        "width": "14.534374999999999%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Assistant Director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "29.65989399293286%",
+        "left": "42.6375%",
+        "width": "2.875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-12-2023-09:31:44_j8mT4UsnH3FyvJW8sleab-Your_Logo_Here_1_.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hhwqfq2e9kwdehs8zjt1nmvm-1702845125095.png",
+  "isDefault": true,
+  "createdAt": "2023-12-17T20:29:07.537Z",
+  "updatedAt": "2025-03-19T10:59:59.692Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "completion"
+  },
+  "id": "01hhwqfq2e9kwdehs8zjt1nmvm",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2633,
+  "categoryOrder": 887
+}

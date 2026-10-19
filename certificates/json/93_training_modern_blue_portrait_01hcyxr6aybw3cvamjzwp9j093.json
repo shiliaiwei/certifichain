@@ -1,0 +1,252 @@
+{
+  "name": "93_training_modern_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-10-2023-03:47:11_93_training_modern_white_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "46.682625%",
+        "left": "6.05952296819788%",
+        "color": "#2f387e",
+        "width": "68.77491166077739%",
+        "height": "9.292975%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.491249999999997%",
+        "left": "11.16243816254417%",
+        "color": "#ffffff",
+        "width": "51.35000000000001%",
+        "height": "1.5918%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.70025%",
+        "left": "42.79628975265018%",
+        "color": "#212121",
+        "width": "23.543816254416964%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.95605%",
+        "left": "11.604187279151942%",
+        "color": "#2f387e",
+        "width": "16.863127208480567%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.70025%",
+        "left": "6.05952296819788%",
+        "color": "#212121",
+        "width": "14.61876325088339%",
+        "height": "2.2568375%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Donald Sharp",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.5%",
+        "left": "6.05952296819788%",
+        "color": "#2f387e",
+        "width": "69.38074204946997%",
+        "height": "55.75%",
+        "fontSize": "81em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "TRAINING CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.332%",
+        "left": "6.05952296819788%",
+        "color": "#212121",
+        "width": "16.66298586572438%",
+        "height": "3.0527375%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "IS PROUDLY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.36525%",
+        "left": "6.383904593639576%",
+        "color": "#212121",
+        "width": "68.73074204946997%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For creative, imaginative work and successful completion of the London Art School's Motion Design Course.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.61325%",
+        "left": "5.575035335689046%",
+        "color": "#212121",
+        "width": "23.73427561837456%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Motion Design Department",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.331%",
+        "left": "23.928975265017666%",
+        "color": "#0370e4",
+        "width": "20.380212014134276%",
+        "height": "3.0527375%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PRESENTED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.579125%",
+        "left": "50.22155477031802%",
+        "color": "#212121",
+        "width": "8.6933625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issue date",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.49805%",
+        "left": "6.05952296819788%",
+        "width": "4.109151943462897%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-03:30:34_AtWD4Q8PuBIyS6HhRrvoX-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "87.611375%",
+        "left": "6.024328621908128%",
+        "width": "11.329505300353357%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-03:30:58_gBAMSaaVjoQQN9igWF-bf-Group 391.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.307125%",
+        "left": "21.96201413427562%",
+        "width": "8.865671378091871%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-03:31:25_I2WQ1nttVm0yghSf6QlRD-Vector 214.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hcyxr6aybw3cvamjzwp9j093-1697623059827.png",
+  "isDefault": true,
+  "createdAt": "2023-10-17T13:38:36.527Z",
+  "updatedAt": "2025-03-19T10:59:52.204Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "modern",
+    "category": "training"
+  },
+  "id": "01hcyxr6aybw3cvamjzwp9j093",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2783,
+  "categoryOrder": 401
+}

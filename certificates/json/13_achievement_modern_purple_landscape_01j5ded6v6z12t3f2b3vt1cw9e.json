@@ -1,0 +1,271 @@
+{
+  "name": "13_achievement_modern_purple_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/16-08-2024-01:15:08_purple_modern_certificate_of_achievement_landscape_12803.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "52.477876106194685%",
+        "left": "25%",
+        "color": "#ffffff",
+        "width": "65.10194346289752%",
+        "height": "8.34375%",
+        "fontSize": "47em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.265486725663713%",
+        "left": "5.375%",
+        "color": "#ffffff",
+        "width": "80.38462897526502%",
+        "height": "5.5625%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.91150442477877%",
+        "left": "77.0875%",
+        "color": "#ffffff",
+        "width": "17.6678445229682%",
+        "height": "3.3378875000000003%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Garrett Seal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.849557522123893%",
+        "left": "66.875%",
+        "color": "#ffffff",
+        "width": "28.091872791519435%",
+        "height": "2.75%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "YOURCOMPANY.COM",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22%",
+        "left": "68.055375%",
+        "color": "#ffffff",
+        "width": "25.61431095406361%",
+        "height": "1.667975%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.05309734513274%",
+        "left": "19.2875%",
+        "color": "#ffffff",
+        "width": "21.374028268551235%",
+        "height": "2.502925%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.09125663716814%",
+        "left": "5.375%",
+        "color": "#ffffff",
+        "width": "13.875000000000002%",
+        "height": "3.982300884955752%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "ISSUING DATE:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.64601769911505%",
+        "left": "68.2365%",
+        "color": "#222e53",
+        "width": "26.501766784452297%",
+        "height": "11.125%",
+        "fontSize": "27em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Great Vibes, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Garrett Seal",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.672566371681416%",
+        "left": "5.375%",
+        "width": "24.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-08-22-12:37:36_Group 18557.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "21.65624778761062%",
+        "left": "51.9875%",
+        "color": "#ffffff",
+        "width": "16.125%",
+        "height": "3.982300884955752%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE NO:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.95575221238938%",
+        "left": "5.424999999999999%",
+        "color": "#ffffff",
+        "width": "23.847526501766787%",
+        "height": "3.7548875%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED TO:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "51.30973451327433%",
+        "left": "7.725%",
+        "width": "9.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-08-22-12:45:43_Frame.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.46930300884955%",
+        "left": "76.057625%",
+        "width": "18.625%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.5575221238938%",
+        "left": "83.986325%",
+        "color": "#ffffff",
+        "width": "10.777385159010601%",
+        "height": "3.5000000000000004%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Coach",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.02654867256636%",
+        "left": "6.25%",
+        "color": "#ffffff",
+        "width": "87.5%",
+        "height": "11.68141592920354%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "FOR YOUR PARTICIPATION ANDOUTSTANDING PERFORMANCE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j5ded6v6z12t3f2b3vt1cw9e-1723806948209.png",
+  "isDefault": true,
+  "createdAt": "2024-08-16T11:15:48.201Z",
+  "updatedAt": "2025-03-19T10:59:42.301Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "modern",
+    "category": "achievement"
+  },
+  "id": "01j5ded6v6z12t3f2b3vt1cw9e",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2153,
+  "categoryOrder": 140
+}

@@ -1,0 +1,372 @@
+{
+  "name": "22_course_professional_navy_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/20-08-22-9:02:50_Modern background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "32.55989399293286%",
+        "left": "21.01275%",
+        "color": "#fadb83",
+        "width": "57.25%",
+        "height": "12.54416961130742%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.9713780918728%",
+        "left": "41.09364089775561%",
+        "color": "#fadb83",
+        "width": "32.875%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.36749116607774%",
+        "left": "85.401375%",
+        "color": "#fadb83",
+        "width": "6.5%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Warsaw",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.36749116607774%",
+        "left": "8.125%",
+        "color": "#fadb83",
+        "width": "17.25%",
+        "height": "3.6081095406360424%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.32326855123675%",
+        "left": "32.3125%",
+        "color": "#fadb83",
+        "width": "35%",
+        "height": "14.992826855123672%",
+        "fontSize": "27em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "EB Garamond, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE\nOF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.650530035335684%",
+        "left": "10.491725%",
+        "color": "#fadb83",
+        "width": "16%",
+        "height": "3.356890459363958%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director & Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.29681978798587%",
+        "left": "37.0625%",
+        "color": "#fadb83",
+        "width": "25.5%",
+        "height": "3.8869257950530036%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.586925795053006%",
+        "left": "9.6655%",
+        "color": "#fadb83",
+        "width": "17.653375%",
+        "height": "3.8869257950530036%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Maria Davis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.837809187279156%",
+        "left": "8.4921875%",
+        "color": "#fadb83",
+        "width": "20%",
+        "height": "10.777385159010601%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Davis",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.78197879858658%",
+        "left": "76.375%",
+        "color": "#153243",
+        "width": "13.153375%",
+        "height": "3.05321554770318%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "yourwebsite.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.49081272084806%",
+        "left": "76.375%",
+        "color": "#153243",
+        "width": "17.278375%",
+        "height": "3.3306713780918726%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "youremail@gmail.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.73851590106007%",
+        "left": "36.0625%",
+        "color": "#fadb83",
+        "width": "27.500000000000004%",
+        "height": "8.8339222614841%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.25140845070422%",
+        "left": "33.57525%",
+        "color": "#fadb83",
+        "width": "32.125%",
+        "height": "15.901060070671377%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "EB Garamond, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "LOREM IPSUM DOLOR SIT AMET CONSECTETUR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.21554770318021%",
+        "left": "73.9155%",
+        "color": "#fadb83",
+        "width": "17.653375%",
+        "height": "3.8869257950530036%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "John Strong",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.837809187279156%",
+        "left": "72.74225%",
+        "color": "#fadb83",
+        "width": "20%",
+        "height": "10.777385159010601%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Strong",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.650530035335684%",
+        "left": "74.951625%",
+        "color": "#fadb83",
+        "width": "16%",
+        "height": "3.356890459363958%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "45.22968197879859%",
+        "left": "41.1875%",
+        "width": "17.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#fadb83"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "56.360424028268554%",
+        "left": "9.8671875%",
+        "width": "17.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#fadb83"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "56.360424028268554%",
+        "left": "74.118125%",
+        "width": "17.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#fadb83"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.9713780918728%",
+        "left": "31.537406483790527%",
+        "color": "#fadb83",
+        "width": "9.528325%",
+        "height": "3.05321554770318%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.4547703180212%",
+        "left": "7.1025375%",
+        "width": "13.642625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/20-08-22-9:06:56_Group 327.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12923-1661022484873.png",
+  "isDefault": true,
+  "createdAt": "2022-08-20T19:08:03.387Z",
+  "updatedAt": "2025-03-19T10:59:44.601Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "course"
+  },
+  "id": "01gayafcxva97x9h2yvfv3evh9",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2926,
+  "categoryOrder": 10
+}

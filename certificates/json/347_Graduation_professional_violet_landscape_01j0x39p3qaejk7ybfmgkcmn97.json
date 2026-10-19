@@ -1,0 +1,234 @@
+{
+  "name": "347_Graduation_professional_violet_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-06-2024-11:50:16_347_Graduation_professional_violet_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.571731448763245%",
+        "left": "11.670875%",
+        "color": "#2b3533",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "46em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.86501766784453%",
+        "left": "53.13875%",
+        "color": "#2b3533",
+        "width": "29.756875%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "57.60000000000001%",
+        "left": "16.328625%",
+        "color": "#2b3533",
+        "width": "31.30375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.97455830388694%",
+        "left": "21.203125%",
+        "color": "#2b3533",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Ralph Barnett",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.787632508833923%",
+        "left": "32.043375%",
+        "color": "#2b3533",
+        "width": "35.538125%",
+        "height": "7.420494699646643%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.1%",
+        "left": "14.207%",
+        "color": "#2b3533",
+        "width": "71.211%",
+        "height": "11.130742049469964%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Successfully completed all the requirements and obligations prescribed by the Michigan State University College of Human Medicine and is hereby conferred\u2028\nthe degree of Bachelor of Science in Human Biology.\n",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.625%",
+        "left": "9.845225%",
+        "color": "#2b3533",
+        "width": "80.307625%",
+        "height": "26.501766784452297%",
+        "fontSize": "43em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "GRADUATION CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.41978798586572%",
+        "left": "18.203125%",
+        "color": "#2b3533",
+        "width": "21.36725%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.97455830388694%",
+        "left": "62.940375%",
+        "color": "#2b3533",
+        "width": "15.367249999999999%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Alex Vasquez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.41978798586572%",
+        "left": "59.9395%",
+        "color": "#2b3533",
+        "width": "21.36725%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculty",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.34558303886926%",
+        "left": "44.089375%",
+        "width": "11.4443375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-11:48:23_QT4XsG-hMf1fKCoqhLcZK-Frame.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.20194346289753%",
+        "left": "24.077125%",
+        "width": "10.546875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-11:48:46_T9DbZG6TvERVkGXQi804g-Vector 226.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.49805653710247%",
+        "left": "64.40975%",
+        "width": "12.4267625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-06-2024-11:48:57_w1HYH_cn47BhvNSUysYAI-Vector 227.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0x39p3qaejk7ybfmgkcmn97-1718963460230.png",
+  "isDefault": true,
+  "createdAt": "2024-06-21T09:51:00.216Z",
+  "updatedAt": "2025-03-19T11:00:18.850Z",
+  "metadata": {
+    "lang": "en",
+    "color": "violet",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0x39p3qaejk7ybfmgkcmn97",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2273,
+  "categoryOrder": 199
+}

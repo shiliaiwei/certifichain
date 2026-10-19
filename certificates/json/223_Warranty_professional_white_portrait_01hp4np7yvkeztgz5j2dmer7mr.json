@@ -1,0 +1,316 @@
+{
+  "name": "223_Warranty_professional_white_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-02-2024-04:34:05_223_Warranty_professional_white_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "22.98725%",
+        "left": "6.205830388692579%",
+        "color": "#2d0d56",
+        "width": "72.75971731448763%",
+        "height": "5.9736375%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.546875%",
+        "left": "63.894169611307426%",
+        "color": "#363636",
+        "width": "29.19611307420495%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.05225%",
+        "left": "6.208586572438162%",
+        "color": "#363636",
+        "width": "21.102120141342755%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For the service",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.434625%",
+        "left": "64.31236749116607%",
+        "color": "#363636",
+        "width": "28.36095406360424%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "YOUR SUPPLIER LOGO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "2.65625%",
+        "left": "6.205830388692579%",
+        "color": "#2d0d56",
+        "width": "88.01342756183746%",
+        "height": "9.95605%",
+        "fontSize": "75em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Warranty ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.319375%",
+        "left": "6.207208480565372%",
+        "color": "#363636",
+        "width": "75.04558303886925%",
+        "height": "7.9628875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate entitles you to a privileged warranty service, provided that the service was purchased in the Radar 2.0 company store. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.330125%",
+        "left": "6.38113074204947%",
+        "color": "#363636",
+        "width": "90.06466431095407%",
+        "height": "7.9628875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "* Detailed terms and conditions of the guarantee certificate can be found at www.yourwebsite.com Phone number +1 (294) 046 - 8394.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.892625%",
+        "left": "63.894169611307426%",
+        "color": "#363636",
+        "width": "29.89876325088339%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.expired_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.850625%",
+        "left": "65.02455830388692%",
+        "color": "#363636",
+        "width": "21.36289752650177%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Miranda Ellington",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.309625%",
+        "left": "65.02314487632509%",
+        "color": "#363636",
+        "width": "15.003125%",
+        "height": "7.420494699646643%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Customer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.213875%",
+        "left": "64.31236749116607%",
+        "color": "#1e1e1e",
+        "width": "20.163427561837455%",
+        "height": "1.8584%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOUR TAGLINE HERE",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "29.412125%",
+        "left": "6.207208480565372%",
+        "width": "72.12614840989399%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#2d0d56"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.78225%",
+        "left": "6.207208480565372%",
+        "color": "#363636",
+        "width": "19.596113074204947%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Eden Abramson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.3105%",
+        "left": "6.207208480565372%",
+        "color": "#363636",
+        "width": "21.53957597173145%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sales consultant",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "49.875%",
+        "left": "6.226519434628976%",
+        "width": "22.77773851590106%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-04:17:53_Vtm54krd_XVJM7hwtvjQC-Capa 1.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.50200000000001%",
+        "left": "10.077579505300353%",
+        "color": "#604c3f",
+        "width": "15.072879858657243%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "QUALITY\nASSURANCE",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.628875%",
+        "left": "64.7374558303887%",
+        "width": "21.648586572438163%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-04:19:10_vQDj7wWfq4cVwk2kh5x7p-Vector 649.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.13575%",
+        "left": "6.204452296819787%",
+        "width": "30.286572438162544%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-02-2024-04:19:37_oJyzWauK8XqZ8riCPhxQ3-Vector 655.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hp4np7yvkeztgz5j2dmer7mr-1707406511519.png",
+  "isDefault": true,
+  "createdAt": "2024-02-08T15:34:27.037Z",
+  "updatedAt": "2025-03-19T11:00:06.154Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "completion"
+  },
+  "id": "01hp4np7yvkeztgz5j2dmer7mr",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2523,
+  "categoryOrder": 807
+}

@@ -1,0 +1,360 @@
+{
+  "name": "568_ConfinedSpace_professional_yellow_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-02-2025-10:41:36_568_confinedspace_professional_yellow_portrait-2.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.75%",
+        "left": "22.261484098939928%",
+        "color": "#000000",
+        "width": "55.65371024734982%",
+        "height": "auto",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "86.625%",
+        "left": "69.78798586572438%",
+        "width": "16.96113074204947%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-02-2025-10:32:46_john_doe.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.5%",
+        "left": "5.830388692579505%",
+        "width": "33.215547703180206%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-02-2025-10:32:49_group_20515.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.125%",
+        "left": "24.02826855123675%",
+        "width": "13.604240282685511%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-02-2025-10:32:52_group_20484.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.954297125%",
+        "left": "62.89752650176679%",
+        "width": "12.36749116607774%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-02-2025-10:32:56_group_20483.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.375%",
+        "left": "42.579505300353354%",
+        "width": "14.840989399293287%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-02-2025-10:32:59_group_20482.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90%",
+        "left": "60.600706713780916%",
+        "color": "#000",
+        "width": "35.51236749116608%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified Industrial Hygienist",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.25%",
+        "left": "5.830388692579505%",
+        "color": "#000",
+        "width": "31.802120141342755%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "To verify please visit: www.yourcompany.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.625%",
+        "left": "5.830388692579505%",
+        "color": "#000",
+        "width": "33.745583038869256%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Recommended renewal date: November 8, 2028",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.125%",
+        "left": "13.780918727915195%",
+        "color": "#000",
+        "width": "18.727915194346288%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90%",
+        "left": "15.724381625441698%",
+        "color": "#000",
+        "width": "13.604240282685511%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.5%",
+        "left": "24.91166077738516%",
+        "color": "#909090",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "for the successful completion of the",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.875%",
+        "left": "25.08833922261484%",
+        "color": "#909090",
+        "width": "50%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.25%",
+        "left": "7.597173144876325%",
+        "color": "#909090",
+        "width": "84.62897526501767%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Ensuring expertise in gas detection, ventilation, and toxic exposure",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "56.25%",
+        "left": "7.773851590106007%",
+        "color": "#909090",
+        "width": "82.86219081272085%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "prevention, this 12-hour training awarded 12 CPD points and complies",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.25%",
+        "left": "8.303886925795052%",
+        "color": "#909090",
+        "width": "83.21554770318022%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "with ROSPA and OSHA hazardous atmosphere regulations.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.75%",
+        "left": "15.107387279151943%",
+        "color": "#f0a518",
+        "width": "69.96466431095406%",
+        "height": "auto",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Achievement",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.625%",
+        "left": "66.43109540636041%",
+        "color": "#000",
+        "width": "28.4452296819788%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "www.yourcompany.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.375%",
+        "left": "2.5618374558303887%",
+        "color": "#000",
+        "width": "94.87632508833921%",
+        "height": "auto",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Monitoring for Confined Spaces course",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.125%",
+        "left": "5.830388692579505%",
+        "color": "#000",
+        "width": "7.950530035335689%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issued on:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.125%",
+        "left": "5.830388692579505%",
+        "color": "#000",
+        "width": "9.717314487632509%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jmatac6gj3tfebtmen0b1pjb-1740264601507.png",
+  "isDefault": true,
+  "createdAt": "2025-02-17T20:41:42.354Z",
+  "updatedAt": "2025-03-19T11:00:41.267Z",
+  "metadata": {
+    "lang": "en",
+    "color": "yellow",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01jmatac6gj3tfebtmen0b1pjb",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1828,
+  "categoryOrder": 118
+}

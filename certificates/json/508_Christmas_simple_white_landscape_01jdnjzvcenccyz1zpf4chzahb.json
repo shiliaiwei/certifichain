@@ -1,0 +1,298 @@
+{
+  "name": "508_Christmas_simple_white_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/27-11-2024-03:25:36_508_christmas_simple_white_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "17.468971631205672%",
+        "left": "20.84480600750939%",
+        "color": "#cb9b46",
+        "width": "57.75%",
+        "height": "12.493091872791519%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.22960992907802%",
+        "left": "36.42052565707134%",
+        "color": "#717171",
+        "width": "11.264080100125156%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.07801418439716%",
+        "left": "19.945244055068837%",
+        "color": "#3e3e3e",
+        "width": "60.200250312891114%",
+        "height": "auto",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In honor of exceptional support and commitment. Your contributions have been vital to our success, and we are truly grateful for the partnership.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.24734042553192%",
+        "left": "66.18585732165208%",
+        "color": "#717171",
+        "width": "15.143929912390488%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.05673758865248%",
+        "left": "25.69461827284105%",
+        "color": "#3e3e3e",
+        "width": "48.625%",
+        "height": "16.607773851590103%",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "End-of-Year Celebration \nCertificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.3758865248227%",
+        "left": "49.29286608260326%",
+        "color": "#3e3e3e",
+        "width": "17.521902377972467%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ISSUED ON:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.41134751773049%",
+        "left": "25.283166458072586%",
+        "color": "#3e3e3e",
+        "width": "11.13892365456821%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.9645390070922%",
+        "left": "19.285043804755947%",
+        "color": "#717171",
+        "width": "13.875000000000002%",
+        "height": "5.551572438162545%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CEO & Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.914893617021278%",
+        "left": "37.90362953692115%",
+        "color": "#3e3e3e",
+        "width": "23.625%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HAS BEEN AWARDED THE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.70921985815603%",
+        "left": "18.27127659574468%",
+        "color": "#3e3e3e",
+        "width": "15.903375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ROBIN ROBBINS",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "29.432624113475175%",
+        "left": "25.00625782227785%",
+        "width": "50%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#cb9b46"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75%",
+        "left": "65.78066332916144%",
+        "color": "#3e3e3e",
+        "width": "15.903375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CAMILLA GREENE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.25531914893617%",
+        "left": "66.80694618272841%",
+        "color": "#717171",
+        "width": "13.875000000000002%",
+        "height": "5.551572438162545%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.37588652482269%",
+        "left": "21.526908635794744%",
+        "width": "9.386733416770964%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2024-03:17:22_group_241.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.905141843971634%",
+        "left": "42.856695869837296%",
+        "width": "14.392991239048811%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2024-03:17:32_group_19967.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "67.90780141843972%",
+        "left": "70.33792240300374%",
+        "width": "6.88360450563204%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/27-11-2024-03:18:06_vector_40.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.638297872340424%",
+        "left": "38.178973717146434%",
+        "color": "#3e3e3e",
+        "width": "23.625%",
+        "height": "3.53356890459364%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Creststone Investments",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jdnjzvcenccyz1zpf4chzahb-1732674419225.png",
+  "isDefault": true,
+  "createdAt": "2024-11-27T01:15:23.408Z",
+  "updatedAt": "2025-03-19T11:00:32.187Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01jdnjzvcenccyz1zpf4chzahb",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2009,
+  "categoryOrder": 576
+}

@@ -1,0 +1,290 @@
+{
+  "name": "94_training_modern_pink_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/17-10-2023-04:11:39_94_training_modern_white_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.09893992932862%",
+        "left": "15.328125%",
+        "color": "#0f0f0f",
+        "width": "56.78325000000001%",
+        "height": "14.575971731448764%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.275618374558304%",
+        "left": "46.495125%",
+        "color": "#ffffff",
+        "width": "19.881875%",
+        "height": "2.385159010600707%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.4446996466431%",
+        "left": "55.387750000000004%",
+        "color": "#212121",
+        "width": "19.30375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.26183745583039%",
+        "left": "76.0625%",
+        "color": "#0b1937",
+        "width": "15.038125000000003%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.44593639575972%",
+        "left": "15.328125%",
+        "color": "#212121",
+        "width": "12.2109375%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "DM Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Thomas Dorsey",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.890459363957597%",
+        "left": "15.328125%",
+        "color": "#0f0f0f",
+        "width": "24.557625%",
+        "height": "7.420494699646643%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.586042402826855%",
+        "left": "15.328125%",
+        "color": "#0f0f0f",
+        "width": "41.506875%",
+        "height": "22.614840989399294%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.09893992932862%",
+        "left": "15.328125%",
+        "color": "#0b1937",
+        "width": "49.058625%",
+        "height": "7.950530035335689%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For enthusiasm, boundless creativity and high results in passing the course.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.05424028268551%",
+        "left": "15.336%",
+        "color": "#212121",
+        "width": "19.318375%",
+        "height": "8.8339222614841%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Director of Silhouette School",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.851978798586572%",
+        "left": "15.328125%",
+        "color": "#0f0f0f",
+        "width": "17.182625%",
+        "height": "5.30035335689046%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.70671378091873%",
+        "left": "15.328125%",
+        "color": "#0f0f0f",
+        "width": "25.506875%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Course: Design Patterns",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.70671378091873%",
+        "left": "48.621125%",
+        "color": "#0f0f0f",
+        "width": "17.006875%",
+        "height": "4.240282685512367%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Time: 450 hours",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "86.08727915194346%",
+        "left": "15.336658354114713%",
+        "width": "16.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#e385b3"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "85.7339222614841%",
+        "left": "55.387750000000004%",
+        "width": "11.5%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#e385b3"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.05424028268551%",
+        "left": "55.387750000000004%",
+        "color": "#212121",
+        "width": "8.6933625%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified on",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.113074204947%",
+        "left": "80.774375%",
+        "width": "5.6142625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/17-10-2023-04:08:49_Gl6nQ2IsPdXXq--fPiyks-Group 397.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hcz15mp2xgpvd3vq8x21a3v8-1697623081461.png",
+  "isDefault": true,
+  "createdAt": "2023-10-17T14:38:22.916Z",
+  "updatedAt": "2025-03-19T10:59:52.252Z",
+  "metadata": {
+    "lang": "en",
+    "color": "pink",
+    "style": "modern",
+    "category": "training"
+  },
+  "id": "01hcz15mp2xgpvd3vq8x21a3v8",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2782,
+  "categoryOrder": 400
+}

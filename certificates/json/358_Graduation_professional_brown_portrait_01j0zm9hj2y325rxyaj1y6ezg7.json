@@ -1,0 +1,270 @@
+{
+  "name": "358_Graduation_professional_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-06-2024-11:26:06_358_Graduation_professional_brown_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "30.455125%",
+        "left": "26.058657243816253%",
+        "color": "#542e0b",
+        "width": "47.35265017667845%",
+        "height": "3.9824249999999997%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.90825%",
+        "left": "55.890282685512375%",
+        "color": "#542e0b",
+        "width": "33.54964664310954%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.173875%",
+        "left": "3.483197879858657%",
+        "color": "#542e0b",
+        "width": "92.502%",
+        "height": "13.51590106007067%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of successful completion of the \nBachelor of Science in Surgery program. Through \ndetermination and hard work, a high level \nof academic excellence and professional \ncompetence has been demonstrated.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.626000000000005%",
+        "left": "15.60844522968198%",
+        "color": "#542e0b",
+        "width": "19.896996466431098%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Connon Hailey",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.841800000000001%",
+        "left": "8.718586572438163%",
+        "color": "#542e0b",
+        "width": "82.1875%",
+        "height": "10.86572438162544%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "GRADUATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.810500000000005%",
+        "left": "31.222968197879858%",
+        "color": "#542e0b",
+        "width": "37.02385159010601%",
+        "height": "3.0527375%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate is presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.975625%",
+        "left": "14.217102473498233%",
+        "color": "#542e0b",
+        "width": "22.679681978798584%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.376%",
+        "left": "60.909893992932865%",
+        "color": "#542e0b",
+        "width": "23.96060070671378%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Emily Martinez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.002875%",
+        "left": "25.41272084805654%",
+        "color": "#542e0b",
+        "width": "48.6404593639576%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "University of Wisconsin Medical School",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.642625%",
+        "left": "11.627650176678445%",
+        "color": "#000",
+        "width": "27.675088339222615%",
+        "height": "1.7255875%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.975625%",
+        "left": "57.58056537102474%",
+        "color": "#542e0b",
+        "width": "30.17332155477032%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "57.72462500000001%",
+        "left": "16.486289752650176%",
+        "width": "17.676148409893994%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-06-2024-11:17:02_8aI2tqXIw4uHyZQLdSAGd-Vector 245.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "57.72462500000001%",
+        "left": "60.39717314487633%",
+        "width": "16.12881625441696%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-06-2024-11:18:27_9ubOgn9ZZ21xZCXlIrFCR-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.923875%",
+        "left": "37.936219081272085%",
+        "width": "23.75088339222615%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-06-2024-11:20:13_h9BmFIw12ZcudK16HqIPQ-Frame.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.750000000000002%",
+        "left": "8.718586572438163%",
+        "color": "#542e0b",
+        "width": "82.1875%",
+        "height": "10.86572438162544%",
+        "fontSize": "59em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0zm9hj2y325rxyaj1y6ezg7-1719048424033.png",
+  "isDefault": true,
+  "createdAt": "2024-06-22T09:26:30.212Z",
+  "updatedAt": "2025-03-19T11:00:20.072Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0zm9hj2y325rxyaj1y6ezg7",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2250,
+  "categoryOrder": 177
+}

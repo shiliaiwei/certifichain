@@ -1,0 +1,363 @@
+{
+  "name": "51_participation_formal_darkviolet_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/31-08-2023-05:04:12_51_participation_formal_darkviolet_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "40.9395%",
+        "left": "15.502084805653709%",
+        "color": "#111948",
+        "width": "66.87561837455831%",
+        "height": "6.636725%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.403375%",
+        "left": "14.509717314487633%",
+        "color": "#111948",
+        "width": "20.436749116607775%",
+        "height": "1.7255875%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.003875%",
+        "left": "65.14593639575972%",
+        "color": "#111948",
+        "width": "20.969611307420497%",
+        "height": "1.7255875%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.881875%",
+        "left": "15.963180212014136%",
+        "color": "#111948",
+        "width": "17.529823321554773%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DR. ABBIE ROBBINS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.92285%",
+        "left": "43.39664310954063%",
+        "color": "#111948",
+        "width": "17.5173851590106%",
+        "height": "1.9902375%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "35.691375%",
+        "left": "37.564840989399286%",
+        "color": "#9c7942",
+        "width": "24.867491166077738%",
+        "height": "1.5918%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THIS IS TO CERTIFY THAT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.621125000000006%",
+        "left": "17.798233215547704%",
+        "color": "#111948",
+        "width": "60.41713780918728%",
+        "height": "7.9609375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "demonstrated exceptional engagement and involvement during the Sci-Research Workshop, which took place from 02-04 April 2023, where she exhibited an enthusiastic and dedicated approach, actively participating for a total of 12 hours.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.403375%",
+        "left": "18.2178445229682%",
+        "color": "#111948",
+        "width": "13.021749116607776%",
+        "height": "1.8584%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.30475%",
+        "left": "15.732667844522968%",
+        "color": "#111948",
+        "width": "66.4118374558304%",
+        "height": "14.625%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Marcellus, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate\nof participation",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "50.44825000000001%",
+        "left": "19.286925795053005%",
+        "width": "61.3985%",
+        "height": "0.125%",
+        "backgroundColor": "#9c7942"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.11525%",
+        "left": "20.319434628975262%",
+        "color": "#111948",
+        "width": "8.8183625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.153375%",
+        "left": "69.42367491166077%",
+        "color": "#111948",
+        "width": "12.411660777385158%",
+        "height": "1.7255875%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issuing Date:",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "77.315875%",
+        "left": "67.34893992932862%",
+        "width": "16.91696113074205%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#9c7942"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.734375%",
+        "left": "68.88533568904593%",
+        "color": "#111948",
+        "width": "13.49225%",
+        "height": "2.65017667844523%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JAMES FRASER",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.11525%",
+        "left": "72.28427561837456%",
+        "color": "#111948",
+        "width": "6.693362499999999%",
+        "height": "3.0035335689045937%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CTO",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.65425%",
+        "left": "41.786572438162544%",
+        "width": "16.422809187279153%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-04:40:59_gyj_LeJK5_FvNibtsPifN-Group 398.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.6015%",
+        "left": "42.829328621908125%",
+        "color": "#9c7942",
+        "width": "14.334416961130742%",
+        "height": "1.32715%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPLETED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.86575%",
+        "left": "47.2517667844523%",
+        "color": "#9c7942",
+        "width": "5.4921875%",
+        "height": "2.1201413427561837%",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.40525%",
+        "left": "65.39593639575972%",
+        "width": "25.10070671378092%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-04:43:27_AduaJBESrhwtsweNylb8X-Vector 227.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.40825%",
+        "left": "15.964540636042404%",
+        "width": "14.871360424028268%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-04:43:45_PWdWHlpzckEeI1bx0nkzP-Vector 226.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.763675%",
+        "left": "39.897526501766784%",
+        "width": "3.3251413427561833%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-04:44:53_vxYR9a2R8aK9Bc_z-dZDk-Group.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "77.315375%",
+        "left": "16.446289752650177%",
+        "width": "16.91696113074205%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#9c7942"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h9621q7fcjkyg6t32qwsnysp-1693818324649.png",
+  "isDefault": true,
+  "createdAt": "2023-08-31T15:05:36.753Z",
+  "updatedAt": "2025-09-10T14:56:27.181Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "participation"
+  },
+  "id": "01h9621q7fcjkyg6t32qwsnysp",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2864,
+  "categoryOrder": 39
+}

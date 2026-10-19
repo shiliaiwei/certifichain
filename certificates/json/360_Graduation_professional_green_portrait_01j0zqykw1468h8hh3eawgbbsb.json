@@ -1,0 +1,270 @@
+{
+  "name": "360_Graduation_professional_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-06-2024-12:30:13_360_Graduation_professional_green_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.74840989399293%",
+        "left": "11.6664875%",
+        "color": "#2d2d2d",
+        "width": "76.28374558303888%",
+        "height": "7.832025%",
+        "fontSize": "41em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.797875%",
+        "left": "33.427385159010605%",
+        "color": "#2d2d2d",
+        "width": "33.495759717314485%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "91.6485%",
+        "left": "29.692932862190812%",
+        "color": "#828282",
+        "width": "41.116431095406355%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.01950000000001%",
+        "left": "15.00524734982332%",
+        "color": "#2d2d2d",
+        "width": "22.257420494699648%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "DANIEL HOLMES",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.9296875%",
+        "left": "28.52862190812721%",
+        "color": "#2d2d2d",
+        "width": "42.413125%",
+        "height": "6.890459363957597%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Wisconsin Technical University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "30.182625%",
+        "left": "35.24240282685513%",
+        "color": "#2d2d2d",
+        "width": "28.986219081272086%",
+        "height": "2.625%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "41.40825%",
+        "left": "6.105070671378091%",
+        "color": "#2d2d2d",
+        "width": "85.45724381625442%",
+        "height": "10.6171875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of the successful completion of the Master's degree program in Transportation Infrastructure Engineering. This program, designed to provide advanced knowledge and skills\u2028\nin the field of transportation infrastructure engineering.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.0546875%",
+        "left": "9.095512367491168%",
+        "color": "#2d2d2d",
+        "width": "81.432625%",
+        "height": "27.56183745583039%",
+        "fontSize": "71em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Graduation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.815375%",
+        "left": "66.18409893992933%",
+        "color": "#2d2d2d",
+        "width": "22.080742049469965%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "GEORGE NELSON",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.59375%",
+        "left": "12.662155477031803%",
+        "color": "#828282",
+        "width": "26.312720848056536%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "President of University",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "64.59375%",
+        "left": "66.71413427561838%",
+        "color": "#828282",
+        "width": "21.020671378091873%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "54.255874999999996%",
+        "left": "19.498056537102475%",
+        "width": "12.64492932862191%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-06-2024-12:16:23_qz3PX1rs6PsFUMOPP3v4Y-Vector 221.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "54.747125%",
+        "left": "70.55618374558304%",
+        "width": "12.633886925795053%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-06-2024-12:16:52_V0Cq6ZopGNI6iJvsrDYEV-Vector 222.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.69725%",
+        "left": "40.21501766784452%",
+        "width": "19.191696113074205%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-06-2024-12:17:09_BJr-a8CnR4tE053wMPqwD-Frame.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.625%",
+        "left": "9.459204946996467%",
+        "color": "#2d2d2d",
+        "width": "81.432625%",
+        "height": "27.56183745583039%",
+        "fontSize": "71em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j0zqykw1468h8hh3eawgbbsb-1719052226445.png",
+  "isDefault": true,
+  "createdAt": "2024-06-22T10:30:26.435Z",
+  "updatedAt": "2025-03-19T11:00:20.308Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "professional",
+    "category": "achievement"
+  },
+  "id": "01j0zqykw1468h8hh3eawgbbsb",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2246,
+  "categoryOrder": 173
+}

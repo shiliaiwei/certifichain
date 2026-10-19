@@ -1,0 +1,270 @@
+{
+  "name": "141_completion_simple_brown_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-11-2023-08:29:02_141_completion_simple_brown_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "45.513%",
+        "left": "20.751060070671375%",
+        "color": "#6a4b2e",
+        "width": "60.230212014134274%",
+        "height": "5.9739625%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Playfair Display, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.522575%",
+        "left": "29.442756183745583%",
+        "color": "#6a4b2e",
+        "width": "40.724381625441694%",
+        "height": "1.7257000000000002%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.6553875%",
+        "left": "32.763957597173146%",
+        "color": "#6a4b2e",
+        "width": "33.92226148409894%",
+        "height": "1.7257000000000002%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.862875%",
+        "left": "9.948003533568905%",
+        "color": "#6a4b2e",
+        "width": "20.821024734982334%",
+        "height": "2.9184%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Jessica Sutton",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "42.1285%",
+        "left": "27.353180212014134%",
+        "color": "#6a4b2e",
+        "width": "47.07014134275618%",
+        "height": "2.65625%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is granted to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.21525%",
+        "left": "10.97494699646643%",
+        "color": "#6a4b2e",
+        "width": "77.5422261484099%",
+        "height": "5.7083375%",
+        "fontSize": "90em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPLETION ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.864625%",
+        "left": "9.53690812720848%",
+        "color": "#6a4b2e",
+        "width": "22.24929328621908%",
+        "height": "2.125%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Business Analyst",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.52600000000001%",
+        "left": "22.119081272084806%",
+        "color": "#6a4b2e",
+        "width": "57.45247349823322%",
+        "height": "5.3125%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successful completion of the course 'Business Analyst in IT'. ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.864625%",
+        "left": "67.5904593639576%",
+        "color": "#6a4b2e",
+        "width": "20.659187279151944%",
+        "height": "2.9184%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Product Owner",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.95225%",
+        "left": "65.94399293286219%",
+        "color": "#6a4b2e",
+        "width": "23.99399293286219%",
+        "height": "2.125%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Horace Hamilton",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74.829875%",
+        "left": "14.269240282685514%",
+        "width": "12.21535335689046%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-11-2023-08:16:00_SFasg9JMPfLrPyf2lIhj1-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.647625%",
+        "left": "69.17932862190813%",
+        "width": "17.569681978798588%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-11-2023-08:16:06_30YKeg0OXC4hSJk_QFDL7-path38.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "73.855%",
+        "left": "40.271554770318026%",
+        "width": "19.024911660777384%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/26-11-2023-08:16:12_LpYNQKYR2xdo-8YDdPJiX-logo.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.04775%",
+        "left": "42.52438162544169%",
+        "color": "#6a4b2e",
+        "width": "14.519540636042402%",
+        "height": "5.8368%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.486125%",
+        "left": "11.033816254416962%",
+        "color": "#6a4b2e",
+        "width": "77.5422261484099%",
+        "height": "5.7083375%",
+        "fontSize": "90em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": " CERTIFICATE",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hg6hpyz53aceyw4m1z8rtqxq-1701026954236.png",
+  "isDefault": true,
+  "createdAt": "2023-11-26T19:29:14.215Z",
+  "updatedAt": "2025-03-19T10:59:57.048Z",
+  "metadata": {
+    "lang": "en",
+    "color": "black",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01hg6hpyz53aceyw4m1z8rtqxq",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2687,
+  "categoryOrder": 911
+}

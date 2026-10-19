@@ -1,0 +1,353 @@
+{
+  "name": "31_achievement_modern_orange_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-08-22-1:17:49_Recognition Certificate MODERN 5 portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "30.800498753117203%",
+        "left": "12.410936395759718%",
+        "color": "#ff6542",
+        "width": "75.70265017667845%",
+        "height": "9.73535%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "43.203125%",
+        "left": "15.899028268551238%",
+        "color": "#564154",
+        "width": "68.7279151943463%",
+        "height": "5.875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has been recognized with an outstanding performance\nduring 2022 FALL in Customer Success Conference:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.25%",
+        "left": "35.86360424028269%",
+        "color": "#ff6542",
+        "width": "28.79858657243816%",
+        "height": "2.875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Hereby certifies that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.10586034912718%",
+        "left": "27.207067137809187%",
+        "color": "#ff6542",
+        "width": "46.1090106007067%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.00299251870325%",
+        "left": "34.89399293286219%",
+        "color": "#ff6542",
+        "width": "30.737985865724383%",
+        "height": "2.502925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.5%",
+        "left": "24.214664310954063%",
+        "color": "#564154",
+        "width": "15.371024734982333%",
+        "height": "2.5%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Andrew Fallon",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.690374999999996%",
+        "left": "19.625088339222614%",
+        "color": "#564154",
+        "width": "24.558303886925795%",
+        "height": "5.840825%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Dancing Script, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Fallon",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.773%",
+        "left": "22.97791519434629%",
+        "color": "#ff6542",
+        "width": "17.84452296819788%",
+        "height": "2.125%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Marketing Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.6208229426434%",
+        "left": "40.282685512367486%",
+        "color": "#564154",
+        "width": "19.960600706713784%",
+        "height": "2.780275%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of issue",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.599077306733166%",
+        "left": "22.173144876325086%",
+        "color": "#564154",
+        "width": "56.17968197879858%",
+        "height": "9.125%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.207855361596%",
+        "left": "40.282685512367486%",
+        "color": "#564154",
+        "width": "19.960600706713784%",
+        "height": "2.780275%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "51.267625%",
+        "left": "29.67985865724382%",
+        "color": "#564154",
+        "width": "41.1660777385159%",
+        "height": "8.375%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " \u30fbLeadership Skills\n\u30fbClient Retention Focus\n\u30fbTeam-oriented management",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.93715710723192%",
+        "left": "25%",
+        "color": "#564154",
+        "width": "50.52597173144876%",
+        "height": "5.375%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "69.65725%",
+        "left": "20.59399293286219%",
+        "width": "22.968197879858657%",
+        "height": "0.125%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.5%",
+        "left": "58.8339222614841%",
+        "color": "#564154",
+        "width": "19.081272084805654%",
+        "height": "2.2246125%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jessica Colbert",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.7725%",
+        "left": "59.45229681978799%",
+        "color": "#ff6542",
+        "width": "17.84452296819788%",
+        "height": "2.125%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.689499999999995%",
+        "left": "54.328621908127204%",
+        "color": "#564154",
+        "width": "27.208480565371023%",
+        "height": "9.125%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Dancing Script, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Colvert",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "69.65725%",
+        "left": "56.62544169611308%",
+        "width": "22.968197879858657%",
+        "height": "0.125%",
+        "backgroundColor": "#000"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "89.643125%",
+        "left": "5.859381625441696%",
+        "width": "12.159063604240284%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-08-22-1:18:02_Logo Placeholder.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "3.8994125%",
+        "left": "84.97826855123675%",
+        "width": "8.974717314487632%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-08-22-1:18:20_Group.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12994-1661167238439.png",
+  "isDefault": true,
+  "createdAt": "2022-08-22T11:20:22.613Z",
+  "updatedAt": "2025-03-19T10:59:45.616Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "modern",
+    "category": "achievement"
+  },
+  "id": "01gb2mgftnk1zzrdb4nxtv9hgd",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2908,
+  "categoryOrder": 291
+}

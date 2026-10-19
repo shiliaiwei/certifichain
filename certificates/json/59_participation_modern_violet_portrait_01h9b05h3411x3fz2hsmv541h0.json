@@ -1,0 +1,281 @@
+{
+  "name": "59_participation_modern_violet_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/02-09-2023-03:08:46_59_participation_modern_violet_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "42.74125%",
+        "left": "16.397243816254417%",
+        "color": "#512672",
+        "width": "69.28286219081272%",
+        "height": "8.09765%",
+        "fontSize": "70em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.993125%",
+        "left": "4.999416961130742%",
+        "color": "#000000",
+        "width": "22.617667844522966%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.169%",
+        "left": "71.19734982332156%",
+        "color": "#000000",
+        "width": "21.22756183745583%",
+        "height": "1.9902375%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Open Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.84575%",
+        "left": "56.333392226148405%",
+        "color": "#512672",
+        "width": "25.725971731448766%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Brandon Cooper",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.994125%",
+        "left": "40.91342756183746%",
+        "color": "#000000",
+        "width": "20.254593639575972%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.8945%",
+        "left": "12.537985865724382%",
+        "color": "#000000",
+        "width": "77.00282685512367%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has actively participated in the webinar \"Trends in Contemporary Art\", which was held on February 9-10, 2023",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.221625%",
+        "left": "36.802826855123676%",
+        "color": "#000000",
+        "width": "26.01183745583039%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.516624999999998%",
+        "left": "15.800971731448762%",
+        "color": "#512672",
+        "width": "67.86802120141343%",
+        "height": "4.6464875%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate of Participation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.92975%",
+        "left": "58.32102473498233%",
+        "color": "#000000",
+        "width": "21.750706713780918%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "74.202125%",
+        "left": "22.447879858657245%",
+        "width": "16.497349823321557%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#512672"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.753875%",
+        "left": "17.775618374558302%",
+        "color": "#000000",
+        "width": "25.71219081272085%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CTO Company name",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.84575%",
+        "left": "22.44911660777385%",
+        "color": "#512672",
+        "width": "16.36725%",
+        "height": "5.30035335689046%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "John Alma",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "16.169%",
+        "left": "37.69187279151944%",
+        "width": "3.2575088339222615%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-09-2023-02:54:32_4cnPitEDerqkaqVW2Yhhz-Ellipse 86.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "84.267625%",
+        "left": "44.209717314487634%",
+        "width": "11.049310954063603%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-09-2023-02:55:06_65mQX-RnSd6chbgESnx3X-Group 413.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "66.125%",
+        "left": "19.05565371024735%",
+        "width": "20.690636042402826%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-09-2023-02:55:39_zqolnfh9nMVxR7_zxUn6f-Vector 254.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.417%",
+        "left": "62.99010600706714%",
+        "width": "12.411660777385158%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/02-09-2023-02:56:16_DENfFFdpkEqvUFXxPvo88-Vector 255.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "74.014625%",
+        "left": "61.123144876325085%",
+        "width": "16.497349823321557%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#512672"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h9b05h3411x3fz2hsmv541h0-1693819270730.png",
+  "isDefault": true,
+  "createdAt": "2023-09-02T13:08:56.550Z",
+  "updatedAt": "2025-09-10T14:56:27.951Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "modern",
+    "category": "participation"
+  },
+  "id": "01h9b05h3411x3fz2hsmv541h0",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2848,
+  "categoryOrder": 26
+}

@@ -1,0 +1,279 @@
+{
+  "name": "260_Appreciation_professional_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/05-03-2024-03:16:38_260_Appreciation_professional_blue_portrait.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "28.8985%",
+        "left": "27.116077738515905%",
+        "color": "#313d4f",
+        "width": "70.54169611307421%",
+        "height": "8.6289%",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.0625%",
+        "left": "27.858657243816253%",
+        "color": "#123d56",
+        "width": "27.506713780918723%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.15825%",
+        "left": "27.858657243816253%",
+        "color": "#3f3f3f",
+        "width": "24.75989399293286%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.839875%",
+        "left": "27.116077738515905%",
+        "color": "#3f3f3f",
+        "width": "34.836042402826855%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has successfully completed",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.6005875%",
+        "left": "27.116077738515905%",
+        "color": "#313d4f",
+        "width": "36.76572438162544%",
+        "height": "7.300775%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.41312500000001%",
+        "left": "27.116077738515905%",
+        "color": "#313d4f",
+        "width": "67.9356890459364%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Strategic Business Management Training",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "24.502%",
+        "left": "27.116077738515905%",
+        "color": "#3f3f3f",
+        "width": "27.403180212014135%",
+        "height": "2.7871125%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.539%",
+        "left": "72.57349823321555%",
+        "color": "#3f3f3f",
+        "width": "22.124911660777386%",
+        "height": "2.124025%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.9595%",
+        "left": "72.57349823321555%",
+        "color": "#3f3f3f",
+        "width": "20.26007067137809%",
+        "height": "5.25%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Heather Smith",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.0722625%",
+        "left": "27.116077738515905%",
+        "color": "#313d4f",
+        "width": "55.01466431095407%",
+        "height": "7.300775%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of Appreciation",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "65.3515%",
+        "left": "63.52968197879858%",
+        "width": "8.465388692579506%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-03-2024-03:19:47_aokAoFIvnPsHvnVqVDg_D-Vector 651.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "80.931625%",
+        "left": "67.5863957597173%",
+        "width": "20.727915194346288%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-03-2024-03:21:35_sObqwtB9Nak7T_DxXMJfC-Group 18726.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.875%",
+        "left": "72.17031802120141%",
+        "color": "#313d4f",
+        "width": "11.561395759717314%",
+        "height": "5.044925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED\n2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.3745125000000002%",
+        "left": "7.771095406360424%",
+        "color": "#313d4f",
+        "width": "11.561395759717314%",
+        "height": "5.044925%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY\nLOGO",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.0141625%",
+        "left": "2.65017667844523%",
+        "width": "4.946996466431095%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-03-2024-03:23:17_yD3FM0taE2bPo7rt0zdDR-Icon_1_.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.951125%",
+        "left": "27.858657243816253%",
+        "width": "17.84452296819788%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/05-03-2024-03:24:52_gmE-vAz70NL8wiOcMlQhH-Group 391.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hr7g3szqbemxwqq652b28pt6-1709648766978.png",
+  "isDefault": true,
+  "createdAt": "2024-03-05T14:26:06.971Z",
+  "updatedAt": "2025-03-19T11:00:08.611Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "appreciation"
+  },
+  "id": "01hr7g3szqbemxwqq652b28pt6",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2479,
+  "categoryOrder": 130
+}

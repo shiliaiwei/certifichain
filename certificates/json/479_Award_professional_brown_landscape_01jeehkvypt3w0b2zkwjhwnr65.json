@@ -1,0 +1,244 @@
+{
+  "name": "479_Award_professional_brown_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/06-12-2024-05:50:20_479_award_professional_brown_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.07964601769912%",
+        "left": "20.5%",
+        "color": "#242424",
+        "width": "59.03325%",
+        "height": "16.96113074204947%",
+        "fontSize": "49em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "93.80530973451327%",
+        "left": "36.875%",
+        "color": "#5e5e5e",
+        "width": "26.125%",
+        "height": "auto",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.08849557522124%",
+        "left": "39.598124999999996%",
+        "color": "#5e5e5e",
+        "width": "20.80375%",
+        "height": "3.4452296819787986%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.150442477876105%",
+        "left": "38.6875%",
+        "color": "#5e5e5e",
+        "width": "22.625%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "11.858407079646017%",
+        "left": "23.375%",
+        "color": "#242424",
+        "width": "53.37499999999999%",
+        "height": "auto",
+        "fontSize": "37em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARD CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.35398230088495%",
+        "left": "13.25%",
+        "color": "#242424",
+        "width": "13.875000000000002%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Finley Reese",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.91150442477876%",
+        "left": "20.1875%",
+        "color": "#5e5e5e",
+        "width": "59.62499999999999%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For exceptional dedication, outstanding work ethic, and remarkable contributions to the team, earning her the title of Employee of the Month. Your consistent performance and commitment to excellence have made a significant impact, and this award honors her achievements.",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.901963539823015%",
+        "left": "28.249999999999996%",
+        "width": "44%",
+        "height": "0.17699115044247787%",
+        "backgroundColor": "#626460"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.53097345132744%",
+        "left": "72.9375%",
+        "color": "#242424",
+        "width": "13.875000000000002%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Avery Quinn",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.30088495575221%",
+        "left": "8.9375%",
+        "color": "#5e5e5e",
+        "width": "22.625%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.4778761061947%",
+        "left": "68.625%",
+        "color": "#5e5e5e",
+        "width": "22.625%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Chief Operations Officer",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.22123893805309%",
+        "left": "40.125%",
+        "width": "19.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-05:48:11_logo.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.81525663716815%",
+        "left": "73.25%",
+        "width": "13.625000000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-05:49:00_group_19809.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.2270442477876%",
+        "left": "15%",
+        "width": "10.375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/06-12-2024-05:49:25_vector_459.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jeehkvypt3w0b2zkwjhwnr65-1733507543009.png",
+  "isDefault": true,
+  "createdAt": "2024-12-06T17:52:23.000Z",
+  "updatedAt": "2025-03-19T11:00:33.757Z",
+  "metadata": {
+    "lang": "en",
+    "color": "brown",
+    "style": "professional",
+    "category": "recognition"
+  },
+  "id": "01jeehkvypt3w0b2zkwjhwnr65",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 1974,
+  "categoryOrder": 544
+}

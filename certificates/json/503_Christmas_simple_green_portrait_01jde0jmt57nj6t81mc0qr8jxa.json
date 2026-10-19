@@ -1,0 +1,318 @@
+{
+  "name": "503_Christmas_simple_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/26-11-2024-12:08:37_503_christmas_simple_green_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.094531250000003%",
+        "left": "9.540636042402827%",
+        "color": "#f0d59f",
+        "width": "80.91872791519434%",
+        "height": "auto",
+        "fontSize": "72em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Whisper, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.125%",
+        "left": "25.937455830388696%",
+        "color": "#f0d59f",
+        "width": "48.0565371024735%",
+        "height": "auto",
+        "fontSize": "30em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CHRISTMAS CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.4171875%",
+        "left": "19.34302120141343%",
+        "color": "#f0d59f",
+        "width": "61.83745583038869%",
+        "height": "auto",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "In celebration of the holiday season, we honor your contributions and the joy you bring to our community. Your dedication and spirit have made a lasting impact, and we are grateful for all you do.\n\nWishing you a Merry Christmas and a New Year filled with happiness and success!",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.38750000000001%",
+        "left": "34.01731448763251%",
+        "color": "#f0d59f",
+        "width": "16.25441696113074%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE NO:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.375%",
+        "left": "32.23286219081272%",
+        "color": "#f0d59f",
+        "width": "18.021201413427562%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "PRESENTED THIS ON:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "63.37109374999999%",
+        "left": "51.41342756183745%",
+        "color": "#f0d59f",
+        "width": "23.498233215547703%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27%",
+        "left": "28.091872791519435%",
+        "color": "#f0d59f",
+        "width": "43.99293286219081%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.5%",
+        "left": "38.77314487632509%",
+        "color": "#f0d59f",
+        "width": "22.43816254416961%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.7375%",
+        "left": "20.403047703180214%",
+        "color": "#f0d59f",
+        "width": "11.484098939929329%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JUDE ROGERS",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.6609375%",
+        "left": "66.99204946996467%",
+        "color": "#f0d59f",
+        "width": "14.13427561837456%",
+        "height": "auto",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MATHEW MUNDY",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.5%",
+        "left": "19.430212014134273%",
+        "color": "#f0d59f",
+        "width": "13.427561837455832%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company President",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.375%",
+        "left": "70.68683745583039%",
+        "color": "#f0d59f",
+        "width": "6.713780918727916%",
+        "height": "auto",
+        "fontSize": "10em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Manager",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "39.5%",
+        "left": "23.674911660777383%",
+        "width": "53.18021201413428%",
+        "height": "0.125%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "81.75%",
+        "left": "65.71886042402826%",
+        "width": "16.431095406360424%",
+        "height": "0.125%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "81.875%",
+        "left": "17.839001766784452%",
+        "width": "16.607773851590103%",
+        "height": "0.125%",
+        "backgroundColor": "#f0d59f"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.49609375%",
+        "left": "51.23674911660777%",
+        "color": "#f0d59f",
+        "width": "23.674911660777383%",
+        "height": "auto",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72%",
+        "left": "13.604240282685511%",
+        "width": "22.968197879858657%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-11-2024-03:25:17_path_28.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.5125%",
+        "left": "43.10512367491166%",
+        "width": "13.957597173144876%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-11-2024-03:25:25_group_19925.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.4625%",
+        "left": "63.60424028268551%",
+        "width": "22.43816254416961%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/24-11-2024-03:25:38_group_41.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jde0jmt57nj6t81mc0qr8jxa-1732619337543.png",
+  "isDefault": true,
+  "createdAt": "2024-11-24T02:38:55.303Z",
+  "updatedAt": "2025-03-19T11:00:31.747Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "recognition"
+  },
+  "id": "01jde0jmt57nj6t81mc0qr8jxa",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2018,
+  "categoryOrder": 585
+}

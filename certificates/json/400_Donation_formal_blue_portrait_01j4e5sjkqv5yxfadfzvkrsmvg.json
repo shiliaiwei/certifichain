@@ -1,0 +1,252 @@
+{
+  "name": "400_Donation_formal_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/04-08-2024-09:48:35_400_Donation_formal_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.88575%",
+        "left": "18.04469964664311%",
+        "color": "#091953",
+        "width": "64.40825%",
+        "height": "14.045936395759718%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.417975%",
+        "left": "35.40600706713781%",
+        "color": "#4d5985",
+        "width": "29.336925795053006%",
+        "height": "1.5918%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.90825%",
+        "left": "35.58074204946997%",
+        "color": "#4d5985",
+        "width": "28.98498233215548%",
+        "height": "1.5918%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.28325%",
+        "left": "10.064487632508834%",
+        "color": "#091953",
+        "width": "25.04416961130742%",
+        "height": "2.9209%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Imogen Leclair",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.939500000000002%",
+        "left": "26.684628975265017%",
+        "color": "#091953",
+        "width": "46.77703180212014%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This document acknowledges that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "46.069375%",
+        "left": "14.189487632508834%",
+        "color": "#091953",
+        "width": "70.71148409893992%",
+        "height": "6.638674999999999%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Has donated to the clean water projects to provide access to clean water in rural communities.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.636725%",
+        "left": "9.581360424028269%",
+        "color": "#091953",
+        "width": "80.307625%",
+        "height": "21.73144876325088%",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.59375%",
+        "left": "7.673851590106007%",
+        "color": "#4d5985",
+        "width": "29.82685512367491%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Director of Contributions",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.409125%",
+        "left": "62.08180212014134%",
+        "color": "#091953",
+        "width": "24.337455830388695%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Victoria Adams",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "71.798875%",
+        "left": "60.66289752650176%",
+        "color": "#4d5985",
+        "width": "27.17667844522968%",
+        "height": "2.6543%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Development Director",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "61.881874999999994%",
+        "left": "8.602031802120141%",
+        "width": "27.970318021201418%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-09:40:06_9_vrgL2lzOqCOhVF7Gbj4-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "61.377%",
+        "left": "62.2143109540636%",
+        "width": "24.204946996466433%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-09:40:46_V4HRqu5r11WY_GkK54B7N-Group 19251.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.955125%",
+        "left": "35.84505300353357%",
+        "width": "26.625971731448768%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-08-2024-09:41:19_UbW2lm5YDWUcKZniMoMQ7-Group 19268.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.75%",
+        "left": "9.31565371024735%",
+        "color": "#091953",
+        "width": "80.307625%",
+        "height": "21.73144876325088%",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Hind Madurai, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "FOR DONATION",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j4e5sjkqv5yxfadfzvkrsmvg-1722757737593.png",
+  "isDefault": true,
+  "createdAt": "2024-08-04T07:48:48.889Z",
+  "updatedAt": "2025-03-19T11:00:24.208Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "recognition"
+  },
+  "id": "01j4e5sjkqv5yxfadfzvkrsmvg",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2166,
+  "categoryOrder": 661
+}

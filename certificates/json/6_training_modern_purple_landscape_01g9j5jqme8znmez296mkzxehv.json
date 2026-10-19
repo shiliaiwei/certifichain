@@ -1,0 +1,308 @@
+{
+  "name": "6_training_modern_purple_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/03-08-22-5:32:59_background landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "67.50494699646643%",
+        "left": "30.849624999999996%",
+        "width": "11.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#6b2737"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31.272084805653712%",
+        "left": "13%",
+        "color": "#6b2737",
+        "width": "73.625%",
+        "height": "15.547703180212014%",
+        "fontSize": "56em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kalam, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.137809187279153%",
+        "left": "33.8125%",
+        "color": "#6b2737",
+        "width": "32%",
+        "height": "12.7208480565371%",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.879858657243815%",
+        "left": "28.9375%",
+        "color": "#6b2737",
+        "width": "41.75%",
+        "height": "7.773851590106007%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Rhoncus erat a cras non netus fringilla etiam.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.875528169014096%",
+        "left": "31.162125000000003%",
+        "color": "#6b2737",
+        "width": "11%",
+        "height": "6.36042402826855%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lopez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.52773851590106%",
+        "left": "31.912125000000003%",
+        "color": "#6b2737",
+        "width": "9.5%",
+        "height": "3.3306713780918726%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Joe Lopez",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.08480565371025%",
+        "left": "29.724625%",
+        "color": "#6b2737",
+        "width": "13.875000000000002%",
+        "height": "6.007067137809187%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Marketing Director",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.09134275618374%",
+        "left": "57.3125%",
+        "color": "#6b2737",
+        "width": "9%",
+        "height": "3.53356890459364%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Issue date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.09134275618374%",
+        "left": "32.662125%",
+        "color": "#6b2737",
+        "width": "8%",
+        "height": "3.53356890459364%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Serial No:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.80159010600707%",
+        "left": "53.0625%",
+        "color": "#6b2737",
+        "width": "17.5%",
+        "height": "3.3306713780918726%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.80159010600707%",
+        "left": "26.912124999999996%",
+        "color": "#6b2737",
+        "width": "19.5%",
+        "height": "3.53356890459364%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "26.148409893992934%",
+        "left": "38.4375%",
+        "color": "#f49d6e",
+        "width": "22.75%",
+        "height": "5.477031802120141%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF ACHIEVEMENT",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.875528169014096%",
+        "left": "55.125%",
+        "color": "#6b2737",
+        "width": "13.375%",
+        "height": "6.36042402826855%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Alex Brush, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Russel",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "67.2786219081272%",
+        "left": "56.00000000000001%",
+        "width": "11.875%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#6b2737"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "68.52844522968198%",
+        "left": "56.49999999999999%",
+        "color": "#6b2737",
+        "width": "10.625%",
+        "height": "3.3306713780918726%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Bill Russel",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.08480565371025%",
+        "left": "55.375%",
+        "color": "#6b2737",
+        "width": "12.875%",
+        "height": "3.3306713780918726%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project Manager",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.510936395759717%",
+        "left": "40.720125%",
+        "width": "18.184625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/03-08-22-5:33:31_Group 44.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12300-1659540956192.png",
+  "isDefault": true,
+  "createdAt": "2022-08-03T15:35:54.766Z",
+  "updatedAt": "2025-03-19T10:59:37.678Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "modern",
+    "category": "training"
+  },
+  "id": "01g9j5jqme8znmez296mkzxehv",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3055,
+  "categoryOrder": 414
+}

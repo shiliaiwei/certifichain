@@ -1,0 +1,326 @@
+{
+  "name": "17_appreciation_simple_green_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/12-08-22-9:56:53_Appreciation Simple Vertical background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "42.5225%",
+        "left": "23.58250883392226%",
+        "color": "#004f2d",
+        "width": "51.76678445229682%",
+        "height": "3.4775374999999995%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This certificate is proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.375%",
+        "left": "11.878144876325088%",
+        "color": "#004f2d",
+        "width": "75.1726148409894%",
+        "height": "8.065425%",
+        "fontSize": "44em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.061525%",
+        "left": "10.066537102473498%",
+        "color": "#004f2d",
+        "width": "20.318021201413426%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.298875%",
+        "left": "14.754681978798587%",
+        "color": "#004f2d",
+        "width": "69.96060070671378%",
+        "height": "5.56055%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Thank you for your dedication. Your outstanding efforts have made the difference between just being good and being great.",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.26275%",
+        "left": "17.3986925795053%",
+        "width": "23.32155477031802%",
+        "height": "0.125%",
+        "backgroundColor": "#004f2d"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.061525%",
+        "left": "72.96413427561838%",
+        "color": "#004f2d",
+        "width": "19.257950530035338%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.183625%",
+        "left": "63.42349823321555%",
+        "color": "#004f2d",
+        "width": "17.137809187279153%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "School Coordinator",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.8525375%",
+        "left": "10.066537102473498%",
+        "color": "#004f2d",
+        "width": "14.487632508833922%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "ISSUING DATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.278375%",
+        "left": "60.77332155477031%",
+        "color": "#004f2d",
+        "width": "22.43816254416961%",
+        "height": "2.780275%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Keagan Mccall",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.26275%",
+        "left": "59.978268551236745%",
+        "width": "23.32155477031802%",
+        "height": "0.125%",
+        "backgroundColor": "#004f2d"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.55087281795512%",
+        "left": "60.508303886925795%",
+        "color": "#004f2d",
+        "width": "21.908127208480565%",
+        "height": "7.648437499999999%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ephesis, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Mccall",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.88403990024938%",
+        "left": "19.164134275618373%",
+        "color": "#004f2d",
+        "width": "17.314487632508836%",
+        "height": "6.2578125%",
+        "fontSize": "55em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ephesis, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Smith",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.27875%",
+        "left": "18.635512367491167%",
+        "color": "#004f2d",
+        "width": "18.374558303886925%",
+        "height": "2.780275%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "James Smith",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.183625%",
+        "left": "20.313957597173147%",
+        "color": "#004f2d",
+        "width": "15.01766784452297%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "School Principal",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "31%",
+        "left": "27.90971731448763%",
+        "color": "#004f2d",
+        "width": "43.109540636042404%",
+        "height": "8.9003875%",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE\nOF APPRECIATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.156250000000004%",
+        "left": "38.77544169611307%",
+        "color": "#004f2d",
+        "width": "21.37809187279152%",
+        "height": "2.5%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Your Company",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.8515625%",
+        "left": "72.96413427561838%",
+        "color": "#004f2d",
+        "width": "15.371024734982333%",
+        "height": "2.0849625%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE ID",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "15.622125%",
+        "left": "42.002473498233215%",
+        "width": "14.926572438162545%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/12-08-22-10:01:04_Laurel_Wreaths_05.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/12576-1660291410674.png",
+  "isDefault": true,
+  "createdAt": "2022-08-12T08:03:29.220Z",
+  "updatedAt": "2025-03-19T10:59:39.972Z",
+  "metadata": {
+    "lang": "en",
+    "color": "green",
+    "style": "simple",
+    "category": "appreciation"
+  },
+  "id": "01ga8h8sa4ry276e4m5jwpa2a5",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 3009,
+  "categoryOrder": 146
+}

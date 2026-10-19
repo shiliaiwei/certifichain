@@ -1,0 +1,252 @@
+{
+  "name": "373_Scholarship_formal_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-07-2024-03:03:15_373_Scholarship_formal_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "33.683625%",
+        "left": "17.854770318021203%",
+        "color": "#071f37",
+        "width": "64.08604240282685%",
+        "height": "8.3623%",
+        "fontSize": "63em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.3584000000000005%",
+        "left": "34.529681978798585%",
+        "color": "#262626",
+        "width": "32.64964664310954%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.6494125%",
+        "left": "2.5597703180212017%",
+        "color": "#071f37",
+        "width": "95.17775%",
+        "height": "30.212014134275616%",
+        "fontSize": "75em",
+        "fontStyle": "italic",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Scholarship Award",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "44.056625%",
+        "left": "12.624257950530035%",
+        "color": "#071f37",
+        "width": "75.048875%",
+        "height": "7.950530035335689%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This scholarship is bestowed upon students who have demonstrated exceptional scholastic performance and unwavering dedication \nto their academic pursuits",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "19.7295%",
+        "left": "24.053180212014134%",
+        "color": "#071f37",
+        "width": "50.09805653710247%",
+        "height": "3.0527375%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Faculty of Aviation Department",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.34575%",
+        "left": "13.564204946996467%",
+        "color": "#071f37",
+        "width": "17.9395%",
+        "height": "6.890459363957597%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Rachel Clark",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "61.002%",
+        "left": "28.889752650176675%",
+        "color": "#071f37",
+        "width": "43.2517667844523%",
+        "height": "1.7255875%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "28.426750000000002%",
+        "left": "32.45918727915194%",
+        "color": "#071f37",
+        "width": "34.55275%",
+        "height": "8.480565371024735%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.34575%",
+        "left": "63.01272084805654%",
+        "color": "#071f37",
+        "width": "24.8273851590106%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Baskervville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Megan Thomas",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.57125%",
+        "left": "11.620689045936397%",
+        "color": "#626d77",
+        "width": "21.823851590106006%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "University Rector ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.57025%",
+        "left": "65.22049469964665%",
+        "color": "#626d77",
+        "width": "20.41042402826855%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculties",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.07325%",
+        "left": "15.736802120141343%",
+        "width": "17.460795053003533%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:56:13_qUFY5x0_r0BgB5uD4by9K-Vector 79.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "69.98725%",
+        "left": "68.30424028268551%",
+        "width": "14.243321554770317%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:56:48_hI2c9XA0PySS7wywvn5Kd-Vector 79.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.201125%",
+        "left": "40.28127208480565%",
+        "width": "19.735512367491168%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-02:57:11_oQmMPTMkJLYb42V791aRA-badge.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2d2npd4sf8438fnrs0yp3ky-1720573417901.png",
+  "isDefault": true,
+  "createdAt": "2024-07-10T01:03:37.894Z",
+  "updatedAt": "2025-03-19T11:00:21.560Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2d2npd4sf8438fnrs0yp3ky",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2220,
+  "categoryOrder": 147
+}

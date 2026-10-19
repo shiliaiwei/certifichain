@@ -1,0 +1,262 @@
+{
+  "name": "71_CPD_professional_bronze_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/13-10-2023-06:57:38_71_CPD_professional_bronze_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "43.418727915194346%",
+        "left": "28.858375%",
+        "color": "#9e622f",
+        "width": "41.90825%",
+        "height": "11.925795053003533%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.36731448763251%",
+        "left": "15.306625000000002%",
+        "color": "#c58f5f",
+        "width": "19.631875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.11254416961131%",
+        "left": "14.659125000000001%",
+        "color": "#c58f5f",
+        "width": "20.92875%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inter, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "39.218551236749114%",
+        "left": "36.795875%",
+        "color": "#c58f5f",
+        "width": "26.033249999999995%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This Certificate Is Presented To",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "16.029434628975267%",
+        "left": "29.596125%",
+        "color": "#9e622f",
+        "width": "40.432625%",
+        "height": "21.73144876325088%",
+        "fontSize": "33em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.416961130742045%",
+        "left": "23.533625%",
+        "color": "#c58f5f",
+        "width": "52.557624999999994%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has successfully demonstrated comprehension of \u201cGlobal Perspectives in Education Seminar\u201d for 4 CPD hours",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "75.1731448763251%",
+        "left": "65.9375%",
+        "width": "13.625000000000002%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#cb8245"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "76.14434628975265%",
+        "left": "67.153375%",
+        "color": "#cb8245",
+        "width": "10.9433625%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Amelia Miller",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.72067137809186%",
+        "left": "64.09075%",
+        "color": "#cb8245",
+        "width": "17.068375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "on behalf of CPD Provider",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.67208480565371%",
+        "left": "37.971125%",
+        "color": "#9e622f",
+        "width": "23.682625%",
+        "height": "4.063604240282685%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF APPRECIATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.495865724381625%",
+        "left": "13.214874999999997%",
+        "color": "#c48d5c",
+        "width": "13.943375%",
+        "height": "5.830388692579505%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Roboto, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "School of Teaching and Learning",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "13.90998233215548%",
+        "left": "9.125%",
+        "width": "3.3994125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-10-2023-06:56:33_nJNGEmh7kKhNBDLMeyOye-Vector.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "68.99010600706713%",
+        "left": "66.00975%",
+        "width": "12.0878875%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/13-10-2023-06:57:56_rQ2kv-C4D7TFRvcxkGyVE-Vector 653.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.63250883392226%",
+        "left": "42.97025%",
+        "width": "13.682625000000002%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-08:12:50_mfXsUFoKH7bQ9zQVcwQgK-Group 18791.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.91501766784452%",
+        "left": "46.222625%",
+        "color": "#6d421e",
+        "width": "7.1796875%",
+        "height": "10.86572438162544%",
+        "fontSize": "35em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "3",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hcmzqzjcsh082nkrxsxkf41h-1697480018171.png",
+  "isDefault": true,
+  "createdAt": "2023-10-13T17:01:02.414Z",
+  "updatedAt": "2025-03-19T10:59:51.479Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hcmzqzjcsh082nkrxsxkf41h",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2798,
+  "categoryOrder": 54
+}

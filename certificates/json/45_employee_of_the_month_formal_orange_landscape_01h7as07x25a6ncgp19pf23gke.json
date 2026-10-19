@@ -1,0 +1,264 @@
+{
+  "name": "45_employee_of_the_month_formal_orange_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-08-2023-04:30:54_45_employee_of_the_month_formal_orange_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "45.053003533568905%",
+        "left": "23.400375%",
+        "color": "#f58f29",
+        "width": "52.82424999999999%",
+        "height": "8.480565371024735%",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bokor, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.82632508833922%",
+        "left": "23.111375%",
+        "color": "#f58f29",
+        "width": "12.03125%",
+        "height": "2.65017667844523%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Team Supervisor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.780918727915195%",
+        "left": "10.438475%",
+        "color": "#645c5e",
+        "width": "26.913124999999997%",
+        "height": "2.9151943462897525%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.780918727915195%",
+        "left": "67.30475%",
+        "color": "#645c5e",
+        "width": "22.421875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.498233215547703%",
+        "left": "26.38575%",
+        "color": "#645c5e",
+        "width": "46.74225%",
+        "height": "11.925795053003533%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bokor, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Employee of the Month",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "58.12862190812721%",
+        "left": "26.139125000000003%",
+        "color": "#645c5e",
+        "width": "47.34475%",
+        "height": "8.745583038869258%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "With great admiration for your exceptional achievements, unwavering support to your colleagues, and continuous pursuit of excellence. Congratulations on earning the title of our Employee of the Month!",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "37.6339222614841%",
+        "left": "36.066375%",
+        "color": "#645c5e",
+        "width": "27.492249999999995%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This awards is proudly given to:",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "79.59363957597174%",
+        "left": "23.0645%",
+        "width": "12.375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f58f29"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "19.081272084805654%",
+        "left": "28.631875%",
+        "width": "42.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-08-2023-04:26:30_7bOaER_K0nhng_qekxzJY-graphical_element.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "79.24028268551237%",
+        "left": "63.9375%",
+        "width": "12.375%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f58f29"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "80.82632508833922%",
+        "left": "62.109375%",
+        "color": "#f58f29",
+        "width": "15.78125%",
+        "height": "6.36042402826855%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Chief Executive Officer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.18321554770317%",
+        "left": "23.673875%",
+        "color": "#645c5e",
+        "width": "10.90625%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Julie Murphy",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.18321554770317%",
+        "left": "64.546875%",
+        "color": "#645c5e",
+        "width": "10.90625%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Inika, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "William Scott",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "72.52650176678446%",
+        "left": "46.3525%",
+        "width": "6.81055%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-08-2023-04:30:22_Ij6qFCXgjAehbNYeey4-f-badge.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "53.71024734982333%",
+        "left": "25.82025%",
+        "width": "48.125%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#f58f29"
+      }
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "37.104593639575974%",
+        "left": "29.951625%",
+        "width": "39.610375%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-08-2023-04:35:34_ON_SGcECI-my_iA9RnTiX-graphical_element_2.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h7as07x25a6ncgp19pf23gke-1691505360589.png",
+  "isDefault": true,
+  "createdAt": "2023-08-08T14:32:19.635Z",
+  "updatedAt": "2025-09-10T14:56:26.547Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "formal",
+    "category": "employee_of_the_month"
+  },
+  "id": "01h7as07x25a6ncgp19pf23gke",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2877,
+  "categoryOrder": 29
+}

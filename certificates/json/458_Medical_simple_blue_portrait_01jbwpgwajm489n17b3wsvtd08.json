@@ -1,0 +1,270 @@
+{
+  "name": "458_Medical_simple_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/04-11-2024-11:59:18_458_Medical_simple_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "27.70287141073658%",
+        "left": "25.010052910052917%",
+        "color": "#0a1722",
+        "width": "62.1656050955414%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "6.367041198501873%",
+        "left": "83.42151675485009%",
+        "width": "9.876543209876543%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-11-2024-11:05:54_Group 19640.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "7.365792759051186%",
+        "left": "5.291005291005291%",
+        "width": "6.878306878306878%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-11-2024-11:06:06_Group 19689.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.78651685393258%",
+        "left": "5.291005291005291%",
+        "width": "26.102292768959433%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/04-11-2024-11:06:16_Group 19691.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.861566791510612%",
+        "left": "5.291005291005291%",
+        "color": "#0d6275",
+        "width": "88.00705467372134%",
+        "height": "auto",
+        "fontSize": "65em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "MEDICAL CERTIFICATE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.703995006242195%",
+        "left": "5.114638447971781%",
+        "color": "#0a1722",
+        "width": "82.01058201058201%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "This certifies that  \n(Patient ID: DY34723478) was examined at Saint Mary's Medical Center on 16.11.2024. The patient is in good health and has met all necessary travel health requirements, including up-to-date vaccinations. Based on this examination and the vaccination status, the patient is cleared for international travel.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.37297128589263%",
+        "left": "5.291005291005291%",
+        "color": "#0a1722",
+        "width": "25.220458553791886%",
+        "height": "auto",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Vaccination records:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "49.801385767790265%",
+        "left": "6.878306878306878%",
+        "color": "#0a1722",
+        "width": "53.43915343915344%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Yellow Fever Vaccine: Administered on 13.11.2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.5454556803995%",
+        "left": "6.878306878306878%",
+        "color": "#0a1722",
+        "width": "47.08994708994709%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "COVID-19 Vaccine: Completed on 12.112024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "59.05118601747815%",
+        "left": "6.878306878306878%",
+        "color": "#0a1722",
+        "width": "48.32451499118166%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Typhoid Vaccine: Administered on 15.11.2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.56554307116104%",
+        "left": "5.291005291005291%",
+        "color": "#0a1722",
+        "width": "41.44620811287478%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "1250 Pine Street, Silver Spring, MD  \n301-555-4789, saintmary@medicalcenter",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "78.15230961298377%",
+        "left": "5.291005291005291%",
+        "color": "#0a1722",
+        "width": "19.753086419753085%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "Dr.Clara Winters Physician/Examiner",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "7.701448189762797%",
+        "left": "13.227513227513226%",
+        "color": "#0a1722",
+        "width": "14.462081128747794%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Saint Mary's \nMedical Center",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.39076154806492%",
+        "left": "55.34391534391535%",
+        "color": "#0a1722",
+        "width": "17.813051146384478%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.65043695380774%",
+        "left": "55.379188712522044%",
+        "color": "#0a1722",
+        "width": "22.22222222222222%",
+        "height": "auto",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jbwpgwajm489n17b3wsvtd08-1730761224545.png",
+  "isDefault": true,
+  "createdAt": "2024-11-04T23:00:24.533Z",
+  "updatedAt": "2025-03-19T11:00:30.678Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "simple",
+    "category": "completion"
+  },
+  "id": "01jbwpgwajm489n17b3wsvtd08",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2038,
+  "categoryOrder": 637
+}

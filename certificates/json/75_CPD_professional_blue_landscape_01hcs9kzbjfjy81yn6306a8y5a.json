@@ -1,0 +1,424 @@
+{
+  "name": "75_CPD_professional_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/15-10-2023-11:07:53_75_CPD_professional_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "34.76148409893993%",
+        "left": "23.231875%",
+        "color": "#3c519d",
+        "width": "53.15825000000001%",
+        "height": "11.925795053003533%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.957385159010601%",
+        "left": "8.0752%",
+        "color": "#1f1f1f",
+        "width": "21.256875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.89734982332155%",
+        "left": "77.51275%",
+        "color": "#1f1f1f",
+        "width": "17.17875%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "29.324558303886928%",
+        "left": "36.795875%",
+        "color": "#000000",
+        "width": "26.033249999999995%",
+        "height": "3.53356890459364%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to proudly certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.852756183745583%",
+        "left": "30.783749999999998%",
+        "color": "#3c519d",
+        "width": "38.057625%",
+        "height": "9.80565371024735%",
+        "fontSize": "37em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CPD Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.44169611307421%",
+        "left": "30.158625%",
+        "color": "#1f1f1f",
+        "width": "39.307625%",
+        "height": "3.9752650176678443%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "has participated in the 22 hours CPD training",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "5.606095406360423%",
+        "left": "81.776375%",
+        "width": "8.25%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#3f3f3f"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.50689045936396%",
+        "left": "27.090875000000004%",
+        "color": "#1f1f1f",
+        "width": "7.0683625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " Provider",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "55.64964664310954%",
+        "left": "17.34425%",
+        "color": "#000000",
+        "width": "64.932625%",
+        "height": "8.215547703180212%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Cloud Computing Mastery Program",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "3.307208480565371%",
+        "left": "48.149375%",
+        "color": "#000000",
+        "width": "11.3183625%",
+        "height": "5.830388692579505%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your CPD Provider Logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.444628975265017%",
+        "left": "77.867125%",
+        "color": "#3f3f3f",
+        "width": "15.818374999999998%",
+        "height": "2.1201413427561837%",
+        "fontSize": "8em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Lato, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "THE CPD  CERTIFICATION SERVICE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "1.8951590106007066%",
+        "left": "79.839875%",
+        "color": "#3f3f3f",
+        "width": "12.3183625%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Bellefair, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CPD  CERTIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.82844522968198%",
+        "left": "67.319375%",
+        "color": "#1f1f1f",
+        "width": "10.0683625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CPD Credits:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "2.2485159010600704%",
+        "left": "7.903325%",
+        "color": "#1f1f1f",
+        "width": "13.068375%",
+        "height": "6.890459363957597%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CPD reference:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.50689045936396%",
+        "left": "10.3877%",
+        "color": "#1f1f1f",
+        "width": "7.0683625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": " Provider",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.44328621908127%",
+        "left": "23.0615%",
+        "color": "#1f1f1f",
+        "width": "14.068375%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "William Jackson",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.44876325088339%",
+        "left": "8.0752%",
+        "color": "#1f1f1f",
+        "width": "11.6933625%",
+        "height": "4.063604240282685%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Eva Miller",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.63780918727915%",
+        "left": "67.3965%",
+        "color": "#1f1f1f",
+        "width": "10.0683625%",
+        "height": "2.9151943462897525%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CPD Date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.78427561837456%",
+        "left": "77.51275%",
+        "color": "#1f1f1f",
+        "width": "2.9433625%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Gothic A1, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "12",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "2.20434628975265%",
+        "left": "77.589875%",
+        "width": "2.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/15-10-2023-09:23:26_WEj3qwq9zu8dVz0nl4um4-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "75.22226148409894%",
+        "left": "6.4072249999999995%",
+        "width": "13.9765%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/15-10-2023-11:05:29_jmrRSeA7_TevxbUVMdocK-Vector 659.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.0660777385159%",
+        "left": "24.79%",
+        "width": "9.096675%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/15-10-2023-11:05:59_eJ6Xk9nkjApV-Hqcs_cdK-Vector 660.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "3.176077738515901%",
+        "left": "42.859375%",
+        "width": "3.75%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/15-10-2023-11:06:46_rRPuhQjrx3pDCXQJvqs7e-Group.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.06484098939929%",
+        "left": "41.540625%",
+        "width": "16.54%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/16-10-2023-08:52:32_MV4zLSOWClw4FXYHCSOcm-\u0420\u0435\u0441\u0443\u0440\u0441 1 2.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.24575971731448%",
+        "left": "46.21975%",
+        "color": "#000000",
+        "width": "7.1796875%",
+        "height": "10.86572438162544%",
+        "fontSize": "40em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Manrope, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "2",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hcs9kzbjfjy81yn6306a8y5a-1697482382443.png",
+  "isDefault": true,
+  "createdAt": "2023-10-15T09:10:34.612Z",
+  "updatedAt": "2025-03-19T10:59:51.857Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hcs9kzbjfjy81yn6306a8y5a",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2788,
+  "categoryOrder": 2
+}

@@ -1,0 +1,297 @@
+{
+  "name": "365_Scholarship_formal_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/10-07-2024-12:25:31_365_Scholarship_formal_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.40825%",
+        "left": "15.902438162544168%",
+        "color": "#0c2a48",
+        "width": "67.12685512367491%",
+        "height": "7.699225%",
+        "fontSize": "58em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "83.32325%",
+        "left": "66.80371024734983%",
+        "color": "#f4f0eb",
+        "width": "27.209893992932866%",
+        "height": "2.5224625%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "33.212875%",
+        "left": "35.23356890459364%",
+        "color": "#0c2a48",
+        "width": "29.003125%",
+        "height": "4.593639575971731%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Proudly presented to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.3818375%",
+        "left": "15.903091872791519%",
+        "color": "#243545",
+        "width": "68.1875%",
+        "height": "10.070671378091872%",
+        "fontSize": "54em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "SCHOLARSHIP",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "48.819375%",
+        "left": "9.253533568904594%",
+        "color": "#0c2a48",
+        "width": "79.74416961130741%",
+        "height": "10.6171875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "In recognition of their exceptional academic achievements, exemplary leadership qualities, and profound impact within the realm of medicine and healthcare education",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.621125%",
+        "left": "8.215547703180212%",
+        "color": "#262626",
+        "width": "30.36660777385159%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Jasper Hawthorne",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.71975%",
+        "left": "7.667491166077739%",
+        "color": "#626d77",
+        "width": "30.914664310954066%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Dean of Faculty of Science",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.120125%",
+        "left": "3.689540636042403%",
+        "color": "#f4f0eb",
+        "width": "31.00525%",
+        "height": "2.9151943462897525%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "72.71975%",
+        "left": "62.490989399293284%",
+        "color": "#626d77",
+        "width": "29.50123674911661%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Department of Medicine",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "22.736375%",
+        "left": "10.511625441696113%",
+        "color": "#626d77",
+        "width": "78.97120141342756%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Faculty of Science Department of Medicine",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.621125%",
+        "left": "63.471731448763244%",
+        "color": "#262626",
+        "width": "27.53975265017668%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Elowen Sinclair",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "62.903375%",
+        "left": "65.84593639575972%",
+        "width": "23.63763250883392%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-12:08:12_g5hiU2ajzqPiKgoMosEGw-Group 18977.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "63.13774999999999%",
+        "left": "15.103162544169614%",
+        "width": "19.95494699646643%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-12:11:50_UEzkHafISXscGxNY4Y7ab-Vector 65.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.71975%",
+        "left": "38.912014134275616%",
+        "width": "22.169081272084806%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-12:12:49_9ukRbuh9VjV02gNXixorH-OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "82.705125%",
+        "left": "41.598763250883394%",
+        "color": "#3a4c55",
+        "width": "16.27236749116608%",
+        "height": "5.3086%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED\n2024",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "2.5%",
+        "left": "83.76766784452296%",
+        "width": "9.394328621908127%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/10-07-2024-12:18:57_lHaza5gvG7IRbwTFfMwab-Vector.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.499999999999998%",
+        "left": "15.902438162544168%",
+        "color": "#243545",
+        "width": "68.1875%",
+        "height": "10.070671378091872%",
+        "fontSize": "54em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Libre Baskerville, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARD",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j2csmmdnd9f0ebwg4y9khfah-1720564067583.png",
+  "isDefault": true,
+  "createdAt": "2024-07-09T22:25:45.911Z",
+  "updatedAt": "2025-03-19T11:00:20.783Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "achievement"
+  },
+  "id": "01j2csmmdnd9f0ebwg4y9khfah",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2236,
+  "categoryOrder": 163
+}

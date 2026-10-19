@@ -1,0 +1,288 @@
+{
+  "name": "21_course_modern_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/19-08-22-11:42:15_Modern background.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.92932862190813%",
+        "left": "33.0625%",
+        "color": "#227c9d",
+        "width": "54.25%",
+        "height": "13.881678445229683%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.44876325088339%",
+        "left": "58.498%",
+        "color": "#0b2545",
+        "width": "30.5%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.27137809187279%",
+        "left": "34.25%",
+        "color": "#0b2545",
+        "width": "51.87500000000001%",
+        "height": "10.777385159010601%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio eget hac elementum senectus dictum. Augue tellus sed nisl in non accumsan.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.21166077738516%",
+        "left": "58.497125%",
+        "color": "#0b2545",
+        "width": "17.25%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.404982394366197%",
+        "left": "46.152375%",
+        "color": "#0b2545",
+        "width": "27.375%",
+        "height": "12.014134275618375%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.80512367491166%",
+        "left": "58.497125%",
+        "color": "#227c9d",
+        "width": "9.153325%",
+        "height": "2.4734982332155475%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issue Date",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.44876325088339%",
+        "left": "32.372125%",
+        "color": "#0b2545",
+        "width": "19.5%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Course Creator & Blogger",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.21908127208481%",
+        "left": "46.75%",
+        "color": "#0b2545",
+        "width": "26.875%",
+        "height": "3.8869257950530036%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This Certificate is awarded to",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.10777385159011%",
+        "left": "32.372125%",
+        "color": "#227c9d",
+        "width": "11.028325%",
+        "height": "4.41696113074205%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Filip Wallace",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.08321554770318%",
+        "left": "32.372125%",
+        "color": "#0b2545",
+        "width": "13.278375%",
+        "height": "3.6081095406360424%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Visit our website:",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "4.593639575971731%",
+        "left": "49.466875%",
+        "width": "20.6865%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/19-08-22-11:28:17_Group 275.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "62.076325088339225%",
+        "left": "50.18749999999999%",
+        "color": "#0b2545",
+        "width": "20%",
+        "height": "10.777385159010601%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Nec fermentum nisi\nPellentesque adipiscing\nConsequat eget",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "92.21095406360423%",
+        "left": "32.497125%",
+        "color": "#0b2545",
+        "width": "12.528375%",
+        "height": "3.53356890459364%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "yourwebsite.com",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "25.328873239436618%",
+        "left": "48.714875%",
+        "color": "#227c9d",
+        "width": "22.25%",
+        "height": "6.107826855123675%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "of Appreciation",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "77.10777385159011%",
+        "left": "58.498%",
+        "color": "#227c9d",
+        "width": "11.653325%",
+        "height": "4.164363957597173%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Josefin Sans, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01gatqwwrrm29jwzbwyyhwcdef-1675266468968.png",
+  "isDefault": true,
+  "createdAt": "2022-08-19T09:45:39.352Z",
+  "updatedAt": "2025-03-19T10:59:42.581Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "modern",
+    "category": "course"
+  },
+  "id": "01gatqwwrrm29jwzbwyyhwcdef",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2964,
+  "categoryOrder": 116
+}

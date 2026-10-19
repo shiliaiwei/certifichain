@@ -1,0 +1,389 @@
+{
+  "name": "471_PD_professional_violet_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/21-10-2024-04:06:34_471_PD_professional_violet_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "38.875%",
+        "left": "16.07773851590106%",
+        "color": "#463147",
+        "width": "66.657875%",
+        "height": "17.75618374558304%",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.875%",
+        "left": "25.08833922261484%",
+        "color": "#b5adb5",
+        "width": "20.671378091872793%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36%",
+        "left": "39.75265017667844%",
+        "color": "#95928f",
+        "width": "20.718374558303886%",
+        "height": "2.7871125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "84.625%",
+        "left": "9.540636042402827%",
+        "color": "#b5adb5",
+        "width": "22.02685512367491%",
+        "height": "3.0527375%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Marketer",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "47.625%",
+        "left": "10.247349823321555%",
+        "color": "#95928f",
+        "width": "78.25883392226149%",
+        "height": "3.18555%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successfully completing an internal seminar on",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.875%",
+        "left": "8.657243816254418%",
+        "color": "#b5adb5",
+        "width": "17.6678445229682%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "46.875%",
+        "left": "11.66077738515901%",
+        "width": "76.42862190812721%",
+        "height": "0.35335689045936397%",
+        "backgroundColor": "#aeaca9"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "83.8224625%",
+        "left": "10.954063604240282%",
+        "width": "19.401413427561838%",
+        "height": "0.35335689045936397%",
+        "backgroundColor": "#aeaca9"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.875%",
+        "left": "15.01766784452297%",
+        "color": "#463147",
+        "width": "70.03374558303888%",
+        "height": "8.2285125%",
+        "fontSize": "26em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Online Social Media Sales Trends \nin 2025 from 23 May 2024",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81%",
+        "left": "10.777385159010601%",
+        "color": "#463147",
+        "width": "19.191696113074205%",
+        "height": "3.18555%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Walter Bell",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "12.25%",
+        "left": "42.93286219081272%",
+        "color": "#463147",
+        "width": "22.824734982332153%",
+        "height": "3.3193374999999996%",
+        "fontSize": "25em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company name",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "12.75%",
+        "left": "37.102473498233216%",
+        "width": "4.974593639575971%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-04-2024-11:15:23_H8JNZYh7wpBmDGHD8Gmbh-Group 18792.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "74%",
+        "left": "12.461625441696114%",
+        "width": "17.644381625441696%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/11-04-2024-11:15:45_MZTAUh45JFYqBZ0vvuVMt-Vector 649.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.5%",
+        "left": "9.89399293286219%",
+        "color": "#463147",
+        "width": "80.03533568904594%",
+        "height": "auto",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Training Program",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.5%",
+        "left": "10.070671378091872%",
+        "color": "#463147",
+        "width": "80.03533568904594%",
+        "height": "auto",
+        "fontSize": "63em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Newsreader, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Completion Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.875%",
+        "left": "53.003533568904594%",
+        "color": "#b5adb5",
+        "width": "17.6678445229682%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certified on:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "5.861325%",
+        "left": "66.96113074204946%",
+        "color": "#b5adb5",
+        "width": "26.325088339222614%",
+        "height": "auto",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 300,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "76.36904375%",
+        "left": "40.10600706713781%",
+        "width": "19.78798586572438%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-10-2024-04:02:08_Group 18701.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "81.32626875%",
+        "left": "40.812720848056536%",
+        "color": "#ffffff",
+        "width": "18.374558303886925%",
+        "height": "auto",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "3 PD Points",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65%",
+        "left": "40.812720848056536%",
+        "color": "#ffffff",
+        "width": "18.374558303886925%",
+        "height": "auto",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2 PD credits",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65%",
+        "left": "13.957597173144876%",
+        "color": "#ffffff",
+        "width": "18.374558303886925%",
+        "height": "auto",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "56 PD hours",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.0025%",
+        "left": "66.67844522968197%",
+        "color": "#ffffff",
+        "width": "18.374558303886925%",
+        "height": "auto",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Montserrat, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "3 PD points",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "77.625%",
+        "left": "71.73144876325088%",
+        "width": "14.840989399293287%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/21-10-2024-04:06:07_Group 18744 (2).png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01jaqk0kjdgw4ykrset6kk8ksv-1729516065969.png",
+  "isDefault": true,
+  "createdAt": "2024-10-21T13:07:11.568Z",
+  "updatedAt": "2025-03-19T11:00:30.001Z",
+  "metadata": {
+    "lang": "en",
+    "color": "violet",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01jaqk0kjdgw4ykrset6kk8ksv",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2053,
+  "categoryOrder": 20
+}

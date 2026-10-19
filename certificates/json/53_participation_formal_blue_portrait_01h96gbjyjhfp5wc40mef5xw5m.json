@@ -1,0 +1,400 @@
+{
+  "name": "53_participation_formal_blue_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/31-08-2023-09:15:27_53_participation_formal_blue_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "41.714875%",
+        "left": "12.5%",
+        "color": "#134275",
+        "width": "25.879328621908126%",
+        "height": "16.19525%",
+        "fontSize": "67em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Whisper, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.961%",
+        "left": "73.5286219081272%",
+        "color": "#ffffff",
+        "width": "18.15088339222615%",
+        "height": "1.7255875%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.618125%",
+        "left": "12.246024734982331%",
+        "color": "#306297",
+        "width": "22.921201413427564%",
+        "height": "2.2568375%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cairo, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.819375%",
+        "left": "11.971342756183747%",
+        "color": "#306297",
+        "width": "15.088056537102473%",
+        "height": "2.5224625%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "JULIA BART",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.8505875%",
+        "left": "16.19643109540636%",
+        "color": "#306297",
+        "width": "24.802650176678448%",
+        "height": "2.7871125%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "34.3515%",
+        "left": "12.5%",
+        "color": "#306297",
+        "width": "34.6885%",
+        "height": "8.480565371024735%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AS A MARK OF RECOGNITION FOR",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "60.183625%",
+        "left": "12.5%",
+        "color": "#306297",
+        "width": "41.83833922261484%",
+        "height": "6.372074999999999%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For participating in the webinar \u201cSuccessful Entrepreneur\u201d organized by Business School in March 2023.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.419%",
+        "left": "75.63144876325089%",
+        "color": "#ffffff",
+        "width": "14.476590106007068%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.543%",
+        "left": "11.506183745583039%",
+        "color": "#134275",
+        "width": "51.00494699646643%",
+        "height": "5.9736375%",
+        "fontSize": "60em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.19525%",
+        "left": "11.969964664310954%",
+        "color": "#306297",
+        "width": "20.65618374558304%",
+        "height": "2.5224625%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Executive Director",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.456%",
+        "left": "11.971830985915492%",
+        "width": "12.606289752650177%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#90b8e2"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "23.19925%",
+        "left": "11.506183745583039%",
+        "color": "#306297",
+        "width": "37.78992932862191%",
+        "height": "3.8496125%",
+        "fontSize": "29em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cinzel, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "OF PARTICIPATION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.819375%",
+        "left": "40.10459363957597%",
+        "color": "#306297",
+        "width": "23.16696113074205%",
+        "height": "2.7871125%",
+        "fontSize": "21em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "LUCAS JOHNSON",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "79.19725%",
+        "left": "39.491696113074205%",
+        "color": "#306297",
+        "width": "17.91077738515901%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Project manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "88.961%",
+        "left": "12.247402826855124%",
+        "color": "#306297",
+        "width": "14.99696113074205%",
+        "height": "2.388675%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Awarded on",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "9.611325%",
+        "left": "70.74452296819787%",
+        "width": "24.018551236749115%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-08:46:24_DBYDT4YiM9xUjvMQ2ebZb-Capa 1.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "14.059625%",
+        "left": "72.913074204947%",
+        "color": "#604c3f",
+        "width": "18.613427561837455%",
+        "height": "7.03515%",
+        "fontSize": "53em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Whisper, cursive",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Verified",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.444375%",
+        "left": "79.1809187279152%",
+        "color": "#604c3f",
+        "width": "7.3818375%",
+        "height": "3.0035335689045937%",
+        "fontSize": "16em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Ubuntu, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2023",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "78.338875%",
+        "left": "78.51908127208482%",
+        "width": "8.701413427561837%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-08:48:48_2sLW3QhfaJov4u5XLGNiz-Group 413.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "10.2441375%",
+        "left": "11.506183745583039%",
+        "width": "2.8268551236749118%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-08:49:06_SGpKVX6Spc1epDfcpgGp_-Rectangle 446.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "70.20025%",
+        "left": "40.104770318021195%",
+        "width": "14.235035335689048%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-08:51:06_F68CkwR4eGsy3s9MsEtcg-Vector 241.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "71.28325%",
+        "left": "12.5%",
+        "width": "14.491766784452295%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/31-08-2023-08:51:33_XjpkZNEXRiDsn7bu3OavX-Vector 242.png"
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "30%",
+        "left": "12.5%",
+        "width": "12.606289752650177%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#90b8e2"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "78.456%",
+        "left": "40.10318021201413%",
+        "width": "12.606289752650177%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#90b8e2"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88%",
+        "left": "12.246024734982331%",
+        "width": "12.606289752650177%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#90b8e2"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h96gbjyjhfp5wc40mef5xw5m-1693509404973.png",
+  "isDefault": true,
+  "createdAt": "2023-08-31T19:15:40.122Z",
+  "updatedAt": "2025-09-10T14:56:27.371Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "formal",
+    "category": "participation"
+  },
+  "id": "01h96gbjyjhfp5wc40mef5xw5m",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2860,
+  "categoryOrder": 32
+}

@@ -1,0 +1,407 @@
+{
+  "name": "201_CE_professional_white_portrait",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/01-02-2024-10:45:04_201_CE_professional_white_portrait.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "21.378125%",
+        "left": "9.681978798586572%",
+        "color": "#3e2f25",
+        "width": "79.46342756183745%",
+        "height": "13.275%",
+        "fontSize": "100em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "54.17974999999999%",
+        "left": "47.314487632508836%",
+        "color": "#3e2f25",
+        "width": "35.909893992932865%",
+        "height": "1.725%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "53.742124999999994%",
+        "left": "9.946996466431095%",
+        "color": "#3e2f25",
+        "width": "27.985865724381625%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "36.182875%",
+        "left": "9.71952296819788%",
+        "color": "#3e2f25",
+        "width": "68.1095406360424%",
+        "height": "1.8578125%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "For successful advanced training on the program",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "6.0328125%",
+        "left": "9.754858657243815%",
+        "color": "#3e2f25",
+        "width": "28.440812720848058%",
+        "height": "5.575%",
+        "fontSize": "44em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Continuing\u2028                    ",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "20.115625%",
+        "left": "9.71952296819788%",
+        "color": "#3e2f25",
+        "width": "32.57067137809187%",
+        "height": "2.9203125%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Is proudly presented to:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "87.695375%",
+        "left": "9.796819787985866%",
+        "color": "#3e2f25",
+        "width": "20.4791519434629%",
+        "height": "1.8578125%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Charlene Dutton",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.68675%",
+        "left": "9.681978798586572%",
+        "color": "#3e2f25",
+        "width": "15.253125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Program Director",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "32.496875%",
+        "left": "9.683098591549296%",
+        "width": "81.5017667844523%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#25373e"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.909375000000004%",
+        "left": "9.81881625441696%",
+        "color": "#3e2f25",
+        "width": "18.72137809187279%",
+        "height": "2.9203125%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Issuing date:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "8.259375%",
+        "left": "73.52243816254416%",
+        "color": "#3e2f25",
+        "width": "17.34540636042403%",
+        "height": "2.1234375%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Company logo",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "9.5828125%",
+        "left": "9.71952296819788%",
+        "color": "#3e2f25",
+        "width": "48.46731448763251%",
+        "height": "5.575%",
+        "fontSize": "44em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Cormorant, serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "Education Certificate",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "40.19375%",
+        "left": "9.58922261484099%",
+        "color": "#3e2f25",
+        "width": "74.3595406360424%",
+        "height": "5.571875%",
+        "fontSize": "28em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "'Information Technologies in Legal Activity'\nin the amount of 144 academic hours.",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "10.715625%",
+        "left": "73.48498233215548%",
+        "color": "#3e2f25",
+        "width": "14.109982332155477%",
+        "height": "1.459375%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your tagline here",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "50.771875%",
+        "left": "46.82208480565371%",
+        "color": "#3e2f25",
+        "width": "24.59151943462897%",
+        "height": "2.6546875%",
+        "fontSize": "22em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Verification code:",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "86.190625%",
+        "left": "66.78233215547704%",
+        "color": "#3e2f25",
+        "width": "17.13118374558304%",
+        "height": "2.6546875%",
+        "fontSize": "20em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "CE CERTIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "89.035125%",
+        "left": "63.88586572438163%",
+        "color": "#3e2f25",
+        "width": "24.037102473498233%",
+        "height": "4.378125%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This certificate may be used to validate the training requirements of a continuing education program.",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "81.72703180212014%",
+        "left": "74.048375%",
+        "width": "2.125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-02-2024-10:31:11_uh6S3E6vVECj3tCI7o-ux-ptak.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "82.658625%",
+        "left": "9.681978798586572%",
+        "width": "14.991166077738516%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-02-2024-10:31:14_r_-ZdMblwfFOlSAmn3n1J-lol.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "8.2109375%",
+        "left": "67.71201413427562%",
+        "width": "4.421378091872792%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-02-2024-10:31:18_QQhTrBM25Ba4EDaqlPbTf-Group 18812.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "59.91562499999999%",
+        "left": "9.832155477031803%",
+        "width": "24.315371024734983%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/01-02-2024-10:31:22_ykux6cxT18IeKC1P1Zf6w-OBJECTS.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "66.965625%",
+        "left": "15.3323851590106%",
+        "color": "#3a4c55",
+        "width": "13.244257950530036%",
+        "height": "2.1234375%",
+        "fontSize": "23em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "VERIFIED",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "70.06875%",
+        "left": "18.32155477031802%",
+        "color": "#3a4c55",
+        "width": "7.2659010600706715%",
+        "height": "1.8578125%",
+        "fontSize": "19em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Prompt, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "2024",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "88.483625%",
+        "left": "63.556338028169016%",
+        "width": "25.35547703180212%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#3e2f25"
+      }
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "portrait",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01hnka42pcky65nqavfmn6t7h8-1706824044330.png",
+  "isDefault": true,
+  "createdAt": "2024-02-01T21:45:12.142Z",
+  "updatedAt": "2025-03-19T11:00:03.890Z",
+  "metadata": {
+    "lang": "en",
+    "color": "white",
+    "style": "professional",
+    "category": "cpd"
+  },
+  "id": "01hnka42pcky65nqavfmn6t7h8",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2567,
+  "categoryOrder": 38
+}

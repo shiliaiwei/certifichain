@@ -1,0 +1,270 @@
+{
+  "name": "42_employee_of_the_month_simple_orange_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/08-08-2023-04:55:50_42_employee_of_the_month_modern_orange_landscape.png",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "39.2226148409894%",
+        "left": "25.148499999999995%",
+        "color": "#000000",
+        "width": "49.32425%",
+        "height": "8.480565371024735%",
+        "fontSize": "32em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.01360424028269%",
+        "left": "21.319375%",
+        "color": "#f79f09",
+        "width": "16.03125%",
+        "height": "4.5053003533568905%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Sales Manager",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.54770318021201%",
+        "left": "47.92975%",
+        "color": "#f79f09",
+        "width": "21.413125%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.26095406360423%",
+        "left": "47.92975%",
+        "color": "#f79f09",
+        "width": "22.421875%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "17.84452296819788%",
+        "left": "15.253875%",
+        "color": "#000000",
+        "width": "69.11725%",
+        "height": "11.925795053003533%",
+        "fontSize": "45em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Employee of the Month",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "52.65017667844523%",
+        "left": "18.640125%",
+        "color": "#000000",
+        "width": "62.34474999999999%",
+        "height": "6.36042402826855%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Your contribution over the past MONTH proves that hard work, perseverance and can-do attitude definitely leads to greatness. We hope for many more successful years!",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "32.510247349823324%",
+        "left": "36.066375%",
+        "color": "#000000",
+        "width": "27.492249999999995%",
+        "height": "3.180212014134275%",
+        "fontSize": "12em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "This is to certify that",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "13.162544169611307%",
+        "left": "38.502%",
+        "color": "#000000",
+        "width": "22.61725%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "YOUR COMPANY NAME",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "5.212014134275619%",
+        "left": "47.5%",
+        "width": "4.625%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/08-08-2023-04:48:28_g_3_-LF1xjTVcow3Expt9-logo_placeholder.png"
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.86166077738515%",
+        "left": "20.944375%",
+        "color": "#000000",
+        "width": "16.78125%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "James Andrew",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.01360424028269%",
+        "left": "63.234375%",
+        "color": "#f79f09",
+        "width": "16.03125%",
+        "height": "4.5053003533568905%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Supervisor",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "85.86166077738515%",
+        "left": "62.85937499999999%",
+        "color": "#000000",
+        "width": "16.78125%",
+        "height": "3.9752650176678443%",
+        "fontSize": "15em",
+        "fontStyle": "normal",
+        "textAlign": "center",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Olivia Smith",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "65.2826855123675%",
+        "left": "34.359375%",
+        "color": "#000000",
+        "width": "11.53125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Certificate ID",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "74.99593639575971%",
+        "left": "34.359375%",
+        "color": "#000000",
+        "width": "11.53125%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Kufam, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "Date of Issue",
+      "autoScale": false
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01h7atdrjcccr7ef06mqe6pnn2-1691507205622.png",
+  "isDefault": true,
+  "createdAt": "2023-08-08T14:57:11.247Z",
+  "updatedAt": "2025-09-10T14:56:26.647Z",
+  "metadata": {
+    "lang": "en",
+    "color": "orange",
+    "style": "simple",
+    "category": "employee_of_the_month"
+  },
+  "id": "01h7atdrjcccr7ef06mqe6pnn2",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2875,
+  "categoryOrder": 18
+}

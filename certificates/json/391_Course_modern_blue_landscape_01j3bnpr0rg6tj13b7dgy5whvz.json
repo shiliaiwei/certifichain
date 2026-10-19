@@ -1,0 +1,272 @@
+{
+  "name": "391_Course_modern_blue_landscape",
+  "background": {
+    "url": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/backgrounds/22-07-2024-12:12:03_391_Course_modern_blue_landscape.jpg",
+    "type": "image"
+  },
+  "blocks": [
+    {
+      "type": "text",
+      "style": {
+        "top": "31.272084805653712%",
+        "left": "7.949225%",
+        "color": "#0c2a48",
+        "width": "56.40825%",
+        "height": "13.250883392226148%",
+        "fontSize": "50em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[recipient.name]",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.4994699646643%",
+        "left": "69.590875%",
+        "color": "#0c2a48",
+        "width": "23.631875%",
+        "height": "2.9151943462897525%",
+        "fontSize": "11em",
+        "fontStyle": "normal",
+        "textAlign": "right",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.uuid]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "90.23445229681978%",
+        "left": "7.949225%",
+        "color": "#0c2a48",
+        "width": "29.428750000000004%",
+        "height": "3.4452296819787986%",
+        "fontSize": "13em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "[certificate.issued_on]",
+      "autoScale": true
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "45.75971731448763%",
+        "left": "8.0746875%",
+        "color": "#0c2a48",
+        "width": "80.53325%",
+        "height": "12.014134275618375%",
+        "fontSize": "18em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "HAS MERITORIOUSLY COMPLETED THE \"EFFECTIVE COMMUNICATION SKILLS\"\nCOURSE, BASED ON PROFESSIONAL DEVELOPMENT INSTITUTE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "4.770318021201414%",
+        "left": "10.5625%",
+        "color": "#0c2a48",
+        "width": "77.557625%",
+        "height": "11.130742049469964%",
+        "fontSize": "42em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "CERTIFICATE OF COMPLETION",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "27.385159010600706%",
+        "left": "7.9497%",
+        "color": "#0c2a48",
+        "width": "19.807625%",
+        "height": "3.7102473498233217%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "AWARDED TO",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.69558303886926%",
+        "left": "8.188475%",
+        "color": "#0c2a48",
+        "width": "16.693375%",
+        "height": "4.5053003533568905%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SIMON BLAKE",
+      "autoScale": false
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "74.289222614841%",
+        "left": "8.478802992518704%",
+        "width": "19%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#b6d5f5"
+      }
+    },
+    {
+      "type": "horizontal-line",
+      "style": {
+        "top": "74.289222614841%",
+        "left": "42.777375%",
+        "width": "19%",
+        "height": "0.17667844522968199%",
+        "backgroundColor": "#b6d5f5"
+      }
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "15.724381625441698%",
+        "left": "10.7900375%",
+        "color": "#0c2a48",
+        "width": "75.557625%",
+        "height": "11.130742049469964%",
+        "fontSize": "24em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "COMMUNICATION SKILLS COURSE",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "69.60724381625441%",
+        "left": "42.777375%",
+        "color": "#0c2a48",
+        "width": "19.818375%",
+        "height": "9.010600706713781%",
+        "fontSize": "17em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 700,
+        "textDecoration": "none"
+      },
+      "value": "SADIE COLEMAN",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.44169611307422%",
+        "left": "42.777375%",
+        "color": "#0c2a48",
+        "width": "27.693374999999996%",
+        "height": "4.5053003533568905%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "DIRECTOR OF TRAINING",
+      "autoScale": false
+    },
+    {
+      "type": "text",
+      "style": {
+        "top": "75.44169611307422%",
+        "left": "8.1875%",
+        "color": "#0c2a48",
+        "width": "27.693374999999996%",
+        "height": "4.5053003533568905%",
+        "fontSize": "14em",
+        "fontStyle": "normal",
+        "textAlign": "left",
+        "fontFamily": "Poppins, sans-serif",
+        "fontWeight": 400,
+        "textDecoration": "none"
+      },
+      "value": "PRIMARY INSTRUCTOR",
+      "autoScale": false
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "64.13427561837456%",
+        "left": "83.7315%",
+        "width": "10.25%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-07-2024-12:10:08_PhVDVZqcyE8kHFxoYMUDR-qr-code.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "60.24734982332155%",
+        "left": "8.1875%",
+        "width": "11.3662125%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-07-2024-12:10:31_V8vb2so_gDo1pGxuMTPDj-Vector 670.png"
+    },
+    {
+      "type": "image",
+      "style": {
+        "top": "59.8939929328622%",
+        "left": "42.777375%",
+        "width": "12.33985%"
+      },
+      "value": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/images/22-07-2024-12:11:18_OU-1AYMFzxwCgWZJ3ySWw-Group 18965.png"
+    }
+  ],
+  "paperSize": "A4",
+  "orientation": "landscape",
+  "thumbnail": "565302e3-5bff-4e5c-8b76-a7f0246fcb4a/certificate-designs/previews/01j3bnpr0rg6tj13b7dgy5whvz-1721600008230.png",
+  "isDefault": true,
+  "createdAt": "2024-07-21T22:13:28.217Z",
+  "updatedAt": "2025-03-19T11:00:23.255Z",
+  "metadata": {
+    "lang": "en",
+    "color": "blue",
+    "style": "modern",
+    "category": "course"
+  },
+  "id": "01j3bnpr0rg6tj13b7dgy5whvz",
+  "isPrivate": false,
+  "workspaceId": "01epm6gyst0t4q1fnc376sgw6e",
+  "type": "certificate",
+  "galleryOrder": 2185,
+  "categoryOrder": 85
+}

@@ -1,0 +1,32 @@
+name: CI Repository Health & Build Verification
+
+on:
+  push:
+    branches:
+      - main
+      - 'refactor/**'
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Test Suite
+        run: |
+          python3 scripts/run_tests.py
+
+      - name: Validate Catalog Interface Build
+        run: |
+          python3 scripts/build.py
+          test -s index.html
+          test -s public/index.html

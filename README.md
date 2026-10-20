@@ -1,6 +1,6 @@
-# Certifier Local Studio & HD Design Template Repository
+# Certifier Credential & HD Design Template Repository
 
-A production-ready local studio, offline repository, and interactive catalog viewer for official Certifier design templates, editable design schemas, HD backgrounds, vector elements, typography, and blank canvas configurations.
+A production-ready repository containing official Certifier design templates, editable design schemas, HD backgrounds, vector elements, typography, and blank canvas configurations.
 
 ---
 
@@ -8,37 +8,8 @@ A production-ready local studio, offline repository, and interactive catalog vie
 
 ```
 cetif/
-├── .gitignore                      # Configured with heavy media exclusions & Python caches
+├── .gitignore                      # Configured with heavy media exclusions
 ├── README.md                       # Comprehensive system architecture & developer guide
-├── index.html                      # Root compiled studio viewer (offline production ready)
-├── public/                         # Public web server distribution root
-│   └── index.html                  # Standard web distribution entry point
-├── src/                            # Application Source Code
-│   ├── components/                 # Modular UI Components
-│   │   ├── TopBarSkeuomorphic.html # 3D Textured Leather & Banknote Guilloche Top Bar
-│   │   ├── CyberGridControls.html  # .TECH Domains Split Search & Stepper Tabs
-│   │   ├── BlankPresetsGrid.html   # 18px Chamfered Blank Canvas Dimension Cards
-│   │   └── KeylineIcons.html       # Keyline SVG Icons System Symbol Definitions
-│   ├── styles/                     # CSS Design Systems
-│   │   ├── skeuomorphic_leather.css# 3D Royal Purple Leather, Stitching & Guilloche
-│   │   └── cyber_grid.css          # .TECH Domains Obsidian #08090b & 38px Grid
-│   └── utils/                      # Core Data Pipeline & Automation Utilities
-│       ├── build_catalog_html.py   # Master Catalog Builder & UI Compiler
-│       ├── organize_templates_as_is.py
-│       ├── save_editor_specs.py
-│       ├── download_certificates.py
-│       ├── download_resources.py
-│       └── fetch_remaining_certificates.py
-├── scripts/                        # Standard CLI Entry Points & Tasks
-│   ├── build.py                    # Rebuilds catalog HTML and public distribution
-│   ├── organize.py                 # Organizes templates into categorized folder structure
-│   ├── specs.py                    # Validates and regenerates editor presets & specs
-│   └── run_tests.py                # Automated test runner
-├── tests/                          # Automated Test Suite (Unit & Integration)
-│   ├── test_catalog_integrity.py   # Validates all catalog JSON schemas & counts
-│   ├── test_editor_specifications.py # Validates canvas presets & typography
-│   ├── test_directory_structure.py # Validates standard directories & clean root
-│   └── test_build_pipeline.py      # Validates build execution & design tokens
 ├── catalogs/                       # Data / Master Catalog Indexes
 │   ├── catalog_all.json            # Master index of all 2,328 templates
 │   ├── certificates.json           # 2,137 certificate templates
@@ -71,68 +42,13 @@ cetif/
 
 ---
 
-## 2. Design System Architecture
-
-### A. Navigation Bar: 3D Skeuomorphic Textured Leather & Banknote Guilloche
-- **Visual Philosophy**: High-tactile physical craftsmanship, luxury leather goods, and central bank security engraving.
-- **Color Palette**:
-  - Royal Purple Gradient: Highlight `#6b22a8`, body `#4c1482`, deep base `#260742`.
-  - Light Lavender Thread Stitching: `#e9d5ff` (`stroke-dasharray="4 4"`, `stroke-width="1.25"`, drop shadow).
-  - Satin Card Finishes:
-    - USD Emerald Green: `#059669`
-    - KHR Royal Violet: `#a855f7`
-    - WEI Sky Blue: `#0098ea`
-- **3-Tier Pocket Assembly**:
-  1. *Back Leather Sleeve*: Outer container with `38px` corner radius, deep ambient occlusion shadow (`0 24px 48px -12px rgba(45, 10, 80, 0.55)`), and dual-frequency procedural micro-radial pebble grain overlay.
-  2. *Inserted Physical Card*: Credit-card proportioned satin card peeking upward from inside the sleeve slot, featuring an angled specular light sheen and mathematical spirograph banknote guilloche watermark. Houses corporate typographic badge (`SHILIAI [WEI]`) and cryptographic address pill (`0x71C84...F29A // CERT-VAULT`).
-  3. *Front Overlapping Flap*: Leather front lip overlapping the lower card with a scooped curved edge (`M 2 2 Q 180 8 360 2`), top specular rim highlight, and physical tactile toggle switches.
-- **Strictly No Emojis**: Pure typography and vector keyline icons.
-
-### B. Main Canvas & UI: .TECH Domains Cyber-Grid & Chamfered
-- **Visual Philosophy**: Dark technical neo-brutalism, terminal precision, and CNC hardware aesthetic.
-- **Canvas Foundation**: Deep obsidian black `#08090b` with repeating 38px coordinate square grid rendered via linear gradients (`rgba(255, 255, 255, 0.035)`).
-- **Color Tokens**:
-  - Carbon panels: `#0d0e11`
-  - Input surfaces: `rgb(15, 16, 18)`
-  - Tactical mint/sage accent: `#d2e2b9` (hover `#e0eed0`)
-  - Tech orange: `#f25a38`
-  - Border divider: `rgba(255, 255, 255, 0.06)`
-- **Geometric Cuts**: Precision 45-degree chamfer cuts on top-right corners:
-  - `18px`: Stepper tabs, hero section, blank canvas cards.
-  - `14px`: Search input groups, primary CTA buttons, template cards.
-  - `12px`: Secondary tags, pills, category filters.
-- **Continuous 1px Border Rule**: Nested inset polygon architecture (`.chamfer-wrapper` + `.chamfer-inner`) maintaining a crisp 1px stroke along diagonal cuts.
-- **Typography**: Google Fonts `Space Grotesk` (display titles, counts, code, step numerals) paired with `DM Sans` (interface labels and body copy).
-- **Keyline Icons System**: Standardized 24x24 outline vector icons with 1.8px stroke and two-tone tint fill.
+## 2. Asset Integrity Standard
+- **Zero Scripts / Zero Runtime Overhead**: Pure asset and schema repository.
+- **Strictly Zero Emojis**: Pure typography and assets only.
 
 ---
 
-## 3. Developer & Build Workflows
-
-### Build Catalog Interface
-To regenerate `index.html` and `public/index.html`:
-```bash
-python3 scripts/build.py
-# or
-python3 build_catalog_html.py
-```
-
-### Run Automated Tests
-To run the automated unit and integration test suite:
-```bash
-python3 scripts/run_tests.py
-# or
-python3 -m unittest discover -v tests
-```
-
-### Organize Templates into Subcategories
-```bash
-python3 scripts/organize.py
-```
-
----
-
-## 4. Git Remote Disconnect & Switch Guide
+## 3. Git Remote Disconnect & Switch Guide
 
 To disconnect from an existing remote without deleting local files and push to a new repository:
 

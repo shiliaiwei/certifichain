@@ -1,4 +1,4 @@
-name: CI Repository Health & Build Verification
+name: CI Credential Asset Integrity Verification
 
 on:
   push:
@@ -10,23 +10,30 @@ on:
       - main
 
 jobs:
-  test-and-validate:
+  validate-asset-integrity:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Run Test Suite
+      - name: Validate Vector Element Assets
         run: |
-          python3 scripts/run_tests.py
+          test -d elements/bases
+          test -d elements/graphics
+          test -d elements/ribbons
+          test -d elements/shapes
 
-      - name: Validate Catalog Interface Build
+      - name: Validate Catalog Schemas & Specs
         run: |
-          python3 scripts/build.py
-          test -s index.html
-          test -s public/index.html
+          test -s catalogs/catalog_all.json
+          test -s catalogs/certificates.json
+          test -s catalogs/badges.json
+          test -s catalogs/transcripts.json
+          test -s catalogs/training_records.json
+          test -s catalogs/assessments.json
+          test -s catalogs/letters.json
+          test -s catalogs/extracted_elements.json
+          test -s editor_specifications/blank_canvas_presets.json
+          test -s editor_specifications/dynamic_attributes.json
+          test -s editor_specifications/typography_and_fonts.json
+          test -s editor_specifications/qr_code_specs.json

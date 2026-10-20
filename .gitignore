@@ -32,3 +32,6 @@ venv/
 # Temporary & build caches
 tmp/
 *.tmp
+node_modules/
+.pnpm-store/
+.wrangler/

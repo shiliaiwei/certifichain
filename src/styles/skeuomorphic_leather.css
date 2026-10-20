@@ -1,0 +1,212 @@
+/* ==========================================================================
+   OBSIDIAN CYBER-GRID & TACTILE CHAMFER: HARDWARE MODULE & TOP BAR
+   Strict Solid Colors // Zero Glassmorphism // Imperial Purple & Pure White
+   ========================================================================== */
+
+:root {
+  --leather-highlight: #1e293b;
+  --leather-body: #0d0e11;
+  --leather-shadow: #08090b;
+  --leather-deep: #08090b;
+  --leather-thread: rgba(255, 255, 255, 0.16);
+  --satin-usd: #00b67a;
+  --satin-khr: #f25a38;
+  --satin-wei: #3b82f6;
+  --bg-obsidian-ref: #08090b;
+}
+
+/* Outer Hardware Sleeve with 18px Chamfer Cut */
+.leather-sleeve {
+  position: relative;
+  background-color: var(--border-subtle);
+  clip-path: polygon(0 0, calc(100% - 18px) 0, 100% 18px, 100% 100%, 0 100%);
+  padding: 1px;
+  overflow: hidden;
+  margin-bottom: 24px;
+  transition: background-color 0.15s ease;
+}
+
+.leather-sleeve:hover {
+  background-color: var(--border-muted);
+}
+
+/* Subtle 38px / 19px Coordinate Point Grid Overlay */
+.leather-pebble-grain {
+  position: absolute;
+  inset: 0;
+  background-image: 
+    radial-gradient(circle, rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+    linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+  background-size: 38px 38px, 38px 38px, 38px 38px;
+  opacity: 0.7;
+  pointer-events: none;
+  z-index: 2;
+}
+
+/* Tactile Perimeter Dashed Stitch Line (stroke-dasharray: 4 4) */
+.leather-stitch-svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 5;
+}
+
+.leather-stitch-rect {
+  fill: none;
+  stroke: rgba(255, 255, 255, 0.18);
+  stroke-width: 1;
+  stroke-dasharray: 4 4;
+}
+
+/* Inner Hardware Slot (17.586px Inset Chamfer Cut) */
+.inserted-card-slot {
+  position: relative;
+  width: 100%;
+  background-color: var(--bg-panel);
+  clip-path: polygon(0 0, calc(100% - 17.586px) 0, 100% 17.586px, 100% 100%, 0 100%);
+  padding: 20px 24px 24px 24px;
+  overflow: hidden;
+  z-index: 3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+/* Solid Display Sheen (No Muddy Gradients) */
+.card-specular-sheen {
+  display: none;
+}
+
+/* Banknote Guilloche Security Watermark */
+.guilloche-watermark {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  opacity: 0.12;
+  z-index: 1;
+}
+
+.card-brand-col {
+  position: relative;
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.card-meta-col {
+  position: relative;
+  z-index: 4;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+/* Monospace Cryptographic Address Badge */
+.crypto-address-pill {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-white);
+  background-color: var(--bg-panel-secondary);
+  padding: 5px 12px;
+  clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 0 100%);
+  border: 1px solid var(--border-subtle);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  letter-spacing: 0.04em;
+}
+
+.card-metric-badge {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-white);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: var(--bg-panel-secondary);
+  border: 1px solid var(--border-subtle);
+  padding: 5px 12px;
+  clip-path: polygon(0 0, calc(100% - 6px) 0, 100% 6px, 100% 100%, 0 100%);
+  letter-spacing: 0.03em;
+}
+
+/* Front Hardware Control Tray */
+.front-leather-flap {
+  position: relative;
+  background-color: var(--bg-panel-secondary);
+  border-top: 1px solid var(--border-divider);
+  padding: 12px 24px;
+  z-index: 4;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+/* Chamfered Command Group & Pill Buttons */
+.leather-toggle-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: var(--bg-panel);
+  padding: 2px;
+  clip-path: polygon(0 0, calc(100% - 12px) 0, 100% 12px, 100% 100%, 0 100%);
+  border: 1px solid var(--border-subtle);
+}
+
+.leather-toggle-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 6px 14px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  clip-path: polygon(0 0, calc(100% - 10px) 0, 100% 10px, 100% 100%, 0 100%);
+  transition: all 0.15s ease;
+}
+
+.leather-toggle-btn:hover {
+  color: var(--text-white);
+  background-color: rgba(255, 255, 255, 0.06);
+}
+
+.leather-toggle-btn.active {
+  background-color: var(--surface-purple);
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.vault-status-indicator {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--text-white);
+}
+
+.status-pulse {
+  width: 8px;
+  height: 8px;
+  background-color: var(--accent-emerald);
+  clip-path: polygon(0 0, calc(100% - 3px) 0, 100% 3px, 100% 100%, 0 100%);
+}

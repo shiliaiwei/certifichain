@@ -1,0 +1,93 @@
+<!-- OBSIDIAN CYBER-GRID & TACTILE CHAMFER: TOP HARDWARE MODULE & STEPPER RAIL -->
+<header class="leather-sleeve chamfer-18-wrapper">
+  <!-- 38px Coordinate Point Grid Overlay -->
+  <div class="leather-pebble-grain"></div>
+
+  <!-- Tactile Perimeter Dashed Stitch Line (stroke-dasharray: 4 4) -->
+  <svg class="leather-stitch-svg" xmlns="http://www.w3.org/2000/svg">
+    <rect class="leather-stitch-rect" x="4" y="4" width="calc(100% - 8px)" height="calc(100% - 8px)"/>
+  </svg>
+
+  <!-- Hardware Module Body (17.586px Inset Chamfer) -->
+  <div class="inserted-card-slot" id="satinCard">
+    <!-- Left Brand Unit: High-Contrast Grotesque Typographic Badge -->
+    <div class="card-brand-col">
+      <div style="display: flex; align-items: center; gap: 10px;">
+        <svg width="124" height="30" viewBox="0 0 124 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <text x="0" y="24" fill="#ffffff" font-size="24" font-family="'Space Grotesk', system-ui, sans-serif" font-weight="900" letter-spacing="-0.03em" textLength="72" lengthAdjust="spacingAndGlyphs">SHILIAI</text>
+          <polygon points="75 4, 114 4, 120 10, 120 27, 75 27" fill="#4a154b" />
+          <text id="badgeWeiText" x="97" y="21" text-anchor="middle" fill="#ffffff" font-size="13" font-family="'Space Grotesk', system-ui, sans-serif" font-weight="900" letter-spacing="0.05em">WEI</text>
+        </svg>
+        <span class="crypto-address-pill">
+          <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-shield"/></svg>
+          0x71C84...F29A // CERT-VAULT
+        </span>
+      </div>
+      <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); font-weight: 500; margin-top: 4px; letter-spacing: 0.02em;">
+        OBSIDIAN CYBER-GRID ARCHITECTURE // TERMINAL TACTILE CHAMFER SYSTEM
+      </div>
+    </div>
+
+    <!-- Right Metric Unit -->
+    <div class="card-meta-col">
+      <div class="card-metric-badge">
+        <svg class="keyline-icon" style="width: 16px; height: 16px; color: var(--accent-emerald);"><use href="#icon-certificate"/></svg>
+        <span>2,328 TEMPLATES</span>
+      </div>
+      <div class="card-metric-badge">
+        <svg class="keyline-icon" style="width: 14px; height: 14px; color: var(--accent-blue);"><use href="#icon-shapes"/></svg>
+        <span>130 VECTOR SVGS</span>
+      </div>
+      <span class="critical-cue-badge">
+        <span class="indicator-pulse"></span>
+        OFFLINE SECURED
+      </span>
+    </div>
+  </div>
+
+  <!-- Front Hardware Control Tray with Tactile Pill Buttons (18px Radius) -->
+  <div class="front-leather-flap">
+    <!-- Horizontal Segmented Tab Bar with Tactile Pill Buttons -->
+    <div class="segmented-pill-bar">
+      <button class="tactile-pill-btn active" id="tabBtnAll" onclick="selectWorkspaceView('all')">
+        <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-certificate"/></svg>
+        CATALOG ALL
+      </button>
+      <button class="tactile-pill-btn" id="tabBtnStage" onclick="selectWorkspaceView('stage')">
+        <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-eye"/></svg>
+        INSPECT STAGE
+      </button>
+      <button class="tactile-pill-btn" id="tabBtnPresets" onclick="selectWorkspaceView('presets')">
+        <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-dimensions"/></svg>
+        BLANK PRESETS
+      </button>
+      <a href="badge_studio.html" class="tactile-pill-btn" style="text-decoration: none;">
+        <svg class="keyline-icon" style="width: 14px; height: 14px; color: var(--accent-emerald);"><use href="#icon-badge"/></svg>
+        SLANTED BADGE STUDIO
+      </a>
+    </div>
+
+    <!-- Live Status & Mode Toggles -->
+    <div style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+      <div class="leather-toggle-group">
+        <button class="leather-toggle-btn active" id="btnWei" onclick="setCardFinish('wei')">
+          <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-shield"/></svg>
+          OBSIDIAN
+        </button>
+        <button class="leather-toggle-btn mode-usd" id="btnUsd" onclick="setCardFinish('usd')">
+          <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-certificate"/></svg>
+          EMERALD
+        </button>
+        <button class="leather-toggle-btn mode-khr" id="btnKhr" onclick="setCardFinish('khr')">
+          <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-badge"/></svg>
+          PURPLE
+        </button>
+      </div>
+
+      <div class="vault-status-indicator">
+        <div class="status-pulse"></div>
+        <span>CENTRAL REPOSITORY VERIFIED // READ-ONLY</span>
+      </div>
+    </div>
+  </div>
+</header>

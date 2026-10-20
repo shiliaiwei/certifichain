@@ -1,0 +1,22 @@
+# Cloudflare Workers Static Assets Ignore List
+# Exclude build dependencies, toolchains, binaries, and internal directories
+node_modules/
+.pnpm-store/
+.git/
+.github/
+.agents/
+.wrangler/
+tests/
+scripts/
+src/
+__pycache__/
+*.py
+*.pyc
+*.md
+.gitignore
+.DS_Store
+worker.js
+wrangler.toml
+package.json
+pnpm-lock.yaml
+Templates/

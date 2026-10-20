@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Shiliaiwei Certichain Studio — 2,328 Credential Templates",
+  "homepage": "https://certchain.shiliaiwei.workers.dev",
   "scripts": {
     "build": "python3 build_catalog_html.py || echo 'Build successful'",
     "deploy": "wrangler deploy"

@@ -2,6 +2,9 @@
 
 A production-ready repository containing official Certifier design templates, editable design schemas, HD backgrounds, vector elements, typography, and blank canvas configurations.
 
+* **Live Cloudflare Production URL**: [https://certchain.shiliaiwei.workers.dev](https://certchain.shiliaiwei.workers.dev)
+* **Badge Studio**: [https://certchain.shiliaiwei.workers.dev/badge_studio.html](https://certchain.shiliaiwei.workers.dev/badge_studio.html)
+
 ---
 
 ## 1. Professional Directory Architecture

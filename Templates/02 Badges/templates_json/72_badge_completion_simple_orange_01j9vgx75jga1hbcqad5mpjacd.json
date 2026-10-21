@@ -1,6 +1,9 @@
 {
   "name": "72_badge_completion_simple_orange",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

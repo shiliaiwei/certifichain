@@ -120,7 +120,7 @@ blank_presets = {
             "px_editor": {"width": 512, "height": 512},
             "px_vector_viewbox": {"width": 1000, "height": 1000}
         },
-        "background": {"type": "transparent"},
+        "background": {"type": "color", "value": "#ffffff"},
         "blocks": []
     },
     "transcript_a4": {

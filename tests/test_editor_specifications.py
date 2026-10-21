@@ -30,6 +30,8 @@ class TestEditorSpecifications(unittest.TestCase):
         self.assertIn("training_record_a4", presets)
         self.assertIn("assessment_a4", presets)
         self.assertIn("letter_a4_portrait", presets)
+        for preset_name, preset_data in presets.items():
+            self.assertEqual(preset_data.get("background", {}).get("value"), "#ffffff", f"Preset {preset_name} does not have white background")
 
     def test_dynamic_attributes(self):
         path = os.path.join(self.specs_dir, "dynamic_attributes.json")

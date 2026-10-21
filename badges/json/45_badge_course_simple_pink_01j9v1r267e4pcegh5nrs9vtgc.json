@@ -1,6 +1,9 @@
 {
   "name": "45_badge_course_simple_pink",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

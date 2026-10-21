@@ -1,6 +1,9 @@
 {
   "name": "61_badge_completion_modern_brown",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

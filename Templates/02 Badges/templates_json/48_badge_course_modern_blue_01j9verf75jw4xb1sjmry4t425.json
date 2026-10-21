@@ -1,6 +1,9 @@
 {
   "name": "48_badge_course_modern_blue",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

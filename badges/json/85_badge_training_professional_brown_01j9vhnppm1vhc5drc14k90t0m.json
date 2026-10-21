@@ -1,6 +1,9 @@
 {
   "name": "85_badge_training_professional_brown",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

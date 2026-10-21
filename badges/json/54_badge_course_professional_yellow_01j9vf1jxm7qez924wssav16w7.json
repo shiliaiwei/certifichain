@@ -1,6 +1,9 @@
 {
   "name": "54_badge_course_professional_yellow",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

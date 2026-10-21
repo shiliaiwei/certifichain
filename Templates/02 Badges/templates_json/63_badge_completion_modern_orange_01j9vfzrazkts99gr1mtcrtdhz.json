@@ -1,6 +1,9 @@
 {
   "name": "63_badge_completion_modern_orange",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

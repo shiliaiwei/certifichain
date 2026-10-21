@@ -1,6 +1,9 @@
 {
   "name": "52_badge_course_simple_red",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

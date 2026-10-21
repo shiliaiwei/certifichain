@@ -1,6 +1,9 @@
 {
   "name": "11_badge_appreciation_formal_red",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

@@ -1,6 +1,9 @@
 {
   "name": "53_badge_course_professional_orange",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

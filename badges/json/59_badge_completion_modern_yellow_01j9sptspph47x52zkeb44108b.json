@@ -1,6 +1,9 @@
 {
   "name": "59_badge_completion_modern_yellow",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

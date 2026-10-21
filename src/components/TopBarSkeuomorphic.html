@@ -1,3 +1,165 @@
+<!-- WINZY EDITORIAL LUXURY HERO HOMEPAGE SECTION (FULL SCREEN FIT) -->
+<section class="winzy-hero-section">
+  <!-- Full Screen Floating Cinematic Card Viewport -->
+  <div class="winzy-hero-card" id="winzyHeroCard">
+    <!-- Top Nav Inside Card: Only Large "V" Logo + Real Interactive Capsule Nav Dock -->
+    <nav class="winzy-card-nav">
+      <!-- Left: DISPLAY ONLY LOGO with Large Font Size ("V") -->
+      <a href="#" class="winzy-nav-brand" aria-label="Logo">
+        <span class="winzy-logo-v">V</span>
+      </a>
+
+      <!-- Center: Real Interactive Frosted Glass Capsule Bar -->
+      <div class="winzy-nav-pill" id="winzyNavDock">
+        <!-- Certificates Dropdown -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#grid" onclick="filterCategory('certificate'); return false;">
+            Certificates
+            <svg class="winzy-nav-caret" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/></svg>
+          </a>
+          <div class="winzy-nav-dropdown">
+            <div class="winzy-dropdown-header">CERTIFICATE CATEGORIES</div>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('certificate');">
+              <span>All Certificates</span>
+              <span class="winzy-dropdown-badge">2,137</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'academic');">
+              <span>Academic & Degrees</span>
+              <span class="winzy-dropdown-badge">640+</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'completion');">
+              <span>Completion & Training</span>
+              <span class="winzy-dropdown-badge">820+</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'corporate');">
+              <span>Corporate & Professional</span>
+              <span class="winzy-dropdown-badge">480+</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'diploma');">
+              <span>Diplomas & Honors</span>
+              <span class="winzy-dropdown-badge">190+</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Credentials Dropdown -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#grid" onclick="filterCategory('badge'); return false;">
+            Credentials
+            <svg class="winzy-nav-caret" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/></svg>
+          </a>
+          <div class="winzy-nav-dropdown">
+            <div class="winzy-dropdown-header">SPECIALIZED CREDENTIALS</div>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('badge');">
+              <span>Digital Badges</span>
+              <span class="winzy-dropdown-badge">86</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('transcript');">
+              <span>Academic Transcripts</span>
+              <span class="winzy-dropdown-badge">45</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('training_record');">
+              <span>Training Records</span>
+              <span class="winzy-dropdown-badge">25</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('assessment');">
+              <span>Evaluations & Assessments</span>
+              <span class="winzy-dropdown-badge">25</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('letter');">
+              <span>Formal Letters</span>
+              <span class="winzy-dropdown-badge">10</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Presets -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#blankPresetsSection" onclick="selectWorkspaceView('presets');">
+            Presets
+          </a>
+        </div>
+
+        <!-- Vector SVGs -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#elementsCatalogSection" onclick="filterCategory('elements');">
+            Vectors
+          </a>
+        </div>
+
+        <!-- Inspector Stage -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#visualStageWrapper" onclick="selectWorkspaceView('stage');">
+            Inspector
+          </a>
+        </div>
+      </div>
+
+      <!-- Right Spacer (Balances layout now that Login & Signup are removed) -->
+      <div class="winzy-nav-spacer"></div>
+    </nav>
+
+    <!-- Monumental Center Watermark Backdrop Text -->
+    <div class="winzy-watermark-text" id="winzyHeroWatermark">EGYPT</div>
+
+    <!-- Right Side Vertical Marquee with Randomized Certificates -->
+    <div class="winzy-right-marquee">
+      <div class="winzy-marquee-header">
+        <span>Random Specimens</span>
+        <div class="winzy-marquee-pulse"></div>
+      </div>
+      <div class="winzy-marquee-track-wrap">
+        <div class="winzy-marquee-track" id="heroMarqueeTrack">
+          <!-- Marquee populated dynamically or pre-rendered -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom Row Elements -->
+    <div class="winzy-card-bottom">
+      <div class="winzy-bottom-left">
+        <!-- Stats Cluster with Detailed Certificate Counts -->
+        <div class="winzy-stats-row">
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">2,328</span>
+            <span class="winzy-stat-label">Total Templates</span>
+          </div>
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">2,137</span>
+            <span class="winzy-stat-label">Certificates</span>
+          </div>
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">86</span>
+            <span class="winzy-stat-label">Digital Badges</span>
+          </div>
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">60</span>
+            <span class="winzy-stat-label">Transcripts & Records</span>
+          </div>
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">4,185</span>
+            <span class="winzy-stat-label">Vector SVGs</span>
+          </div>
+        </div>
+
+        <!-- Detailed Description (Zero Booking Button) -->
+        <p class="winzy-details-desc">
+          Universal High-Fidelity Certificate Repository: 2,137 master certificates, 86 skill badges, 45 transcripts, 25 training records, 25 assessments, and 10 formal letters engineered with 100% offline JSON data precision.
+        </p>
+
+        <!-- Quick Interactive Jump Pills -->
+        <div class="winzy-quick-filters">
+          <button class="winzy-filter-pill" onclick="filterCategory('all');">All (2,328)</button>
+          <button class="winzy-filter-pill" onclick="filterCategory('certificate');">Certificates (2,137)</button>
+          <button class="winzy-filter-pill" onclick="filterCategory('badge');">Badges (86)</button>
+          <button class="winzy-filter-pill" onclick="filterCategory('transcript');">Transcripts (45)</button>
+          <button class="winzy-filter-pill" onclick="selectWorkspaceView('presets');">Presets (10)</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- OBSIDIAN CYBER-GRID & TACTILE CHAMFER: TOP HARDWARE MODULE & STEPPER RAIL -->
 <header class="leather-sleeve chamfer-18-wrapper">
   <!-- 38px Coordinate Point Grid Overlay -->

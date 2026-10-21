@@ -1,6 +1,9 @@
 {
   "name": "69_badge_completion_professional_orange",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

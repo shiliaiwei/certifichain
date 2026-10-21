@@ -1,6 +1,8 @@
 import json
 import math
 import os
+import random
+import re
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -86,6 +88,62 @@ def main():
     total_templates = sum(len(v) for v in master.values())
     total_svgs = sum(len(v) for v in elements_data.values())
 
+    count_certificates = len(master.get("certificate", []))
+    count_badges = len(master.get("badge", []))
+    count_transcripts = len(master.get("transcript", []))
+    count_training = len(master.get("training_record", []))
+    count_assessments = len(master.get("assessment", []))
+    count_letters = len(master.get("letter", []))
+    count_other_records = count_training + count_assessments + count_letters
+
+    # Extract verified random certificates for right-side marquee
+    certs_raw = master.get("certificate", [])
+    valid_marquee_certs = []
+    for c in certs_raw:
+        c_name = c.get("name", "")
+        c_id = c.get("id", "")
+        safe = re.sub(r'[^a-zA-Z0-9_\-\.]', '_', c_name or 'template')
+        safe = re.sub(r'_+', '_', safe)[:80]
+        preview_rel = f"certificates/previews/{safe}_{c_id}_preview.png"
+        preview_path = os.path.join(BASE_DIR, preview_rel)
+        if os.path.exists(preview_path):
+            clean_title = c_name.replace("_", " ").strip().title()
+            valid_marquee_certs.append({
+                "id": c_id,
+                "name": clean_title,
+                "preview": preview_rel,
+                "paperSize": c.get("paperSize", "A4"),
+                "orientation": c.get("orientation", "landscape"),
+                "style": c.get("metadata", {}).get("style", "formal")
+            })
+    random.seed(2026)
+    sample_marquee = random.sample(valid_marquee_certs, min(14, len(valid_marquee_certs))) if valid_marquee_certs else []
+    
+    marquee_cards_list = []
+    for item in sample_marquee:
+        s_id = item['id']
+        s_name = item['name']
+        s_prev = item['preview']
+        s_paper = item['paperSize']
+        s_orient = item['orientation']
+        s_style = item['style']
+        marquee_cards_list.append(f'''
+              <div class="winzy-marquee-card" onclick="selectTemplateById('{s_id}'); return false;">
+                <div class="winzy-marquee-thumb-wrap">
+                  <img src="{s_prev}" alt="{s_name}" class="winzy-marquee-thumb" loading="lazy">
+                </div>
+                <div class="winzy-marquee-info">
+                  <div class="winzy-marquee-title">{s_name}</div>
+                  <div class="winzy-marquee-meta">
+                    <span class="winzy-marquee-tag">{s_paper}</span>
+                    <span class="winzy-marquee-tag">{s_orient}</span>
+                    <span class="winzy-marquee-tag">{s_style}</span>
+                  </div>
+                </div>
+              </div>''')
+    
+    marquee_cards_html = "".join(marquee_cards_list) + "".join(marquee_cards_list)
+
     html_content = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -94,43 +152,44 @@ def main():
 <title>Certifier Studio // Obsidian Cyber-Grid & Tactile Chamfer System</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700;1,9..40,400&family=Space+Grotesk:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700;1,9..40,400&family=Playfair+Display:ital,wght@0,700;0,800;0,900;1,700;1,800&family=Space+Grotesk:wght@500;600;700;800;900&display=swap" rel="stylesheet">
 <style>
   /* ==========================================================================
-     OBSIDIAN CYBER-GRID & TACTILE CHAMFER VISUAL SYSTEM
-     High-Contrast Technical Architecture // Zero Emojis // Zero Blurs
+     CLEAN MONOCHROME EDITORIAL LUXURY SYSTEM // ZERO CYBER-GRID // ZERO RED
+     Pure Editorial Palette: White #ffffff, Deep Charcoal #0f172a, Soft Slate rgba(15, 23, 42, 0.08)
      ========================================================================== */
   :root {{
-    /* 1. Surfaces & Foundation */
-    --bg-canvas: #08090b;
-    --bg-panel: #0d0e11;
-    --bg-panel-secondary: #121316;
-    --bg-input: #0f1012;
-    --surface-purple: #4a154b;
+    /* 1. Surfaces & Foundation (Pure White) */
+    --bg-canvas: #ffffff;
+    --bg-panel: #ffffff;
+    --bg-panel-secondary: #ffffff;
+    --bg-input: #ffffff;
+    --surface-purple: #0f172a;
     --plate-white: #ffffff;
 
-    /* 2. Continuous 1px Nested Hairline Borders */
-    --border-subtle: #1e293b;
-    --border-muted: #334155;
-    --border-divider: #1e293b;
-    --border-dark: #334155;
-    --border-light: #475569;
+    /* 2. Continuous Crisp Borders (Tints of #0f172a) */
+    --border-subtle: rgba(15, 23, 42, 0.08);
+    --border-muted: rgba(15, 23, 42, 0.16);
+    --border-divider: rgba(15, 23, 42, 0.06);
+    --border-dark: #0f172a;
+    --border-light: rgba(15, 23, 42, 0.12);
 
-    /* 3. Typography Tokens */
+    /* 3. Typography Tokens (Deep Charcoal #0f172a) */
     --text-white: #ffffff;
-    --text-primary: #f4f4f5;
-    --text-muted: #94a3b8;
-    --text-dim: #64748b;
-    --text-monochrome: #e2e8f0;
+    --text-primary: #0f172a;
+    --text-muted: rgba(15, 23, 42, 0.65);
+    --text-dim: rgba(15, 23, 42, 0.45);
+    --text-monochrome: #0f172a;
 
-    /* 4. Strict Solid Accent Highlights */
-    --accent-emerald: #00b67a;
-    --accent-crimson: #ff0050;
-    --accent-mint: #00b67a;
-    --accent-mint-hover: #10b981;
-    --accent-orange: #f25a38;
-    --accent-success: #00b67a;
-    --accent-blue: #3b82f6;
+    /* 4. Strict Solid Accent Highlights (Zero Red) */
+    --accent-coral: #0f172a;
+    --accent-emerald: #0f172a;
+    --accent-crimson: #0f172a;
+    --accent-mint: #0f172a;
+    --accent-mint-hover: #0f172a;
+    --accent-orange: #0f172a;
+    --accent-success: #0f172a;
+    --accent-blue: #0f172a;
 
     /* 5. Typography Font Stacks */
     --font-main: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
@@ -138,15 +197,15 @@ def main():
     --font-mono: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace;
 
     /* Compatibility & Semantic Tokens */
-    --bg-obsidian-ref: #08090b;
-    --leather-highlight: #1e293b;
-    --leather-body: #0d0e11;
-    --leather-shadow: #08090b;
-    --leather-deep: #08090b;
-    --leather-thread: rgba(255, 255, 255, 0.16);
-    --satin-usd: #00b67a;
-    --satin-khr: #f25a38;
-    --satin-wei: #3b82f6;
+    --bg-obsidian-ref: #08090b; /* #08090b legacy token deprecated in favor of #ffffff / #0f172a */
+    --leather-highlight: #ffffff;
+    --leather-body: #ffffff;
+    --leather-shadow: rgba(15, 23, 42, 0.04);
+    --leather-deep: #ffffff;
+    --leather-thread: rgba(15, 23, 42, 0.08);
+    --satin-usd: #0f172a;
+    --satin-khr: #0f172a;
+    --satin-wei: #0f172a;
   }}
 
   *, *::before, *::after {{
@@ -156,17 +215,13 @@ def main():
   }}
 
   body.cyber-canvas {{
-    background-color: #08090b !important;
-    background-image: 
-      radial-gradient(circle, rgba(255, 255, 255, 0.10) 1px, transparent 1px),
-      linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
-    background-size: 38px 38px, 38px 38px, 38px 38px;
-    background-position: center top;
-    color: var(--text-primary);
+    background-color: #ffffff !important;
+    background-image: none !important;
+    color: #0f172a !important;
     font-family: var(--font-main);
     min-height: 100vh;
-    padding: 24px;
+    padding: 0;
+    margin: 0;
     -webkit-font-smoothing: antialiased;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -1254,6 +1309,1052 @@ def main():
     font-weight: 700;
     letter-spacing: 0.02em;
   }}
+
+  /* ==========================================================================
+     WINZY EDITORIAL LUXURY HERO SECTION // FULL SCREEN FIT VIEWPORT
+     Display Only Logo (Enlarged Monumental "V" Mark) // Zero Login / Signup
+     Interactive Capsule Navigation Dock // Detailed Certificate Metadata Corner
+     Right Side Continuous Randomized Certificate Marquee
+     Clean Monochrome Palette: White #ffffff, Deep Charcoal #0f172a
+     ========================================================================== */
+
+  .winzy-hero-section {{
+    width: 100vw;
+    max-width: 100vw;
+    min-width: 100vw;
+    height: 100vh;
+    min-height: 100vh;
+    max-height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    font-family: var(--font-main);
+    overflow: hidden;
+  }}
+
+  /* Full Bleed Cinematic Viewport */
+  .winzy-hero-card {{
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: none;
+    background-color: #0f172a;
+    background-image: 
+      linear-gradient(180deg, rgba(15, 23, 42, 0.55) 0%, rgba(15, 23, 42, 0.0) 24%, rgba(15, 23, 42, 0.0) 55%, rgba(15, 23, 42, 0.85) 100%),
+      url('assets/hero_egypt_pyramids.jpg');
+    background-size: cover;
+    background-position: center 36%;
+    background-repeat: no-repeat;
+    transition: background-image 0.5s ease-in-out;
+  }}
+
+  /* Top Navigation Inside Hero Card */
+  .winzy-card-nav {{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 30;
+    width: 100%;
+    padding: 36px 52px;
+    box-sizing: border-box;
+  }}
+
+  /* Brand Unit: DISPLAY ONLY LOGO with Large Font Size ("V") */
+  .winzy-nav-brand {{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    user-select: none;
+    line-height: 1;
+    z-index: 35;
+  }}
+
+  .winzy-logo-v {{
+    font-family: 'Space Grotesk', var(--font-display), sans-serif;
+    font-size: clamp(68px, 7.5vw, 96px);
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 0.8;
+    letter-spacing: -0.07em;
+    text-shadow: 0 8px 32px rgba(0, 0, 0, 0.65);
+    display: inline-block;
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.2s ease;
+  }}
+
+  .winzy-logo-v:hover {{
+    transform: scale(1.06);
+    opacity: 0.95;
+  }}
+
+  /* Real Interactive Capsule Navigation Dock */
+  .winzy-nav-pill {{
+    background: rgba(255, 255, 255, 0.16);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    border-radius: 9999px;
+    padding: 8px 24px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.16);
+    position: relative;
+    z-index: 35;
+  }}
+
+  .winzy-nav-item {{
+    position: relative;
+    display: flex;
+    align-items: center;
+  }}
+
+  .winzy-nav-link {{
+    color: rgba(255, 255, 255, 0.92);
+    font-family: var(--font-main);
+    font-size: 14.5px;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 14px;
+    border-radius: 9999px;
+    transition: color 0.15s ease, background-color 0.15s ease, transform 0.15s ease;
+    user-select: none;
+    border: none;
+    background: transparent;
+  }}
+
+  .winzy-nav-link:hover,
+  .winzy-nav-item:hover .winzy-nav-link,
+  .winzy-nav-link.active {{
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.18);
+  }}
+
+  .winzy-nav-caret {{
+    width: 9px;
+    height: 9px;
+    stroke: #ffffff;
+    stroke-width: 1.8;
+    fill: none;
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  }}
+
+  .winzy-nav-item:hover .winzy-nav-caret {{
+    transform: rotate(180deg);
+  }}
+
+  /* Interactive Dropdown Menus */
+  .winzy-nav-dropdown {{
+    position: absolute;
+    top: calc(100% + 12px);
+    left: 50%;
+    transform: translateX(-50%) translateY(8px);
+    background: rgba(15, 23, 42, 0.94);
+    backdrop-filter: blur(28px);
+    -webkit-backdrop-filter: blur(28px);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    border-radius: 18px;
+    padding: 8px;
+    min-width: 250px;
+    box-shadow: 0 24px 52px rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.2s cubic-bezier(0.16, 1, 0.3, 1), transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }}
+
+  .winzy-nav-item:hover .winzy-nav-dropdown,
+  .winzy-nav-item:focus-within .winzy-nav-dropdown {{
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateX(-50%) translateY(0);
+  }}
+
+  .winzy-dropdown-header {{
+    font-family: var(--font-display);
+    font-size: 10px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.55);
+    letter-spacing: 0.08em;
+    padding: 6px 12px 4px 12px;
+    text-transform: uppercase;
+  }}
+
+  .winzy-dropdown-link {{
+    padding: 8px 12px;
+    border-radius: 10px;
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease, transform 0.15s ease;
+  }}
+
+  .winzy-dropdown-link:hover {{
+    background-color: rgba(255, 255, 255, 0.16);
+    color: #ffffff;
+    transform: translateX(3px);
+  }}
+
+  .winzy-dropdown-badge {{
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    background: rgba(255, 255, 255, 0.16);
+    color: #ffffff;
+    padding: 2px 7px;
+    border-radius: 9999px;
+    font-weight: 700;
+  }}
+
+  /* Spacer to center capsule nav dock when auth buttons are removed */
+  .winzy-nav-spacer {{
+    width: 96px;
+    height: 1px;
+    visibility: hidden;
+  }}
+
+  /* Monumental Center Watermark */
+  .winzy-watermark-text {{
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: var(--font-main), var(--font-display), sans-serif;
+    font-size: clamp(80px, 15vw, 220px);
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    color: rgba(255, 255, 255, 0.28);
+    pointer-events: none;
+    z-index: 2;
+    user-select: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+    line-height: 1;
+  }}
+
+  /* Bottom Card Elements */
+  .winzy-card-bottom {{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    padding: 40px 52px;
+    box-sizing: border-box;
+    gap: 24px;
+    flex-wrap: wrap;
+  }}
+
+  .winzy-bottom-left {{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 720px;
+  }}
+
+  .winzy-stats-row {{
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
+    flex-wrap: wrap;
+  }}
+
+  .winzy-stat-col {{
+    display: flex;
+    flex-direction: column;
+  }}
+
+  .winzy-stat-num {{
+    font-family: var(--font-display), var(--font-main);
+    font-size: clamp(32px, 3.8vw, 44px);
+    font-weight: 800;
+    color: #ffffff;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    text-shadow: 0 4px 18px rgba(0, 0, 0, 0.5);
+  }}
+
+  .winzy-stat-label {{
+    font-family: var(--font-main);
+    font-size: 12.5px;
+    color: rgba(255, 255, 255, 0.88);
+    margin-top: 5px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }}
+
+  .winzy-details-desc {{
+    font-family: var(--font-main);
+    font-size: 13.5px;
+    line-height: 1.55;
+    color: rgba(255, 255, 255, 0.9);
+    max-width: 640px;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+  }}
+
+  .winzy-quick-filters {{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-top: 2px;
+  }}
+
+  .winzy-filter-pill {{
+    background: rgba(255, 255, 255, 0.16);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+    font-family: var(--font-main);
+    font-size: 12px;
+    font-weight: 600;
+    padding: 6px 14px;
+    border-radius: 9999px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }}
+
+  .winzy-filter-pill:hover {{
+    background: #ffffff;
+    color: #0f172a;
+    border-color: #ffffff;
+    transform: translateY(-1px);
+  }}
+
+  /* Vertical Right Side Certificate Marquee */
+  .winzy-right-marquee {{
+    position: absolute;
+    right: 52px;
+    top: 120px;
+    bottom: 40px;
+    width: 320px;
+    z-index: 15;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    pointer-events: auto;
+    border-radius: 24px;
+    background: rgba(15, 23, 42, 0.45);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 24px 48px -8px rgba(0, 0, 0, 0.45);
+  }}
+
+  .winzy-marquee-header {{
+    padding: 13px 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(15, 23, 42, 0.7);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    font-family: var(--font-display);
+    font-size: 11px;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    flex-shrink: 0;
+  }}
+
+  .winzy-marquee-pulse {{
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px #ffffff;
+    animation: winzyPulse 2s infinite ease-in-out;
+  }}
+
+  @keyframes winzyPulse {{
+    0%, 100% {{ opacity: 0.35; transform: scale(0.9); }}
+    50% {{ opacity: 1; transform: scale(1.15); }}
+  }}
+
+  .winzy-marquee-track-wrap {{
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    mask-image: linear-gradient(180deg, transparent 0%, black 5%, black 95%, transparent 100%);
+    -webkit-mask-image: linear-gradient(180deg, transparent 0%, black 5%, black 95%, transparent 100%);
+  }}
+
+  .winzy-marquee-track {{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 14px;
+    animation: winzyMarqueeScroll 38s linear infinite;
+  }}
+
+  .winzy-marquee-track:hover {{
+    animation-play-state: paused;
+  }}
+
+  @keyframes winzyMarqueeScroll {{
+    0% {{
+      transform: translateY(0);
+    }}
+    100% {{
+      transform: translateY(-50%);
+    }}
+  }}
+
+  .winzy-marquee-card {{
+    background: rgba(15, 23, 42, 0.72);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 16px;
+    padding: 10px;
+    cursor: pointer;
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.2s ease, background 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-decoration: none;
+  }}
+
+  .winzy-marquee-card:hover {{
+    transform: translateY(-2px) scale(1.02);
+    border-color: rgba(255, 255, 255, 0.45);
+    background: rgba(15, 23, 42, 0.9);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.45);
+  }}
+
+  .winzy-marquee-thumb-wrap {{
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }}
+
+  .winzy-marquee-thumb {{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }}
+
+  .winzy-marquee-info {{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }}
+
+  .winzy-marquee-title {{
+    font-family: var(--font-main);
+    font-size: 12px;
+    font-weight: 700;
+    color: #ffffff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.25;
+  }}
+
+  .winzy-marquee-meta {{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    flex-wrap: wrap;
+  }}
+
+  .winzy-marquee-tag {{
+    font-family: var(--font-mono);
+    font-size: 9px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.15);
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }}
+
+
+  /* ==========================================================================
+     GLOBAL OVERRIDES: DELETE CYBER-GRID STYLE, ENFORCE WHITE & 3-COLOR SYSTEM
+     ========================================================================== */
+  .chamfer-18-wrapper,
+  .chamfer-14-wrapper,
+  .elevated-center-card,
+  .leather-sleeve {{
+    position: relative;
+    background-color: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 24px !important;
+    clip-path: none !important;
+    padding: 24px !important;
+    margin-bottom: 32px !important;
+    box-shadow: 0 6px 24px rgba(15, 23, 42, 0.04) !important;
+    box-sizing: border-box !important;
+  }}
+
+  .chamfer-18-inner,
+  .chamfer-14-inner,
+  .elevated-center-card-inner {{
+    background-color: #ffffff !important;
+    clip-path: none !important;
+    padding: 0 !important;
+    border-radius: 20px !important;
+  }}
+
+  .leather-pebble-grain,
+  .leather-stitch-svg,
+  .tactile-stitch-svg {{
+    display: none !important;
+  }}
+
+  .inserted-card-slot {{
+    background: #ffffff !important;
+    color: #0f172a !important;
+    padding: 8px 0 20px 0 !important;
+    border-bottom: 1px solid rgba(15, 23, 42, 0.06) !important;
+  }}
+
+  .inserted-card-slot svg text {{
+    fill: #0f172a !important;
+  }}
+
+  .front-leather-flap {{
+    background: transparent !important;
+    border-top: none !important;
+    padding: 16px 0 0 0 !important;
+  }}
+
+  .segmented-pill-bar {{
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 9999px !important;
+    padding: 4px !important;
+  }}
+
+  .tactile-pill-btn {{
+    border-radius: 9999px !important;
+    color: rgba(15, 23, 42, 0.7) !important;
+    font-weight: 600 !important;
+  }}
+
+  .tactile-pill-btn:hover {{
+    color: #0f172a !important;
+    background: rgba(15, 23, 42, 0.06) !important;
+  }}
+
+  .tactile-pill-btn.active {{
+    background-color: #0f172a !important;
+    color: #ffffff !important;
+    border: none !important;
+  }}
+
+  .card-metric-badge,
+  .crypto-address-pill,
+  .mono-badge {{
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    color: #0f172a !important;
+    border-radius: 9999px !important;
+    clip-path: none !important;
+  }}
+
+  .critical-cue-badge {{
+    background: rgba(15, 23, 42, 0.05) !important;
+    border: 1px solid rgba(15, 23, 42, 0.12) !important;
+    color: #0f172a !important;
+    border-radius: 9999px !important;
+  }}
+
+  .indicator-pulse,
+  .status-pulse {{
+    background: #0f172a !important;
+    border-radius: 50% !important;
+    clip-path: none !important;
+  }}
+
+  .leather-toggle-group {{
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 9999px !important;
+    clip-path: none !important;
+    padding: 3px !important;
+  }}
+
+  .leather-toggle-btn {{
+    border-radius: 9999px !important;
+    clip-path: none !important;
+    color: rgba(15, 23, 42, 0.65) !important;
+  }}
+
+  .leather-toggle-btn.active {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+  }}
+
+  .vault-status-indicator {{
+    color: rgba(15, 23, 42, 0.7) !important;
+  }}
+
+  /* Stepper Rail in Clean White Aesthetic */
+  .stepper-rail-container {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 20px !important;
+    clip-path: none !important;
+    box-shadow: 0 4px 20px rgba(15, 23, 42, 0.03) !important;
+  }}
+
+  .stepper-rail-inner {{
+    background: #ffffff !important;
+    clip-path: none !important;
+  }}
+
+  .stepper-rail-track {{
+    background: rgba(15, 23, 42, 0.08) !important;
+  }}
+
+  .step-node {{
+    background: #ffffff !important;
+  }}
+
+  .step-node-icon {{
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.1) !important;
+    color: #0f172a !important;
+  }}
+
+  .step-node.active .step-node-icon {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+    border-color: #0f172a !important;
+  }}
+
+  .step-node.completed .step-node-icon {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+    border-color: #0f172a !important;
+  }}
+
+  .step-node-num {{
+    color: rgba(15, 23, 42, 0.45) !important;
+  }}
+
+  .step-node-title {{
+    color: #0f172a !important;
+    font-weight: 600 !important;
+  }}
+
+  /* Visual Stage Specimen Container */
+  .stage-top-bar {{
+    border-bottom: 1px solid rgba(15, 23, 42, 0.06) !important;
+    padding-bottom: 16px !important;
+    margin-bottom: 20px !important;
+  }}
+
+  .stage-title {{
+    color: #0f172a !important;
+    font-weight: 700 !important;
+  }}
+
+  .display-plate-white {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 20px !important;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.05) !important;
+  }}
+
+  .stage-tool-btn {{
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 9999px !important;
+    color: #0f172a !important;
+    font-weight: 600 !important;
+  }}
+
+  .stage-tool-btn:hover {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+  }}
+
+  /* Blank Presets Grid & Cards */
+  .section-title {{
+    color: #0f172a !important;
+    font-weight: 700 !important;
+  }}
+
+  .section-desc {{
+    color: rgba(15, 23, 42, 0.6) !important;
+  }}
+
+  .blank-grid {{
+    gap: 16px !important;
+  }}
+
+  .blank-card-wrapper {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 18px !important;
+    box-shadow: 0 4px 16px rgba(15, 23, 42, 0.03) !important;
+    transition: all 0.2s ease !important;
+  }}
+
+  .blank-card-wrapper:hover {{
+    transform: translateY(-2px) !important;
+    border-color: rgba(15, 23, 42, 0.2) !important;
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06) !important;
+  }}
+
+  .blank-card-inner {{
+    background: #ffffff !important;
+    border-radius: 18px !important;
+  }}
+
+  .blank-card-name {{
+    color: #0f172a !important;
+    font-weight: 700 !important;
+  }}
+
+  .blank-card-dim {{
+    color: rgba(15, 23, 42, 0.6) !important;
+  }}
+
+  .blank-card-link {{
+    color: #0f172a !important;
+    font-weight: 600 !important;
+  }}
+
+  /* Sub-Section Alignments */
+  .leather-sleeve,
+  .stepper-rail-container {{
+    max-width: 1680px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 24px !important;
+  }}
+
+  /* Catalog Controls, Search Bar, and Tabs */
+  .catalog-controls-container,
+  .controls-bar {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 24px !important;
+    padding: 20px 24px !important;
+    box-shadow: 0 4px 20px rgba(15, 23, 42, 0.03) !important;
+    box-sizing: border-box !important;
+  }}
+
+  .cyber-search-group {{
+    border-radius: 9999px !important;
+    clip-path: none !important;
+    background: transparent !important;
+    border: 1.5px solid rgba(15, 23, 42, 0.12) !important;
+    height: 48px !important;
+    padding: 0 !important;
+    position: relative !important;
+  }}
+
+  .cyber-search-inner {{
+    border-radius: 9999px !important;
+    clip-path: none !important;
+    background: #ffffff !important;
+    padding: 0 8px 0 18px !important;
+    height: 100% !important;
+  }}
+
+  .search-input-field,
+  .cyber-search-input {{
+    background: transparent !important;
+    border: none !important;
+    color: #0f172a !important;
+    padding: 10px 14px !important;
+    font-family: var(--font-main) !important;
+    font-size: 13.5px !important;
+  }}
+
+  .search-input-field:focus,
+  .cyber-search-input:focus {{
+    outline: none !important;
+    box-shadow: none !important;
+  }}
+
+  .cyber-search-btn {{
+    border-radius: 9999px !important;
+    clip-path: none !important;
+    color: #0f172a !important;
+    font-weight: 700 !important;
+    padding: 8px 18px !important;
+    background: rgba(15, 23, 42, 0.04) !important;
+  }}
+
+  .cyber-search-btn:hover {{
+    background: rgba(15, 23, 42, 0.08) !important;
+    color: #0f172a !important;
+  }}
+
+  .stepper-tab-btn {{
+    clip-path: none !important;
+    border-radius: 9999px !important;
+    background: transparent !important;
+    padding: 0 !important;
+  }}
+
+  .stepper-tab-btn .tab-content {{
+    clip-path: none !important;
+    border-radius: 9999px !important;
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    color: rgba(15, 23, 42, 0.7) !important;
+    padding: 8px 18px !important;
+    font-weight: 600 !important;
+  }}
+
+  .stepper-tab-btn.active .tab-content,
+  .filter-pill.active,
+  .cat-tab-btn.active,
+  .stepper-tabs button.active {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+    border-color: #0f172a !important;
+  }}
+
+  .stepper-tab-btn:hover .tab-content,
+  .filter-pill:hover,
+  .cat-tab-btn:hover,
+  .stepper-tabs button:hover {{
+    color: #0f172a !important;
+    background: rgba(15, 23, 42, 0.08) !important;
+  }}
+
+  /* Template Grid & Card Architecture */
+  .cyber-grid {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 24px !important;
+    padding: 24px !important;
+    box-shadow: 0 4px 20px rgba(15, 23, 42, 0.03) !important;
+    box-sizing: border-box !important;
+  }}
+
+  .template-card-wrapper,
+  .element-card-wrapper {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 20px !important;
+    clip-path: none !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 16px rgba(15, 23, 42, 0.03) !important;
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }}
+
+  .template-card-wrapper:hover,
+  .element-card-wrapper:hover {{
+    transform: translateY(-3px) !important;
+    border-color: rgba(15, 23, 42, 0.22) !important;
+    box-shadow: 0 12px 32px rgba(15, 23, 42, 0.07) !important;
+  }}
+
+  .template-card-wrapper.selected {{
+    border-color: #0f172a !important;
+    box-shadow: 0 0 0 2px #0f172a, 0 12px 32px rgba(15, 23, 42, 0.08) !important;
+  }}
+
+  .template-card-inner,
+  .element-card-inner {{
+    background: #ffffff !important;
+    clip-path: none !important;
+    border-radius: 20px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
+  }}
+
+  .card-img-wrap {{
+    background: #ffffff !important;
+    border-bottom: 1px solid rgba(15, 23, 42, 0.06) !important;
+  }}
+
+  .card-title {{
+    color: #0f172a !important;
+    font-weight: 700 !important;
+  }}
+
+  .pill {{
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    color: rgba(15, 23, 42, 0.7) !important;
+    border-radius: 9999px !important;
+    clip-path: none !important;
+    font-weight: 600 !important;
+  }}
+
+  .pill.paper {{
+    color: #0f172a !important;
+  }}
+
+  .pill.orient,
+  .pill.tag-mint {{
+    color: #0f172a !important;
+    background: rgba(15, 23, 42, 0.06) !important;
+    border-color: rgba(15, 23, 42, 0.12) !important;
+  }}
+
+  .card-links {{
+    background: #ffffff !important;
+    border-top: 1px solid rgba(15, 23, 42, 0.06) !important;
+    color: rgba(15, 23, 42, 0.6) !important;
+  }}
+
+  /* Parameter Inspector Column Modernization */
+  .inspector-header-card {{
+    background: #0f172a !important;
+    border-radius: 20px !important;
+    clip-path: none !important;
+    border: none !important;
+    box-shadow: 0 4px 16px rgba(15, 23, 42, 0.08) !important;
+  }}
+
+  .inspector-group-card {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 20px !important;
+    clip-path: none !important;
+    box-shadow: 0 4px 16px rgba(15, 23, 42, 0.02) !important;
+  }}
+
+  .inspector-group-inner {{
+    background: #ffffff !important;
+    clip-path: none !important;
+    border-radius: 20px !important;
+  }}
+
+  .inspector-group-title {{
+    color: #0f172a !important;
+    border-bottom: 1px solid rgba(15, 23, 42, 0.06) !important;
+  }}
+
+  .param-row {{
+    border-bottom: 1px solid rgba(15, 23, 42, 0.04) !important;
+  }}
+
+  .param-label {{
+    color: rgba(15, 23, 42, 0.6) !important;
+  }}
+
+  .param-value {{
+    color: #0f172a !important;
+    font-weight: 600 !important;
+  }}
+
+  .spec-table-container {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 20px !important;
+    clip-path: none !important;
+    box-shadow: 0 4px 16px rgba(15, 23, 42, 0.03) !important;
+  }}
+
+  .spec-table th {{
+    background: rgba(15, 23, 42, 0.03) !important;
+    color: #0f172a !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+  }}
+
+  .spec-table td {{
+    border: 1px solid rgba(15, 23, 42, 0.06) !important;
+    color: rgba(15, 23, 42, 0.8) !important;
+  }}
+
+  .element-preview {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.06) !important;
+    border-radius: 12px !important;
+  }}
+
+  .element-preview img {{
+    filter: none !important;
+  }}
+
+  .element-name {{
+    color: #0f172a !important;
+  }}
+
+  .obsidian-workspace {{
+    max-width: 1680px !important;
+    margin: 0 auto !important;
+    padding: 0 24px !important;
+    box-sizing: border-box !important;
+  }}
+
+  @media (max-width: 1280px) {{
+    .winzy-right-marquee {{
+      display: none;
+    }}
+  }}
+
+  @media (max-width: 900px) {{
+    .winzy-hero-section {{
+      height: auto;
+      min-height: 100vh;
+      margin: 0;
+      padding: 0;
+    }}
+    .winzy-hero-card {{
+      min-height: 100vh;
+      border-radius: 0;
+    }}
+    .winzy-card-nav {{
+      padding: 24px 20px;
+      flex-direction: column;
+      gap: 16px;
+    }}
+    .winzy-nav-pill {{
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+      padding: 6px 16px;
+    }}
+    .winzy-nav-spacer {{
+      display: none;
+    }}
+    .winzy-card-bottom {{
+      padding: 28px 20px;
+    }}
+    .winzy-stats-row {{
+      gap: 20px;
+    }}
+    .winzy-stat-num {{
+      font-size: 28px;
+    }}
+  }}
 </style>
 </head>
 <body class="cyber-canvas">
@@ -1344,52 +2445,207 @@ def main():
   </symbol>
 </svg>
 
-<!-- 1. TOP HARDWARE MODULE (18PX CHAMFER CUT WITH COORDINATE GRID & STITCHING) -->
+<!-- WINZY EDITORIAL LUXURY HERO HOMEPAGE SECTION (FULL SCREEN FIT) -->
+<section class="winzy-hero-section">
+  <!-- Full Screen Floating Cinematic Card Viewport -->
+  <div class="winzy-hero-card" id="winzyHeroCard">
+    <!-- Top Nav Inside Card: Only Large "V" Logo + Real Interactive Capsule Nav Dock -->
+    <nav class="winzy-card-nav">
+      <!-- Left: DISPLAY ONLY LOGO with Large Font Size ("V") -->
+      <a href="#" class="winzy-nav-brand" aria-label="Logo">
+        <span class="winzy-logo-v">V</span>
+      </a>
+
+      <!-- Center: Real Interactive Frosted Glass Capsule Bar -->
+      <div class="winzy-nav-pill" id="winzyNavDock">
+        <!-- Certificates Dropdown -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#grid" onclick="filterCategory('certificate'); return false;">
+            Certificates
+            <svg class="winzy-nav-caret" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/></svg>
+          </a>
+          <div class="winzy-nav-dropdown">
+            <div class="winzy-dropdown-header">CERTIFICATE CATEGORIES</div>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('certificate');">
+              <span>All Certificates</span>
+              <span class="winzy-dropdown-badge">{count_certificates:,}</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'academic');">
+              <span>Academic & Degrees</span>
+              <span class="winzy-dropdown-badge">640+</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'completion');">
+              <span>Completion & Training</span>
+              <span class="winzy-dropdown-badge">820+</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'corporate');">
+              <span>Corporate & Professional</span>
+              <span class="winzy-dropdown-badge">480+</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'diploma');">
+              <span>Diplomas & Honors</span>
+              <span class="winzy-dropdown-badge">190+</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Credentials Dropdown -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#grid" onclick="filterCategory('badge'); return false;">
+            Credentials
+            <svg class="winzy-nav-caret" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/></svg>
+          </a>
+          <div class="winzy-nav-dropdown">
+            <div class="winzy-dropdown-header">SPECIALIZED CREDENTIALS</div>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('badge');">
+              <span>Digital Badges</span>
+              <span class="winzy-dropdown-badge">{count_badges:,}</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('transcript');">
+              <span>Academic Transcripts</span>
+              <span class="winzy-dropdown-badge">{count_transcripts:,}</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('training_record');">
+              <span>Training Records</span>
+              <span class="winzy-dropdown-badge">{count_training:,}</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('assessment');">
+              <span>Evaluations & Assessments</span>
+              <span class="winzy-dropdown-badge">{count_assessments:,}</span>
+            </a>
+            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('letter');">
+              <span>Formal Letters</span>
+              <span class="winzy-dropdown-badge">{count_letters:,}</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Presets -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#blankPresetsSection" onclick="selectWorkspaceView('presets');">
+            Presets
+          </a>
+        </div>
+
+        <!-- Vector SVGs -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#elementsCatalogSection" onclick="filterCategory('elements');">
+            Vectors
+          </a>
+        </div>
+
+        <!-- Inspector Stage -->
+        <div class="winzy-nav-item">
+          <a class="winzy-nav-link" href="#visualStageWrapper" onclick="selectWorkspaceView('stage');">
+            Inspector
+          </a>
+        </div>
+      </div>
+
+      <!-- Right Spacer (Balances layout now that Login & Signup are removed) -->
+      <div class="winzy-nav-spacer"></div>
+    </nav>
+
+    <!-- Monumental Center Watermark Backdrop Text -->
+    <div class="winzy-watermark-text" id="winzyHeroWatermark">EGYPT</div>
+
+    <!-- Right Side Vertical Marquee with Randomized Certificates -->
+    <div class="winzy-right-marquee">
+      <div class="winzy-marquee-header">
+        <span>Random Specimens</span>
+        <div class="winzy-marquee-pulse"></div>
+      </div>
+      <div class="winzy-marquee-track-wrap">
+        <div class="winzy-marquee-track">
+          {marquee_cards_html}
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom Row Elements -->
+    <div class="winzy-card-bottom">
+      <div class="winzy-bottom-left">
+        <!-- Stats Cluster with Detailed Certificate Counts -->
+        <div class="winzy-stats-row">
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">{total_templates:,}</span>
+            <span class="winzy-stat-label">Total Templates</span>
+          </div>
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">{count_certificates:,}</span>
+            <span class="winzy-stat-label">Certificates</span>
+          </div>
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">{count_badges:,}</span>
+            <span class="winzy-stat-label">Digital Badges</span>
+          </div>
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">{count_other_records:,}</span>
+            <span class="winzy-stat-label">Transcripts & Records</span>
+          </div>
+          <div class="winzy-stat-col">
+            <span class="winzy-stat-num">{total_svgs:,}</span>
+            <span class="winzy-stat-label">Vector SVGs</span>
+          </div>
+        </div>
+
+        <!-- Detailed Description (Zero Booking Button) -->
+        <p class="winzy-details-desc">
+          Universal High-Fidelity Certificate Repository: {count_certificates:,} master certificates, {count_badges:,} skill badges, {count_transcripts:,} academic transcripts, {count_training:,} training records, {count_assessments:,} evaluations, and {count_letters:,} formal letters engineered with 100% offline JSON data precision.
+        </p>
+
+        <!-- Quick Interactive Jump Pills -->
+        <div class="winzy-quick-filters">
+          <button class="winzy-filter-pill" onclick="filterCategory('all');">All ({total_templates:,})</button>
+          <button class="winzy-filter-pill" onclick="filterCategory('certificate');">Certificates ({count_certificates:,})</button>
+          <button class="winzy-filter-pill" onclick="filterCategory('badge');">Badges ({count_badges:,})</button>
+          <button class="winzy-filter-pill" onclick="filterCategory('transcript');">Transcripts ({count_transcripts:,})</button>
+          <button class="winzy-filter-pill" onclick="selectWorkspaceView('presets');">Presets (10)</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 1. TOP MODULE (CLEAN THREE-COLOR EDITORIAL SPECIFICATION ARCHITECTURE) -->
 <header class="leather-sleeve chamfer-18-wrapper">
-  <div class="leather-pebble-grain"></div>
-  <svg class="leather-stitch-svg" xmlns="http://www.w3.org/2000/svg">
-    <rect class="leather-stitch-rect" x="4" y="4" width="calc(100% - 8px)" height="calc(100% - 8px)"/>
-  </svg>
-
   <div class="inserted-card-slot" id="satinCard">
-    {guilloche_svg}
-
     <!-- Left Brand Unit: High-Contrast Grotesque Typography -->
     <div class="card-brand-col">
-      <div style="display: flex; align-items: center; gap: 10px;">
+      <div style="display: flex; align-items: center; gap: 12px;">
         <svg width="124" height="30" viewBox="0 0 124 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <text x="0" y="24" fill="#ffffff" font-size="24" font-family="'Space Grotesk', system-ui, sans-serif" font-weight="900" letter-spacing="-0.03em" textLength="72" lengthAdjust="spacingAndGlyphs">SHILIAI</text>
-          <polygon points="75 4, 114 4, 120 10, 120 27, 75 27" fill="#4a154b" />
+          <text x="0" y="24" fill="#0f172a" font-size="24" font-family="'Space Grotesk', system-ui, sans-serif" font-weight="900" letter-spacing="-0.03em" textLength="72" lengthAdjust="spacingAndGlyphs">SHILIAI</text>
+          <polygon points="75 4, 114 4, 120 10, 120 27, 75 27" fill="#0f172a" />
           <text id="badgeWeiText" x="97" y="21" text-anchor="middle" fill="#ffffff" font-size="13" font-family="'Space Grotesk', system-ui, sans-serif" font-weight="900" letter-spacing="0.05em">WEI</text>
         </svg>
         <span class="crypto-address-pill">
-          <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-shield"/></svg>
+          <svg class="keyline-icon" style="width: 12px; height: 12px; color: #0f172a;"><use href="#icon-shield"/></svg>
           0x71C84...F29A // CERT-VAULT
         </span>
       </div>
-      <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); font-weight: 500; margin-top: 4px; letter-spacing: 0.02em;">
-        OBSIDIAN CYBER-GRID ARCHITECTURE // TERMINAL TACTILE CHAMFER SYSTEM
+      <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); font-weight: 500; margin-top: 6px; letter-spacing: 0.02em;">
+        SHILIAIWEI CERTICHAIN // THREE-COLOR EDITORIAL LUXURY SPECIFICATION
       </div>
     </div>
 
     <!-- Right Metric Unit -->
     <div class="card-meta-col">
       <div class="card-metric-badge">
-        <svg class="keyline-icon" style="width: 16px; height: 16px; color: var(--accent-emerald);"><use href="#icon-certificate"/></svg>
+        <svg class="keyline-icon" style="width: 16px; height: 16px; color: #0f172a;"><use href="#icon-certificate"/></svg>
         <span>{total_templates:,} TEMPLATES</span>
       </div>
       <div class="card-metric-badge">
-        <svg class="keyline-icon" style="width: 14px; height: 14px; color: var(--accent-blue);"><use href="#icon-shapes"/></svg>
+        <svg class="keyline-icon" style="width: 14px; height: 14px; color: var(--text-primary);"><use href="#icon-shapes"/></svg>
         <span>{total_svgs:,} VECTOR SVGS</span>
       </div>
       <span class="critical-cue-badge">
         <span class="indicator-pulse"></span>
-        OFFLINE SECURED
+        100% OFFLINE SECURED
       </span>
     </div>
   </div>
 
-  <!-- Front Hardware Control Tray with Tactile Pill Buttons (18px Radius) -->
+  <!-- Front Control Tray with Tactile Pill Buttons -->
   <div class="front-leather-flap">
     <div class="segmented-pill-bar">
       <button class="tactile-pill-btn active" id="tabBtnAll" onclick="selectWorkspaceView('all')">
@@ -1405,7 +2661,7 @@ def main():
         BLANK PRESETS
       </button>
       <a href="badge_studio.html" class="tactile-pill-btn" style="text-decoration: none;">
-        <svg class="keyline-icon" style="width: 14px; height: 14px; color: var(--accent-emerald);"><use href="#icon-badge"/></svg>
+        <svg class="keyline-icon" style="width: 14px; height: 14px; color: #0f172a;"><use href="#icon-badge"/></svg>
         SLANTED BADGE STUDIO
       </a>
     </div>
@@ -1414,15 +2670,15 @@ def main():
       <div class="leather-toggle-group">
         <button class="leather-toggle-btn active" id="btnWei" onclick="setCardFinish('wei')">
           <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-shield"/></svg>
-          OBSIDIAN
+          WHITE
         </button>
         <button class="leather-toggle-btn mode-usd" id="btnUsd" onclick="setCardFinish('usd')">
           <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-certificate"/></svg>
-          EMERALD
+          CHARCOAL
         </button>
         <button class="leather-toggle-btn mode-khr" id="btnKhr" onclick="setCardFinish('khr')">
           <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-badge"/></svg>
-          PURPLE
+          SLATE
         </button>
       </div>
 
@@ -1839,7 +3095,7 @@ def main():
           <span class="mono-badge" style="background: #4a154b; color: #ffffff; border-color: #ffffff;">#4A154B PURPLE</span>
           <span class="mono-badge" style="background: #ffffff; color: #08090b; border-color: #334155;">#FFFFFF PLATE</span>
           <span class="mono-badge" style="background: #00b67a; color: #08090b; border-color: #00b67a;">#00B67A EMERALD</span>
-          <span class="mono-badge" style="background: #ff0050; color: #ffffff; border-color: #ff0050;">#FF0050 CRIMSON</span>
+          <span class="mono-badge" style="background: #0f172a; color: #ffffff; border-color: #0f172a;">#0F172A CHARCOAL</span>
         </div>
       </div>
     </div>
@@ -2066,17 +3322,17 @@ function setCardFinish(finish) {{
   if (finish === 'wei') {{
     const b = document.getElementById('btnWei');
     if (b) b.classList.add('active');
-    document.documentElement.style.setProperty('--surface-purple', '#4a154b');
+    document.documentElement.style.setProperty('--surface-purple', '#0f172a');
   }} else if (finish === 'usd') {{
     const b = document.getElementById('btnUsd');
     if (b) b.classList.add('active');
     card.classList.add('mode-usd');
-    document.documentElement.style.setProperty('--surface-purple', '#00b67a');
+    document.documentElement.style.setProperty('--surface-purple', '#0f172a');
   }} else if (finish === 'khr') {{
     const b = document.getElementById('btnKhr');
     if (b) b.classList.add('active');
     card.classList.add('mode-khr');
-    document.documentElement.style.setProperty('--surface-purple', '#f25a38');
+    document.documentElement.style.setProperty('--surface-purple', '#0f172a');
   }}
 }}
 
@@ -2218,6 +3474,173 @@ document.querySelectorAll('.stepper-tab-btn').forEach(btn => {{
 }});
 
 render();
+
+function selectTemplateById(id) {{
+  for (const cat of Object.keys(templates)) {{
+    const found = (templates[cat] || []).find(it => it.id === id);
+    if (found) {{
+      selectTemplate(found, getFolder(cat));
+      const stage = document.getElementById('visualStageWrapper');
+      if (stage) {{
+        stage.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+      }}
+      return;
+    }}
+  }}
+}}
+
+function filterCategory(cat, optQuery) {{
+  currentCategory = cat;
+  if (optQuery) {{
+    searchQuery = optQuery;
+    const searchInput = document.getElementById('search');
+    if (searchInput) searchInput.value = optQuery;
+  }}
+  document.querySelectorAll('.stepper-tab-btn').forEach(b => {{
+    if (b.getAttribute('data-cat') === cat) {{
+      b.classList.add('active');
+    }} else {{
+      b.classList.remove('active');
+    }}
+  }});
+  render();
+  const target = document.getElementById('grid');
+  if (target) {{
+    target.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+  }}
+}}
+
+function filterMetadata(field, val) {{
+  currentCategory = 'certificate';
+  searchQuery = val;
+  const searchInput = document.getElementById('search');
+  if (searchInput) searchInput.value = val;
+  document.querySelectorAll('.stepper-tab-btn').forEach(b => {{
+    if (b.getAttribute('data-cat') === 'certificate') {{
+      b.classList.add('active');
+    }} else {{
+      b.classList.remove('active');
+    }}
+  }});
+  render();
+  const target = document.getElementById('grid');
+  if (target) {{
+    target.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+  }}
+}}
+
+function selectWorkspaceView(view) {{
+  if (view === 'presets') {{
+    const el = document.getElementById('blankPresetsSection');
+    if (el) el.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+  }} else if (view === 'stage') {{
+    const el = document.getElementById('visualStageWrapper');
+    if (el) el.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+  }} else if (view === 'elements') {{
+    filterCategory('elements');
+  }} else {{
+    filterCategory('all');
+  }}
+}}
+
+// --- WINZY EDITORIAL HERO SLIDE CONTROLLER ---
+const winzyHeroSlides = [
+  {{
+    index: '01',
+    name: 'EGYPT',
+    image: 'assets/hero_egypt_pyramids.jpg',
+    thumb: 'assets/hero_preview_thumb.jpg',
+    stat1: '20K+', label1: 'Happy Travellers',
+    stat2: '2K+', label2: 'Custom Tours',
+    stat3: '5K+', label3: 'Arranged Stays',
+    tagline: 'Book unique stays that bring travelers and locals together -your gateway to shared adventures'
+  }},
+  {{
+    index: '02',
+    name: 'ICELAND',
+    image: 'https://images.unsplash.com/photo-1504893524553-b855bce32c67?q=80&w=1600&auto=format&fit=crop',
+    thumb: 'https://images.unsplash.com/photo-1520769945061-0a448c4471dd?q=80&w=400&auto=format&fit=crop',
+    stat1: '18K+', label1: 'Glacier Hikers',
+    stat2: '1.4K+', label2: 'Northern Lights',
+    stat3: '3.8K+', label3: 'Eco Lodges',
+    tagline: 'Immerse yourself in volcanic wonder and arctic fjords under the celestial auroras'
+  }},
+  {{
+    index: '03',
+    name: 'TOKYO',
+    image: 'https://images.unsplash.com/photo-1503899036084-c55cdd92da26?q=80&w=1600&auto=format&fit=crop',
+    thumb: 'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=400&auto=format&fit=crop',
+    stat1: '35K+', label1: 'Urban Explorers',
+    stat2: '4.2K+', label2: 'Heritage Spots',
+    stat3: '9K+', label3: 'Ryokan Stays',
+    tagline: 'Step into futuristic neon skylines harmonized with ancient historic shrines'
+  }},
+  {{
+    index: '04',
+    name: 'SWISS',
+    image: 'https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?q=80&w=1600&auto=format&fit=crop',
+    thumb: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=400&auto=format&fit=crop',
+    stat1: '24K+', label1: 'Alpine Climbers',
+    stat2: '3.1K+', label2: 'Scenic Chalets',
+    stat3: '6K+', label3: 'Summit Trails',
+    tagline: 'Wake up above the clouds with pristine snowcapped peaks and mirror-glass lakes'
+  }},
+  {{
+    index: '05',
+    name: 'VAULT',
+    image: 'assets/hero_egypt_pyramids.jpg',
+    thumb: 'assets/hero_preview_thumb.jpg',
+    stat1: '2,328', label1: 'Design Templates',
+    stat2: '2,137', label2: 'Certificates HD',
+    stat3: '130', label3: 'Vector Elements',
+    tagline: 'Official enterprise credential repository with cryptographic security and vector typography'
+  }}
+];
+
+let currentHeroIndex = 0;
+
+function nextWinzyHeroSlide() {{
+  currentHeroIndex = (currentHeroIndex + 1) % winzyHeroSlides.length;
+  updateWinzyHero(currentHeroIndex);
+}}
+
+function updateWinzyHero(idx) {{
+  const slide = winzyHeroSlides[idx];
+  if (!slide) return;
+
+  const card = document.getElementById('winzyHeroCard');
+  const watermark = document.getElementById('winzyHeroWatermark');
+  const stat1 = document.getElementById('heroStat1');
+  const stat2 = document.getElementById('heroStat2');
+  const stat3 = document.getElementById('heroStat3');
+  const tagline = document.getElementById('heroTagline');
+  const thumb = document.getElementById('heroWidgetThumb');
+  const counter = document.getElementById('heroWidgetCounter');
+  const bottomIdx = document.getElementById('heroBottomIndex');
+  const progress = document.getElementById('heroWidgetProgress');
+
+  if (card) {{
+    card.style.backgroundImage = `linear-gradient(180deg, rgba(15, 23, 42, 0.55) 0%, rgba(15, 23, 42, 0.05) 35%, rgba(15, 23, 42, 0.3) 65%, rgba(15, 23, 42, 0.92) 100%), url('${{slide.image}}')`;
+  }}
+  if (watermark) watermark.innerText = slide.name;
+  if (stat1) {{
+    stat1.innerText = slide.stat1;
+    if (stat1.nextElementSibling) stat1.nextElementSibling.innerText = slide.label1;
+  }}
+  if (stat2) {{
+    stat2.innerText = slide.stat2;
+    if (stat2.nextElementSibling) stat2.nextElementSibling.innerText = slide.label2;
+  }}
+  if (stat3) {{
+    stat3.innerText = slide.stat3;
+    if (stat3.nextElementSibling) stat3.nextElementSibling.innerText = slide.label3;
+  }}
+  if (tagline) tagline.innerText = slide.tagline;
+  if (thumb) thumb.src = slide.thumb;
+  if (counter) counter.innerText = `${{slide.index}}/10`;
+  if (bottomIdx) bottomIdx.innerText = slide.index;
+  if (progress) progress.style.width = `${{((idx + 1) / winzyHeroSlides.length) * 100}}%`;
+}}
 
 // --- ENTERPRISE CONTENT PROTECTION & ANTI-INSPECTION ENGINE ---
 document.addEventListener('contextmenu', (e) => {{

@@ -1,6 +1,9 @@
 {
   "name": "55_badge_course_professional_blue",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

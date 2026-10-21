@@ -1,6 +1,9 @@
 {
   "name": "1_badge_appreciation_modern_yellow",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

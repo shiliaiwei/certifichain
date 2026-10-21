@@ -1,6 +1,9 @@
 {
   "name": "23_badge_recognition_professional_green",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

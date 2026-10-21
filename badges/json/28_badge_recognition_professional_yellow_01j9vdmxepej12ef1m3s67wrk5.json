@@ -1,6 +1,9 @@
 {
   "name": "28_badge_recognition_professional_yellow",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

@@ -1,6 +1,9 @@
 {
   "name": "15_badge_recognition_formal_grey",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

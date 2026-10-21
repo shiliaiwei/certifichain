@@ -1,6 +1,9 @@
 {
   "name": "30_badge_achievement_modern_green",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

@@ -1,6 +1,9 @@
 {
   "name": "60_badge_completion_modern_blue",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

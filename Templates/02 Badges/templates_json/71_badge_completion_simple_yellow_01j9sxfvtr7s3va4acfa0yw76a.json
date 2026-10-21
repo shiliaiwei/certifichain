@@ -1,6 +1,9 @@
 {
   "name": "71_badge_completion_simple_yellow",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

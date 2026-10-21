@@ -1,6 +1,9 @@
 {
   "name": "7_badge_appreciation_professional_green",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

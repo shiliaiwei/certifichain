@@ -1,6 +1,9 @@
 {
   "name": "38_badge_achievement_simple_green",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

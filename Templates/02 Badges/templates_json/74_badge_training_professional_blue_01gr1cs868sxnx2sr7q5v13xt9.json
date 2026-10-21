@@ -1,6 +1,9 @@
 {
   "name": "74_badge_training_professional_blue",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

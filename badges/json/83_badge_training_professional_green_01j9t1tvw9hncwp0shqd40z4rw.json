@@ -1,6 +1,9 @@
 {
   "name": "83_badge_training_professional_green",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

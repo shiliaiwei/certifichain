@@ -1,6 +1,9 @@
 {
   "name": "6_badge_appreciation_professional_brown",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

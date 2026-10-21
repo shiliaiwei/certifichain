@@ -1,6 +1,9 @@
 {
   "name": "81_badge_training_formal_yellow",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

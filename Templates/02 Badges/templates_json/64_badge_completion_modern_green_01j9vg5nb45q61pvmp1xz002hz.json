@@ -1,6 +1,9 @@
 {
   "name": "64_badge_completion_modern_green",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

@@ -1,6 +1,9 @@
 {
   "name": "43_badge_achievement_formal_red",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

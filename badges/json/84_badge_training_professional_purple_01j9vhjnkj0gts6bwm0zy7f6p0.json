@@ -1,6 +1,9 @@
 {
   "name": "84_badge_training_professional_purple",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

@@ -2,7 +2,8 @@
   "name": "787_Gift_simple_white_landscape",
   "background": {
     "svg": "<svg width=\"100%\" height=\"100%\" viewBox=\"0 0 1123 794\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" preserveAspectRatio=\"none\"><g filter=\"url(#filter0_n_1_5616)\"><rect width=\"1123\" height=\"794\" transform=\"matrix(-1 0 0 1 1123 0)\" fill=\"#F0EDE5\"/><rect x=\"29\" y=\"29\" width=\"1065\" height=\"736\" stroke=\"#2D2D2D\" stroke-width=\"2\"/><rect x=\"38.5\" y=\"38.5\" width=\"1046\" height=\"717\" stroke=\"#2D2D2D\"/></g><defs><filter id=\"filter0_n_1_5616\" x=\"0\" y=\"0\" width=\"1123\" height=\"794\" filterUnits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\"><feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/><feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"BackgroundImageFix\" result=\"shape\"/><feTurbulence type=\"fractalNoise\" baseFrequency=\"2 2\" stitchTiles=\"stitch\" numOctaves=\"3\" result=\"noise\" seed=\"4002\"/><feColorMatrix in=\"noise\" type=\"luminanceToAlpha\" result=\"alphaNoise\"/><feComponentTransfer in=\"alphaNoise\" result=\"coloredNoise1\"><feFuncA type=\"discrete\" tableValues=\"0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 \"/></feComponentTransfer><feComposite operator=\"in\" in2=\"shape\" in=\"coloredNoise1\" result=\"noise1Clipped\"/><feFlood flood-color=\"rgba(0, 0, 0, 0.06)\" result=\"color1Flood\"/><feComposite operator=\"in\" in2=\"noise1Clipped\" in=\"color1Flood\" result=\"color1\"/><feMerge result=\"effect1_noise_1_5616\"><feMergeNode in=\"shape\"/><feMergeNode in=\"color1\"/></feMerge></filter></defs></svg>",
-    "type": "svg"
+    "type": "svg",
+    "value": "#ffffff"
   },
   "blocks": [
     {

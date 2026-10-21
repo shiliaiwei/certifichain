@@ -1,6 +1,9 @@
 {
   "name": "40_badge_achievement_simple_red",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

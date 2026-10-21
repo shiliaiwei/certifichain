@@ -1,6 +1,9 @@
 {
   "name": "29_badge_achievement_modern_blue",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

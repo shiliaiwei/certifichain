@@ -1,6 +1,9 @@
 {
   "name": "20_badge_recognition_simple_green",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

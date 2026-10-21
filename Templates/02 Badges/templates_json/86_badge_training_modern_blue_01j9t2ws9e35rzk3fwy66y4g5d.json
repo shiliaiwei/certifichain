@@ -1,6 +1,9 @@
 {
   "name": "86_badge_training_modern_blue",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

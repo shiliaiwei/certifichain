@@ -1,6 +1,9 @@
 {
   "name": "35_badge_achievement_professional_blue",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

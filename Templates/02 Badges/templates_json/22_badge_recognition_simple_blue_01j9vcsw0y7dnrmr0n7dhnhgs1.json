@@ -1,6 +1,9 @@
 {
   "name": "22_badge_recognition_simple_blue",
-  "background": null,
+  "background": {
+    "type": "color",
+    "value": "#ffffff"
+  },
   "blocks": [
     {
       "type": "svg",

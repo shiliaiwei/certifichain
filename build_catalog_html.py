@@ -1,3 +1,4 @@
+import base64
 import json
 import math
 import os
@@ -5,6 +6,17 @@ import random
 import re
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+def encrypt_resource_payload(raw_json_str: str, key: str = "CertifierStudio_Vault_SecKey_2026") -> str:
+    """Encrypt resource catalog JSON payload with a rotating dynamic stream cipher."""
+    data_bytes = raw_json_str.encode("utf-8")
+    key_bytes = key.encode("utf-8")
+    key_len = len(key_bytes)
+    encrypted_bytes = bytearray(
+        b ^ key_bytes[(i + 13) % key_len] ^ ((i * 7) & 0xFF)
+        for i, b in enumerate(data_bytes)
+    )
+    return base64.b64encode(encrypted_bytes).decode("ascii")
 
 def generate_guilloche_svg(w=1200, h=160):
     """Generate authentic mathematical banknote guilloche wave patterns & rosettes."""
@@ -96,6 +108,15 @@ def main():
     count_letters = len(master.get("letter", []))
     count_other_records = count_training + count_assessments + count_letters
 
+    # Encrypt all catalog templates, elements, and specifications into secure vault payload
+    vault_bundle = {
+        "templates": master,
+        "elements": elements_data,
+        "attributes": attributes_data,
+        "typography": typography_data,
+    }
+    encrypted_vault_payload = encrypt_resource_payload(json.dumps(vault_bundle))
+
     # Extract verified random certificates for right-side marquee
     certs_raw = master.get("certificate", [])
     valid_marquee_certs = []
@@ -130,7 +151,8 @@ def main():
         marquee_cards_list.append(f'''
               <div class="winzy-marquee-card" onclick="selectTemplateById('{s_id}'); return false;">
                 <div class="winzy-marquee-thumb-wrap">
-                  <img src="{s_prev}" alt="{s_name}" class="winzy-marquee-thumb" loading="lazy">
+                  <div class="resource-protection-shield"></div>
+                  <img src="{s_prev}" alt="{s_name}" class="winzy-marquee-thumb" loading="lazy" draggable="false">
                 </div>
                 <div class="winzy-marquee-info">
                   <div class="winzy-marquee-title">{s_name}</div>
@@ -150,9 +172,15 @@ def main():
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Certifier Studio // Obsidian Cyber-Grid & Tactile Chamfer System</title>
+<!-- STRICT ANTI-SCRAPING & RESOURCE ENCRYPTION DIRECTIVES -->
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet, notranslate, noimageindex">
+<meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+<meta name="bingbot" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+<meta name="ai-content-declaration" content="prohibit-training, no-ai-scrape, protected-resource">
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700;1,9..40,400&family=Playfair+Display:ital,wght@0,700;0,800;0,900;1,700;1,800&family=Space+Grotesk:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,700&family=Google+Sans+Text:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
 <style>
   /* ==========================================================================
      CLEAN MONOCHROME EDITORIAL LUXURY SYSTEM // ZERO CYBER-GRID // ZERO RED
@@ -192,8 +220,8 @@ def main():
     --accent-blue: #0f172a;
 
     /* 5. Typography Font Stacks */
-    --font-main: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
-    --font-display: "Space Grotesk", "DM Sans", sans-serif;
+    --font-main: "Google Sans Text", "Google Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    --font-display: "Google Sans", "Google Sans Text", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     --font-mono: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace;
 
     /* Compatibility & Semantic Tokens */
@@ -1155,25 +1183,123 @@ def main():
   }}
 
   .card-img-wrap {{
+    position: relative;
     width: 100%;
-    aspect-ratio: 16 / 11;
-    background-color: #ffffff;
+    height: 230px;
+    background-color: #f8fafc;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
+    padding: 14px;
+    box-sizing: border-box;
     border-bottom: 1px solid var(--border-subtle);
+    -webkit-user-select: none;
+    user-select: none;
   }}
 
-  .card-img-wrap img {{
+  /* Anti-theft transparent protection shield overlay */
+  .resource-protection-shield {{
+    position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    transition: transform 0.2s ease;
+    z-index: 10;
+    cursor: pointer;
+    background: transparent;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }}
+
+  /* Anti-theft watermark protection tag */
+  .watermark-protection-tag {{
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    font-family: var(--font-mono);
+    font-size: 8.5px;
+    font-weight: 700;
+    color: rgba(15, 23, 42, 0.40);
+    background: rgba(255, 255, 255, 0.88);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    padding: 2px 6px;
+    border-radius: 4px;
+    letter-spacing: 0.06em;
+    pointer-events: none;
+    z-index: 11;
+    user-select: none;
+  }}
+
+  .card-img-wrap img,
+  .element-preview img,
+  .winzy-marquee-card img,
+  #stagePreviewImg {{
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    border-radius: 6px;
+    filter: drop-shadow(0 4px 14px rgba(15, 23, 42, 0.08));
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    -webkit-user-drag: none !important;
+    user-drag: none !important;
+    -webkit-user-select: none !important;
+    user-select: none !important;
+    -webkit-touch-callout: none !important;
+    pointer-events: none !important;
   }}
 
   .template-card-wrapper:hover .card-img-wrap img {{
-    transform: scale(1.02);
+    transform: scale(1.04);
+  }}
+
+  /* Discrete Editorial Protection Notice Toast */
+  .protection-notice-toast {{
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 100000;
+    background: #0f172a;
+    color: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+    border-radius: 12px;
+    padding: 10px 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.05em;
+    opacity: 0;
+    transform: translateY(12px);
+    pointer-events: none;
+    transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  }}
+
+  .protection-notice-toast.is-visible {{
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+  }}
+
+  .protection-toast-badge {{
+    background: rgba(255, 255, 255, 0.15);
+    color: #38bdf8;
+    padding: 3px 7px;
+    border-radius: 4px;
+    font-weight: 800;
+    font-size: 9.5px;
+    letter-spacing: 0.06em;
+  }}
+
+  .protection-toast-text {{
+    font-weight: 600;
+    color: #ffffff;
   }}
 
   .card-body {{
@@ -1356,19 +1482,44 @@ def main():
     transition: background-image 0.5s ease-in-out;
   }}
 
-  /* Top Navigation Inside Hero Card */
+  /* ==========================================================================
+     STICKY RESIZING LUXURY NAVIGATION (ENTER FULL-SIZE -> SCROLL COMPACT ANIMATED)
+     ========================================================================== */
   .winzy-card-nav {{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: relative;
-    z-index: 30;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
     width: 100%;
-    padding: 36px 52px;
+    z-index: 10000;
+    padding: 38px 56px;
     box-sizing: border-box;
+    background: transparent;
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    border-bottom: 1px solid transparent;
+    box-shadow: none;
+    transition: padding 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                background 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                backdrop-filter 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                border-color 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                box-shadow 0.4s cubic-bezier(0.16, 1, 0.3, 1);
   }}
 
-  /* Brand Unit: DISPLAY ONLY LOGO with Large Font Size ("V") */
+  /* Scrolled State: Resized Compact Animated Sticky Bar */
+  .winzy-card-nav.is-scrolled {{
+    padding: 10px 42px;
+    background: rgba(15, 23, 42, 0.92);
+    backdrop-filter: blur(28px);
+    -webkit-backdrop-filter: blur(28px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    box-shadow: 0 14px 42px rgba(0, 0, 0, 0.45);
+  }}
+
+  /* Brand Unit: DISPLAY ONLY LOGO with Large Font Size ("V") on Enter, Resized on Scroll */
   .winzy-nav-brand {{
     display: inline-flex;
     align-items: center;
@@ -1377,10 +1528,11 @@ def main():
     user-select: none;
     line-height: 1;
     z-index: 35;
+    flex-shrink: 0;
   }}
 
   .winzy-logo-v {{
-    font-family: 'Space Grotesk', var(--font-display), sans-serif;
+    font-family: 'Google Sans', var(--font-display), sans-serif;
     font-size: clamp(68px, 7.5vw, 96px);
     font-weight: 900;
     color: #ffffff;
@@ -1388,7 +1540,10 @@ def main():
     letter-spacing: -0.07em;
     text-shadow: 0 8px 32px rgba(0, 0, 0, 0.65);
     display: inline-block;
-    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.2s ease;
+    transition: font-size 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                transform 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+                opacity 0.2s ease,
+                text-shadow 0.4s ease;
   }}
 
   .winzy-logo-v:hover {{
@@ -1396,20 +1551,40 @@ def main():
     opacity: 0.95;
   }}
 
-  /* Real Interactive Capsule Navigation Dock */
+  .winzy-card-nav.is-scrolled .winzy-logo-v {{
+    font-size: 32px;
+    line-height: 1;
+    letter-spacing: -0.05em;
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
+  }}
+
+  /* Real Interactive Capsule Navigation Dock: Full Size on Enter, Resized on Scroll */
   .winzy-nav-pill {{
     background: rgba(255, 255, 255, 0.16);
     backdrop-filter: blur(24px);
     -webkit-backdrop-filter: blur(24px);
     border: 1px solid rgba(255, 255, 255, 0.28);
     border-radius: 9999px;
-    padding: 8px 24px;
+    padding: 10px 28px;
     display: flex;
     align-items: center;
     gap: 20px;
     box-shadow: 0 8px 28px rgba(0, 0, 0, 0.16);
     position: relative;
     z-index: 35;
+    transition: padding 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                gap 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                background 0.3s ease,
+                border-color 0.3s ease,
+                box-shadow 0.3s ease;
+  }}
+
+  .winzy-card-nav.is-scrolled .winzy-nav-pill {{
+    padding: 5px 16px;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.10);
+    border-color: rgba(255, 255, 255, 0.18);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
   }}
 
   .winzy-nav-item {{
@@ -1430,17 +1605,35 @@ def main():
     gap: 6px;
     padding: 8px 14px;
     border-radius: 9999px;
-    transition: color 0.15s ease, background-color 0.15s ease, transform 0.15s ease;
+    transition: font-size 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                padding 0.4s cubic-bezier(0.16, 1, 0.3, 1),
+                color 0.15s ease,
+                background-color 0.15s ease,
+                transform 0.15s ease;
     user-select: none;
     border: none;
     background: transparent;
+  }}
+
+  .winzy-card-nav.is-scrolled .winzy-nav-link {{
+    font-size: 13.5px;
+    padding: 6px 11px;
   }}
 
   .winzy-nav-link:hover,
   .winzy-nav-item:hover .winzy-nav-link,
   .winzy-nav-link.active {{
     color: #ffffff;
-    background-color: rgba(255, 255, 255, 0.18);
+    background-color: rgba(255, 255, 255, 0.20);
+  }}
+
+  .winzy-nav-live-dot {{
+    width: 6px;
+    height: 6px;
+    border-radius: 9999px;
+    background-color: #22c55e;
+    box-shadow: 0 0 8px #22c55e;
+    display: inline-block;
   }}
 
   .winzy-nav-caret {{
@@ -1478,6 +1671,10 @@ def main():
     display: flex;
     flex-direction: column;
     gap: 3px;
+  }}
+
+  .winzy-card-nav.is-scrolled .winzy-nav-dropdown {{
+    top: calc(100% + 8px);
   }}
 
   .winzy-nav-item:hover .winzy-nav-dropdown,
@@ -1529,11 +1726,350 @@ def main():
     font-weight: 700;
   }}
 
-  /* Spacer to center capsule nav dock when auth buttons are removed */
+  /* Spacer & Quick CTA to balance capsule dock */
   .winzy-nav-spacer {{
-    width: 96px;
-    height: 1px;
+    min-width: 96px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    transition: min-width 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  }}
+
+  .winzy-card-nav.is-scrolled .winzy-nav-spacer {{
+    min-width: 32px;
+  }}
+
+  .winzy-nav-quick-cta {{
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.14);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    color: #ffffff;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }}
+
+  .winzy-nav-quick-cta:hover {{
+    background: #ffffff;
+    color: #0f172a;
+    border-color: #ffffff;
+    transform: translateY(-1px);
+  }}
+
+  .winzy-quick-dot {{
+    width: 6px;
+    height: 6px;
+    border-radius: 9999px;
+    background-color: #38bdf8;
+    box-shadow: 0 0 6px #38bdf8;
+  }}
+
+  /* ==========================================================================
+     MOBILE RESPONSIVE NAVIGATION SYSTEM (DRAWER, HAMBURGER & TOUCH TARGETS)
+     ========================================================================== */
+  .winzy-mobile-toggle {{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 42px;
+    height: 42px;
+    padding: 0;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    border-radius: 12px;
+    cursor: pointer;
+    z-index: 10002;
+    position: relative;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+    gap: 4.5px;
+    flex-shrink: 0;
+  }}
+
+  .winzy-mobile-toggle:hover,
+  .winzy-mobile-toggle:focus-visible {{
+    background: rgba(255, 255, 255, 0.20);
+    border-color: rgba(255, 255, 255, 0.36);
+    outline: none;
+  }}
+
+  .winzy-toggle-bar {{
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: #ffffff;
+    border-radius: 2px;
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.2s ease;
+    pointer-events: none;
+  }}
+
+  /* Animated Hamburger to X */
+  .winzy-mobile-toggle.is-open .winzy-toggle-bar:nth-child(1) {{
+    transform: translateY(6.5px) rotate(45deg);
+  }}
+  .winzy-mobile-toggle.is-open .winzy-toggle-bar:nth-child(2) {{
+    opacity: 0;
+    transform: scaleX(0);
+  }}
+  .winzy-mobile-toggle.is-open .winzy-toggle-bar:nth-child(3) {{
+    transform: translateY(-6.5px) rotate(-45deg);
+  }}
+
+  /* Mobile Backdrop Overlay */
+  .winzy-mobile-backdrop {{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.60);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    z-index: 9998;
+    opacity: 0;
     visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), visibility 0.3s;
+  }}
+
+  .winzy-mobile-backdrop.is-open {{
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }}
+
+  /* Mobile Drawer Menu Sheet */
+  .winzy-mobile-drawer {{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: rgba(15, 23, 42, 0.98);
+    backdrop-filter: blur(36px);
+    -webkit-backdrop-filter: blur(36px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.65);
+    z-index: 9999;
+    max-height: 85vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    transform: translateY(-100%);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1),
+                opacity 0.25s ease,
+                visibility 0.35s;
+    padding-top: 84px;
+  }}
+
+  .winzy-mobile-drawer.is-open {{
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }}
+
+  .winzy-mobile-drawer-inner {{
+    padding: 14px 20px 32px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    max-width: 560px;
+    margin: 0 auto;
+  }}
+
+  .winzy-mobile-group {{
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }}
+
+  .winzy-mobile-group-title {{
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.45);
+    letter-spacing: 0.08em;
+    padding: 0 8px 4px 8px;
+    text-transform: uppercase;
+  }}
+
+  .winzy-mobile-link {{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 13px 15px;
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: #ffffff;
+    text-decoration: none;
+    font-family: var(--font-display);
+    font-size: 15px;
+    font-weight: 600;
+    transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+    min-height: 48px;
+  }}
+
+  .winzy-mobile-link:active,
+  .winzy-mobile-link:hover {{
+    background: rgba(255, 255, 255, 0.10);
+    border-color: rgba(255, 255, 255, 0.18);
+    transform: translateX(2px);
+  }}
+
+  .winzy-mobile-link.active {{
+    background: rgba(255, 255, 255, 0.14);
+    border-color: rgba(255, 255, 255, 0.32);
+    font-weight: 700;
+  }}
+
+  .winzy-mobile-link-left {{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }}
+
+  .winzy-mobile-link-icon {{
+    width: 18px;
+    height: 18px;
+    color: rgba(255, 255, 255, 0.85);
+    flex-shrink: 0;
+  }}
+
+  .winzy-mobile-pill-badge {{
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.16);
+    color: #ffffff;
+    letter-spacing: 0.02em;
+  }}
+
+  .winzy-mobile-live-tag {{
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 800;
+    padding: 3px 8px;
+    border-radius: 9999px;
+    background: rgba(16, 185, 129, 0.25);
+    color: #34d399;
+    border: 1px solid rgba(16, 185, 129, 0.45);
+    letter-spacing: 0.04em;
+  }}
+
+  .winzy-mobile-pill-muted {{
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.5);
+  }}
+
+  /* Category Rows in Mobile Menu */
+  .winzy-mobile-cat-list {{
+    display: flex;
+    flex-direction: column;
+    background: rgba(0, 0, 0, 0.22);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    overflow: hidden;
+  }}
+
+  .winzy-mobile-cat-row {{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
+    color: rgba(255, 255, 255, 0.88);
+    text-decoration: none;
+    font-family: var(--font-main);
+    font-size: 13.5px;
+    font-weight: 500;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    transition: background 0.15s ease, color 0.15s ease;
+    min-height: 44px;
+  }}
+
+  .winzy-mobile-cat-row:last-child {{
+    border-bottom: none;
+  }}
+
+  .winzy-mobile-cat-row:hover,
+  .winzy-mobile-cat-row:active {{
+    background: rgba(255, 255, 255, 0.08);
+    color: #ffffff;
+  }}
+
+  .winzy-mobile-cat-row.active {{
+    background: rgba(255, 255, 255, 0.14);
+    color: #ffffff;
+    font-weight: 700;
+  }}
+
+  .winzy-mobile-cat-count {{
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.5);
+  }}
+
+  /* Bottom Actions in Drawer */
+  .winzy-mobile-actions {{
+    margin-top: 4px;
+  }}
+
+  .winzy-mobile-btn-primary {{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 14px 20px;
+    border-radius: 12px;
+    background: #ffffff;
+    color: #0f172a;
+    font-family: var(--font-display);
+    font-size: 13.5px;
+    font-weight: 800;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+    transition: transform 0.15s ease, background 0.15s ease;
+    min-height: 48px;
+  }}
+
+  .winzy-mobile-btn-primary:active {{
+    transform: scale(0.98);
+    background: #f1f5f9;
+  }}
+
+  /* Prevent background scrolling when mobile nav is open */
+  body.nav-mobile-open {{
+    overflow: hidden !important;
+    touch-action: none;
+  }}
+
+  /* Hero Navigation Placeholder so Hero Flex Layout remains aligned */
+  .winzy-hero-nav-placeholder {{
+    height: 110px;
+    flex-shrink: 0;
+    pointer-events: none;
+    width: 100%;
   }}
 
   /* Monumental Center Watermark */
@@ -1647,157 +2183,191 @@ def main():
     transform: translateY(-1px);
   }}
 
-  /* Vertical Right Side Certificate Marquee */
-  .winzy-right-marquee {{
+  /* ==========================================================================
+     HORIZONTAL LEFT-TO-RIGHT CERTIFICATE MARQUEE (FULL UNCROPPED TRANSPARENCY)
+     ========================================================================== */
+  .winzy-horizontal-marquee {{
     position: absolute;
-    right: 52px;
-    top: 120px;
-    bottom: 40px;
-    width: 320px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    top: calc(50% - 20px);
+    transform: translateY(-50%);
     z-index: 15;
     display: flex;
     flex-direction: column;
-    overflow: hidden;
+    gap: 12px;
     pointer-events: auto;
-    border-radius: 24px;
-    background: rgba(15, 23, 42, 0.45);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border: 1px solid rgba(255, 255, 255, 0.18);
-    box-shadow: 0 24px 48px -8px rgba(0, 0, 0, 0.45);
   }}
 
-  .winzy-marquee-header {{
-    padding: 13px 18px;
+  .winzy-marquee-bar-header {{
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    background: rgba(15, 23, 42, 0.7);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+    justify-content: center;
+  }}
+
+  .winzy-marquee-header-pill {{
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 18px;
+    border-radius: 9999px;
+    background: rgba(15, 23, 42, 0.55);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.20);
+    color: #ffffff;
     font-family: var(--font-display);
     font-size: 11px;
     font-weight: 700;
-    color: #ffffff;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    flex-shrink: 0;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
   }}
 
   .winzy-marquee-pulse {{
     width: 7px;
     height: 7px;
     border-radius: 50%;
-    background-color: #ffffff;
-    box-shadow: 0 0 10px #ffffff;
+    background-color: #22c55e;
+    box-shadow: 0 0 10px #22c55e;
     animation: winzyPulse 2s infinite ease-in-out;
   }}
 
   @keyframes winzyPulse {{
-    0%, 100% {{ opacity: 0.35; transform: scale(0.9); }}
-    50% {{ opacity: 1; transform: scale(1.15); }}
+    0%, 100% {{ opacity: 0.4; transform: scale(0.9); }}
+    50% {{ opacity: 1; transform: scale(1.2); }}
   }}
 
   .winzy-marquee-track-wrap {{
-    flex: 1;
+    width: 100%;
     overflow: hidden;
     position: relative;
-    mask-image: linear-gradient(180deg, transparent 0%, black 5%, black 95%, transparent 100%);
-    -webkit-mask-image: linear-gradient(180deg, transparent 0%, black 5%, black 95%, transparent 100%);
+    mask-image: linear-gradient(90deg, transparent 0%, black 6%, black 94%, transparent 100%);
+    -webkit-mask-image: linear-gradient(90deg, transparent 0%, black 6%, black 94%, transparent 100%);
+    padding: 10px 0;
   }}
 
   .winzy-marquee-track {{
     display: flex;
-    flex-direction: column;
-    gap: 12px;
-    padding: 14px;
-    animation: winzyMarqueeScroll 38s linear infinite;
+    flex-direction: row;
+    gap: 24px;
+    width: max-content;
+    padding: 8px 0;
+    animation: winzyMarqueeScrollLeftToRight 55s linear infinite;
   }}
 
   .winzy-marquee-track:hover {{
     animation-play-state: paused;
   }}
 
-  @keyframes winzyMarqueeScroll {{
+  /* Continuous horizontal gliding motion from LEFT to RIGHT */
+  @keyframes winzyMarqueeScrollLeftToRight {{
     0% {{
-      transform: translateY(0);
+      transform: translateX(-50%);
     }}
     100% {{
-      transform: translateY(-50%);
+      transform: translateX(0%);
     }}
   }}
 
+  /* Natural Transparent Specimen Card (Zero Opaque Backing, Zero Cropping) */
   .winzy-marquee-card {{
-    background: rgba(15, 23, 42, 0.72);
-    border: 1px solid rgba(255, 255, 255, 0.14);
-    border-radius: 16px;
-    padding: 10px;
+    width: 320px;
+    flex-shrink: 0;
+    background: rgba(15, 23, 42, 0.38);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 20px;
+    padding: 14px;
     cursor: pointer;
-    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.2s ease, background 0.2s ease;
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+                border-color 0.2s ease,
+                background 0.2s ease,
+                box-shadow 0.25s ease;
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 10px;
     text-decoration: none;
+    box-sizing: border-box;
   }}
 
   .winzy-marquee-card:hover {{
-    transform: translateY(-2px) scale(1.02);
-    border-color: rgba(255, 255, 255, 0.45);
-    background: rgba(15, 23, 42, 0.9);
-    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.45);
+    transform: translateY(-6px) scale(1.02);
+    border-color: rgba(255, 255, 255, 0.55);
+    background: rgba(15, 23, 42, 0.68);
+    box-shadow: 0 20px 42px rgba(0, 0, 0, 0.55);
   }}
 
+  /* Full Original Transparency Certificate Presentation Container (No Cropping) */
   .winzy-marquee-thumb-wrap {{
     width: 100%;
-    height: 100px;
-    border-radius: 10px;
-    overflow: hidden;
-    background: #ffffff;
+    height: 195px;
+    border-radius: 12px;
+    background: transparent;
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: visible;
+    padding: 2px;
+    box-sizing: border-box;
   }}
 
+  /* Uncropped High-Fidelity Certificate Sheet */
   .winzy-marquee-thumb {{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
     display: block;
+    border-radius: 8px;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.40);
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease;
+  }}
+
+  .winzy-marquee-card:hover .winzy-marquee-thumb {{
+    transform: scale(1.03);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.55);
   }}
 
   .winzy-marquee-info {{
     display: flex;
     flex-direction: column;
-    gap: 4px;
+    gap: 6px;
   }}
 
   .winzy-marquee-title {{
     font-family: var(--font-main);
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 700;
     color: #ffffff;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     line-height: 1.25;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
   }}
 
   .winzy-marquee-meta {{
     display: flex;
     align-items: center;
-    gap: 5px;
+    gap: 6px;
     flex-wrap: wrap;
   }}
 
   .winzy-marquee-tag {{
     font-family: var(--font-mono);
-    font-size: 9px;
-    padding: 2px 6px;
-    border-radius: 4px;
-    background: rgba(255, 255, 255, 0.15);
+    font-size: 9.5px;
+    padding: 3px 8px;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.16);
+    border: 1px solid rgba(255, 255, 255, 0.12);
     color: #ffffff;
-    font-weight: 600;
+    font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.04em;
+    letter-spacing: 0.05em;
   }}
 
 
@@ -2198,8 +2768,34 @@ def main():
   }}
 
   .card-img-wrap {{
-    background: #ffffff !important;
+    position: relative !important;
+    width: 100% !important;
+    height: 230px !important;
+    aspect-ratio: auto !important;
+    background: #f8fafc !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    overflow: hidden !important;
+    padding: 14px !important;
+    box-sizing: border-box !important;
     border-bottom: 1px solid rgba(15, 23, 42, 0.06) !important;
+  }}
+
+  .card-img-wrap img {{
+    max-width: 100% !important;
+    max-height: 100% !important;
+    width: auto !important;
+    height: auto !important;
+    object-fit: contain !important;
+    display: block !important;
+    border-radius: 6px !important;
+    filter: drop-shadow(0 4px 14px rgba(15, 23, 42, 0.08)) !important;
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  }}
+
+  .template-card-wrapper:hover .card-img-wrap img {{
+    transform: scale(1.04) !important;
   }}
 
   .card-title {{
@@ -2307,20 +2903,649 @@ def main():
     color: #0f172a !important;
   }}
 
-  .obsidian-workspace {{
+  /* ==========================================================================
+     EDITORIAL LUXURY WORKSPACE ARCHITECTURE
+     ========================================================================== */
+  .editorial-workspace {{
     max-width: 1680px !important;
-    margin: 0 auto !important;
-    padding: 0 24px !important;
+    margin: 40px auto 60px auto !important;
+    padding: 0 32px !important;
     box-sizing: border-box !important;
   }}
 
-  @media (max-width: 1280px) {{
-    .winzy-right-marquee {{
-      display: none;
+  /* Command Ribbon */
+  .workspace-command-ribbon {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 24px !important;
+    padding: 18px 26px !important;
+    margin-bottom: 28px !important;
+    box-shadow: 0 4px 20px rgba(15, 23, 42, 0.03) !important;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 16px !important;
+    box-sizing: border-box !important;
+  }}
+
+  .ribbon-brand-col {{
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 4px !important;
+  }}
+
+  .ribbon-title-wrap {{
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+  }}
+
+  .ribbon-brand-title {{
+    font-family: var(--font-display) !important;
+    font-size: 16px !important;
+    font-weight: 900 !important;
+    letter-spacing: -0.02em !important;
+    color: #0f172a !important;
+  }}
+
+  .ribbon-divider {{
+    color: rgba(15, 23, 42, 0.25) !important;
+    font-weight: 700 !important;
+  }}
+
+  .ribbon-brand-sub {{
+    font-family: var(--font-mono) !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    color: #0f172a !important;
+    letter-spacing: 0.06em !important;
+  }}
+
+  .ribbon-meta-text {{
+    font-family: var(--font-mono) !important;
+    font-size: 11px !important;
+    color: rgba(15, 23, 42, 0.55) !important;
+    font-weight: 500 !important;
+  }}
+
+  .ribbon-actions-col {{
+    display: flex !important;
+    align-items: center !important;
+    gap: 14px !important;
+    flex-wrap: wrap !important;
+  }}
+
+  .ribbon-nav-pills {{
+    display: flex !important;
+    align-items: center !important;
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 9999px !important;
+    padding: 4px !important;
+    gap: 4px !important;
+  }}
+
+  .ribbon-pill-btn {{
+    background: transparent !important;
+    border: none !important;
+    border-radius: 9999px !important;
+    padding: 7px 16px !important;
+    font-family: var(--font-display) !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    color: rgba(15, 23, 42, 0.7) !important;
+    cursor: pointer !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    transition: all 0.15s ease !important;
+    text-decoration: none !important;
+  }}
+
+  .ribbon-pill-btn:hover {{
+    color: #0f172a !important;
+    background: rgba(15, 23, 42, 0.06) !important;
+  }}
+
+  .ribbon-pill-btn.active {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+  }}
+
+  .ribbon-status-pill {{
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 7px !important;
+    background: rgba(0, 182, 122, 0.08) !important;
+    border: 1px solid rgba(0, 182, 122, 0.25) !important;
+    border-radius: 9999px !important;
+    padding: 6px 14px !important;
+    font-family: var(--font-mono) !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    color: #00875a !important;
+    letter-spacing: 0.04em !important;
+  }}
+
+  .status-dot-pulse {{
+    width: 8px !important;
+    height: 8px !important;
+    border-radius: 50% !important;
+    background-color: #00b67a !important;
+    box-shadow: 0 0 0 3px rgba(0, 182, 122, 0.2) !important;
+    display: inline-block !important;
+    flex-shrink: 0 !important;
+  }}
+
+  /* Split Two-Column Workspace */
+  .obsidian-workspace {{
+    max-width: 100% !important;
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) 390px !important;
+    gap: 24px !important;
+    align-items: start !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+  }}
+
+  /* Studio Cards Architecture */
+  .studio-card {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 24px !important;
+    padding: 24px !important;
+    box-shadow: 0 6px 24px rgba(15, 23, 42, 0.03) !important;
+    box-sizing: border-box !important;
+    margin-bottom: 28px !important;
+  }}
+
+  /* Visual Stage Main Card */
+  .stage-main-card {{
+    padding: 24px 28px !important;
+  }}
+
+  .stage-top-bar {{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 12px !important;
+    margin-bottom: 18px !important;
+    border-bottom: 1px solid rgba(15, 23, 42, 0.06) !important;
+    padding-bottom: 14px !important;
+  }}
+
+  .stage-title-wrap {{
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+  }}
+
+  .stage-title {{
+    font-family: var(--font-display) !important;
+    font-size: 18px !important;
+    font-weight: 800 !important;
+    letter-spacing: -0.02em !important;
+    color: #0f172a !important;
+  }}
+
+  .stage-badges-row {{
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    flex-wrap: wrap !important;
+  }}
+
+  .stage-status-pill {{
+    font-family: var(--font-mono) !important;
+    font-size: 10.5px !important;
+    font-weight: 700 !important;
+    color: #0f172a !important;
+    background: rgba(15, 23, 42, 0.06) !important;
+    border: 1px solid rgba(15, 23, 42, 0.12) !important;
+    border-radius: 9999px !important;
+    padding: 4px 10px !important;
+    letter-spacing: 0.05em !important;
+  }}
+
+  .stage-display-plate {{
+    width: 100% !important;
+    min-height: 480px !important;
+    background: #f8fafc !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 18px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 28px !important;
+    box-sizing: border-box !important;
+    overflow: hidden !important;
+    position: relative !important;
+    box-shadow: inset 0 2px 8px rgba(15, 23, 42, 0.02) !important;
+  }}
+
+  .stage-display-plate img {{
+    max-width: 100% !important;
+    max-height: 480px !important;
+    object-fit: contain !important;
+    display: block !important;
+    border-radius: 8px !important;
+    box-shadow: 0 14px 34px rgba(15, 23, 42, 0.12) !important;
+    transition: transform 0.25s ease, max-height 0.2s ease !important;
+  }}
+
+  .stage-controls-tray {{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    flex-wrap: wrap !important;
+    gap: 12px !important;
+    margin-top: 18px !important;
+    padding-top: 14px !important;
+    border-top: 1px solid rgba(15, 23, 42, 0.06) !important;
+  }}
+
+  .stage-btn-group {{
+    display: flex !important;
+    gap: 8px !important;
+    flex-wrap: wrap !important;
+  }}
+
+  .stage-tool-btn {{
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    color: #0f172a !important;
+    font-family: var(--font-display) !important;
+    font-size: 11.5px !important;
+    font-weight: 700 !important;
+    padding: 8px 14px !important;
+    border-radius: 9999px !important;
+    clip-path: none !important;
+    cursor: pointer !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    transition: all 0.15s ease !important;
+  }}
+
+  .stage-tool-btn:hover {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+    border-color: #0f172a !important;
+  }}
+
+  .stage-tray-meta {{
+    font-family: var(--font-mono) !important;
+    font-size: 11px !important;
+    color: rgba(15, 23, 42, 0.5) !important;
+    font-weight: 600 !important;
+  }}
+
+  /* Blank Presets Main Card */
+  .presets-main-card {{
+    padding: 24px 28px !important;
+  }}
+
+  .section-header-row {{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 12px !important;
+    margin-bottom: 20px !important;
+    border-bottom: 1px solid rgba(15, 23, 42, 0.06) !important;
+    padding-bottom: 14px !important;
+  }}
+
+  .section-title {{
+    font-family: var(--font-display) !important;
+    font-size: 16px !important;
+    font-weight: 800 !important;
+    letter-spacing: -0.02em !important;
+    color: #0f172a !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+  }}
+
+  .section-header-meta {{
+    display: flex !important;
+    align-items: center !important;
+    gap: 12px !important;
+  }}
+
+  .section-desc {{
+    font-family: var(--font-mono) !important;
+    font-size: 11px !important;
+    color: rgba(15, 23, 42, 0.55) !important;
+  }}
+
+  .blank-grid {{
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)) !important;
+    gap: 14px !important;
+  }}
+
+  .blank-preset-card {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 16px !important;
+    padding: 16px 18px !important;
+    cursor: pointer !important;
+    transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    min-height: 115px !important;
+    box-sizing: border-box !important;
+  }}
+
+  .blank-preset-card:hover {{
+    transform: translateY(-3px) !important;
+    border-color: rgba(15, 23, 42, 0.25) !important;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06) !important;
+  }}
+
+  .blank-card-name {{
+    font-family: var(--font-display) !important;
+    font-size: 13.5px !important;
+    font-weight: 700 !important;
+    color: #0f172a !important;
+    margin-bottom: 4px !important;
+  }}
+
+  .blank-card-dim {{
+    font-family: var(--font-mono) !important;
+    font-size: 10.5px !important;
+    color: rgba(15, 23, 42, 0.55) !important;
+    line-height: 1.45 !important;
+    margin-bottom: 10px !important;
+  }}
+
+  .blank-card-link {{
+    font-family: var(--font-display) !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    color: #0f172a !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 5px !important;
+  }}
+
+  /* Controls Main Card */
+  .controls-main-card {{
+    padding: 20px 24px !important;
+  }}
+
+  .studio-search-wrapper {{
+    display: flex !important;
+    align-items: center !important;
+    background: #ffffff !important;
+    border: 1.5px solid rgba(15, 23, 42, 0.12) !important;
+    border-radius: 9999px !important;
+    padding: 4px 6px 4px 18px !important;
+    height: 48px !important;
+    box-sizing: border-box !important;
+    margin-bottom: 18px !important;
+    transition: border-color 0.15s ease, box-shadow 0.15s ease !important;
+  }}
+
+  .studio-search-wrapper:focus-within {{
+    border-color: #0f172a !important;
+    box-shadow: 0 0 0 3px rgba(15, 23, 42, 0.08) !important;
+  }}
+
+  .studio-search-icon {{
+    flex-shrink: 0 !important;
+  }}
+
+  .studio-search-input {{
+    flex: 1 !important;
+    border: none !important;
+    background: transparent !important;
+    font-family: var(--font-main) !important;
+    font-size: 13.5px !important;
+    color: #0f172a !important;
+    padding: 0 12px !important;
+    outline: none !important;
+  }}
+
+  .studio-search-input::placeholder {{
+    color: rgba(15, 23, 42, 0.45) !important;
+  }}
+
+  .studio-search-btn {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+    border: none !important;
+    border-radius: 9999px !important;
+    padding: 8px 20px !important;
+    font-family: var(--font-display) !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0.04em !important;
+    cursor: pointer !important;
+    transition: background-color 0.15s ease !important;
+  }}
+
+  .studio-search-btn:hover {{
+    background: #1e293b !important;
+  }}
+
+  .studio-category-tabs {{
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 8px !important;
+  }}
+
+  /* Parameter Inspector Master Card */
+  .inspector-main-card {{
+    padding: 0 !important;
+    overflow: hidden !important;
+    position: sticky !important;
+    top: 24px !important;
+  }}
+
+  .inspector-card-header {{
+    background: #0f172a !important;
+    padding: 22px 24px !important;
+    color: #ffffff !important;
+  }}
+
+  .inspector-card-title {{
+    font-family: var(--font-display) !important;
+    font-size: 14px !important;
+    font-weight: 900 !important;
+    letter-spacing: 0.02em !important;
+    color: #ffffff !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+  }}
+
+  .inspector-card-subtitle {{
+    font-family: var(--font-mono) !important;
+    font-size: 10px !important;
+    color: rgba(255, 255, 255, 0.65) !important;
+    margin-top: 4px !important;
+    letter-spacing: 0.05em !important;
+  }}
+
+  .inspector-badges-row {{
+    display: flex !important;
+    gap: 8px !important;
+    margin-top: 12px !important;
+  }}
+
+  .mono-badge-charcoal {{
+    background: rgba(255, 255, 255, 0.12) !important;
+    color: #ffffff !important;
+    border: 1px solid rgba(255, 255, 255, 0.2) !important;
+    border-radius: 9999px !important;
+    padding: 3px 8px !important;
+    font-family: var(--font-mono) !important;
+    font-size: 10px !important;
+    font-weight: 700 !important;
+  }}
+
+  .inspector-card-body {{
+    padding: 20px 24px 24px 24px !important;
+  }}
+
+  .inspector-section {{
+    border-bottom: 1px solid rgba(15, 23, 42, 0.06) !important;
+    padding-bottom: 14px !important;
+    margin-bottom: 14px !important;
+  }}
+
+  .inspector-section-title {{
+    font-family: var(--font-mono) !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    color: #0f172a !important;
+    letter-spacing: 0.06em !important;
+    text-transform: uppercase !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    margin-bottom: 10px !important;
+  }}
+
+  .inspector-action-btn {{
+    background: rgba(15, 23, 42, 0.04) !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 9999px !important;
+    color: #0f172a !important;
+    font-family: var(--font-display) !important;
+    font-size: 11.5px !important;
+    font-weight: 700 !important;
+    padding: 10px 16px !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 8px !important;
+    text-decoration: none !important;
+    transition: all 0.15s ease !important;
+  }}
+
+  .inspector-action-btn:hover {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+    border-color: #0f172a !important;
+  }}
+
+  /* Pagination Bar Architecture */
+  .pagination-main-bar {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.08) !important;
+    border-radius: 24px !important;
+    padding: 16px 24px !important;
+    margin-top: 24px !important;
+    box-shadow: 0 4px 20px rgba(15, 23, 42, 0.03) !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    flex-wrap: wrap !important;
+    gap: 16px !important;
+    box-sizing: border-box !important;
+  }}
+
+  .pagination-info {{
+    font-family: var(--font-mono) !important;
+    font-size: 12px !important;
+    color: rgba(15, 23, 42, 0.6) !important;
+    font-weight: 500 !important;
+  }}
+
+  .pagination-info strong {{
+    color: #0f172a !important;
+    font-weight: 700 !important;
+  }}
+
+  .pagination-controls {{
+    display: flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    flex-wrap: wrap !important;
+  }}
+
+  .pagination-btn {{
+    background: #ffffff !important;
+    border: 1px solid rgba(15, 23, 42, 0.12) !important;
+    color: #0f172a !important;
+    font-family: var(--font-display) !important;
+    font-size: 12px !important;
+    font-weight: 700 !important;
+    border-radius: 9999px !important;
+    padding: 6px 14px !important;
+    cursor: pointer !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 5px !important;
+    transition: all 0.15s ease !important;
+  }}
+
+  .pagination-btn:hover:not(:disabled) {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+    border-color: #0f172a !important;
+  }}
+
+  .pagination-btn.active {{
+    background: #0f172a !important;
+    color: #ffffff !important;
+    border-color: #0f172a !important;
+    pointer-events: none !important;
+  }}
+
+  .pagination-btn:disabled {{
+    opacity: 0.35 !important;
+    cursor: not-allowed !important;
+  }}
+
+  .pagination-ellipsis {{
+    font-family: var(--font-mono) !important;
+    color: rgba(15, 23, 42, 0.4) !important;
+    padding: 0 4px !important;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+  }}
+
+  @media (max-width: 600px) {{
+    .pagination-main-bar {{
+      flex-direction: column !important;
+      align-items: center !important;
+      gap: 12px !important;
+      padding: 14px 16px !important;
+    }}
+    .pagination-info {{
+      text-align: center !important;
+      font-size: 11px !important;
+    }}
+    .pagination-controls {{
+      justify-content: center !important;
+    }}
+    .pagination-btn {{
+      padding: 5px 10px !important;
+      font-size: 11.5px !important;
     }}
   }}
 
   @media (max-width: 900px) {{
+    .winzy-horizontal-marquee {{
+      position: relative;
+      top: auto;
+      transform: none;
+      margin: 20px 0;
+    }}
+    .winzy-marquee-card {{
+      width: 260px;
+    }}
+    .winzy-marquee-thumb-wrap {{
+      height: 150px;
+    }}
     .winzy-hero-section {{
       height: auto;
       min-height: 100vh;
@@ -2332,18 +3557,42 @@ def main():
       border-radius: 0;
     }}
     .winzy-card-nav {{
-      padding: 24px 20px;
-      flex-direction: column;
-      gap: 16px;
+      padding: 14px 20px;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
     }}
+    .winzy-card-nav.is-scrolled {{
+      padding: 10px 18px;
+    }}
+    .winzy-logo-v {{
+      font-size: 42px;
+    }}
+    .winzy-card-nav.is-scrolled .winzy-logo-v {{
+      font-size: 28px;
+    }}
+    /* Hide desktop capsule dock on mobile devices */
     .winzy-nav-pill {{
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      padding: 6px 16px;
+      display: none !important;
     }}
+    /* Show clean mobile hamburger toggle */
+    .winzy-mobile-toggle {{
+      display: flex !important;
+    }}
+    /* Keep studio shortcut & mobile toggle in spacer on mobile header */
     .winzy-nav-spacer {{
-      display: none;
+      display: flex !important;
+      min-width: auto;
+      gap: 10px;
+      align-items: center;
+    }}
+    .winzy-nav-quick-cta {{
+      padding: 6px 12px;
+      font-size: 11px;
+    }}
+    .winzy-hero-nav-placeholder {{
+      height: 80px;
     }}
     .winzy-card-bottom {{
       padding: 28px 20px;
@@ -2353,6 +3602,36 @@ def main():
     }}
     .winzy-stat-num {{
       font-size: 28px;
+    }}
+  }}
+
+  @media (max-width: 480px) {{
+    .winzy-card-nav {{
+      padding: 12px 14px;
+    }}
+    .winzy-logo-v {{
+      font-size: 34px;
+    }}
+    .winzy-card-nav.is-scrolled .winzy-logo-v {{
+      font-size: 24px;
+    }}
+    .winzy-nav-quick-cta {{
+      display: none;
+    }}
+    .winzy-mobile-drawer {{
+      padding-top: 72px;
+    }}
+    .winzy-mobile-drawer-inner {{
+      padding: 12px 14px 28px 14px;
+      gap: 16px;
+    }}
+    .winzy-mobile-link {{
+      font-size: 14px;
+      padding: 11px 13px;
+    }}
+    .winzy-mobile-cat-row {{
+      font-size: 13px;
+      padding: 11px 14px;
     }}
   }}
 </style>
@@ -2445,115 +3724,190 @@ def main():
   </symbol>
 </svg>
 
+<!-- FIXED STICKY ANIMATED LUXURY NAVIGATION BAR (FULL SIZE ON ENTER -> RESIZED ON SCROLL) -->
+<nav class="winzy-card-nav" id="mainStickyNav">
+  <!-- Left: DISPLAY ONLY LOGO ("V") with large font size on enter, smoothly shrinking on scroll -->
+  <a href="index.html" class="winzy-nav-brand" aria-label="Certifier Studio Home" onclick="handleMenuClick('catalog', event);">
+    <span class="winzy-logo-v">V</span>
+  </a>
+
+  <!-- Center: Interactive Frosted Glass Capsule Bar with ONLY specific links (Zero #ID) -->
+  <div class="winzy-nav-pill" id="winzyNavDock">
+    <!-- Catalog (Specific Page Link) -->
+    <div class="winzy-nav-item">
+      <a class="winzy-nav-link active" href="index.html" id="navLinkCatalog" onclick="handleMenuClick('catalog', event);">
+        <span>Catalog</span>
+        <svg class="winzy-nav-caret" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/></svg>
+      </a>
+      <div class="winzy-nav-dropdown">
+        <div class="winzy-dropdown-header">SPECIFIC CATEGORIES</div>
+        <a class="winzy-dropdown-link" href="index.html?category=all" onclick="handleMenuClick('category', event, 'all');">
+          <span>All Templates</span>
+          <span class="winzy-dropdown-badge">{count_certificates + count_badges + count_transcripts + count_training + count_assessments + count_letters:,}</span>
+        </a>
+        <a class="winzy-dropdown-link" href="index.html?category=certificate" onclick="handleMenuClick('category', event, 'certificate');">
+          <span>Certificates</span>
+          <span class="winzy-dropdown-badge">{count_certificates:,}</span>
+        </a>
+        <a class="winzy-dropdown-link" href="index.html?category=badge" onclick="handleMenuClick('category', event, 'badge');">
+          <span>Digital Badges</span>
+          <span class="winzy-dropdown-badge">{count_badges:,}</span>
+        </a>
+        <a class="winzy-dropdown-link" href="index.html?category=transcript" onclick="handleMenuClick('category', event, 'transcript');">
+          <span>Transcripts</span>
+          <span class="winzy-dropdown-badge">{count_transcripts:,}</span>
+        </a>
+        <a class="winzy-dropdown-link" href="index.html?category=training_record" onclick="handleMenuClick('category', event, 'training_record');">
+          <span>Training Records</span>
+          <span class="winzy-dropdown-badge">{count_training:,}</span>
+        </a>
+        <a class="winzy-dropdown-link" href="index.html?category=assessment" onclick="handleMenuClick('category', event, 'assessment');">
+          <span>Assessments</span>
+          <span class="winzy-dropdown-badge">{count_assessments:,}</span>
+        </a>
+        <a class="winzy-dropdown-link" href="index.html?category=letter" onclick="handleMenuClick('category', event, 'letter');">
+          <span>Formal Letters</span>
+          <span class="winzy-dropdown-badge">{count_letters:,}</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Badge Studio (Specific Page Link) -->
+    <div class="winzy-nav-item">
+      <a class="winzy-nav-link" href="badge_studio.html" id="navLinkBadgeStudio">
+        <span>Badge Studio</span>
+        <span class="winzy-nav-live-dot"></span>
+      </a>
+    </div>
+
+    <!-- Vector SVGs (Specific View Link) -->
+    <div class="winzy-nav-item">
+      <a class="winzy-nav-link" href="index.html?view=vectors" id="navLinkVectors" onclick="handleMenuClick('elements', event);">
+        <span>Vectors</span>
+      </a>
+    </div>
+
+    <!-- Inspector Stage (Specific View Link) -->
+    <div class="winzy-nav-item">
+      <a class="winzy-nav-link" href="index.html?view=stage" id="navLinkStage" onclick="handleMenuClick('stage', event);">
+        <span>Inspector</span>
+      </a>
+    </div>
+  </div>
+
+  <!-- Right: Dynamic Balanced Spacer / Shortcut + Mobile Menu Toggle -->
+  <div class="winzy-nav-spacer">
+    <a href="badge_studio.html" class="winzy-nav-quick-cta" title="Launch Slanted-Notch Badge Recognition Studio">
+      <span class="winzy-quick-dot"></span>
+      <span class="winzy-quick-text">STUDIO</span>
+    </a>
+    <button class="winzy-mobile-toggle" id="winzyMobileToggle" aria-label="Toggle Navigation Menu" aria-expanded="false" onclick="toggleMobileNav(event);">
+      <span class="winzy-toggle-bar"></span>
+      <span class="winzy-toggle-bar"></span>
+      <span class="winzy-toggle-bar"></span>
+    </button>
+  </div>
+</nav>
+
+<!-- LUXURY MOBILE NAVIGATION DRAWER & BACKDROP (< 900px) -->
+<div class="winzy-mobile-backdrop" id="winzyMobileBackdrop" onclick="closeMobileNav();"></div>
+<div class="winzy-mobile-drawer" id="winzyMobileDrawer" aria-hidden="true">
+  <div class="winzy-mobile-drawer-inner">
+    <!-- Group 1: Core Navigation Destinations -->
+    <div class="winzy-mobile-group">
+      <div class="winzy-mobile-group-title">PRIMARY NAVIGATION</div>
+      <a href="index.html" class="winzy-mobile-link" id="mobNavLinkCatalog" onclick="handleMobileNavClick('catalog', event);">
+        <span class="winzy-mobile-link-left">
+          <svg class="winzy-mobile-link-icon"><use href="#icon-certificate"/></svg>
+          <span>Catalog Overview</span>
+        </span>
+        <span class="winzy-mobile-pill-badge">{count_certificates + count_badges + count_transcripts + count_training + count_assessments + count_letters:,}</span>
+      </a>
+      <a href="badge_studio.html" class="winzy-mobile-link" id="mobNavLinkBadgeStudio">
+        <span class="winzy-mobile-link-left">
+          <svg class="winzy-mobile-link-icon"><use href="#icon-badge"/></svg>
+          <span>Badge Studio</span>
+        </span>
+        <span class="winzy-mobile-live-tag">LIVE STUDIO</span>
+      </a>
+      <a href="index.html?view=vectors" class="winzy-mobile-link" id="mobNavLinkVectors" onclick="handleMobileNavClick('elements', event);">
+        <span class="winzy-mobile-link-left">
+          <svg class="winzy-mobile-link-icon"><use href="#icon-shapes"/></svg>
+          <span>Vectors &amp; Elements</span>
+        </span>
+        <span class="winzy-mobile-pill-muted">38 SVG</span>
+      </a>
+      <a href="index.html?view=stage" class="winzy-mobile-link" id="mobNavLinkStage" onclick="handleMobileNavClick('stage', event);">
+        <span class="winzy-mobile-link-left">
+          <svg class="winzy-mobile-link-icon"><use href="#icon-attributes"/></svg>
+          <span>Technical Inspector</span>
+        </span>
+        <span class="winzy-mobile-pill-muted">STAGE</span>
+      </a>
+    </div>
+
+    <!-- Group 2: Specific Categories -->
+    <div class="winzy-mobile-group">
+      <div class="winzy-mobile-group-title">SPECIFIC CATEGORIES</div>
+      <div class="winzy-mobile-cat-list">
+        <a href="index.html?category=all" class="winzy-mobile-cat-row" onclick="handleMobileNavClick('category', event, 'all');">
+          <span>All Templates</span>
+          <span class="winzy-mobile-cat-count">{count_certificates + count_badges + count_transcripts + count_training + count_assessments + count_letters:,}</span>
+        </a>
+        <a href="index.html?category=certificate" class="winzy-mobile-cat-row" onclick="handleMobileNavClick('category', event, 'certificate');">
+          <span>Certificates</span>
+          <span class="winzy-mobile-cat-count">{count_certificates:,}</span>
+        </a>
+        <a href="index.html?category=badge" class="winzy-mobile-cat-row" onclick="handleMobileNavClick('category', event, 'badge');">
+          <span>Digital Badges</span>
+          <span class="winzy-mobile-cat-count">{count_badges:,}</span>
+        </a>
+        <a href="index.html?category=transcript" class="winzy-mobile-cat-row" onclick="handleMobileNavClick('category', event, 'transcript');">
+          <span>Transcripts</span>
+          <span class="winzy-mobile-cat-count">{count_transcripts:,}</span>
+        </a>
+        <a href="index.html?category=training_record" class="winzy-mobile-cat-row" onclick="handleMobileNavClick('category', event, 'training_record');">
+          <span>Training Records</span>
+          <span class="winzy-mobile-cat-count">{count_training:,}</span>
+        </a>
+        <a href="index.html?category=assessment" class="winzy-mobile-cat-row" onclick="handleMobileNavClick('category', event, 'assessment');">
+          <span>Assessments</span>
+          <span class="winzy-mobile-cat-count">{count_assessments:,}</span>
+        </a>
+        <a href="index.html?category=letter" class="winzy-mobile-cat-row" onclick="handleMobileNavClick('category', event, 'letter');">
+          <span>Formal Letters</span>
+          <span class="winzy-mobile-cat-count">{count_letters:,}</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Group 3: Quick Direct Actions -->
+    <div class="winzy-mobile-actions">
+      <a href="badge_studio.html" class="winzy-mobile-btn-primary">
+        <span>LAUNCH BADGE STUDIO</span>
+        <svg style="width: 14px; height: 14px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </div>
+</div>
+
 <!-- WINZY EDITORIAL LUXURY HERO HOMEPAGE SECTION (FULL SCREEN FIT) -->
 <section class="winzy-hero-section">
   <!-- Full Screen Floating Cinematic Card Viewport -->
   <div class="winzy-hero-card" id="winzyHeroCard">
-    <!-- Top Nav Inside Card: Only Large "V" Logo + Real Interactive Capsule Nav Dock -->
-    <nav class="winzy-card-nav">
-      <!-- Left: DISPLAY ONLY LOGO with Large Font Size ("V") -->
-      <a href="#" class="winzy-nav-brand" aria-label="Logo">
-        <span class="winzy-logo-v">V</span>
-      </a>
-
-      <!-- Center: Real Interactive Frosted Glass Capsule Bar -->
-      <div class="winzy-nav-pill" id="winzyNavDock">
-        <!-- Certificates Dropdown -->
-        <div class="winzy-nav-item">
-          <a class="winzy-nav-link" href="#grid" onclick="filterCategory('certificate'); return false;">
-            Certificates
-            <svg class="winzy-nav-caret" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/></svg>
-          </a>
-          <div class="winzy-nav-dropdown">
-            <div class="winzy-dropdown-header">CERTIFICATE CATEGORIES</div>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('certificate');">
-              <span>All Certificates</span>
-              <span class="winzy-dropdown-badge">{count_certificates:,}</span>
-            </a>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'academic');">
-              <span>Academic & Degrees</span>
-              <span class="winzy-dropdown-badge">640+</span>
-            </a>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'completion');">
-              <span>Completion & Training</span>
-              <span class="winzy-dropdown-badge">820+</span>
-            </a>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'corporate');">
-              <span>Corporate & Professional</span>
-              <span class="winzy-dropdown-badge">480+</span>
-            </a>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterMetadata('category', 'diploma');">
-              <span>Diplomas & Honors</span>
-              <span class="winzy-dropdown-badge">190+</span>
-            </a>
-          </div>
-        </div>
-
-        <!-- Credentials Dropdown -->
-        <div class="winzy-nav-item">
-          <a class="winzy-nav-link" href="#grid" onclick="filterCategory('badge'); return false;">
-            Credentials
-            <svg class="winzy-nav-caret" viewBox="0 0 10 6"><path d="M1 1l4 4 4-4" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" fill="none"/></svg>
-          </a>
-          <div class="winzy-nav-dropdown">
-            <div class="winzy-dropdown-header">SPECIALIZED CREDENTIALS</div>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('badge');">
-              <span>Digital Badges</span>
-              <span class="winzy-dropdown-badge">{count_badges:,}</span>
-            </a>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('transcript');">
-              <span>Academic Transcripts</span>
-              <span class="winzy-dropdown-badge">{count_transcripts:,}</span>
-            </a>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('training_record');">
-              <span>Training Records</span>
-              <span class="winzy-dropdown-badge">{count_training:,}</span>
-            </a>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('assessment');">
-              <span>Evaluations & Assessments</span>
-              <span class="winzy-dropdown-badge">{count_assessments:,}</span>
-            </a>
-            <a class="winzy-dropdown-link" href="#grid" onclick="filterCategory('letter');">
-              <span>Formal Letters</span>
-              <span class="winzy-dropdown-badge">{count_letters:,}</span>
-            </a>
-          </div>
-        </div>
-
-        <!-- Presets -->
-        <div class="winzy-nav-item">
-          <a class="winzy-nav-link" href="#blankPresetsSection" onclick="selectWorkspaceView('presets');">
-            Presets
-          </a>
-        </div>
-
-        <!-- Vector SVGs -->
-        <div class="winzy-nav-item">
-          <a class="winzy-nav-link" href="#elementsCatalogSection" onclick="filterCategory('elements');">
-            Vectors
-          </a>
-        </div>
-
-        <!-- Inspector Stage -->
-        <div class="winzy-nav-item">
-          <a class="winzy-nav-link" href="#visualStageWrapper" onclick="selectWorkspaceView('stage');">
-            Inspector
-          </a>
-        </div>
-      </div>
-
-      <!-- Right Spacer (Balances layout now that Login & Signup are removed) -->
-      <div class="winzy-nav-spacer"></div>
-    </nav>
+    <!-- Top Nav Placeholder inside Hero Card to maintain flex column alignment -->
+    <div class="winzy-hero-nav-placeholder" aria-hidden="true"></div>
 
     <!-- Monumental Center Watermark Backdrop Text -->
     <div class="winzy-watermark-text" id="winzyHeroWatermark">EGYPT</div>
 
-    <!-- Right Side Vertical Marquee with Randomized Certificates -->
-    <div class="winzy-right-marquee">
-      <div class="winzy-marquee-header">
-        <span>Random Specimens</span>
-        <div class="winzy-marquee-pulse"></div>
+    <!-- Full-Width Horizontal Left-to-Right Floating Marquee (Uncropped & Full Transparency) -->
+    <div class="winzy-horizontal-marquee">
+      <div class="winzy-marquee-bar-header">
+        <div class="winzy-marquee-header-pill">
+          <div class="winzy-marquee-pulse"></div>
+          <span>RANDOM SPECIMENS &bull; ORIGINAL CERTIFICATE CARDS</span>
+        </div>
       </div>
       <div class="winzy-marquee-track-wrap">
         <div class="winzy-marquee-track">
@@ -2600,142 +3954,52 @@ def main():
           <button class="winzy-filter-pill" onclick="filterCategory('certificate');">Certificates ({count_certificates:,})</button>
           <button class="winzy-filter-pill" onclick="filterCategory('badge');">Badges ({count_badges:,})</button>
           <button class="winzy-filter-pill" onclick="filterCategory('transcript');">Transcripts ({count_transcripts:,})</button>
-          <button class="winzy-filter-pill" onclick="selectWorkspaceView('presets');">Presets (10)</button>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- 1. TOP MODULE (CLEAN THREE-COLOR EDITORIAL SPECIFICATION ARCHITECTURE) -->
-<header class="leather-sleeve chamfer-18-wrapper">
-  <div class="inserted-card-slot" id="satinCard">
-    <!-- Left Brand Unit: High-Contrast Grotesque Typography -->
-    <div class="card-brand-col">
-      <div style="display: flex; align-items: center; gap: 12px;">
-        <svg width="124" height="30" viewBox="0 0 124 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <text x="0" y="24" fill="#0f172a" font-size="24" font-family="'Space Grotesk', system-ui, sans-serif" font-weight="900" letter-spacing="-0.03em" textLength="72" lengthAdjust="spacingAndGlyphs">SHILIAI</text>
-          <polygon points="75 4, 114 4, 120 10, 120 27, 75 27" fill="#0f172a" />
-          <text id="badgeWeiText" x="97" y="21" text-anchor="middle" fill="#ffffff" font-size="13" font-family="'Space Grotesk', system-ui, sans-serif" font-weight="900" letter-spacing="0.05em">WEI</text>
-        </svg>
-        <span class="crypto-address-pill">
-          <svg class="keyline-icon" style="width: 12px; height: 12px; color: #0f172a;"><use href="#icon-shield"/></svg>
-          0x71C84...F29A // CERT-VAULT
-        </span>
+<!-- ==========================================================================
+     STUDIO EDITORIAL LUXURY WORKSPACE
+     ========================================================================== -->
+<div class="editorial-workspace">
+
+  <!-- Workspace Command Ribbon -->
+  <header class="workspace-command-ribbon">
+    <div class="ribbon-brand-col">
+      <div class="ribbon-title-wrap">
+        <span class="ribbon-brand-title">CERTIFIER STUDIO</span>
+        <span class="ribbon-divider">//</span>
+        <span class="ribbon-brand-sub">MASTER SPECIMEN WORKSPACE</span>
       </div>
-      <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-muted); font-weight: 500; margin-top: 6px; letter-spacing: 0.02em;">
-        SHILIAIWEI CERTICHAIN // THREE-COLOR EDITORIAL LUXURY SPECIFICATION
+      <div class="ribbon-meta-text">
+        THREE-COLOR EDITORIAL SPECIFICATION ARCHITECTURE &bull; {total_templates:,} MASTER TEMPLATES &bull; {total_svgs:,} VECTOR SVGS
       </div>
     </div>
 
-    <!-- Right Metric Unit -->
-    <div class="card-meta-col">
-      <div class="card-metric-badge">
-        <svg class="keyline-icon" style="width: 16px; height: 16px; color: #0f172a;"><use href="#icon-certificate"/></svg>
-        <span>{total_templates:,} TEMPLATES</span>
-      </div>
-      <div class="card-metric-badge">
-        <svg class="keyline-icon" style="width: 14px; height: 14px; color: var(--text-primary);"><use href="#icon-shapes"/></svg>
-        <span>{total_svgs:,} VECTOR SVGS</span>
-      </div>
-      <span class="critical-cue-badge">
-        <span class="indicator-pulse"></span>
-        100% OFFLINE SECURED
-      </span>
-    </div>
-  </div>
-
-  <!-- Front Control Tray with Tactile Pill Buttons -->
-  <div class="front-leather-flap">
-    <div class="segmented-pill-bar">
-      <button class="tactile-pill-btn active" id="tabBtnAll" onclick="selectWorkspaceView('all')">
-        <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-certificate"/></svg>
-        CATALOG ALL
-      </button>
-      <button class="tactile-pill-btn" id="tabBtnStage" onclick="selectWorkspaceView('stage')">
-        <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-eye"/></svg>
-        INSPECT STAGE
-      </button>
-      <button class="tactile-pill-btn" id="tabBtnPresets" onclick="selectWorkspaceView('presets')">
-        <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-dimensions"/></svg>
-        BLANK PRESETS
-      </button>
-      <a href="badge_studio.html" class="tactile-pill-btn" style="text-decoration: none;">
-        <svg class="keyline-icon" style="width: 14px; height: 14px; color: #0f172a;"><use href="#icon-badge"/></svg>
-        SLANTED BADGE STUDIO
-      </a>
-    </div>
-
-    <div style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-      <div class="leather-toggle-group">
-        <button class="leather-toggle-btn active" id="btnWei" onclick="setCardFinish('wei')">
-          <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-shield"/></svg>
-          WHITE
+    <div class="ribbon-actions-col">
+      <div class="ribbon-nav-pills">
+        <button class="ribbon-pill-btn active" id="tabBtnAll" onclick="selectWorkspaceView('all')">
+          <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-certificate"/></svg>
+          CATALOG ALL ({total_templates:,})
         </button>
-        <button class="leather-toggle-btn mode-usd" id="btnUsd" onclick="setCardFinish('usd')">
-          <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-certificate"/></svg>
-          CHARCOAL
+        <button class="ribbon-pill-btn" id="tabBtnStage" onclick="selectWorkspaceView('stage')">
+          <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-eye"/></svg>
+          INSPECT STAGE
         </button>
-        <button class="leather-toggle-btn mode-khr" id="btnKhr" onclick="setCardFinish('khr')">
-          <svg class="keyline-icon" style="width: 12px; height: 12px;"><use href="#icon-badge"/></svg>
-          SLATE
-        </button>
+        <a href="badge_studio.html" class="ribbon-pill-btn" style="text-decoration: none;">
+          <svg class="keyline-icon" style="width: 14px; height: 14px; color: #0f172a;"><use href="#icon-badge"/></svg>
+          SLANTED BADGE STUDIO
+        </a>
       </div>
 
-      <div class="vault-status-indicator">
-        <div class="status-pulse"></div>
-        <span>CENTRAL REPOSITORY VERIFIED // READ-ONLY</span>
+      <div class="ribbon-status-pill">
+        <span class="status-dot-pulse"></span>
+        <span>OFFLINE SECURED // VERIFIED</span>
       </div>
     </div>
-  </div>
-</header>
-
-<!-- 2. LINEAR PROGRESS STEPPER RAIL (TWO-TONE 24X24 KEYLINE GEOMETRIC ICONS) -->
-<nav class="stepper-rail-container" aria-label="System Pipeline">
-  <div class="stepper-rail-inner">
-    <div class="stepper-rail-track"></div>
-
-    <div class="step-node completed" onclick="scrollToElement('blankPresetsSection')">
-      <div class="step-node-icon">
-        <svg class="keyline-icon-24" style="color: #ffffff;"><use href="#icon-dimensions"/></svg>
-      </div>
-      <div class="step-node-content">
-        <span class="step-node-num">STEP 01</span>
-        <span class="step-node-title">Blank Presets</span>
-      </div>
-    </div>
-
-    <div class="step-node active" onclick="scrollToElement('visualStageWrapper')">
-      <div class="step-node-icon">
-        <svg class="keyline-icon-24" style="color: #08090b;"><use href="#icon-eye"/></svg>
-      </div>
-      <div class="step-node-content">
-        <span class="step-node-num">STEP 02</span>
-        <span class="step-node-title">Visual Card Stage</span>
-      </div>
-    </div>
-
-    <div class="step-node" onclick="scrollToElement('controlsBar')">
-      <div class="step-node-icon">
-        <svg class="keyline-icon-24"><use href="#icon-certificate"/></svg>
-      </div>
-      <div class="step-node-content">
-        <span class="step-node-num">STEP 03</span>
-        <span class="step-node-title">Template Vault</span>
-      </div>
-    </div>
-
-    <div class="step-node" onclick="scrollToElement('inspectorColumn')">
-      <div class="step-node-icon">
-        <svg class="keyline-icon-24"><use href="#icon-code"/></svg>
-      </div>
-      <div class="step-node-content">
-        <span class="step-node-num">STEP 04</span>
-        <span class="step-node-title">Parameter Inspector</span>
-      </div>
-    </div>
-  </div>
-</nav>
+  </header>
 
 <!-- 3. SPLIT TWO-COLUMN WORKSPACE ARCHITECTURE -->
 <div class="obsidian-workspace">
@@ -2743,174 +4007,60 @@ def main():
   <!-- LEFT COLUMN: INTERACTIVE VISUAL CARD STAGE & ARCHIVE -->
   <main class="visual-stage-column">
 
-    <!-- ELEVATED CENTER CARD (SUBTLE DROP SHADOW & TACTILE DASHED STITCH LINES) -->
-    <section class="elevated-center-card" id="visualStageWrapper">
-      <div class="elevated-center-card-inner">
-        <svg class="tactile-stitch-svg" xmlns="http://www.w3.org/2000/svg">
-          <rect class="tactile-stitch-rect" x="4" y="4" width="calc(100% - 8px)" height="calc(100% - 8px)"/>
-        </svg>
-
-        <!-- Stage Header Row -->
-        <div class="stage-top-bar">
-          <div class="stage-title-wrap">
-            <span class="indicator-pulse"></span>
-            <span class="stage-title" id="stageTitle">Executive Leadership Honors Certificate</span>
-          </div>
-          <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-            <span class="mono-badge" id="stagePaperBadge">A4 LANDSCAPE</span>
-            <span class="mono-badge mono-badge-emerald" id="stageOrientBadge">1.414 RATIO</span>
-            <span class="critical-cue-badge">ACTIVE SPECIMEN</span>
-          </div>
+    <!-- Elevated Visual Stage Card -->
+    <section class="studio-card stage-main-card" id="visualStageWrapper">
+      <div class="stage-top-bar">
+        <div class="stage-title-wrap">
+          <span class="status-dot-pulse"></span>
+          <span class="stage-title" id="stageTitle">Paralegal Professional Certificate</span>
         </div>
-
-        <!-- Crisp Pure White Display Plate -->
-        <div class="display-plate-white" id="stageDisplayPlate">
-          <img id="stagePreviewImg" src="certificates/previews/Executive_Leadership_Honors_1001_preview.png" alt="Active Document Plate" onerror="handleStageImgFallback(this)">
-        </div>
-
-        <!-- Stage Controls Tray -->
-        <div class="stage-controls-tray">
-          <div class="stage-btn-group">
-            <button class="stage-tool-btn" onclick="toggleStageFit()">
-              <svg class="keyline-icon"><use href="#icon-zoom"/></svg>
-              FIT VIEWPORT
-            </button>
-            <button class="stage-tool-btn" onclick="toggleStageRotate()">
-              <svg class="keyline-icon"><use href="#icon-rotate"/></svg>
-              ROTATE 90°
-            </button>
-            <button class="stage-tool-btn" onclick="toggleGuillocheWatermark()">
-              <svg class="keyline-icon"><use href="#icon-shield"/></svg>
-              SECURITY WATERMARK
-            </button>
-            <button class="stage-tool-btn" onclick="toggleStitchPerimeter()">
-              <svg class="keyline-icon"><use href="#icon-dimensions"/></svg>
-              TACTILE STITCH
-            </button>
-          </div>
-          <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">
-            CANVAS: 2000 x 1414 HD @ 300 DPI PRINT
-          </span>
+        <div class="stage-badges-row">
+          <span class="mono-badge" id="stagePaperBadge">A4 LANDSCAPE</span>
+          <span class="mono-badge mono-badge-emerald" id="stageOrientBadge">1.414 RATIO</span>
+          <span class="stage-status-pill">ACTIVE SPECIMEN</span>
         </div>
       </div>
-    </section>
 
-    <!-- START WITH BLANK CANVAS PRESETS (18PX CHAMFERED HERO CONTAINER) -->
-    <section class="chamfer-18-wrapper" id="blankPresetsSection">
-      <div class="chamfer-18-inner">
-        <div class="section-header-row">
-          <div class="section-title">
-            <svg class="keyline-icon" style="color: var(--accent-emerald); width: 18px; height: 18px;"><use href="#icon-dimensions"/></svg>
-            Blank Canvas Presets (6 Standard Document Types & Geometries)
-          </div>
-          <div style="display: flex; align-items: center; gap: 12px;">
-            <span class="section-desc">Production Dimensions @ 96 DPI & 300 DPI Print HD</span>
-            <span class="mono-badge mono-badge-emerald">
-              <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-shield"/></svg>
-              PROTECTED // READ-ONLY
-            </span>
-          </div>
+      <!-- Crisp Display Plate -->
+      <div class="stage-display-plate" id="stageDisplayPlate" style="position: relative;">
+        <div class="resource-protection-shield" title="Protected Architecture // Anti-Theft Guard"></div>
+        <img id="stagePreviewImg" src="certificates/previews/877_Paralegal_professional_purple_landscape_01k43ft5bf1ecbgev63rhesqg9_preview.png" alt="Active Document Plate" draggable="false" onerror="handleStageImgFallback(this)">
+        <div class="watermark-protection-tag">RESTRICTED VIEW // PROTECTED SPECIMEN</div>
+      </div>
+
+      <!-- Stage Controls Tray -->
+      <div class="stage-controls-tray">
+        <div class="stage-btn-group">
+          <button class="stage-tool-btn" onclick="toggleStageFit()">
+            <svg class="keyline-icon"><use href="#icon-zoom"/></svg>
+            FIT VIEWPORT
+          </button>
+          <button class="stage-tool-btn" onclick="toggleStageRotate()">
+            <svg class="keyline-icon"><use href="#icon-rotate"/></svg>
+            ROTATE 90°
+          </button>
+          <button class="stage-tool-btn" onclick="toggleGuillocheWatermark()">
+            <svg class="keyline-icon"><use href="#icon-shield"/></svg>
+            SECURITY WATERMARK
+          </button>
         </div>
-        <div class="blank-grid">
-          <div class="blank-card-wrapper" onclick="loadBlankPresetStage('Certificate (A4 Landscape)', '297 x 210 mm', '1123 x 794 px @ 96DPI', '2000 x 1414 HD', '1.414', 'landscape')">
-            <div class="blank-card-inner">
-              <div class="blank-card-name">Certificate (A4 Landscape)</div>
-              <div class="blank-card-dim">297 x 210 mm | 1123 x 794 px @ 96DPI<br>2000 x 1414 HD | Ratio 1.414</div>
-              <div class="blank-card-link">
-                <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-eye"/></svg>
-                Select Into Stage // Read-Only
-              </div>
-            </div>
-          </div>
-          <div class="blank-card-wrapper" onclick="loadBlankPresetStage('Certificate (A4 Portrait)', '210 x 297 mm', '794 x 1123 px @ 96DPI', '1414 x 2000 HD', '0.707', 'portrait')">
-            <div class="blank-card-inner">
-              <div class="blank-card-name">Certificate (A4 Portrait)</div>
-              <div class="blank-card-dim">210 x 297 mm | 794 x 1123 px @ 96DPI<br>1414 x 2000 HD | Ratio 0.707</div>
-              <div class="blank-card-link">
-                <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-eye"/></svg>
-                Select Into Stage // Read-Only
-              </div>
-            </div>
-          </div>
-          <div class="blank-card-wrapper" onclick="loadBlankPresetStage('Certificate (US Letter Landscape)', '11 x 8.5 in', '1056 x 816 px @ 96DPI', '3300 x 2550 HD', '1.294', 'landscape')">
-            <div class="blank-card-inner">
-              <div class="blank-card-name">Certificate (US Letter Landscape)</div>
-              <div class="blank-card-dim">11" x 8.5" | 1056 x 816 px @ 96DPI<br>3300 x 2550 px @ 300DPI</div>
-              <div class="blank-card-link">
-                <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-eye"/></svg>
-                Select Into Stage // Read-Only
-              </div>
-            </div>
-          </div>
-          <div class="blank-card-wrapper" onclick="loadBlankPresetStage('Badge (Square 1:1)', '512 x 512 px', '512 x 512 px @ 96DPI', '1000 x 1000 HD', '1.000', 'square')">
-            <div class="blank-card-inner">
-              <div class="blank-card-name">Badge (Square 1:1)</div>
-              <div class="blank-card-dim">512 x 512 px Viewport<br>1000 x 1000 px Vector Canvas</div>
-              <div class="blank-card-link">
-                <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-eye"/></svg>
-                Select Into Stage // Read-Only
-              </div>
-            </div>
-          </div>
-          <div class="blank-card-wrapper" onclick="loadBlankPresetStage('Transcript (A4 Landscape)', '297 x 210 mm', '1123 x 794 px @ 96DPI', '3508 x 2480 HD', '1.414', 'landscape')">
-            <div class="blank-card-inner">
-              <div class="blank-card-name">Transcript (A4 Landscape)</div>
-              <div class="blank-card-dim">297 x 210 mm | 1123 x 794 px @ 96DPI<br>3508 x 2480 px @ 300DPI</div>
-              <div class="blank-card-link">
-                <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-eye"/></svg>
-                Select Into Stage // Read-Only
-              </div>
-            </div>
-          </div>
-          <div class="blank-card-wrapper" onclick="loadBlankPresetStage('Training Record (A4 Landscape)', '297 x 210 mm', '1123 x 794 px @ 96DPI', 'CPD Form HD', '1.414', 'landscape')">
-            <div class="blank-card-inner">
-              <div class="blank-card-name">Training Record (A4 Landscape)</div>
-              <div class="blank-card-dim">297 x 210 mm | 1123 x 794 px @ 96DPI<br>Professional CPD Form</div>
-              <div class="blank-card-link">
-                <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-eye"/></svg>
-                Select Into Stage // Read-Only
-              </div>
-            </div>
-          </div>
-          <div class="blank-card-wrapper" onclick="loadBlankPresetStage('Assessment (A4 Landscape)', '297 x 210 mm', '1123 x 794 px @ 96DPI', 'Exam Form HD', '1.414', 'landscape')">
-            <div class="blank-card-inner">
-              <div class="blank-card-name">Assessment (A4 Landscape)</div>
-              <div class="blank-card-dim">297 x 210 mm | 1123 x 794 px @ 96DPI<br>Evaluation & Exam Model</div>
-              <div class="blank-card-link">
-                <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-eye"/></svg>
-                Select Into Stage // Read-Only
-              </div>
-            </div>
-          </div>
-          <div class="blank-card-wrapper" onclick="loadBlankPresetStage('Letter (A4 Portrait)', '210 x 297 mm', '794 x 1123 px @ 96DPI', 'Verification HD', '0.707', 'portrait')">
-            <div class="blank-card-inner">
-              <div class="blank-card-name">Letter (A4 Portrait)</div>
-              <div class="blank-card-dim">210 x 297 mm | 794 x 1123 px @ 96DPI<br>Formal Verification Credential</div>
-              <div class="blank-card-link">
-                <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-eye"/></svg>
-                Select Into Stage // Read-Only
-              </div>
-            </div>
-          </div>
-        </div>
+        <span class="stage-tray-meta">
+          CANVAS: 2000 x 1414 HD @ 300 DPI PRINT
+        </span>
       </div>
     </section>
 
     <!-- CONTROLS: SPLIT INPUT SEARCH & STEPPER CATEGORY TABS -->
-    <div class="controls-bar" id="controlsBar">
-      <div class="cyber-search-group">
-        <div class="cyber-search-inner">
-          <svg class="keyline-icon" style="color: var(--accent-emerald); width: 18px; height: 18px;"><use href="#icon-search"/></svg>
-          <input type="text" id="search" class="cyber-search-input" placeholder="Search templates by title, orientation, color, style, or metadata...">
-          <div class="cyber-search-divider"></div>
-          <button class="cyber-search-btn" onclick="document.getElementById('search').focus()">
-            <svg class="keyline-icon"><use href="#icon-search"/></svg>
-            SEARCH
-          </button>
-        </div>
+    <div class="studio-card controls-main-card" id="controlsBar">
+      <div class="studio-search-wrapper">
+        <svg class="keyline-icon studio-search-icon" style="color: #0f172a; width: 18px; height: 18px;"><use href="#icon-search"/></svg>
+        <input type="text" id="search" class="studio-search-input" placeholder="Search templates by title, orientation, color, style, or metadata...">
+        <button class="studio-search-btn" onclick="document.getElementById('search').focus()">
+          SEARCH
+        </button>
       </div>
 
-      <div class="stepper-tabs">
+      <div class="studio-category-tabs">
         <button class="stepper-tab-btn active" data-cat="all">
           <div class="tab-content">
             <svg class="keyline-icon"><use href="#icon-certificate"/></svg>
@@ -2977,141 +4127,137 @@ def main():
     <!-- MAIN GRID CONTAINER -->
     <div class="cyber-grid" id="grid"></div>
 
+    <!-- PAGINATION CONTROLS -->
+    <div class="studio-card pagination-main-bar" id="catalogPagination"></div>
+
   </main>
 
-  <!-- RIGHT COLUMN: TECHNICAL PARAMETER INSPECTOR (IMPERIAL PURPLE SURFACE BLOCK) -->
+  <!-- RIGHT COLUMN: TECHNICAL PARAMETER INSPECTOR -->
   <aside class="inspector-column" id="inspectorColumn">
 
-    <!-- Inspector Header Card (Deep Imperial Purple #4a154b) -->
-    <div class="inspector-header-card">
-      <div class="inspector-header-title">
-        <svg class="keyline-icon" style="width: 16px; height: 16px; color: #ffffff;"><use href="#icon-code"/></svg>
-        PARAMETER INSPECTOR
+    <!-- Inspector Master Card in Pure White with Deep Charcoal Header -->
+    <div class="studio-card inspector-main-card">
+      <div class="inspector-card-header">
+        <div class="inspector-card-title">
+          <svg class="keyline-icon" style="width: 16px; height: 16px; color: #ffffff;"><use href="#icon-code"/></svg>
+          PARAMETER INSPECTOR
+        </div>
+        <div class="inspector-card-subtitle">
+          LIVE TECHNICAL SPECIFICATION &amp; ATTRIBUTE MODEL
+        </div>
+        <div class="inspector-badges-row">
+          <span class="mono-badge mono-badge-emerald">VERIFIED SPEC</span>
+          <span class="mono-badge mono-badge-charcoal">READ-ONLY LOCKED</span>
+        </div>
       </div>
-      <div class="inspector-header-subtitle">
-        LIVE TECHNICAL SPECIFICATION & ATTRIBUTE MODEL
-      </div>
-      <div style="display: flex; gap: 8px; margin-top: 10px;">
-        <span class="mono-badge mono-badge-emerald">VERIFIED SPEC</span>
-        <span class="mono-badge mono-badge-crimson">READ-ONLY LOCKED</span>
-      </div>
-    </div>
 
-    <!-- Group 1: Geometry & DPI -->
-    <div class="inspector-group-card">
-      <div class="inspector-group-inner">
-        <div class="inspector-group-title">
-          <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-dimensions"/></svg>
-          Document Geometry & DPI
+      <div class="inspector-card-body">
+        <!-- Group 1: Geometry & DPI -->
+        <div class="inspector-section">
+          <div class="inspector-section-title">
+            <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-dimensions"/></svg>
+            Document Geometry &amp; DPI
+          </div>
+          <div class="param-row">
+            <span class="param-label">Active Document:</span>
+            <span class="param-value" id="inspectDocName">Paralegal Certificate</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Category Format:</span>
+            <span class="param-value" id="inspectCategory">CERTIFICATE</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Physical Dimensions:</span>
+            <span class="param-value" id="inspectDimensions">297 x 210 mm</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Canvas Viewport:</span>
+            <span class="param-value" id="inspectViewport">1123 x 794 px @ 96 DPI</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Print Specification:</span>
+            <span class="param-value" id="inspectPrintHd">2000 x 1414 HD @ 300 DPI</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Aspect Ratio:</span>
+            <span class="param-value" id="inspectRatio">1.414 (Landscape)</span>
+          </div>
         </div>
-        <div class="param-row">
-          <span class="param-label">Active Document:</span>
-          <span class="param-value" id="inspectDocName">Executive Honors</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Category Format:</span>
-          <span class="param-value" id="inspectCategory">Certificate</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Physical Dimensions:</span>
-          <span class="param-value" id="inspectDimensions">297 x 210 mm</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Canvas Viewport:</span>
-          <span class="param-value" id="inspectViewport">1123 x 794 px @ 96 DPI</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Print Specification:</span>
-          <span class="param-value" id="inspectPrintHd">2000 x 1414 HD @ 300 DPI</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Aspect Ratio:</span>
-          <span class="param-value" id="inspectRatio">1.414 (Landscape)</span>
-        </div>
-      </div>
-    </div>
 
-    <!-- Group 2: Cryptographic Proof & Identity -->
-    <div class="inspector-group-card">
-      <div class="inspector-group-inner">
-        <div class="inspector-group-title">
-          <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-shield"/></svg>
-          Cryptographic & Integrity Proof
+        <!-- Group 2: Cryptographic Proof & Identity -->
+        <div class="inspector-section">
+          <div class="inspector-section-title">
+            <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-shield"/></svg>
+            Cryptographic &amp; Integrity Proof
+          </div>
+          <div class="param-row">
+            <span class="param-label">Template ID:</span>
+            <span class="param-value" id="inspectTemplateId">#ID-877</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">SHA-256 Digest:</span>
+            <span class="param-value" id="inspectShaDigest">e8a4...719b</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Protection Mode:</span>
+            <span class="mono-badge mono-badge-emerald">AUTHENTIC VAULT</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Integrity Status:</span>
+            <span class="param-value" style="color: #00b67a;">OFFLINE VERIFIED</span>
+          </div>
         </div>
-        <div class="param-row">
-          <span class="param-label">Template ID:</span>
-          <span class="param-value" id="inspectTemplateId">#ID-1001</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">SHA-256 Digest:</span>
-          <span class="param-value" id="inspectShaDigest">e8a4...719b</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Protection Mode:</span>
-          <span class="mono-badge mono-badge-emerald">AUTHENTIC VAULT</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Integrity Status:</span>
-          <span class="param-value" style="color: var(--accent-emerald);">OFFLINE VERIFIED</span>
-        </div>
-      </div>
-    </div>
 
-    <!-- Group 3: Typography & Fonts -->
-    <div class="inspector-group-card">
-      <div class="inspector-group-inner">
-        <div class="inspector-group-title">
-          <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-font"/></svg>
-          Typography & Text Hierarchy
+        <!-- Group 3: Typography & Fonts -->
+        <div class="inspector-section">
+          <div class="inspector-section-title">
+            <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-font"/></svg>
+            Typography &amp; Text Hierarchy
+          </div>
+          <div class="param-row">
+            <span class="param-label">Primary Display:</span>
+            <span class="param-value">Google Sans Bold</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Interface Body:</span>
+            <span class="param-value">Google Sans Text</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Dynamic Tags:</span>
+            <span class="param-value">12 System Tags</span>
+          </div>
+          <div class="param-row">
+            <span class="param-label">Emoji Suppression:</span>
+            <span class="param-value" style="color: #0f172a; font-weight: 700;">STRICT ZERO</span>
+          </div>
         </div>
-        <div class="param-row">
-          <span class="param-label">Primary Display:</span>
-          <span class="param-value">Space Grotesk Bold</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Interface Body:</span>
-          <span class="param-value">DM Sans Regular</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Dynamic Tags:</span>
-          <span class="param-value">12 System Tags</span>
-        </div>
-        <div class="param-row">
-          <span class="param-label">Emoji Suppression:</span>
-          <span class="param-value" style="color: var(--accent-crimson);">STRICT ZERO</span>
-        </div>
-      </div>
-    </div>
 
-    <!-- Group 4: Strict Solid Surface Tokens -->
-    <div class="inspector-group-card">
-      <div class="inspector-group-inner">
-        <div class="inspector-group-title">
-          <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-shapes"/></svg>
-          Solid Color System
+        <!-- Group 4: Strict Solid Surface Tokens -->
+        <div class="inspector-section">
+          <div class="inspector-section-title">
+            <svg class="keyline-icon" style="width: 14px; height: 14px;"><use href="#icon-shapes"/></svg>
+            Editorial Color Palette
+          </div>
+          <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 6px;">
+            <span class="mono-badge" style="background: #ffffff; color: #0f172a; border-color: rgba(15, 23, 42, 0.12);">#FFFFFF CANVAS</span>
+            <span class="mono-badge" style="background: #0f172a; color: #ffffff; border-color: #0f172a;">#0F172A CHARCOAL</span>
+            <span class="mono-badge" style="background: rgba(15, 23, 42, 0.06); color: #0f172a; border-color: rgba(15, 23, 42, 0.12);">SLATE BORDER</span>
+            <span class="mono-badge" style="background: #00b67a; color: #ffffff; border-color: #00b67a;">#00B67A ACCENT</span>
+          </div>
         </div>
-        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 4px;">
-          <span class="mono-badge" style="background: #08090b; color: #ffffff; border-color: #334155;">#08090B OBSIDIAN</span>
-          <span class="mono-badge" style="background: #4a154b; color: #ffffff; border-color: #ffffff;">#4A154B PURPLE</span>
-          <span class="mono-badge" style="background: #ffffff; color: #08090b; border-color: #334155;">#FFFFFF PLATE</span>
-          <span class="mono-badge" style="background: #00b67a; color: #08090b; border-color: #00b67a;">#00B67A EMERALD</span>
-          <span class="mono-badge" style="background: #0f172a; color: #ffffff; border-color: #0f172a;">#0F172A CHARCOAL</span>
-        </div>
-      </div>
-    </div>
 
-    <!-- Group 5: Action Controls -->
-    <div class="inspector-group-card">
-      <div class="inspector-group-inner">
-        <div style="display: flex; flex-direction: column; gap: 8px;">
-          <a class="stage-tool-btn" href="editor_specifications/blank_canvas_presets.json" target="_blank" style="text-decoration: none; justify-content: center;">
-            <svg class="keyline-icon"><use href="#icon-code"/></svg>
-            INSPECT JSON PRESETS
-          </a>
-          <a class="stage-tool-btn" href="editor_specifications/dynamic_attributes.json" target="_blank" style="text-decoration: none; justify-content: center;">
-            <svg class="keyline-icon"><use href="#icon-attributes"/></svg>
-            INSPECT ATTRIBUTES
-          </a>
+        <!-- Group 5: Action Controls -->
+        <div class="inspector-section" style="border-bottom: none; padding-bottom: 0;">
+          <div style="display: flex; flex-direction: column; gap: 10px;">
+            <button class="inspector-action-btn" type="button" onclick="showProtectionNotice('VAULT ENCRYPTED // DIRECT RAW JSON ACCESS RESTRICTED');">
+              <svg class="keyline-icon"><use href="#icon-shield"/></svg>
+              ENCRYPTED REPOSITORY SPECS
+            </button>
+            <button class="inspector-action-btn" type="button" onclick="filterCategory('attributes');">
+              <svg class="keyline-icon"><use href="#icon-attributes"/></svg>
+              INSPECT ATTRIBUTES TABLE
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -3119,16 +4265,45 @@ def main():
   </aside>
 </div>
 
+</div>
+
 <script>
-const templates = {json.dumps(master)};
-const elements = {json.dumps(elements_data)};
-const attributes = {json.dumps(attributes_data)};
-const typography = {json.dumps(typography_data)};
+// --- ENCRYPTED RESOURCE VAULT // ZERO PLAIN-TEXT REPOSITORY ---
+function _decryptResourceVault(payloadBase64, key = "CertifierStudio_Vault_SecKey_2026") {{
+  try {{
+    const binStr = atob(payloadBase64);
+    const len = binStr.length;
+    const keyLen = key.length;
+    const keyBytes = new Uint8Array(keyLen);
+    for (let k = 0; k < keyLen; k++) {{
+      keyBytes[k] = key.charCodeAt(k);
+    }}
+    const bytes = new Uint8Array(len);
+    for (let i = 0; i < len; i++) {{
+      bytes[i] = binStr.charCodeAt(i) ^ keyBytes[(i + 13) % keyLen] ^ ((i * 7) & 0xFF);
+    }}
+    const decoder = new TextDecoder('utf-8');
+    return JSON.parse(decoder.decode(bytes));
+  }} catch (err) {{
+    console.error("Resource Vault Decryption Error", err);
+    return {{}};
+  }}
+}}
+
+const _VAULT_SECURE_PAYLOAD = "{encrypted_vault_payload}";
+const _VAULT_DATA = _decryptResourceVault(_VAULT_SECURE_PAYLOAD);
+
+const templates = _VAULT_DATA.templates || {{}};
+const elements = _VAULT_DATA.elements || [];
+const attributes = _VAULT_DATA.attributes || [];
+const typography = _VAULT_DATA.typography || {{}};
 
 let currentCategory = "all";
 let searchQuery = "";
 let stageZoomFit = true;
 let stageRotation = 0;
+let currentPage = 1;
+const pageSize = 24;
 
 function safeName(str) {{
   return (str || 'template').replace(/[^a-zA-Z0-9_\\-\\.]/g, '_').replace(/_+/g, '_').substring(0, 80);
@@ -3306,10 +4481,6 @@ function selectWorkspaceView(view) {{
     const b = document.getElementById('tabBtnStage');
     if (b) b.classList.add('active');
     scrollToElement('visualStageWrapper');
-  }} else if (view === 'presets') {{
-    const b = document.getElementById('tabBtnPresets');
-    if (b) b.classList.add('active');
-    scrollToElement('blankPresetsSection');
   }}
 }}
 
@@ -3336,12 +4507,82 @@ function setCardFinish(finish) {{
   }}
 }}
 
+function changePage(page) {{
+  currentPage = page;
+  render();
+  const el = document.getElementById('controlsBar') || document.getElementById('grid');
+  if (el) el.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
+}}
+
+function renderPagination(totalItems) {{
+  const pagEl = document.getElementById('catalogPagination');
+  if (!pagEl) return;
+
+  if (totalItems <= pageSize) {{
+    pagEl.style.display = 'none';
+    return;
+  }}
+  pagEl.style.display = 'flex';
+
+  const totalPages = Math.ceil(totalItems / pageSize);
+  if (currentPage > totalPages) currentPage = totalPages;
+  if (currentPage < 1) currentPage = 1;
+
+  const startIdx = (currentPage - 1) * pageSize + 1;
+  const endIdx = Math.min(currentPage * pageSize, totalItems);
+
+  let html = '<div class="pagination-info">';
+  html += 'Showing <strong>' + startIdx.toLocaleString() + '–' + endIdx.toLocaleString() + '</strong> of <strong>' + totalItems.toLocaleString() + '</strong> specimens (Page <strong>' + currentPage + '</strong> of <strong>' + totalPages + '</strong>)';
+  html += '</div>';
+
+  html += '<div class="pagination-controls">';
+
+  // First & Prev buttons
+  html += '<button class="pagination-btn" onclick="changePage(1)"' + (currentPage === 1 ? ' disabled' : '') + '>« First</button>';
+  html += '<button class="pagination-btn" onclick="changePage(' + (currentPage - 1) + ')"' + (currentPage === 1 ? ' disabled' : '') + '>‹ Prev</button>';
+
+  // Window of page numbers
+  const delta = 2;
+  const range = [];
+  for (let i = Math.max(2, currentPage - delta); i <= Math.min(totalPages - 1, currentPage + delta); i++) {{
+    range.push(i);
+  }}
+
+  // Page 1
+  html += '<button class="pagination-btn' + (currentPage === 1 ? ' active' : '') + '" onclick="changePage(1)">1</button>';
+
+  if (range.length > 0 && range[0] > 2) {{
+    html += '<span class="pagination-ellipsis">&hellip;</span>';
+  }}
+
+  for (const p of range) {{
+    html += '<button class="pagination-btn' + (currentPage === p ? ' active' : '') + '" onclick="changePage(' + p + ')">' + p + '</button>';
+  }}
+
+  if (range.length > 0 && range[range.length - 1] < totalPages - 1) {{
+    html += '<span class="pagination-ellipsis">&hellip;</span>';
+  }}
+
+  if (totalPages > 1) {{
+    html += '<button class="pagination-btn' + (currentPage === totalPages ? ' active' : '') + '" onclick="changePage(' + totalPages + ')">' + totalPages + '</button>';
+  }}
+
+  // Next & Last buttons
+  html += '<button class="pagination-btn" onclick="changePage(' + (currentPage + 1) + ')"' + (currentPage === totalPages ? ' disabled' : '') + '>Next ›</button>';
+  html += '<button class="pagination-btn" onclick="changePage(' + totalPages + ')"' + (currentPage === totalPages ? ' disabled' : '') + '>Last »</button>';
+
+  html += '</div>';
+  pagEl.innerHTML = html;
+}}
+
 function render() {{
   const grid = document.getElementById('grid');
   grid.innerHTML = '';
   const q = searchQuery.toLowerCase();
+  const pagEl = document.getElementById('catalogPagination');
 
   if (currentCategory === 'attributes') {{
+    if (pagEl) pagEl.style.display = 'none';
     grid.style.display = 'block';
     let html = '<div class="spec-table-container">';
     html += '<div class="section-title"><svg class="keyline-icon" style="color: var(--accent-emerald); width: 18px; height: 18px;"><use href="#icon-attributes"/></svg> Dynamic Attributes & Placeholders</div>';
@@ -3358,6 +4599,7 @@ function render() {{
   }}
 
   if (currentCategory === 'fonts') {{
+    if (pagEl) pagEl.style.display = 'none';
     grid.style.display = 'block';
     let html = '<div class="spec-table-container">';
     html += '<div class="section-title"><svg class="keyline-icon" style="color: var(--accent-emerald); width: 18px; height: 18px;"><use href="#icon-font"/></svg> Complete 58 Built-in Google Fonts</div>';
@@ -3377,33 +4619,51 @@ function render() {{
   grid.style.display = 'grid';
 
   if (currentCategory === 'elements') {{
+    const matchingElements = [];
     for (const [sub, files] of Object.entries(elements)) {{
       for (const file of files) {{
         if (q && !file.toLowerCase().includes(q) && !sub.toLowerCase().includes(q)) continue;
-        const div = document.createElement('div');
-        div.className = 'element-card-wrapper';
-        div.innerHTML = `
-          <div class="element-card-inner">
-            <div class="element-preview">
-              <img src="elements/${{sub}}/${{file}}" alt="${{file}}">
-            </div>
-            <div class="element-name">${{file}}</div>
-            <div class="pill">${{sub.toUpperCase()}}</div>
-            <div style="font-family: var(--font-display); font-size: 11px; color: var(--text-muted); display: inline-flex; align-items: center; gap: 4px; font-weight: 600; cursor: default; pointer-events: none;">
-              <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-shield"/></svg>
-              Protected Vector
-            </div>
-          </div>
-        `;
-        grid.appendChild(div);
+        matchingElements.push({{ sub, file }});
       }}
     }}
+
+    if (matchingElements.length === 0) {{
+      grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; color: var(--text-muted); padding: 50px; font-family: var(--font-display); font-size: 14px;">No vector elements found matching your search.</div>';
+      renderPagination(0);
+      return;
+    }}
+
+    const totalPages = Math.ceil(matchingElements.length / pageSize);
+    if (currentPage > totalPages) currentPage = totalPages;
+    if (currentPage < 1) currentPage = 1;
+    const pageElements = matchingElements.slice((currentPage - 1) * pageSize, currentPage * pageSize);
+
+    for (const item of pageElements) {{
+      const div = document.createElement('div');
+      div.className = 'element-card-wrapper';
+      div.innerHTML = `
+        <div class="element-card-inner">
+          <div class="element-preview" style="position: relative;">
+            <div class="resource-protection-shield" title="Protected Vector Shield"></div>
+            <img src="elements/${{item.sub}}/${{item.file}}" alt="${{item.file}}" loading="lazy" draggable="false">
+          </div>
+          <div class="element-name">${{item.file}}</div>
+          <div class="pill">${{item.sub.toUpperCase()}}</div>
+          <div style="font-family: var(--font-display); font-size: 11px; color: var(--text-muted); display: inline-flex; align-items: center; gap: 4px; font-weight: 600; cursor: default; pointer-events: none;">
+            <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-shield"/></svg>
+            Protected Vector
+          </div>
+        </div>
+      `;
+      grid.appendChild(div);
+    }}
+
+    renderPagination(matchingElements.length);
     return;
   }}
 
   const categories = (currentCategory === 'all') ? Object.keys(templates) : [currentCategory];
-  let renderedCount = 0;
-  const maxRender = 400;
+  const matchingTemplates = [];
 
   for (const cat of categories) {{
     const list = templates[cat] || [];
@@ -3415,52 +4675,69 @@ function render() {{
       const fullText = (name + ' ' + (meta.style || '') + ' ' + (meta.color || '') + ' ' + (meta.category || '')).toLowerCase();
       if (q && !fullText.includes(q)) continue;
 
-      if (renderedCount >= maxRender) break;
-      renderedCount++;
-
-      const safe = safeName(name);
-      const prefix = `${{safe}}_${{item.id}}`;
-      const previewSrc = `${{folder}}/previews/${{prefix}}_preview.png`;
-
-      const card = document.createElement('div');
-      card.className = 'template-card-wrapper';
-      card.onclick = () => selectTemplate(item, folder);
-      card.innerHTML = `
-        <div class="template-card-inner">
-          <div class="card-img-wrap">
-            <img src="${{previewSrc}}" alt="${{name}}" loading="lazy" onerror="this.style.opacity='0.2'">
-          </div>
-          <div class="card-body">
-            <div class="card-title">${{name}}</div>
-            <div class="card-meta">
-              <span class="pill paper">${{item.paperSize || 'A4'}}</span>
-              <span class="pill orient">${{item.orientation || 'landscape'}}</span>
-              ${{meta.color ? `<span class="pill">${{meta.color}}</span>` : ''}}
-              ${{meta.style ? `<span class="pill tag-mint">${{meta.style}}</span>` : ''}}
-            </div>
-          </div>
-          <div class="card-links">
-            <span style="font-family: var(--font-display); font-size: 11px; font-weight: 600; color: var(--accent-emerald); display: inline-flex; align-items: center; gap: 5px;">
-              <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-shield"/></svg>
-              Select Specimen
-            </span>
-            <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim); font-weight: 500;">
-              #${{item.id}}
-            </span>
-          </div>
-        </div>
-      `;
-      grid.appendChild(card);
+      matchingTemplates.push({{ item, folder, name, meta }});
     }}
   }}
 
-  if (renderedCount === 0) {{
+  if (matchingTemplates.length === 0) {{
     grid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; color: var(--text-muted); padding: 50px; font-family: var(--font-display); font-size: 14px;">No templates found matching your search.</div>';
+    renderPagination(0);
+    return;
   }}
+
+  const totalPages = Math.ceil(matchingTemplates.length / pageSize);
+  if (currentPage > totalPages) currentPage = totalPages;
+  if (currentPage < 1) currentPage = 1;
+  const pageTemplates = matchingTemplates.slice((currentPage - 1) * pageSize, currentPage * pageSize);
+
+  for (const it of pageTemplates) {{
+    const item = it.item;
+    const folder = it.folder;
+    const name = it.name;
+    const meta = it.meta;
+    const safe = safeName(name);
+    const prefix = `${{safe}}_${{item.id}}`;
+    const previewSrc = `${{folder}}/previews/${{prefix}}_preview.png`;
+
+    const card = document.createElement('div');
+    card.className = 'template-card-wrapper';
+    card.onclick = () => selectTemplate(item, folder);
+    card.innerHTML = `
+      <div class="template-card-inner">
+        <div class="card-img-wrap">
+          <div class="resource-protection-shield" title="Protected Specimen // Anti-Theft Watermark Guard"></div>
+          <img src="${{previewSrc}}" alt="${{name}}" loading="lazy" draggable="false" onerror="this.style.opacity='0.2'">
+          <div class="watermark-protection-tag">PROTECTED SPECIMEN</div>
+        </div>
+        <div class="card-body">
+          <div class="card-title">${{name}}</div>
+          <div class="card-meta">
+            <span class="pill paper">${{item.paperSize || 'A4'}}</span>
+            <span class="pill orient">${{item.orientation || 'landscape'}}</span>
+            ${{meta.color ? `<span class="pill">${{meta.color}}</span>` : ''}}
+            ${{meta.style ? `<span class="pill tag-mint">${{meta.style}}</span>` : ''}}
+          </div>
+        </div>
+        <div class="card-links">
+          <span style="font-family: var(--font-display); font-size: 11px; font-weight: 600; color: var(--accent-emerald); display: inline-flex; align-items: center; gap: 5px;">
+            <svg class="keyline-icon" style="width: 12px; height: 12px; color: var(--accent-emerald);"><use href="#icon-shield"/></svg>
+            Select Specimen
+          </span>
+          <span style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim); font-weight: 500;">
+            #${{item.id}}
+          </span>
+        </div>
+      </div>
+    `;
+    grid.appendChild(card);
+  }}
+
+  renderPagination(matchingTemplates.length);
 }}
 
 document.getElementById('search').addEventListener('input', (e) => {{
   searchQuery = e.target.value;
+  currentPage = 1;
   render();
 }});
 
@@ -3469,6 +4746,7 @@ document.querySelectorAll('.stepper-tab-btn').forEach(btn => {{
     document.querySelectorAll('.stepper-tab-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     currentCategory = btn.getAttribute('data-cat');
+    currentPage = 1;
     render();
   }});
 }});
@@ -3491,6 +4769,7 @@ function selectTemplateById(id) {{
 
 function filterCategory(cat, optQuery) {{
   currentCategory = cat;
+  currentPage = 1;
   if (optQuery) {{
     searchQuery = optQuery;
     const searchInput = document.getElementById('search');
@@ -3512,6 +4791,7 @@ function filterCategory(cat, optQuery) {{
 
 function filterMetadata(field, val) {{
   currentCategory = 'certificate';
+  currentPage = 1;
   searchQuery = val;
   const searchInput = document.getElementById('search');
   if (searchInput) searchInput.value = val;
@@ -3530,18 +4810,185 @@ function filterMetadata(field, val) {{
 }}
 
 function selectWorkspaceView(view) {{
-  if (view === 'presets') {{
-    const el = document.getElementById('blankPresetsSection');
-    if (el) el.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
-  }} else if (view === 'stage') {{
+  document.querySelectorAll('.ribbon-pill-btn, .tactile-pill-btn').forEach(b => b.classList.remove('active'));
+  if (view === 'stage') {{
+    const b = document.getElementById('tabBtnStage');
+    if (b) b.classList.add('active');
     const el = document.getElementById('visualStageWrapper');
     if (el) el.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
   }} else if (view === 'elements') {{
     filterCategory('elements');
   }} else {{
+    const b = document.getElementById('tabBtnAll');
+    if (b) b.classList.add('active');
     filterCategory('all');
+    const el = document.getElementById('controlsBar');
+    if (el) el.scrollIntoView({{ behavior: 'smooth', block: 'start' }});
   }}
 }}
+
+// --- MOBILE NAVIGATION TOGGLE & DRAWER HANDLERS ---
+function toggleMobileNav(e) {{
+  if (e) e.stopPropagation();
+  const drawer = document.getElementById('winzyMobileDrawer');
+  const toggle = document.getElementById('winzyMobileToggle');
+  const backdrop = document.getElementById('winzyMobileBackdrop');
+  if (!drawer || !toggle) return;
+
+  const isOpen = drawer.classList.contains('is-open');
+  if (isOpen) {{
+    closeMobileNav();
+  }} else {{
+    drawer.classList.add('is-open');
+    toggle.classList.add('is-open');
+    toggle.setAttribute('aria-expanded', 'true');
+    drawer.setAttribute('aria-hidden', 'false');
+    if (backdrop) backdrop.classList.add('is-open');
+    document.body.classList.add('nav-mobile-open');
+  }}
+}}
+
+function closeMobileNav() {{
+  const drawer = document.getElementById('winzyMobileDrawer');
+  const toggle = document.getElementById('winzyMobileToggle');
+  const backdrop = document.getElementById('winzyMobileBackdrop');
+  if (!drawer) return;
+
+  drawer.classList.remove('is-open');
+  if (toggle) {{
+    toggle.classList.remove('is-open');
+    toggle.setAttribute('aria-expanded', 'false');
+  }}
+  if (backdrop) backdrop.classList.remove('is-open');
+  drawer.setAttribute('aria-hidden', 'true');
+  document.body.classList.remove('nav-mobile-open');
+}}
+
+function handleMobileNavClick(action, event, param) {{
+  closeMobileNav();
+  setTimeout(() => {{
+    handleMenuClick(action, event, param);
+  }}, 140);
+}}
+
+// --- STICKY RESIZING NAVIGATION & SPECIFIC LINK ROUTING ---
+function initStickyNav() {{
+  const nav = document.getElementById('mainStickyNav') || document.querySelector('.winzy-card-nav');
+  if (!nav) return;
+
+  const onScroll = () => {{
+    if (window.scrollY > 40) {{
+      nav.classList.add('is-scrolled');
+    }} else {{
+      nav.classList.remove('is-scrolled');
+    }}
+  }};
+
+  window.addEventListener('scroll', onScroll, {{ passive: true }});
+  onScroll();
+
+  window.addEventListener('resize', () => {{
+    if (window.innerWidth > 900) {{
+      closeMobileNav();
+    }}
+  }});
+
+  document.addEventListener('keydown', (e) => {{
+    if (e.key === 'Escape') {{
+      closeMobileNav();
+    }}
+  }});
+}}
+
+function updateActiveNavLinks() {{
+  const params = new URLSearchParams(window.location.search);
+  const view = params.get('view');
+  const cat = params.get('category');
+
+  document.querySelectorAll('.winzy-nav-link').forEach(l => l.classList.remove('active'));
+  document.querySelectorAll('.winzy-mobile-link').forEach(l => l.classList.remove('active'));
+  document.querySelectorAll('.winzy-mobile-cat-row').forEach(r => r.classList.remove('active'));
+
+  if (view === 'vectors' || view === 'elements' || cat === 'elements') {{
+    const el = document.getElementById('navLinkVectors');
+    if (el) el.classList.add('active');
+    const mobEl = document.getElementById('mobNavLinkVectors');
+    if (mobEl) mobEl.classList.add('active');
+  }} else if (view === 'stage' || view === 'inspector') {{
+    const el = document.getElementById('navLinkStage');
+    if (el) el.classList.add('active');
+    const mobEl = document.getElementById('mobNavLinkStage');
+    if (mobEl) mobEl.classList.add('active');
+  }} else {{
+    const el = document.getElementById('navLinkCatalog');
+    if (el) el.classList.add('active');
+    const mobEl = document.getElementById('mobNavLinkCatalog');
+    if (mobEl) mobEl.classList.add('active');
+  }}
+
+  if (cat) {{
+    const activeRow = document.querySelector(`.winzy-mobile-cat-row[href*="category=${{cat}}"]`);
+    if (activeRow) activeRow.classList.add('active');
+  }} else {{
+    const allRow = document.querySelector('.winzy-mobile-cat-row[href*="category=all"]');
+    if (allRow) allRow.classList.add('active');
+  }}
+}}
+
+function handleMenuClick(action, event, param) {{
+  if (event.ctrlKey || event.metaKey || event.shiftKey || event.button !== 0) {{
+    return;
+  }}
+  event.preventDefault();
+
+  if (action === 'catalog') {{
+    filterCategory('all');
+    window.history.pushState(null, '', 'index.html');
+    const gridEl = document.getElementById('grid');
+    if (gridEl) gridEl.scrollIntoView({{ behavior: 'smooth' }});
+  }} else if (action === 'category') {{
+    filterCategory(param || 'all');
+    window.history.pushState(null, '', `index.html?category=${{param || 'all'}}`);
+    const gridEl = document.getElementById('grid');
+    if (gridEl) gridEl.scrollIntoView({{ behavior: 'smooth' }});
+  }} else if (action === 'elements' || action === 'vectors') {{
+    selectWorkspaceView('elements');
+    filterCategory('elements');
+    window.history.pushState(null, '', 'index.html?view=vectors');
+    const el = document.getElementById('elementsCatalogSection');
+    if (el) el.scrollIntoView({{ behavior: 'smooth' }});
+  }} else if (action === 'stage' || action === 'inspector') {{
+    selectWorkspaceView('stage');
+    window.history.pushState(null, '', 'index.html?view=stage');
+    const el = document.getElementById('visualStageWrapper');
+    if (el) el.scrollIntoView({{ behavior: 'smooth' }});
+  }} else {{
+    selectWorkspaceView('all');
+    window.history.pushState(null, '', 'index.html');
+  }}
+
+  updateActiveNavLinks();
+}}
+
+function handleInitialUrlRoute() {{
+  const params = new URLSearchParams(window.location.search);
+  const view = params.get('view');
+  const cat = params.get('category');
+
+  if (view === 'vectors' || view === 'elements' || cat === 'elements') {{
+    selectWorkspaceView('elements');
+    filterCategory('elements');
+  }} else if (view === 'stage' || view === 'inspector') {{
+    selectWorkspaceView('stage');
+  }} else if (cat) {{
+    filterCategory(cat);
+  }}
+  updateActiveNavLinks();
+}}
+
+initStickyNav();
+handleInitialUrlRoute();
+window.addEventListener('popstate', handleInitialUrlRoute);
 
 // --- WINZY EDITORIAL HERO SLIDE CONTROLLER ---
 const winzyHeroSlides = [
@@ -3643,8 +5090,29 @@ function updateWinzyHero(idx) {{
 }}
 
 // --- ENTERPRISE CONTENT PROTECTION & ANTI-INSPECTION ENGINE ---
+let _noticeTimer = null;
+function showProtectionNotice(message) {{
+  let toast = document.getElementById('resourceProtectionToast');
+  if (!toast) {{
+    toast = document.createElement('div');
+    toast.id = 'resourceProtectionToast';
+    toast.className = 'protection-notice-toast';
+    document.body.appendChild(toast);
+  }}
+  toast.innerHTML = `
+    <span class="protection-toast-badge">SHIELD ACTIVE</span>
+    <span class="protection-toast-text">${{message}}</span>
+  `;
+  toast.classList.add('is-visible');
+  if (_noticeTimer) clearTimeout(_noticeTimer);
+  _noticeTimer = setTimeout(() => {{
+    toast.classList.remove('is-visible');
+  }}, 2200);
+}}
+
 document.addEventListener('contextmenu', (e) => {{
   e.preventDefault();
+  showProtectionNotice('ASSET PROTECTED // CONTEXT DOWNLOAD RESTRICTED');
   return false;
 }}, true);
 
@@ -3652,6 +5120,7 @@ document.addEventListener('keydown', (e) => {{
   if (e.key === 'F12' || e.keyCode === 123) {{
     e.preventDefault();
     e.stopPropagation();
+    showProtectionNotice('DEVELOPER TOOLS ACCESS RESTRICTED');
     return false;
   }}
   const isCtrlOrMeta = e.ctrlKey || e.metaKey;
@@ -3662,40 +5131,52 @@ document.addEventListener('keydown', (e) => {{
   if (isCtrlOrMeta && (isShift || isAlt) && (key === 'i' || key === 'j' || key === 'c')) {{
     e.preventDefault();
     e.stopPropagation();
+    showProtectionNotice('INSPECTOR ACCESS RESTRICTED');
     return false;
   }}
   if (isCtrlOrMeta && key === 'u') {{
     e.preventDefault();
     e.stopPropagation();
+    showProtectionNotice('VAULT ENCRYPTED // REPOSITORY ACCESS RESTRICTED');
     return false;
   }}
   if (isCtrlOrMeta && key === 's') {{
     e.preventDefault();
     e.stopPropagation();
+    showProtectionNotice('ACTION BLOCKED // REPOSITORY DOWNLOAD RESTRICTED');
     return false;
   }}
   if (isCtrlOrMeta && key === 'p') {{
     e.preventDefault();
     e.stopPropagation();
+    showProtectionNotice('ACTION BLOCKED // DOCUMENT PRINTING RESTRICTED');
     return false;
   }}
   if (isCtrlOrMeta && (key === 'c' || key === 'x' || key === 'a')) {{
     if (e.target && e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {{
       e.preventDefault();
       e.stopPropagation();
+      showProtectionNotice('CLIPBOARD EXTRACTION RESTRICTED');
       return false;
     }}
   }}
 }}, true);
 
 document.addEventListener('copy', (e) => {{
-  if (e.target && e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') e.preventDefault();
+  if (e.target && e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {{
+    e.preventDefault();
+    showProtectionNotice('CLIPBOARD COPY RESTRICTED');
+  }}
 }}, true);
 document.addEventListener('cut', (e) => {{
-  if (e.target && e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') e.preventDefault();
+  if (e.target && e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {{
+    e.preventDefault();
+    showProtectionNotice('CLIPBOARD CUT RESTRICTED');
+  }}
 }}, true);
 document.addEventListener('dragstart', (e) => {{
   e.preventDefault();
+  showProtectionNotice('ASSET PROTECTED // DRAG EXTRACTION DISABLED');
   return false;
 }}, true);
 document.addEventListener('drop', (e) => {{

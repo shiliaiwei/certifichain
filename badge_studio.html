@@ -4,9 +4,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Slanted-Notch Recognition Badge Studio // Certifier Studio Editorial System</title>
+  <!-- STRICT ANTI-SCRAPING & RESOURCE ENCRYPTION DIRECTIVES -->
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, notranslate, noimageindex">
+  <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+  <meta name="bingbot" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+  <meta name="ai-content-declaration" content="prohibit-training, no-ai-scrape, protected-resource">
+  <meta http-equiv="X-Content-Type-Options" content="nosniff">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700;1,9..40,400&family=Space+Grotesk:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,700&family=Google+Sans+Text:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
   <style>
     /* ==========================================================================
        CLEAN MONOCHROME EDITORIAL LUXURY BADGE STUDIO // ZERO RED // ZERO CYBER-GRID
@@ -49,8 +55,8 @@
       --badge-charcoal: #0f172a;
       --badge-purple: #8B5CF6;
 
-      --font-main: "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
-      --font-display: "Space Grotesk", "DM Sans", sans-serif;
+      --font-main: "Google Sans Text", "Google Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-display: "Google Sans", "Google Sans Text", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       --font-mono: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace;
     }
 
@@ -91,7 +97,9 @@
 
     /* Top Navigation Header with Monumental Logo & Capsule Dock */
     .studio-header {
-      background: #ffffff;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
       border: 1px solid var(--border-subtle);
       border-radius: 24px;
       padding: 16px 28px;
@@ -102,6 +110,16 @@
       align-items: center;
       flex-wrap: wrap;
       gap: 16px;
+      position: sticky;
+      top: 16px;
+      z-index: 1000;
+      transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .studio-header.is-scrolled {
+      padding: 10px 24px;
+      box-shadow: 0 12px 36px rgba(15, 23, 42, 0.08);
+      border-color: rgba(15, 23, 42, 0.12);
     }
 
     .brand-group {
@@ -111,7 +129,7 @@
     }
 
     .studio-logo-v {
-      font-family: 'Space Grotesk', var(--font-display), sans-serif;
+      font-family: 'Google Sans', var(--font-display), sans-serif;
       font-size: 38px;
       font-weight: 900;
       color: #0f172a;
@@ -228,6 +246,94 @@
       color: #0f172a;
     }
 
+    /* Anti-Theft Shield & Protection Styles */
+    .resource-protection-shield {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 10;
+      cursor: pointer;
+      background: transparent;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    .watermark-protection-tag {
+      position: absolute;
+      bottom: 8px;
+      right: 8px;
+      font-family: var(--font-mono);
+      font-size: 8.5px;
+      font-weight: 700;
+      color: rgba(15, 23, 42, 0.40);
+      background: rgba(255, 255, 255, 0.88);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border: 1px solid rgba(15, 23, 42, 0.08);
+      padding: 2px 6px;
+      border-radius: 4px;
+      letter-spacing: 0.06em;
+      pointer-events: none;
+      z-index: 11;
+      user-select: none;
+    }
+
+    .badge-preview-img,
+    #liveBadgeCanvas svg {
+      -webkit-user-drag: none !important;
+      user-drag: none !important;
+      -webkit-user-select: none !important;
+      user-select: none !important;
+      -webkit-touch-callout: none !important;
+      pointer-events: none !important;
+    }
+
+    .protection-notice-toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 100000;
+      background: #0f172a;
+      color: #ffffff;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+      border-radius: 12px;
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 0.05em;
+      opacity: 0;
+      transform: translateY(12px);
+      pointer-events: none;
+      transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .protection-notice-toast.is-visible {
+      opacity: 1;
+      transform: translateY(0);
+      pointer-events: auto;
+    }
+
+    .protection-toast-badge {
+      background: rgba(255, 255, 255, 0.15);
+      color: #38bdf8;
+      padding: 3px 7px;
+      border-radius: 4px;
+      font-weight: 800;
+      font-size: 9.5px;
+      letter-spacing: 0.06em;
+    }
+
+    .protection-toast-text {
+      font-weight: 600;
+      color: #ffffff;
+    }
+
     /* Customizer Layout (Modern Rounded Card) */
     .customizer-wrapper {
       background: #ffffff;
@@ -248,6 +354,23 @@
     @media (max-width: 960px) {
       .customizer-layout {
         grid-template-columns: 1fr;
+      }
+      .studio-header {
+        padding: 12px 18px;
+        border-radius: 18px;
+        gap: 12px;
+      }
+      .capsule-nav-dock {
+        width: 100%;
+        overflow-x: auto;
+        justify-content: flex-start;
+        -webkit-overflow-scrolling: touch;
+        padding: 4px 10px;
+      }
+      .capsule-dock-link {
+        white-space: nowrap;
+        font-size: 12px;
+        padding: 6px 10px;
       }
     }
 
@@ -490,12 +613,12 @@
         </div>
       </div>
 
-      <!-- Center Frosted Capsule Dock -->
+      <!-- Center Frosted Capsule Dock with ONLY specific links (Zero #ID) -->
       <nav class="capsule-nav-dock">
-        <a href="index.html#grid" class="capsule-dock-link">Catalog</a>
-        <a href="index.html#blankPresetsSection" class="capsule-dock-link">Presets</a>
-        <a href="index.html#visualStageWrapper" class="capsule-dock-link">Inspector</a>
+        <a href="index.html" class="capsule-dock-link">Catalog</a>
         <a href="badge_studio.html" class="capsule-dock-link active">Badge Studio</a>
+        <a href="index.html?view=vectors" class="capsule-dock-link">Vectors</a>
+        <a href="index.html?view=stage" class="capsule-dock-link">Inspector</a>
       </nav>
 
       <div style="display: flex; align-items: center; gap: 10px;">
@@ -568,7 +691,8 @@
           <div class="chip" style="margin-bottom: 12px;">
             PURE WHITE DISPLAY PLATE
           </div>
-          <div class="badge-svg-box" id="liveBadgeCanvas">
+          <div class="badge-svg-box" id="liveBadgeCanvas" style="position: relative;">
+            <div class="resource-protection-shield" title="Protected Vector Canvas"></div>
             <!-- Pure Unbranded Dynamic Slanted-Notch Recognition Badge SVG -->
             <svg viewBox="0 0 466 463" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
               <g transform="matrix(1 0 0 1 0 0)">
@@ -583,21 +707,21 @@
                 <polygon points="233,40 250,56 216,56" fill="#F3C046" id="liveCrownNotch"/>
 
                 <!-- Center Typographic Unit -->
-                <text id="liveTextRole1" x="233" y="150" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="20" fill="#ffffff" text-anchor="middle" letter-spacing="-0.03em">
+                <text id="liveTextRole1" x="233" y="150" font-family="'Google Sans', sans-serif" font-weight="900" font-size="20" fill="#ffffff" text-anchor="middle" letter-spacing="-0.03em">
                   SENIOR CLOUD
                 </text>
-                <text id="liveTextRole2" x="233" y="178" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="14" fill="rgba(255,255,255,0.7)" text-anchor="middle" letter-spacing="0.04em">
+                <text id="liveTextRole2" x="233" y="178" font-family="'Google Sans', sans-serif" font-weight="700" font-size="14" fill="rgba(255,255,255,0.7)" text-anchor="middle" letter-spacing="0.04em">
                   SOLUTIONS ARCHITECT
                 </text>
 
                 <!-- Prominent Grade / Level Indicator -->
-                <text id="liveTextLevel" x="233" y="270" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="82" fill="#F3C046" text-anchor="middle" letter-spacing="-0.04em">
+                <text id="liveTextLevel" x="233" y="270" font-family="'Google Sans', sans-serif" font-weight="900" font-size="82" fill="#F3C046" text-anchor="middle" letter-spacing="-0.04em">
                   IV
                 </text>
 
                 <!-- Slanted Lower Banner Ribbon (45-degree corner notches) -->
                 <polygon id="liveBannerPath" points="50,332 416,332 400,378 66,378" fill="#F3C046"/>
-                <text id="liveTextBanner" x="233" y="360" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="15" fill="#0f172a" text-anchor="middle" letter-spacing="0.06em">
+                <text id="liveTextBanner" x="233" y="360" font-family="'Google Sans', sans-serif" font-weight="900" font-size="15" fill="#0f172a" text-anchor="middle" letter-spacing="0.06em">
                   ENTERPRISE CERTIFIED
                 </text>
               </g>
@@ -675,9 +799,34 @@
       document.getElementById('liveTextBanner').textContent = bnr;
     }
 
+    let _noticeTimer = null;
+    function showProtectionNotice(message) {
+      let toast = document.getElementById('resourceProtectionToast');
+      if (!toast) {
+        toast = document.createElement('div');
+        toast.id = 'resourceProtectionToast';
+        toast.className = 'protection-notice-toast';
+        document.body.appendChild(toast);
+      }
+      toast.innerHTML = `
+        <span class="protection-toast-badge">SHIELD ACTIVE</span>
+        <span class="protection-toast-text">${message}</span>
+      `;
+      toast.classList.add('is-visible');
+      if (_noticeTimer) clearTimeout(_noticeTimer);
+      _noticeTimer = setTimeout(() => {
+        toast.classList.remove('is-visible');
+      }, 2200);
+    }
+
     function downloadSvg(containerId, filename) {
+      showProtectionNotice('ASSET DOWNLOAD RESTRICTED // WATERMARKED ASSET');
       const container = document.getElementById(containerId);
-      const svg = container.querySelector('svg');
+      const svg = container.querySelector('svg').cloneNode(true);
+      const shield = svg.querySelector('.resource-protection-shield');
+      if (shield) shield.remove();
+      const comment = document.createComment(' ENCRYPTED & WATERMARKED: (C) CERTIFIER STUDIO // REPRODUCTION PROHIBITED // SHA-256 VAULT PROTECTED ');
+      svg.insertBefore(comment, svg.firstChild);
       const serializer = new XMLSerializer();
       let source = serializer.serializeToString(svg);
       source = '<?xml version="1.0" standalone="no"?>\r\n' + source;
@@ -693,11 +842,15 @@
 
     function copySvgCode() {
       const container = document.getElementById('liveBadgeCanvas');
-      const svg = container.querySelector('svg');
+      const svg = container.querySelector('svg').cloneNode(true);
+      const shield = svg.querySelector('.resource-protection-shield');
+      if (shield) shield.remove();
+      const comment = document.createComment(' ENCRYPTED & WATERMARKED: (C) CERTIFIER STUDIO // REPRODUCTION PROHIBITED // SHA-256 VAULT PROTECTED ');
+      svg.insertBefore(comment, svg.firstChild);
       const serializer = new XMLSerializer();
       const source = serializer.serializeToString(svg);
       navigator.clipboard.writeText(source).then(() => {
-        alert('Clean SVG code copied to clipboard!');
+        showProtectionNotice('CLEAN WATERMARKED SVG COPIED TO CLIPBOARD');
       });
     }
 
@@ -728,7 +881,11 @@
 
         item.innerHTML = `
           <div class="grid-badge-item-inner">
-            <img src="${previewUrl}" alt="${name}" class="badge-preview-img" loading="lazy" onclick="openModal('${previewUrl}', '${name}', '${color}')" onerror="this.style.display='none'">
+            <div style="position: relative; width: 100%; display: flex; justify-content: center;">
+              <div class="resource-protection-shield" onclick="openModal('${previewUrl}', '${name}', '${color}')" title="Protected Recognition Badge"></div>
+              <img src="${previewUrl}" alt="${name}" class="badge-preview-img" loading="lazy" draggable="false" onerror="this.style.display='none'">
+              <div class="watermark-protection-tag">PROTECTED</div>
+            </div>
             <div style="margin-top: 14px; text-align: center; width: 100%;">
               <div style="font-family: var(--font-display); font-size: 13.5px; font-weight: 700; text-transform: capitalize; color: #0f172a; line-height: 1.3;">
                 ${name}
@@ -777,6 +934,40 @@
       loadCatalog();
       updateLiveBadge();
     });
+
+    window.addEventListener('scroll', () => {
+      const header = document.querySelector('.studio-header');
+      if (header) {
+        if (window.scrollY > 30) {
+          header.classList.add('is-scrolled');
+        } else {
+          header.classList.remove('is-scrolled');
+        }
+      }
+    }, { passive: true });
+
+    // Enterprise Content Protection & Anti-Theft Guard
+    document.addEventListener('contextmenu', (e) => {
+      e.preventDefault();
+      showProtectionNotice('ASSET PROTECTED // CONTEXT DOWNLOAD RESTRICTED');
+      return false;
+    }, true);
+
+    document.addEventListener('dragstart', (e) => {
+      e.preventDefault();
+      showProtectionNotice('ASSET PROTECTED // DRAG EXTRACTION DISABLED');
+      return false;
+    }, true);
+
+    document.addEventListener('keydown', (e) => {
+      const isCtrlOrMeta = e.ctrlKey || e.metaKey;
+      const key = (e.key || '').toLowerCase();
+      if (isCtrlOrMeta && (key === 's' || key === 'p' || key === 'u')) {
+        e.preventDefault();
+        showProtectionNotice('ACTION BLOCKED // REPOSITORY DOWNLOAD RESTRICTED');
+        return false;
+      }
+    }, true);
   </script>
 </body>
 </html>

@@ -1,0 +1,72 @@
+# ==============================================================================
+# CERTIFIER STUDIO STRICT AI & CRAWLER PROTECTION POLICY
+# ALL ASSETS, SPECIMENS, TEMPLATES, DESIGNS, JSON CATALOGS AND CODE PROTECTED
+# NO AI TRAINING // NO SCRAPING // NO BULK DOWNLOAD // PROPRIETARY IP
+# ==============================================================================
+
+# Strict Block for Commercial & Open Source AI Crawlers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+# Global Crawler Restrictions
+User-agent: *
+Disallow: /certificates/
+Disallow: /badges/
+Disallow: /transcripts/
+Disallow: /training_records/
+Disallow: /assessments/
+Disallow: /letters/
+Disallow: /catalogs/
+Disallow: /editor_specifications/
+Disallow: /elements/
+Disallow: /*.json$
+Disallow: /*.png$
+Disallow: /*.svg$

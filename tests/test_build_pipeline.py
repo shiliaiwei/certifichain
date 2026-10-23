@@ -37,8 +37,8 @@ class TestBuildPipeline(unittest.TestCase):
         self.assertIn("chamfer-14-wrapper", content)
         self.assertIn("cyber-search-group", content)
         self.assertIn("stepper-tabs", content)
-        self.assertIn("Space Grotesk", content)
-        self.assertIn("DM Sans", content)
+        self.assertIn("Google Sans", content)
+        self.assertIn("Google Sans Text", content)
         self.assertIn("#08090b", content)
 
         # Keyline SVG icons

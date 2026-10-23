@@ -5,6 +5,8 @@
   "description": "Shiliaiwei Certichain Studio — 2,328 Credential Templates",
   "homepage": "https://certchain.shiliaiwei.workers.dev",
   "scripts": {
+    "dev": "python3 -m http.server 8787 --bind 127.0.0.1",
+    "start": "python3 -m http.server 8787 --bind 127.0.0.1",
     "build": "python3 build_catalog_html.py || echo 'Build successful'",
     "deploy": "wrangler deploy"
   },
